@@ -1,0 +1,20 @@
+{
+  "name": "gostack_gobarber_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guicortei/gostack_gobarber_nodejs.git",
+  "author": "Guilherme Corrêa Teixeira <gui.cor.tei@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "dev:server": "ts-node-dev --transpile-only --ignore node_modules src/server.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
