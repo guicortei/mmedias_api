@@ -1,4 +1,5 @@
 import { compare } from 'bcryptjs';
+import { sign } from 'jsonwebtoken';
 import { getRepository } from 'typeorm';
 import User from '../models/User';
 
@@ -30,7 +31,12 @@ class CreateSessionService {
       throw new Error('Invalid email/password combination.');
     }
 
-    return { user: userFinded, token: 'here comes the token string' };
+    const token = sign({}, '97a708c92a318db8bf23fc0cef67e277', {
+      subject: userFinded.id,
+      expiresIn: '1d',
+    });
+
+    return { user: userFinded, token };
   }
 }
 
