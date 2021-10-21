@@ -18,6 +18,8 @@ usersRoutes.post('/', async (request, response) => {
       password,
     });
 
+    delete createdUser.password;
+
     return response.json(createdUser);
   } catch ({ message: errorMessage }) {
     return response.status(400).json({ error: errorMessage });
