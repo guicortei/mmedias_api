@@ -2,6 +2,7 @@ import { compare } from 'bcryptjs';
 import { sign } from 'jsonwebtoken';
 import { getRepository } from 'typeorm';
 import jwtConfig from '../config/jwtConfig';
+import AppError from '../errors/AppError';
 import User from '../models/User';
 
 interface Request {
@@ -23,13 +24,13 @@ class CreateSessionService {
     });
 
     if (!userFinded) {
-      throw new Error('Invalid email/password combination.');
+      throw new AppError('Invalid email/password combination.', 401);
     }
 
     const passwordMatched = await compare(password, userFinded.password);
 
     if (!passwordMatched) {
-      throw new Error('Invalid email/password combination.');
+      throw new AppError('Invalid email/password combination.', 401);
     }
 
     const { secret, expiresIn } = jwtConfig;
