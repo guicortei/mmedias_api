@@ -13,6 +13,7 @@ const mmediasRoutes = Router();
 
 mmediasRoutes.get('/lo', async (request, response) => {
   const { RA, password } = requestLoader(request);
+  console.log({ RA, password });
 
   const cookie = await logInAndObtainCookie(RA, password);
 
@@ -42,7 +43,7 @@ mmediasRoutes.get('/lo', async (request, response) => {
 
 mmediasRoutes.get('/pe', async (request, response) => {
   const { codigo, cookie } = requestLoader(request);
-
+  console.log({ codigo, cookie });
   const plano_ensino = await getPlanoEnsino(codigo, cookie);
 
   if (!plano_ensino) {
