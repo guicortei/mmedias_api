@@ -10,7 +10,7 @@
         "build": "tsc",
         "dev:server": "ts-node-dev --inspect --transpile-only --ignore node_modules src/server.ts",
         "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js",
-        "start": "node dist/index.js",
+        "start": "node dist/server.js",
         "postinstall": "tsc",
         "watch-node": "nodemon dist/index.js",
         "watch-ts": "tsc -w",
