@@ -10,18 +10,16 @@ import {
 
 const mmediasRoutes = Router();
 
-let cookieGlobal = '';
-
 mmediasRoutes.post('/', async (request, response) => {
   const { RA, password } = request.body;
 
-  cookieGlobal = await logInAndObtainCookie(RA, password);
+  const cookie = await logInAndObtainCookie(RA, password);
 
-  if (!cookieGlobal) {
+  if (!cookie) {
     throw new AppError('Não foi possível realizar login');
   }
 
-  const boletimHtml = await getBoletim(cookieGlobal);
+  const boletimHtml = await getBoletim(cookie);
 
   if (!boletimHtml) {
     throw new AppError('Não foi possível obter boletim');
@@ -36,14 +34,15 @@ mmediasRoutes.post('/', async (request, response) => {
   const disciplinasObject = JSON.parse(dados_usuario.disciplinas);
   delete dados_usuario.disciplinas;
   dados_usuario.disciplinas = disciplinasObject;
+  const dados_usuario_com_cookie = { cookie, ...dados_usuario };
 
-  return response.json(dados_usuario);
+  return response.json(dados_usuario_com_cookie);
 });
 
 mmediasRoutes.get('/', async (request, response) => {
-  const { codigo } = request.body;
+  const { codigo, cookie } = request.body;
 
-  const plano_ensino = await getPlanoEnsino(codigo, cookieGlobal);
+  const plano_ensino = await getPlanoEnsino(codigo, cookie);
 
   if (!plano_ensino) {
     throw new AppError('Não foi obter o plano de ensino');
