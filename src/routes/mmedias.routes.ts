@@ -11,7 +11,7 @@ import requestLoader from '../utils/requestLoader';
 
 const mmediasRoutes = Router();
 
-mmediasRoutes.post('/lo', async (request, response) => {
+mmediasRoutes.get('/lo', async (request, response) => {
   const { RA, password } = requestLoader(request);
 
   const cookie = await logInAndObtainCookie(RA, password);
@@ -40,7 +40,7 @@ mmediasRoutes.post('/lo', async (request, response) => {
   return response.json(dados_usuario_com_cookie);
 });
 
-mmediasRoutes.post('/pe', async (request, response) => {
+mmediasRoutes.get('/pe', async (request, response) => {
   const { codigo, cookie } = requestLoader(request);
 
   const plano_ensino = await getPlanoEnsino(codigo, cookie);
