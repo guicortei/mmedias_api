@@ -9,19 +9,19 @@ import AppError from './errors/AppError';
 
 const app = express();
 
-app.use(
-  cors({
-    origin: 'http://localhost:3000',
-  }),
-);
-
-app.use(
-  bodyParser.urlencoded({
-    extended: true,
-  }),
-);
+// app.use(
+//   cors({
+//     origin: 'http://localhost:3000',
+//   }),
+// );
 
 app.use(bodyParser.json());
+app.use(
+  bodyParser.urlencoded({
+    extended: false,
+  }),
+);
+
 app.use(routes);
 
 app.use((err: Error, request: Request, response: Response, _: NextFunction) => {
