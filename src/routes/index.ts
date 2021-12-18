@@ -1,12 +1,8 @@
 import { Router } from 'express';
-import appointmentsRoutes from './appointments.routes';
-import sessionRoutes from './sessions.routes';
-import usersRoutes from './users.routes';
+import mmediasRoutes from './mmedias.routes';
 
 const routes = Router();
 
-routes.use('/users', usersRoutes);
-routes.use('/sessions', sessionRoutes);
-routes.use('/appointments', appointmentsRoutes);
+routes.use('/mmedias', mmediasRoutes);
 
 export default routes;

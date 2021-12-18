@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="content-language" content="pt-br" />
+    <meta http-equiv="public" content="cache-control" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="cache-control" content="no-cache,must-revalidate" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>MAUAnet 2.0</title>
+    <script type="text/javascript"></script>
+    <!--Deixa esta linha aqui! É para corrigir bugs do IE7-->
+
+    <link href="/public/img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/public/css/horarios-docente.css?2" media="all" rel="stylesheet" type="text/css" />
+    <link href="/public/css/mauanet.2.0.css?3" media="all" rel="stylesheet" type="text/css" />
+    <link href="/public/jquery-ui-1.8.13.custom/css/redmond/jquery-ui-1.8.13.custom.css" media="all" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+    <!-- Google Tag Manager -->
+    <noscript>
+                <iframe src="//www.googletagmanager.com/ns.html?id=GTM-D2JK" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-D2JK');
+    </script>
+    <!-- End Google Tag Manager -->
+    <div id="geral">
+        <div id="topo">
+            <div id="logo-maua">
+                <a href="/"><img src="/public/img/mauanet.2.0/logo-maua.png" alt="" /></a>
+            </div>
+            <div id="user-dados">
+                <a href="/mauanet.2.0"><img src="/public/img/mauanet.2.0/logo-mauanet.jpg" alt="" width="358" height="55" /></a>
+                <p>
+                    <strong>PEDRO MASCARESE DE SOUZA - pmascarese@hotmail.com </strong><br /> RA:
+                    <strong>
+                                    19.00875-9                                </strong> | Celular:
+                    <strong>
+                                    (11) 97857-1363                                </strong><br /> | <a href="/mauanet.2.0/index/alterar-informacoes">Alterar Informações</a> |
+                    <!--                <a href="/mauanet.2.0/index/alterar-senha">Alterar Senha</a> |
+                <a href="/mauanet.2.0/index/alterar-email">Alterar Emails</a> |-->
+                    | <a href="/mauanet.2.0/index/sair">Sair</a> |
+                </p>
+            </div>
+        </div>
+
+        <div id="menu">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/index/links">Links</a></li>
+                <li><a href="/index/fale-conosco">Fale Conosco</a></li>
+            </ul>
+        </div>
+        <div id="conteudo" class="ui-widget ui-corner-all">
+            <div id="tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+                <ul class="ui-tabs-nav ui-helper-clearfix ui-widget-header ui-corner-all" style="margin-bottom:15px;">
+                    <li class="ui-state-default ui-corner-top"><a href="/mauanet.2.0" id="tab-35">Principal</a></li>
+                    <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="/mauanet.2.0/disciplinas" id="tab-33">Planos de Ensino das Disciplinas</a></li>
+                    <li class="ui-state-default ui-corner-top"><a href="/mauanet.2.0/horario-docentes" id="tab-846">Horário dos Docentes</a></li>
+                    <li class="ui-state-default ui-corner-top"><a href="/mauanet.2.0/boletim-escolar" id="tab-5">Boletim Escolar</a></li>
+                    <li class="ui-state-default ui-corner-top"><a href="/mauanet.2.0/boletos" id="tab-120">Boleto Bancário</a></li>
+                    <li class="ui-state-default ui-corner-top"><a href="/mauanet.2.0/cursos" id="tab-36">Cursos</a></li>
+                    <li class="ui-state-default ui-corner-top"><a href="/mauanet.2.0/arquivos-secretaria" id="tab-31">Secretaria - Arquivos</a></li>
+                    <li class="ui-state-default ui-corner-top"><a href="/mauanet.2.0/servicos-secretaria" id="tab-726">Serviços on-line</a></li>
+                </ul>
+                <form id="form_mauanet20_disciplinas_busca" enctype="application/x-www-form-urlencoded" action="/mauanet.2.0/disciplinas" class="estilo2 text-center" accept-charset="utf-8" method="post">
+                    <p><label for="q" class="optional">Código ou parte do nome da Disciplina:</label>
+
+                        <input type="text" name="q" id="q" value="" size="40" maxlength="40" />
+                        <input type="submit" value="Buscar" class="btn" id="q-btn-submit" /></p>
+                </form>
+                <p class="btn-list"><a href="/mauanet.2.0/disciplinas/arquivos">Ver Arquivos de Todas as Disciplinas</a></p>
+                <p>Exibindo informações somente da disciplina <strong>EMC103 - Mecânica das Estruturas</strong> [<a href="/mauanet.2.0/disciplinas">cancelar</a>]</p>
+                <div id="minhas-disciplinas">
+                    <div class="column">
+                        <div class="portlet ui-widget ui-widget-content ui-helper-clearfix ui-corner-all">
+                            <div class="portlet-header ui-widget-header ui-corner-all">EMC103 - Mecânica das Estruturas</div>
+                            <ul class="portlet-content">
+                                <li><a href="#" onclick="getDocentes('EMC103','1','','44677','null','2810');">Docentes e Horários de Aula</a></li>
+                                <li><a href="/mauanet.2.0/disciplinas/informacoes/id/2810">Informações</a></li>
+                                <!--<li><a href="/mauanet.2.0/disciplinas/arquivos/id/2810">Arquivos</a></li>-->
+                                <li><a href="/mauanet.2.0/disciplinas/contato-responsavel/id/2810">Contato com o Docente Responsável</a></li>
+                                <li><img src="/public/img/icones/extensoes/pdf.gif" alt="" /> <a href="/arquivos/plano-ensino/id/9027">PlanoEnsino_EMC103_2021.pdf</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="column"> </div>
+                </div>
+                <br class="clear" />
+                <div id="docentes"></div>
+                <div id="projeto_docentes"></div>
+
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="rodape">© Instituto Mauá de Tecnologia - 2021 - Todos os direitos reservados</div>
+
+    <script type="text/javascript" src="/public/js/jquery-1.5.2.min.js"></script>
+    <script type="text/javascript" src="/public/jquery-ui-1.8.13.custom/js/jquery-ui-1.8.13.custom.min.js"></script>
+    <script type="text/javascript" src="/public/js/comum.js?3"></script>
+
+    <script type="text/javascript" src="/public/js/mauanet.2.0-disciplinas.js?5"></script>
+    <div>
+        <!-- INÍCIO: BOX QUE APRESENTA O AVISO SOBRE O CONSENTIMENTO DE COOKIES-->
+        <link rel="stylesheet" href="https://maua.br/css/cookie.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js"></script>
+        <script>
+            window.addEventListener("load", function() {
+                window.cookieconsent.initialise({
+                    "palette": {
+                        "popup": {
+                            "background": "#004684"
+                        },
+                        "button": {
+                            "background": "#fff",
+                            "text": "#004684"
+                        }
+                    },
+                    "theme": "classic",
+                    "content": {
+                        "message": "O Instituto Mauá de Tecnologia – IMT utiliza cookies que são necessários ao funcionamento adequado de seu site. O IMT poderá utilizar cookies para tornar melhor a sua experiência em nosso site fornecer conteúdo mais relevante para você, por meio de nossos canais ou parceiros de comunicação, permitir a segurança de sua sessão, gerenciar sua visita, personalizar o site de acordo com as suas preferencias e coletar alguns dados de conexão e navegação. Para mais informações, acesse o nosso",
+                        "dismiss": "Prosseguir",
+                        "link": "Aviso Externo de Privacidade.",
+                        "href": "/conheca-maua/politica-privacidade"
+                    }
+                })
+            });
+        </script>
+        <!-- FIM: BOX QUE APRESENTA O AVISO SOBRE O CONSENTIMENTO DE COOKIES-->
+</body>
+
+</html>
