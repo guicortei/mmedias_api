@@ -5,10 +5,16 @@
     "repository": "https://github.com/guicortei/gostack_gobarber_nodejs.git",
     "author": "Guilherme Corrêa Teixeira <gui.cor.tei@gmail.com>",
     "license": "MIT",
+    "engines": { "node": "17.0.1" },
     "scripts": {
         "build": "tsc",
         "dev:server": "ts-node-dev --inspect --transpile-only --ignore node_modules src/server.ts",
-        "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
+        "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js",
+        "start": "node dist/index.js",
+        "postinstall": "tsc",
+        "watch-node": "nodemon dist/index.js",
+        "watch-ts": "tsc -w",
+        "deploy": "git add . && git commit -m Heroku && git push heroku master"
     },
     "devDependencies": {
         "@types/axios": "^0.14.0",
