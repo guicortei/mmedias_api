@@ -7,11 +7,12 @@ import {
   getPlanoEnsino,
   logInAndObtainCookie,
 } from '../utils/mmediasUtils';
+import requestLoader from '../utils/requestLoader';
 
 const mmediasRoutes = Router();
 
 mmediasRoutes.post('/', async (request, response) => {
-  const { RA, password } = request.body;
+  const { RA, password } = requestLoader(request);
 
   const cookie = await logInAndObtainCookie(RA, password);
 
@@ -40,7 +41,7 @@ mmediasRoutes.post('/', async (request, response) => {
 });
 
 mmediasRoutes.get('/', async (request, response) => {
-  const { codigo, cookie } = request.body;
+  const { codigo, cookie } = requestLoader(request);
 
   const plano_ensino = await getPlanoEnsino(codigo, cookie);
 

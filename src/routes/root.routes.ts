@@ -1,18 +1,15 @@
 import { Router } from 'express';
+import requestLoader from '../utils/requestLoader';
 
 const rootRoutes = Router();
 
 rootRoutes.get('/', async (request, response) => {
-  let req = request.body;
-  console.log(request.body);
-  console.log(request.query);
-  console.log(request.params);
-  // if (Object.keys(req).length === 0) {
-  //   req = request.body;
-  // }
+  let req = requestLoader(request);
+
   if (Object.keys(req).length === 0) {
     req = { vazio: 'estou' };
   }
+
   return response.json(req);
 });
 
