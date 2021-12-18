@@ -2,6 +2,7 @@ import 'reflect-metadata';
 import cors from 'cors';
 import express, { NextFunction, Request, Response } from 'express';
 import 'express-async-errors';
+import bodyParser from 'body-parser';
 
 import routes from './routes';
 import AppError from './errors/AppError';
@@ -13,7 +14,14 @@ app.use(
     origin: 'http://localhost:3000',
   }),
 );
-// app.use(express.json());
+
+app.use(
+  bodyParser.urlencoded({
+    extended: true,
+  }),
+);
+
+app.use(bodyParser.json());
 app.use(routes);
 
 app.use((err: Error, request: Request, response: Response, _: NextFunction) => {
