@@ -17,10 +17,16 @@ const app = express();
 
 app.use(cors());
 
-app.use(bodyParser.json());
+// app.use(bodyParser.json());
+// app.use(
+//   bodyParser.urlencoded({
+//     extended: false,
+//   }),
+// );
+
 app.use(
-  bodyParser.urlencoded({
-    extended: false,
+  express.json({
+    type: ['application/json', 'text/plain'],
   }),
 );
 
