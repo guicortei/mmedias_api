@@ -4,7 +4,6 @@ const rootRoutes = Router();
 
 rootRoutes.get('/', async (request, response) => {
   const req = request.body;
-  console.log(request);
   console.log(req);
   return response.json(req);
 });
