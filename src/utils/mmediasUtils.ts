@@ -310,7 +310,9 @@ export const getPlanoEnsino = async (
     'Carga horária semanal:',
   );
 
-  const blocoAvaliacao = fastMatch(text, 'AVALIAÇÃO', '--Page');
+  console.log(text);
+
+  const blocoAvaliacao = fastMatch(text, 'Pesos dos trabalhos:', '--Page');
 
   const aux = fastMatch(text, 'Disciplina:Código da Disciplina:', 'Course:');
 
@@ -328,12 +330,21 @@ export const getPlanoEnsino = async (
     });
   }
 
+  const peso_de_MP = blocoAvaliacao.match(
+    /(?<=Peso de MP\(kP\):\s)(.|\r|\n)*?(?=\s)/g,
+  );
+  const peso_de_MT = blocoAvaliacao.match(
+    /(?<=Peso de MT\(kT\):\s)(.|\r|\n)*?(?=\s)/g,
+  );
+
   const info = {
     codigo: codigoEncontrado,
     disciplina,
     periodicidade,
     carga_horaria,
     pesosTrabalhoTrim,
+    peso_de_MP,
+    peso_de_MT,
     pdfURL,
   };
 
