@@ -135,11 +135,11 @@ export const getBoletim = (cookie: string) => {
   });
 };
 
-export const getHtmlWithCookie = (path: string, cookie: string) => {
+export const getHtmlWithCookie = (pathStr: string, cookie: string) => {
   const options = {
     hostname: 'www2.maua.br',
     port: 443,
-    path,
+    path: pathStr,
     method: 'GET',
     headers: {
           'Cookie': cookie,// eslint-disable-line
@@ -243,7 +243,8 @@ export const logInAndObtainCookie = (RA: string, password: string) => {
   });
 };
 
-export const pdf2text = (file: fs.WriteStream) => {
+// export const pdf2text = (file: fs.WriteStream) => {
+export const pdf2text = filePath => {
   return new Promise<string>((resolve, reject) => {
     const pdfParser = new PDFParser(this, 1);
 
@@ -255,7 +256,7 @@ export const pdf2text = (file: fs.WriteStream) => {
         const text = pdfParser.getRawTextContent();
         resolve(text);
       })
-      .loadPDF(file.path);
+      .loadPDF(filePath);
   });
 };
 
@@ -271,9 +272,22 @@ export const fastMatch = (
   return text.match(regExpression)[0].trim();
 };
 
+export const howOld = async (filePath: string): Promise<number> => {
+  try {
+    const file = fs.statSync(filePath);
+    const mod_time = file.mtime;
+    const now = Date.now();
+    const interval = (now - mod_time.getTime()) / 1000;
+    return interval;
+  } catch (e) {
+    return -1;
+  }
+};
+
 export const getPlanoEnsino = async (
   codigo: string,
   cookie: string,
+  time_tolerance = 0,
 ): Promise<object> => {
   const searchRedirectPath = await getSearchRedirectURL(codigo, cookie);
   console.log('searchRedirectPath:', searchRedirectPath);
@@ -289,14 +303,34 @@ export const getPlanoEnsino = async (
   const pdfURL = `https://www2.maua.br/arquivos/plano-ensino/id/${plano_ensino_ID}`;
   console.log('pdfURL:', pdfURL);
 
-  const file = await getPdfFile(
-    pdfURL,
-    path.resolve('planos_de_ensino', `${codigo}.pdf`),
+  const filePath = path.resolve(
+    'planos_de_ensino',
+    `${codigo}_${plano_ensino_ID}.pdf`,
   );
-  console.log('-- pdf download ok');
 
-  const text = await pdf2text(file);
-  console.log('-- converted to text');
+  const fileSecsOld = await howOld(filePath);
+  console.log(`## fileSecsOld: ${fileSecsOld}`);
+
+  let need_new_file = false;
+
+  if (fileSecsOld === -1) {
+    console.log('## NÃO EXISTE, vou baixar...');
+    need_new_file = true;
+  }
+  if (fileSecsOld > time_tolerance) {
+    console.log('## ESTÁ VELHO, vou baixar...');
+    need_new_file = true;
+  }
+  if (need_new_file) {
+    const fileDownloaded = await getPdfFile(pdfURL, filePath);
+    console.log('## pdf download ok');
+    console.log(fileDownloaded.path);
+  } else {
+    console.log('## ESTÁ NOVO, não precisa baixar');
+  }
+
+  const text = await pdf2text(filePath);
+  console.log('## converted to text');
 
   const periodicidade = fastMatch(
     text,
@@ -310,7 +344,7 @@ export const getPlanoEnsino = async (
     'Carga horária semanal:',
   );
 
-  console.log(text);
+  // console.log(text);
 
   const blocoAvaliacao = fastMatch(text, 'Pesos dos trabalhos:', '--Page');
 
