@@ -1,0 +1,344 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Construção de Máquinas IEMC302
+Course:
+Machine Design
+Materia:
+Diseño de Máquinas
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica4Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Ed Claudio BordinassiTecnólogo em MecânicaDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Ed Claudio BordinassiTecnólogo em MecânicaDoutor
+Marcelo Otavio dos SantosEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 90%
+Mediada por tecnologia: 10%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Projeto de Máquinas. Fases de desenvolvimento de um Projeto de Engenharia. 
+Desenvolvimento do Projeto. Desenhos e Cálculos. O Projeto dos Componentes de
+Máquinas. Tolerâncias e Ajustes. Acabamentos Superficiais. Metodologia para
+Solução de Problemas de Componentes de Máquinas. Trabalho. Energia. Potência.
+Análise de Forças. Equilíbrio. Mancais. Principais tipos de Mancais de
+Rolamentos e Deslizamento. Dimensionamento. Elementos de Transmissão de
+Potência: Correias e Polias. Seleção de Correias. Dimensionamento.
+Dimensionamento de Elementos de Máquinas. Solicitações Típicas em Elementos de
+Máquinas. Critérios de Dimensionamento. Tensões Admissíveis. Concentrações de
+Tensões. Fadiga. Elementos Roscados. Uniões Desmontáveis. Parafusos e Porcas.
+Parafusos de Movimento. Rendimento. Dimensionamento. Elementos de Fixação.
+Molas. Classificação. Aplicação. Materiais. Dimensionamento.
+2021-EMC302página 1 de 11
+----------------Page (0) Break----------------
+SYLLABUS
+Machine design. Development stages of an Engineering Project. Project
+development. Drawings and sizing calculations. The design of machine
+components. Tolerances and adjustments. Surface finish. Methodology for
+troubleshooting.  Machine components. Work. Energy. Power. Analysis of forces.
+Balance. Bearings. Main types of bearings and sliding bearings. Sizing.
+Elements of power transmission: belts and pulleys. Selection and sizing of
+belts. Sizing Machines Elements. Typical applications for machine elements.
+Sizing criteria. Allowable stresses. Stress concentrations. Fatigue. Threaded
+elements. Non-permanent joints. Bolts and nuts. Screws movement. Yield. Sizing
+fasteners. Springs: application, materials and sizing.
+TEMARIO
+Diseño de máquinas. Fases del desarrollo de un Proyecto de Ingeniería.
+Desarrollo del proyecto. Dibujos (planes) y cálculos. El diseño de los
+componentes de las máquinas. Tolerancias y ajustes. Acabado superficial.
+Metodología para la solución de problemas en los componentes de las máquinas.
+Trabajo. Energía. Potencia. Análisis de las fuerzas. Equilibrio. Cojinetes y
+rodamientos. Tipos principales. Dimensionamiento. Elementos de transmisión de
+potencia: correas y poleas. Selección de correas. Dimensionamiento.
+Dimensionamiento de elementos de máquinas. Esfuerzos típicos en elementos de
+máquinas. Criterios de dimensionamiento. Tensiones admisibles. Concentración de
+tensiones. Fatiga. Uniones roscadas. Uniones desmontables. Tornillos y tuercas.
+Tornillos de movimiento. Rendimiento (eficiencia). Dimensionamiento.
+Componentes de fijación. Muelles. Clasificación. Aplicaciones. Materiales.
+Dimensionamiento.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Cálculo - Derivadas e Integrais. Física - Mecânica: Estática, Cinemática e
+Dinâmica do ponto Material e do Corpo Rígido. Desenho Técnico: Projeções.
+Cortes. Normas de desenho técnico.
+Elementos de Máquinas - Representações gráficas dos principais elementos de 
+máquinas. Elementos normalizados. Materiais de Construção - Propriedades
+mecânicas dos materiais. Principais tipos de materais metálicos. Aços carbono e
+aços liga. Especificações dos principais materiais usados em elementos de   
+máquinas.
+Resistência dos Materiais - Conceitos de tensões. Esforços Solicitantes. 
+Estado duplo de tensões. Critérios de Resistência.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1) Analisar e compreender os usuários das soluções de engenharia e seu
+contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadas;2) Conceber, projetar, analisar  e supervisionar a operação e a
+manutenção de sistemas, produtos e processos.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS
+C1- O projeto de máquinas no contexto e na metodologia do "Projeto de 
+2021-EMC302página 2 de 11
+----------------Page (1) Break----------------
+Engenharia".
+C2- O projeto dos componentes das máquinas e suas interações. Tolerâncias 
+dimensionais e geométricas, ajustes e acabamento superficial.
+C3- Mancais para eixos. Dimensionamento e seleção de mancais de rolamento e de 
+deslizamento. Disposição, lubrificação e vedação.
+C4- Elementos de transmissão de potência em máquinas: correias e polias. 
+C5- Dimensionamento de elementos de máquinas sujeitos a tensões variáveis.
+Fadiga e concentração de tensões. Ênfase em eixos. Dimensionamento à rigidez.
+C6- Elementos roscados. Roscas de transmissão de movimento e potência, 
+dimensionamento. Uniões desmontáveis utilizando parafusos de fixação e 
+complementos. Dimensionamento.
+C7- Elementos flexíveis, molas. Dimensionamento dos principais tipos.
+HABILIDADES
+H1- Identificar e formular o "problema" do projeto; traduzir em linguagem 
+técnica o que se pretende ao desenvolver o projeto.
+H2- Desenvolver o uso dos conceitos e dos métodos da física (mecânica), da 
+matemática, da geometria e do desenho na solução de problemas referentes a 
+mecanismos e componentes de máquinas.
+H3- Dominar as técnicas de representação gráfica de conjuntos mecânicos e das 
+suas partes, possibilitar a elaboração e a correta interpretação de desenhos 
+técnicos.
+H4- Desenvolver o uso dos conceitos e dos métodos da resistência dos materiais 
+nas atividades de dimensionamento de peças mecânicas.
+H5- Desenvolver o uso dos conceitos da ciência dos materiais na seleção e na 
+especificação de materiais e tratamentos para componentes de máquinas.
+ATITUDES
+A1- Valorizar o esforço pessoal como estratégia de aprendizado. Estimular a 
+criatividade e a inovação.
+A2- Ao desenvolver o projeto mecânico, colocar-se na posição do usuário 
+do "produto" quanto a segurança, facilidade operacional e manutenção.
+Considerar fatores econômicos como custos, recursos e outros.Considerar a
+preservação do meio ambiente, analisando impactos.Considerar aspectos éticos
+nas soluções.
+A3- Atuar com iniciativa, desenvolver a criatividade e procurar agir com 
+autonomia.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+2021-EMC302página 3 de 11
+----------------Page (2) Break----------------
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+- Aulas expositivas em lousa, com retroprojetor e com uso de modelos em 
+conjunto de peças ou elementos isolados.
+- Aulas práticas de exercícios com uso de manuais e planilhas.
+- Aulas de projeto com acompanhamento de professores, utilizando metodologia do
+"PBL";
+- Aula prática de oficinas em bancadas; montagem e desmontagem com 
+acompanhamento de técnico.
+- Acompanhamento dos projetos por professor fora do horário de aula.
+- Visitas técnicas.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 2,0  
+ Peso de MP(kP): 5,0          Peso de MT(kT): 5,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Construção de Máquinas contribui para a formação de engenheiros mecânicos com 
+os conhecimentos e as habilidades básicas necessárias para desenvolver 
+projetos  de máquinas e equipamentos mecânicos. Os projetos propostos,  de 
+natureza simples, são para realizar trabalhos de deslocamento de cargas, 
+transmissão mecânica de potência, acionamentos, transformação de movimentos, 
+alteração de velocidades, posicionamento linear e angular e outros de natureza 
+similar.
+BIBLIOGRAFIA
+Bibliografia Básica:
+JUVINALL, Robert C.; MARSHEK, Kurt M.FUNDAMENTALS OF MACHINE COMPONENT DESIGN. 
+New York : John Wiley, 2000 888p.
+NORTON, Robert L. PROJETO DE MÁQUINAS; UMA ABORDAGEM INTEGRADA. Porto Alegre,
+RS : Bookman, 2004. 931p.
+2021-EMC302página 4 de 11
+----------------Page (3) Break----------------
+SHIGLEY, Joseph Edward; MISCHKE, Charles R. MECHANICAL ENGINEERING DESIGN.
+Boston : McGraw-Hill, 2001. 1248p. McGraw-Hill Series in Mechanical Engineering
+Bibliografia Complementar:
+AGOSTINHO, Oswaldo Luiz; RODRIGUES, Antonio Carlos dos Santos; LIRANI, João.
+Tolerâncias, ajustes, desvios e análise de dimensões. São Paulo, SP:
+McGraw-Hill/EDUSP, 1997. 295 p.
+ASIMOW, Morris. INTRODUÇÃO AO PROJETO; FUNDAMENTOS DO PROJETO DE ENGENHARIA. 
+São Paulo, SP : Mestre Jou, 1968. 171p.
+NIEMANN, Gustav. Elementos de máquinas. Tradução de Carlos van Langendonck e
+Otto Alfredo Rehdei. São Paulo, SP: Edgard Blücher, 1971. v. 1.
+NIEMANN, Gustav. Elementos de máquinas. Tradução de Carlos van Langendonck e
+Otto Alfredo Rehder. São Paulo, SP: Edgard Blücher, 1971. v. 2.
+NIEMANN, Gustav. Elementos de máquinas. Tradução de Carlos van Langendonck e
+Otto Alfredo de Rehder. São Paulo, SP: Edgard Blücher, 1971. v. 3.
+SPOTTS, M. F.; SHOUP, T. E. DESIGN OF MACHINE ELEMENTS. New Jersey : Prentice
+Hall, 1998. 829p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+NX - Siemens
+Pacote Office
+Kisssoft
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+TRABALHOS:
+K1 - ANÁLISE DE UMA MÁQUINA NO LABORATÓRIO DE CONSTRUÇÃO DE MÁQUINAS.(Executado
+no 3° Bimestre)
+K2 - PROJETO DE MÁQUINA.(Executado ao longo do ano, com avaliação final após
+entrega)
+Para "K2" serão executados 2 Projetos:
+Projeto Rover - Projeto transdisciplinar da Eng. Mecânica;
+Projeto de Máquina a ser definido
+A média do projeto será multiplicada por um fator constituído por 4
+verificações feitas ao longo do ano. Este fator pode variar de 0,5 a 1,1.
+Em função do DECRETO Nº 64.881, DE 22 DE MARÇO DE 2020 e suas sucessivas
+prorrogações determinando Quarentena obrigatória no Estado de São Paulo, todas
+2021-EMC302página 5 de 11
+----------------Page (4) Break----------------
+as avaliações realizadas a partir daquela data e até que haja encerramento da
+Quarentena e autorização Estadual para retomada específica das aulas
+presenciais, serão realizadas via Plataforma de Ensino Mediado por Tecnologia.
+2021-EMC302página 6 de 11
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+Conforme previsto na resolução CEUN-CEPE-02.12.2008 os alunos que forem cursar
+esta disciplina em regime de dependência e tenham obtido anteriormente Média de
+Trabalhos igual ou superior a seis, serão dispensados das aulas de Projeto,
+ficando com a Média de Trabalhos igual à obtida no ano da reprovação.
+O cronograma apresentado aqui pode ser diferente para cada turma, dependendo do
+dia da aula na semana, uma versão mais detalhada está disponível no Moodle.
+O objeto de estudo para um dos Projetos desta disciplina será o "Rover".
+2021-EMC302página 7 de 11
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Ed Claudio Bordinassi
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC302página 8 de 11
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  3 TIntrodução à disciplina - Revisão de estática, DCL, DEI   1% a 10%
+  3 LExercícios de mecânica aplicada.   41% a 60%
+  4 TRevisão de estática, DCL, DEI   11% a 40%
+  4 LExercícios de mecânica aplicada.   41% a 60%
+  5 TTransmissão de porência - Correias e polias em "V" I   11% a 40%
+  5 LExercícios de mecânica aplicada.   41% a 60%
+  6 TTransmissão de porência - Correias e polias em "V" II   11% a 40%
+  6 LApresentação do projeto e entrega de croqui com a ideia inicial
+da máquina.
+   91% a
+100%
+  7 TTransmissão de potência - Correias e polias sincronizadoras   11% a 40%
+  7 LAcompanhamento do projeto para verificação.   91% a
+100%
+  8 TTransmissão de porência - Corrente de rolos   11% a 40%
+  8 LAcompanhamento do projeto para verificação.   91% a
+100%
+  9 TDimensionamento de eixos - Estático - Critérios de resistência I   11% a 40%
+  9 LVerificação 1 do projeto - Cálculos iniciais.   91% a
+100%
+ 10 TSEMANA DE PROVAS   0
+ 10 LSEMANA DE PROVAS   0
+ 11 TDimensionamento de eixos - Estático - Critérios de resistência II   11% a 40%
+ 11 LAcompanhamento do projeto para entrega.   91% a
+100%
+ 12 TDimensionamento de eixos - Fadiga I   11% a 40%
+ 12 LDiscutir a primeira entrega do Projeto novo - entrega de croqui.   61% a 90%
+ 13 TDimensionamento de eixos - Fadiga II   11% a 40%
+ 13 LTolerâncias e ajustes aplicado a rolamentos   41% a 60%
+ 14 TDimensionamento de eixos - Fadiga III   11% a 40%
+ 14 LMotores, redutores. Exercício de seleção.   41% a 60%
+ 15 TSMILE 2021   0
+ 15 LSMILE 2021   0
+ 16 TDimensionamento de eixos - Fadiga IV   11% a 40%
+ 16 LVerificação 2 do projeto.   91% a
+100%
+ 17 TMancais de deslizamento   11% a 40%
+ 17 LTrabalho em grupo de interpretação de desenho de conjunto.   91% a
+100%
+ 18 TMancais de rolamento I   11% a 40%
+ 18 LVerificação 3 do projeto.   91% a
+100%
+ 19 LSEMANA DE PROVAS   0
+ 19 TSEMANA DE PROVAS   0
+ 20 TSEMANA DE PROVAS   0
+ 20 LSEMANA DE PROVAS   0
+2021-EMC302página 9 de 11
+----------------Page (8) Break----------------
+ 21 LAtendimento aos alunos   0
+ 21 TAtendimento aos alunos   0
+ 22 LSEMANA DE PROVAS   0
+ 22 TSEMANA DE PROVAS   0
+ 23 TMancais de rolamento II   11% a 40%
+ 23 LApresentação do trabalho de laboratório de engenharia reversa.   61% a 90%
+ 24 TMancais de rolamento III   11% a 40%
+ 24 LDesenvolvimento do trabalho de engenharia reversa.   91% a
+100%
+ 25 TParafusos de movimento - Trapezoidal / ASME I   11% a 40%
+ 25 LDesenvolvimento do trabalho de engenharia reversa.   91% a
+100%
+ 26 TParafusos de movimento - Trapezoidal / ASME II   11% a 40%
+ 26 LDesenvolvimento do trabalho de engenharia reversa.   91% a
+100%
+ 27 TFERIADO   0
+ 27 LDesenvolvimento do trabalho de engenharia reversa.   91% a
+100%
+ 28 TParafusos de movimento - Fuso de esferas I   41% a 60%
+ 28 LDesenvolvimento do trabalho de engenharia reversa.   91% a
+100%
+ 29 TSEMANA DE PROVAS   0
+ 29 LSEMANA DE PROVAS   0
+ 30 TParafusos de movimento - Fuso de esferas II   41% a 60%
+ 30 LRetomada do Projeto de Máquina iniciado no 2° Bimestre,
+cronograma e dúvidas. Entrega de croqui
+   61% a 90%
+ 31 TTransmissão de movimento - guias lineares I   11% a 40%
+ 31 LCorreias, correntes e acoplamentos. Selecionar transmissão para o
+projeto.
+   41% a 60%
+ 32 TFERIADO   0
+ 32 LParafusos de fixação. Tipos. Especificação. Pré-carga com
+solicitação estática e dinâmica.
+   41% a 60%
+ 33 TTransmissão de movimento - guias lineares II   41% a 60%
+ 33 LExercício de parafusos de fixação.   61% a 90%
+ 34 TMola helicoidal - compressão   11% a 40%
+ 34 LVerificação 4 do Projeto   91% a
+100%
+ 35 TFERIADO   0
+ 35 LAcompanhamento do Projeto   91% a
+100%
+ 36 TMola helicoidal - Extensão e torção - Fadiga   11% a 40%
+ 36 LAcompanhamento do projeto   91% a
+100%
+ 37 LSemana de Provas   0
+ 37 TSemana de Provas   0
+ 38 TSemana de Provas   0
+ 38 LSemana de Provas   0
+ 39 LAtendimento a alunos   0
+2021-EMC302página 10 de 11
+----------------Page (9) Break----------------
+ 39 TAtendimento a alunos   0
+ 40 LAtendimento a alunos   0
+ 40 TAtendimento a alunos   0
+ 41 TSemana de provas   0
+ 41 LSemana de provas   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC302página 11 de 11
+----------------Page (10) Break----------------

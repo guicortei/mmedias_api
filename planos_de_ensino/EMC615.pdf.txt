@@ -1,0 +1,319 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Transferência de Calor IEMC615
+Course:
+Heat Transfer I
+Materia:
+Transmisión de Calor I
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica4Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marco Antonio Soares de PaivaEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Carlos Vinicius Xavier BessaEngenheiro MecânicoDoutor
+Marco Antonio Soares de PaivaEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 30%
+Mediada por tecnologia: 70%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+- Projeto: 10%
+EMENTA
+Introdução à Transferência de Calor. A transferência de calor e sua correlação
+com as questões ambientais. Condução de calor em regime estacionário. Aletas.
+Condução de calor com geração de energia térmica. Condução de calor em regime
+transiente. Breve conceituação de convecção. Radiação.Transferência de calor
+com mecanismos combinados de condução, convecção e radiação.
+SYLLABUS
+Basic concepts of heat transfer. Heat transfer and the environment. Steady heat
+conduction. Fins. Heat generation in solids. Transient heat transfer. Brief
+concepts of convection. Radiation heat transfer. Combined heat transfer by
+conduction, convection and radiation.
+2021-EMC615página 1 de 9
+----------------Page (0) Break----------------
+TEMARIO
+Introducción a la transmisión de calor. La transmisión de calor y lo ambiente.
+Conducción estacionaria. Aletas. Generación de calor en sólidos. Conducción de
+calor en régimen transitorio. Breve introducción a la convección. Radiación.
+Efecto combinado com conducción, convección y radiación.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Geometria e Visão Espacial
+- Física- Mecânica Geral
+- Cálculo Diferencial e Integral
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Analisar e compreender os usuários das soluções de engenharia e seu
+contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadas em projetos da área de energia e fluidos.2. Dominar o ciclo
+completo de investigação dos aspectos analítico, numérico e experimental de um
+mesmo fenômeno, aprendendo a conciliar as diferenças encontradas no
+conhecimento interdisciplinar coordenado entre as disciplinas da área de
+energia e fluidos e demais disciplinas do curso de Engenharia Mecânica.3.
+Analisar e compreender os fenômenos físicos e químicos por meio de modelos
+matemáticos, computacionais ou físicos, validados por experimentação. .4.
+Conceber, projetar, analisar  e supervisionar a operação e a manutenção de
+sistemas, produtos e processos..5. Comunicar-se eficientemente nas formas
+escrita, oral e gráfica..6. Trabalhar e liderar equipes multidisciplinares.7.
+Conceber modelos numéricos e simulações para predizer resultados de projetos
+inovadores e acelerar o ciclo de desenvolvimento.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Objetivos - Conhecimentos, Habilidades e Atitudes:
+Conhecimento:
+C1 - conceitos fundamentais;
+C2 - conhecimento dos mecanismos de transmissão de calor matéria e propriedades
+termofísica.
+Atitudes:
+A1 - desenvolver capacidade de compreensão de problemas;
+A2 - abstração para a formulação de modelos matemáticos;
+A3 - aplicação de leis gerais;
+A4 - análise do comportamento do modelo do processo ou do equipamento;
+A5 - organizar os procedimentos de solução de problemas. 
+Habilidades:
+H1 - desenvolver a capacidade do aluno de conceituar problemas e generalizar a
+aplicação dos conhecimentos;
+H2 - desenvolver a capacidade de observar a realidade e com o ferramental
+adquirido gerar modelos matemáticos dela representativos;
+H3 - avaliar desvios entre o comportamento simulado do modelo e a realidade.
+2021-EMC615página 2 de 9
+----------------Page (1) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas presenciais e remotas mediadas por tecnologia, acompanhadas
+de exercícios. Durante o curso será desenvolvido  com os alunos o projeto
+transdisciplinar da área de Energia e Fluidos, envolvendo as disciplinas
+Mecânica dos Fluidos e Termodinâmica. Como infra-estrutura para o
+desenvolvimento do curso, além das ferramentas tradicionais de ensino, são
+utilizados equipamento multimídia para projeção de material didático, o
+Laboratório de Termodinâmica e também o uso do software EES Enginnering
+Equation Solver. As atividades computacionais complementares são desenvolvidas
+em laboratório computacional dedicado ao curso.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 0,5  k2: 0,5  
+ Peso de MP(kP): 0,8          Peso de MT(kT): 0,2
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina propicia o conhecimento dos mecanismos de transferência de calor e
+também o entendimento de como a Termodinâmica e a Transferência de Calor estão
+relacionadas. Desenvolve a capacidade de modelagem matemática e simulação
+computacional de problemas. Propicia o desenvolvimento de procedimentos
+organizados para o desenvolvimento de modelagem matemática por meio da
+estrutura de raciocínio que deve caracterizar a atitude do engenheiro. As
+aplicações extrapolam o âmbito da própria disciplina.
+2021-EMC615página 3 de 9
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+COELHO, João Carlos Martins. Energia e Fluidos: Transferência de calor. :
+Blucher, 2016. v. 3. 287 p.  ISBN 9788521209492.
+INCROPERA, Frank P; DEWITT, David P. Fundamentos de transferência de calor e de
+massa. Trad. de Carlos Alberto Biolchini da Silva. 5. ed.  Rio de Janeiro, RJ:
+LTC, 2002. 698 p.  ISBN 85-216-1378-4.
+ÇENGEL, Yunus A. Transferência de calor e massa: uma abordagem prática. Trad.
+de Luiz Felipe mendes de Moura ; rev. téc. de Kamal A. R. Ismail. 3. ed. 
+Boston: McGraw-Hill, 2009. 902 p. (McGraw-Hill Series in Mechanical
+Engineering).  ISBN 9788577260751.
+Bibliografia Complementar:
+BRAGA FILHO, Washington. Transmissão de calor.  São Paulo, SP: Thomson
+Learning, 2004. 614 p.  ISBN 8522103747.
+MORAN, Michael J et al. Introdução à engenharia de sistemas térmicos:
+termodinâmica, mecânica dos fluidos e transferência de calor. Tradução de
+Carlos Alberto Biolchini da Silva.  Rio de Janeiro, RJ: LTC, 2005. 604 p.  ISBN
+8521614462.
+MUNSON, Bruce R; YOUNG, Donald F; OKIISHI, Theodore. Uma introdução concisa à
+mecânica dos fluidos. trad. da 2. ed. americana por Euryale de Jesus Zerbini. 
+São Paulo, SP: Edgard Blücher, 2005. 372 p.  ISBN 8521203608.
+Ozisik, M. Necati. Transferência de calor: um texto básico. [OLIVEIRA, Luiz
+de;MACEDO, Horácio].  Rio de Janeiro, RJ: Guanabara Koogan, 1990. 661 p.  ISBN
+852270160X.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Engineering Equation Solver (EES), disponível na escola.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Avaliação (conforme Resolução RN CEPE 07/2007):
+Baseada em: Provas e Trabalhos 
+Pesos dos trabalhos: 
+k1: 0,5 k2: 0,5
+Peso de MP(kP): 0,8 Peso de MT(kT): 0,2
+2021-EMC615página 4 de 9
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+Em função do DECRETO Nº 64.881, DE 22 DE MARÇO DE 2020 e suas sucessivas
+prorrogações determinando Quarentena obrigatória no Estado de São Paulo, todas
+as avaliações realizadas a partir daquela data e até que haja encerramento da
+Quarentena e autorização Estadual para retomada específica das aulas
+presenciais, serão realizadas via Plataforma de Ensino Mediado por Tecnologia.
+A nota da PS1 será determinada por uma atividade de avaliação realizada no
+horário de aula.
+2021-EMC615página 5 de 9
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marco Antonio Soares de Paiva
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC615página 6 de 9
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 ENão há aulas para alunos veteranos   61% a 90%
+  1 TNão há aulas para alunos veteranos   61% a 90%
+  2 TCapítulo 1 - Apresentação da disciplina. Importância e objetivos.
+A transferência de calor e o meio ambiente. Conceitos
+fundamentais.Taxa e fluxo de calor. Mecanismos de transferência
+de calor.
+   61% a 90%
+  2 ESemana de Carnaval   61% a 90%
+  3 TCapítulo 1 - Apresentação da disciplina. Importância e objetivos.
+A transferência de calor e o meio ambiente. Conceitos
+fundamentais.Taxa e fluxo de calor. Mecanismos de transferência
+de calor. (continuação)
+   61% a 90%
+  3 ECapítulo 1 - Exercícios.   61% a 90%
+  4 TCapítulo 1 - Apresentação da disciplina. Importância e objetivos.
+A transferência de calor e o meio ambiente. Conceitos
+fundamentais.Taxa e fluxo de calor. Mecanismos de transferência
+de calor. (continuação)
+   61% a 90%
+  4 EExercícios capítulo 1.   61% a 90%
+  5 TCapítulo 1 - Apresentação da disciplina. Importância e objetivos.
+A transferência de calor e o meio ambiente. Conceitos
+fundamentais.Taxa e fluxo de calor. Mecanismos de transferência
+de calor. (continuação)
+   61% a 90%
+  5 EExercícios capítulo 1.   61% a 90%
+  6 EExercícios capítulo 1.   61% a 90%
+  6 TCapítulo 1 - Apresentação da disciplina. Importância e objetivos.
+A transferência de calor e o meio ambiente. Conceitos
+fundamentais.Taxa e fluxo de calor. Mecanismos de transferência
+de calor. (continuação)
+   61% a 90%
+  7 EExercícios capítulo 2.   61% a 90%
+  7 TCapítulo 2 - Equação da condução de calor. Dedução da equação da
+condução unidimensional cartesiana.Condições de
+contorno.Apresentação das formas cilindrícas e
+esféricas.Exercícios.
+   61% a 90%
+  8 EExercícios capítulo 2.   61% a 90%
+  8 TCapítulo 2 - Equação da condução de calor. Dedução da equação da
+condução unidimensional cartesiana.Condições de
+contorno.Apresentação das formas cilindrícas e
+esféricas.Exercícios.
+   61% a 90%
+  9 EProva P1   61% a 90%
+  9 TProva P1   61% a 90%
+ 10 ECapítulo 10 - Exercícios   61% a 90%
+ 10 TCapítulo 10 - Radiação térmica. Introdução   61% a 90%
+ 11 ECapítulo 10 - Exercícios   61% a 90%
+ 11 TCapítulo 10 - Radiação térmica. Introdução   61% a 90%
+ 12 ECapítulo 10 - Exercícios   61% a 90%
+2021-EMC615página 7 de 9
+----------------Page (6) Break----------------
+ 12 TCapítulo 10 - Radiação térmica. Introdução   61% a 90%
+ 13 ECapítulo 10 - Exercícios   61% a 90%
+ 13 TCapítulo 10 - Radiação térmica. Fatores de forma. Equações para a
+troca de calor num invólucro com duas superfícies negras. Método
+das resistências. Circuito térmico. Exercícios
+   61% a 90%
+ 14 EExercícios capítulo 10.   61% a 90%
+ 14 TCapítulo 10 - Radiação térmica. Fatores de forma. Equações para a
+troca de calor num invólucro com duas superfícies negras. Método
+das resistências. Circuito térmico. Exercícios
+   61% a 90%
+ 15 EExercícios capítulo 10.   61% a 90%
+ 15 TCapítulo 10 - Invólucro com superfícies cinzentas. Exercícios   61% a 90%
+ 16 EExercicios capítulo 10.   61% a 90%
+ 16 TCapítulo 10 - Invólucro com superfícies cinzentas. Exercícios   61% a 90%
+ 17 EProva P2   61% a 90%
+ 17 TProva P2   61% a 90%
+ 18 EProva P2   61% a 90%
+ 18 TProva P2   61% a 90%
+ 19 EProva P2   61% a 90%
+ 19 TProva P2   61% a 90%
+ 20 ERevisão Prova P2   61% a 90%
+ 20 TRevisão Prova P2   61% a 90%
+ 21 TProva PS1   61% a 90%
+ 21 EProva PS1   61% a 90%
+ 22 EProva PS1   61% a 90%
+ 22 TProva PS1   61% a 90%
+ 23 ECapítulo 2 - Exercícios.   61% a 90%
+ 23 TCapítulo 2 - Condução com geração de energia térmica. Exercícios.   61% a 90%
+ 24 ECapítulo 2 - Exercícios.   61% a 90%
+ 24 TCapítulo 2 - Aletas   61% a 90%
+ 25 ECapítulo 2 - Exercícios.   61% a 90%
+ 25 TCapítulo 2 - Aletas   61% a 90%
+ 26 ECapítulo 4 - Exercícios   61% a 90%
+ 26 TCapítulo 4 - Condução de calor em regime transitório com
+resistência de condução desprezível.Aplicações e dedução da
+equacão.Número Biot e condição de aplicabilidade da equação.
+Exercícios.
+   61% a 90%
+ 27 ECapítulo 4 - Exercícios   61% a 90%
+ 27 TCapítulo 4 - Condução de calor em regime transitório com
+resistência de condução NÃO desprezível. Exercícios.
+   61% a 90%
+ 28 ECapítulo 4 - Exercícios   61% a 90%
+ 28 TCapítulo 4 - Condução de calor em regime transitório com
+resistência de condução NÃO desprezível. Exercícios.
+   61% a 90%
+ 29 EProva P3   61% a 90%
+ 29 TProva P3   61% a 90%
+ 30 ECapítulo 6. Exercícios.   61% a 90%
+ 30 TCapítulo 6. Convecção forçada sobre superfícies externas. Placa
+plana. Exercícios.
+   61% a 90%
+2021-EMC615página 8 de 9
+----------------Page (7) Break----------------
+ 31 ECapítulo 6. Exercícios.   61% a 90%
+ 31 TCapítulo 6. Convecção forçada sobre superfícies externas. Placa
+plana. Exercícios.
+   61% a 90%
+ 32 ECapítulo 6. Exercícios.   61% a 90%
+ 32 TCapítulo 6. Convecção forçada sobre superfícies externas.
+Escoamento ao redor de superfícies prismáticas. Exercícios.
+   61% a 90%
+ 33 ECapítulo 6. Exercícios.   61% a 90%
+ 33 TCapítulo 6. Convecção forçada sobre superfícies externas.
+Escoamento sobre feixe de tubos. Exercícios.
+   61% a 90%
+ 34 ECálculo de carga térmica de ambientes. Exercícios   61% a 90%
+ 34 TCálculo de carga térmica de ambientes. Teoria   61% a 90%
+ 35 EProblema de feixe de tubos   61% a 90%
+ 35 TProblema de feixe de tubos - teoria   61% a 90%
+ 36 ESeminário de problema de feixe de tubos.   61% a 90%
+ 36 TSeminário de problema de feixe de tubos.   61% a 90%
+ 37 EProva P4   61% a 90%
+ 37 TProva P4   61% a 90%
+ 38 EProva P4   61% a 90%
+ 38 TProva P4   61% a 90%
+ 39 ERevisão Prova P4   61% a 90%
+ 39 TRevisão Prova P4   61% a 90%
+ 40 EProva PS2   61% a 90%
+ 40 TProva PS2   61% a 90%
+ 41 EProva PS2   61% a 90%
+ 41 TProva PS2   61% a 90%
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC615página 9 de 9
+----------------Page (8) Break----------------

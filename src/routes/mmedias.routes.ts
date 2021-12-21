@@ -54,4 +54,27 @@ mmediasRoutes.get('/pe', async (request, response) => {
   return response.json(plano_ensino);
 });
 
+mmediasRoutes.get('/pes', async (request, response) => {
+  console.log('******* GET: plano de ensino');
+  const { codigos, cookie, time_tolerance } = requestLoader(request);
+
+  const planos_ensino = [];
+  const n = codigos.length;
+  for (let i = 0; i < n; i += 1) {
+    // eslint-disable-next-line no-await-in-loop
+    const plano_ensino = await getPlanoEnsino(
+      codigos[i],
+      cookie,
+      time_tolerance,
+    );
+    planos_ensino.push(plano_ensino);
+  }
+
+  if (planos_ensino.length === 0) {
+    throw new AppError('Não foi obter o plano de ensino');
+  }
+
+  return response.json(planos_ensino);
+});
+
 export default mmediasRoutes;

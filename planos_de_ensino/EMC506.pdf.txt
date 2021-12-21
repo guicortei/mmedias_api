@@ -1,0 +1,252 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Mecânica AnalíticaEMC506
+Course:
+Analytical Mechanics
+Materia:
+Mecánica Analítica
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 02 - 00 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica3Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Konstantinos Dimitriou StavropoulosEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Konstantinos Dimitriou StavropoulosEngenheiro MecânicoDoutor
+Renato Maia Matarazzo OrsinoEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 70%
+Mediada por tecnologia: 30%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Método de Lagrange. Conceitos fundamentais da Mecânica Analítica: graus de
+liberdade, coordenadas generalizadas, forças generalizadas. Principio dos
+Trabalhos Virtuais. Posições de equilíbrio de um sistema mecânico utilizando o
+Princípio dos Trabalhos Virtuais. Estabilidade do equilíbrio. Equações de
+Lagrange nas primeira e segunda formas. Aplicação das equações de Lagrange para
+problemas planos e problemas tridimensionais.
+Método de Newton. Três fases de uma análise dinâmica: a) obtenção das equações
+diferenciais do movimento; b) obtenção da lei horária do movimento; c) cálculo
+de esforços reativos externos e internos solicitantes. Dinâmica de mecanismos
+planos: biela-manivela e de quatro barras. Resistência ao rolamento. Mancal
+radial. Simulação da dinâmica longitudinal de veículo em computador.  Momentos
+e eixos principais de inércia de sólido tridimensional. Problema de auto-valor
+e auto-vetor. Equações de Newton-Euler. Dinâmica tridimensional de corpo rígido
+no movimento com eixo fixo. Balanceamento estático e dinâmico de rotores
+rígidos. Dinâmica de corpos rígidos no movimento geral. Utilização de
+computador para analises de sistemas mecânicos.
+2021-EMC506página 1 de 9
+----------------Page (0) Break----------------
+SYLLABUS
+Lagrange¿s method. Generalized coordinates and degrees of freedom. Principle of
+virtual work. Equilibrium. Potential Energy. Stability of Equilibrium. Lagrange
+equations. Application of Lagrange equations for plane and three-dimensional
+systems.
+Newton's method. Dynamic analysis of plane mechanisms. Dynamic internal forces
+and moments. Rolling resistance. Vehicle Dynamics, longitudinal movement.
+Computer simulation of vehicle performance. Principal moment of inertia of
+three-dimensional bodies. Dynamics of a rigid body with fixed axis. Balancing
+of rigid rotors. Dynamics of rigid bodies in general three-dimensional motion.
+TEMARIO
+Método de Lagrange. Coordenadas generalizadas y grados de libertad. Principio
+del trabajo virtual. Equilibrio. Energía potencial. Estabilidad del Equilibrio.
+Ecuaciones de Lagrange. Aplicación de las ecuaciones de Lagrange para sistemas
+tridimensionales y planos.
+Método de Newton. El análisis dinámico de mecanismos planos. Esfuerzos internos
+solicitantes dinámicas. Resistencia a la rodadura. La dinámica del vehículo, el
+movimiento longitudinal. Simulación por ordenador de movimiento del vehículo.
+Momentos principales de inercia de cuerpos tridimensionales. Dinámica del
+sólido rígido con eje fijo. Equilibrado de rotores rígidos. Dinámica de cuerpos
+rígidos en general el movimiento tridimensional
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Física I e II (parte dos conteúdos - Mecânica e Oscilações)
+Cálculo I e II
+Geometria Analítica e Vetores
+Mecânica Geral
+Métodos numéricos para integração de equações diferenciais.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Aprender a utilizar o MatLab/Octave.Modelagem de sistemas mecãnicos.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos
+C1: Obtenção das equações diferenciais do movimento de um sistema mecânico.
+C2: Solução numérica das EDM.
+C3: Cálculo dos esforços externos reativos e internos solicitantes.
+C4: Análise dinâmica de mecanismos planos.
+C5: Simulação no computador do desempenho de veículo
+C6: Balanceamento de rotores rígidos.
+C6: Momentos de inércia principais para corpo tridimensional.
+C7: Cinemática e dinâmica de corpos em movimento espacial. Giroscópios.
+C8: Princípio dos Trabalhos Virtuais para sistema de corpos rígidos.
+C9: Posições de equilíbrio e sua estabilidade.
+C10: Equações de Lagrange.
+2021-EMC506página 2 de 9
+----------------Page (1) Break----------------
+Habilidades
+H1: Trabalho em grupo.
+H2: Elaboração de relatório de engenharia.
+H3: Programação em MatLab.
+H4: Modelagem de sistemas mecânicos.
+Atitudes
+A1: Cultivar o raciocínio lógico.
+A2: Assimilar a importância do rigor conceitual.
+A3: Responsabilidade.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Project Based Learning
+- Exercícios feito pelos alunos
+METODOLOGIA DIDÁTICA
+Aulas expositivas
+Listas de exercícios
+Trabalhos em grupo
+Elaboração de relatórios dos trabalhos
+Utilização de vídeos para ilustrar o movimento de alguns sistemas mecânicos.
+Utilização do MatLab ou Octave para realização dos trabalhos
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  k4: 1,0  k5: 1,0  k6: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+2021-EMC506página 3 de 9
+----------------Page (2) Break----------------
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina pretende fornecer aos alunos os conhecimentos básicos sobre
+determinação das equações diferenciais do movimento de um sistema material
+utilizando as Equações de Lagrange, bem como sobre Estabilidade de uma
+configuração de equilíbrio de um sistema material, preparando-o para o
+posterior estudo de vibrações de sistemas mecânicos. Além disso, pretende
+capacitar o aluno para determinar esforços dinâmicos em sistemas mecânicos. A
+disciplina também contribui para o desenvolvimento da habilidade de modelar e
+analisar sistemas mecânicos formados por corpos rígidos.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BARUH, Haim. Analytical dynamics.  Boston: McGraw-Hill, 1999. 718 p.  ISBN
+0073659770.
+GINSBERG, Jerry H. Advanced engineering dynamics. 2. ed.  Cambridge: Cambridge
+University, 1998. 462 p.  ISBN 0-521-64604-9.
+MERIAM, James Lathrop; KRAIGE, L. Glenn. Mecânica. 5. ed.  Rio de Janeiro: LTC,
+2004. v. 1. 349 p.  ISBN 8521614020.
+MERIAM, James Lathrop; KRAIGE, L. Glenn. Mecânica. Trad. de Marcelo Amorim Savi
+e Pedro Manuel Calas Lopes Pacheco. 4. ed.  Rio de Janeiro: LTC, 1999. v. 1.
+360 p.  ISBN 8521611587.
+MERIAM, James Lathrop; KRAIGE, L. Glenn. Mecânica: Dinâmica. 5. ed.  Rio de
+Janeiro: LTC, c2004. v. 2. 496 p.  ISBN 8521614187.
+Bibliografia Complementar:
+BOGUS, Paulo Sérgio Colli. Dinâmica dos sistemas: vibrações.  São Caetano do
+Sul, SP: CEUN-EEM, 2000. 103 p.
+GANTMACHER, F. Lectures in analytical mechanics.  Moscow: Mir, 1970. 264 p.
+GOLDSTEIN, Herbert. Classical mechanics.  Massachusetts: Addison-Wesley, 1962.
+399 p.
+TARG, Semyon. Theoretical mechanics: a short course. Translated from the
+russian by V. Talmy.  Moscow: Foreign Languages, [s.d.]. 421 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+O software recomendado para a disciplina é o MatLab ou o Octave que são
+praticamente equivalentes.
+2021-EMC506página 4 de 9
+----------------Page (3) Break----------------
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Os alunos deverão executar quatro trabalhos em grupo e dois trabalhos
+individuais. Em todos os trabalho em grupo será utilizado o MatLab ou Octave.
+Os trabalhos individuais serão realizados no lugar das provas P1 e P3.
+Primeiro Trabalho - primeiro semestre - Integração numérica de equações
+diferenciais utilizando o MatLab ou Octave.
+Segundo Trabalho - primeiro semestre: Cálculo de esforços dinâmicos em
+mecanismos de máquinas em movimento plano. Envolverá a dedução da equação
+diferencial do movimento e sua integração numérica.
+Terceiro Trabalho - segundo semestre: Dinâmica de veículos. Envolverá 
+a simulação do desempenho de um veículo, cálculos de esforços durante a
+frenagem, estabilidade do veículo no movimento curvilíneo etc.
+Quarto Trabalho - segundo semestre: Dinâmica de mecanismos 
+tridimensionais. Envolverá a dedução da equação diferencial do movimento, sua
+integração numérica e o cálculo de esforços dinâmicos.
+Quando não for possível a prova presencial, será feita uma prova com consulta
+via Moodle, permitindo que o aluno envie foto e arquivo pdf da resolução
+escrita à mão, feita no mesmo horário para todos os alunos. Normalmente, haverá
+variações das questões para evitar que uma aluno passe sua resolução para
+outro.
+2021-EMC506página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC506página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Konstantinos Dimitriou Stavropoulos
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC506página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TNão há aula.   0
+  2 TNão há aula (segundas-feiras)   0
+  3 TApresentação. Introdução. Análise Dinâmica de Sistemas Mecânicos.   0
+  4 TIntrodução ao MatLab/Octave.   11% a 40%
+  5 TIntegração numérica de equações diferenciais utilizando o MatLab.   11% a 40%
+  6 TAnálise Dinâmica de Mecanismos Planos.   0
+  7 TMecanismo Biela-Manivela.   1% a 10%
+  8 TMecanismo de Quatro Barras   1% a 10%
+  9 TMecanismo de Quatro Barras   1% a 10%
+ 10 TProva P1.   0
+ 11 TPrincípio dos Trabalhos Virtuais (PTV). Posição de Equilibrio.   1% a 10%
+ 12 TPrincípio dos Trabalhos Virtuais (PTV). Posição de Equilibrio.   1% a 10%
+ 13 TEnergia Potencial e posição de equilíbrio e estabilidade. Lista
+3.
+   1% a 10%
+ 14 TEnergia Potencial e posição de equilíbrio e estabilidade. Lista
+3.
+   1% a 10%
+ 15 TLista 3./Resistência ao Rolamento. Resistência do Ar.   1% a 10%
+ 16 TDinâmica de Veículo. Relações de Transmissão.   1% a 10%
+ 17 TDinâmica de Veículo./ Momentos Principais de Inércia.   1% a 10%
+ 18 TMomentos Principais de Inércia.   1% a 10%
+ 19 TProvas P2.   0
+ 20 TProvas P2.   0
+ 21 TNão há aulas.   0
+ 22 TProvas PS1   0
+ 23 TDinâmica 3D Eixo fixo.   1% a 10%
+ 24 TDinâmica 3D Eixo fixo.   1% a 10%
+ 25 TBalanceamento Dinâmico   1% a 10%
+ 26 TDinâmica 3D Movimento Geral   1% a 10%
+ 27 TDinâmica 3D Movimento Geral   1% a 10%
+ 28 TDinâmica 3D Movimento Geral   1% a 10%
+ 29 TProvas P3   1% a 10%
+ 30 TEquações de Lagrange. Lista 1 e 2   1% a 10%
+ 31 TEquações de Lagrange. Lista 1 e 2   1% a 10%
+ 32 TEquações de Lagrange. Lista 1 e 2   1% a 10%
+ 33 TEquações de Lagrange. Lista 1 e 2   11% a 40%
+ 34 TEquações de Lagrange  3D. Lista extra   1% a 10%
+ 35 TEquações de Lagrange  3D. Lista extra   11% a 40%
+ 36 TEquações de Lagrange  3D. Lista extra   11% a 40%
+ 37 TNão há aulas.   0
+ 38 TProvas P4   0
+ 39 TProvas P4   0
+ 40 TExercícios   61% a 90%
+ 41 TNão há aulas.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC506página 8 de 9
+----------------Page (7) Break----------------
+2021-EMC506página 9 de 9
+----------------Page (8) Break----------------

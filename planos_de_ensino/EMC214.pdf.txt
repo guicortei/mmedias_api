@@ -1,0 +1,233 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Materiais de Construção Mecânica IIEMC214
+Course:
+Mechanical Construction Materials II
+Materia:
+Materiales de Construcción Mecánica II
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica3Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Guilherme Wolf LebraoEngenheiro MetalurgistaDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Guilherme Wolf LebraoEngenheiro MetalurgistaDoutor
+MODALIDADE DE ENSINO
+Presencial: 20%
+Mediada por tecnologia: 80%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Introdução a polímeros. Características físicas dos polímeros. Relação entre
+estrutura e propriedades mecânicas. Tipos de polímeros e elastômeros. Seleção
+de polímeros para aplicações tecnológicas. Propriedades dos polímeros fundidos
+e processamento. Injeção, extrusão e outros processos de moldagem. Degradação
+de polímeros. Aplicações de adesivos. Reciclagem de polímeros. Compósitos,
+matrizes poliméricas, reforços, fibras sintéticas e naturais. Projetos e
+processamento de compósitos. Cálculos básicos em compósitos. Laboratórios de
+identificação e caracterização de polímeros, síntese de polímeros, adesivos,
+preparação de compósitos e projetos.
+2021-EMC214página 1 de 8
+----------------Page (0) Break----------------
+SYLLABUS
+Introduction to polymers. Physical characteristics of polymers. Relationship
+between structure and mechanical properties. Types of polymers and elastomers.
+Selection of polymers for technological applications. Properties of molten
+polymers and processing. Injection, extrusion and other molding processes.
+Polymer degradation. Adhesive applications. Polymer recycling. Composites,
+polymeric matrix, reinforcements, synthetic and natural fibers. Projects and
+processing of composites. Basic calculations in composites. Laboratories for
+identification and characterization of polymers, synthesis of polymers,
+adhesives, preparation of composites and projects.
+TEMARIO
+Introducción a los polímeros. Características físicas de los polímeros.
+Relación entre estructura y propiedades mecánicas. Tipos de polímeros y
+elastómeros. Selección de polímeros para aplicaciones tecnológicas. Propiedades
+de polímeros fundidos y procesamiento. Inyección, extrusión y otros procesos de
+moldeo. Degradación de polímeros. Aplicaciones adhesivas. Reciclaje de
+polímeros. Compuestos, matrices poliméricas, refuerzos, fibras sintéticas y
+naturales. Proyectos y procesamiento de composites. Cálculos básicos en
+compuestos. Laboratorios de identificación y caracterización de polímeros,
+síntesis de polímeros, adhesivos, preparación de composites y proyectos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Conteúdos necessários:
+- habilidade de visualização espacial
+- noções de ligações químicas e estrutura atômica
+- noções básicas de tensão e deformação
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+           COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA NÃO PREENCHIDAS.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+(C1)Conhecer as características e aplicações dos principais materiais em 
+engenharia
+Habilidades: a aluno deverá ser capaz de :
+(H1) Estabelecer correlação entre propriedades mecânicas e microestrutura dos 
+materiais mais importantes em engenharia
+(H2) Discutir critérios de seleção de materiais 
+(H3) Integrar e ampliar conceitos, princípios e teorias de materiais
+Atitudes
+(A1) Desenvolver uma visão crítica sobre aplicação e seleção de materiais
+2021-EMC214página 2 de 8
+----------------Page (1) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositívas e com base nas metodologias ativas de sala de aula invertida,
+utilizando a aprendizagem baseada em problemas, aulas práticas de laboratório,
+exercícios, experimentação e instrução pelos colegas.
+Estratégias: aulas experimentais a partir de desafios e apresentação de
+situações problema; aulas expositivas dialogadas; atividades em grupo
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 3,0          Peso de MT(kT): 2,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Os conhecimentos adquiridos pelos alunos fazem parte da fundamentação teórica 
+básica de um engenheiro, sendo aplicados rotineiramente em sua vida 
+profissional. A premissa é que o engenheiro projetará, construirá ou ainda, 
+administrará a produção de componentes e que estes serão fabricadas com algum 
+material. Assim, a diciplina possibilitará ao aluno compreender a constituição 
+dos materiais de um ponto de vista mais amplo, envolvendo sua composição 
+química, seu processamento, sua microestrutura e as relações destas com as 
+propriedades físicas dos materiais.
+Ao final do curso os alunos devem ter desenvolvido uma visão crítica sobre 
+seleção e aplicação materiais, seja em aplicações diretas industriais, como 
+nas disciplinas subsequentes de projetos e construção de máquinas onde será 
+necessário a caracterizão dos materiais mais adequados para cada tipo de 
+aplicação em projetos industriais.
+2021-EMC214página 3 de 8
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+CALLISTER JR., William D. Ciência e engenharia de materiais: uma introdução.
+SOARES, Sérgio Murilo Stamile (trad.), d'ALMEIDA, José Roberto Moraes de
+(Rev.). 7. ed.  Rio de Janeiro, RJ: LTC, 2007. 705 p.  ISBN 9788521615958.
+MANO, Eloisa Biasotto. Polímeros como materiais de engenharia.  São Paulo, SP:
+Edgard Blücher, 1996. 197 p.
+SILVA, André Luiz da Costa e; MEI, Paulo Roberto. Aços e ligas especiais. 
+Sumaré, S.P: Eletrometal, 1988. 528 p.
+Bibliografia Complementar:
+ASHBY, Michael F; JONES, David R. H. Engenharia de materiais. Trad. da 3 ed.
+americana por Arlete Simille Marques.  Rio de Janeiro , RJ: Elsevier, 2007. v.
+1. 371 p.  ISBN 9788535223620.
+LEVY NETO, Flamínio; PARDINI, Luiz Claudio. Compósitos estruturais: ciência e
+tecnologia.  São Paulo, SP: Edgard Blücher, 2006. 313 p.  ISBN 8521203977.
+MANO, Eloisa Biasotto. Introdução a polímeros.  São Paulo, SP: Edgard Blücher,
+1988. 111 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+CES EduPack
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Os trabalhos serão compostos pela média dos relatórios e exercícios de cada
+semestre, realizados em aula. 
+A primeira prova deverá ser feita com recursos mediados por tecnologia, com o
+auxilio do Moodlerooms acompanhado pelo professor no Collaborate, durante tempo
+determinado no horário de aula.
+2021-EMC214página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC214página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Guilherme Wolf Lebrao
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC214página 6 de 8
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LSemana de aulas para 1a série   0
+  2 LIntrodução aos polímeros, mercado, consumo, revisão das
+estruturas e ligações.
+   0
+  3 LPropriedades I - Ligações químicas   1% a 10%
+  4 LPropriedades II - Físico-química dos polímeros   1% a 10%
+  5 LCaracterização de polímeros   91% a
+100%
+  6 LPropriedades III - Relação estrutura propriedades   1% a 10%
+  7 LSíntese polimérica   91% a
+100%
+  8 LSemana de provas P1   0
+  9 LSemana de provas P1   0
+ 10 LApresentação e avaliação de artigo técnico - Atividade em sala
+apresentação dos alunos
+   91% a
+100%
+ 11 LApresentação e avaliação de artigo técnico - Atividade em sala
+apresentação dos alunos
+   91% a
+100%
+ 12 LPolímeros de uso geral PP, PEBD, PEAD, PVC, PS, ABS, PMMA, PET e
+PVA. Propriedades para aplicação e seleção.
+   0
+ 13 LPolímeros de engenharia PA, POM, PTFE, PEUAMM, ARAMIDA, PEK,
+PEEK, PES, LCP e PETFE. Propriedades para aplicação e seleção.
+   0
+ 14 LEnsaio de tração, impacto e dureza.   91% a
+100%
+ 15 LSemana SMILE   0
+ 16 LProcessamento de Polímeros   1% a 10%
+ 17 LElastômeros   1% a 10%
+ 18 LAdesivos Compósitos introdução e propriedades.   41% a 60%
+ 19 LSemana de provas P2   0
+ 20 LSemana de provas P2   0
+ 21 LPlantão de dúvidas   0
+ 22 LSemana de Provas Psub 1   0
+ 23 LSemana de Provas Psub 1   0
+ 24 LMatriz - Resinas  termofixas   0
+ 25 LMoldagem em silicone e propriedades resinas   91% a
+100%
+ 26 LReforço: cargas, fibras sintéticas   0
+ 27 LFibras naturais   0
+ 28 LLaminação com fibras e estrutura sanduíche.   91% a
+100%
+ 29 LENADE - Atividade em sala valendo nota   91% a
+100%
+ 30 LSemana de Provas P3   0
+ 31 LEnsaio de Flexão   91% a
+100%
+2021-EMC214página 7 de 8
+----------------Page (6) Break----------------
+ 32 LProcessamento de Compósitos.   1% a 10%
+ 33 LReciclagem e degradação - Atividade em grupo   11% a 40%
+ 34 LCálculo de compósitos - Atividade em sala valendo nota   91% a
+100%
+ 35 LVacum Bag e Infusão   91% a
+100%
+ 36 LProjeto de compósitos II Projeto integrador ROVER   91% a
+100%
+ 37 LProjeto de compósitos I Projeto integrador ROVER   91% a
+100%
+ 38 LSemana de provas P4   0
+ 39 LSemana de provas P4   0
+ 40 LPlantão de dúvidas   0
+ 41 LSemana de provas Psubs   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC214página 8 de 8
+----------------Page (7) Break----------------

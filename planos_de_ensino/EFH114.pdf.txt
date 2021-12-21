@@ -1,0 +1,262 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Higiene e Segurança do TrabalhoEFH114
+Course:
+Hygiene and Work Safety
+Materia:
+Higiene e Seguridad en el Trabajo
+Periodicidade: SemestralCarga horária total: 40Carga horária semanal: 02 - 00 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Alimentos5Diurno
+Engenharia de Controle e Automação6Noturno
+Engenharia de Controle e Automação5Diurno
+Engenharia de Controle e Automação5Noturno
+Engenharia de Computação5Diurno
+Engenharia Eletrônica5Diurno
+Engenharia Eletrônica5Noturno
+Engenharia Elétrica5Noturno
+Engenharia Elétrica5Diurno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Noturno
+Engenharia de Produção5Diurno
+Engenharia de Produção6Noturno
+Engenharia de Produção5Noturno
+Engenharia Química5Noturno
+Engenharia Química5Diurno
+Engenharia Química5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Heloisa Augusto ZenEngenheiro QuímicoMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Heloisa Augusto ZenEngenheiro QuímicoMestre
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+2021-EFH114página 1 de 9
+----------------Page (0) Break----------------
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Prevenção; acidentes do trabalho; doenças do trabalho; noções de higiene do
+trabalho. Normas regulamentadoras de segurança e higiene do trabalho. Temas
+específicos:  
+ALIMENTOS: agentes biológicos: avaliação e medidas de controle; biossegurança;
+segurança em câmaras frias;   
+CONTROLE E AUTOMAÇÃO: radiações ionizantes e não ionizantes; projetos de
+proteção de máquinas;  
+ELÉTRICA / ELETRÔNICA:  radiações não ionizantes; periculosidade; segurança em
+eletricidade: baixa, média e alta tensão; instalações elétricas e a segurança
+contra incêndios.  
+MECÂNICA: vibrações ocupacionais: avaliação e medidas de controle; segurança em
+máquinas e equipamentos; segurança em caldeiras e vasos de pressão; segurança
+em soldagem;  
+PRODUÇÃO: segurança no transporte e movimentação, armazenagem e manuseio de
+materiais; segurança em Layout; gerenciamento de riscos; investigação de
+acidentes.  
+QUÍMICA: agentes químicos: avaliação e medidas de controle; segurança em
+laboratórios e no transporte de cargas perigosas; sinalização e rotulagem de
+segurança; HAZOP.
+SYLLABUS
+Prevention; Accidents at work; Diseases of work; Notions of occupational
+hygiene; Specific themes;  
+FOODS: biological agents: assessment and control measures; biosafety; security
+in cold rooms ;  
+AUTOMATION AND CONTROL: ionizing and non-ionizing radiation; dangerousness;  
+ELECTRICAL: low, medium and high voltage, electrical and fire safety.  
+MECHANICS: occupational vibration: evaluation and measures control; safety in
+machinery and equipment; safety in boilers and pressure vessels; safety in
+welding;  
+PRODUCTION: transportation safety and handling; warehousing and material
+handling; safety in layout; risk management; accident investigation.  
+2021-EFH114página 2 de 9
+----------------Page (1) Break----------------
+CHEMISTRY: chemical agents: assessment and control measures; safety in
+laboratories and transportation of hazardous materials; safety signage and
+labeling; Hazard and Operability Study - HAZOP.
+TEMARIO
+Prevención, accidentes en el trabajo, las enfermedades del trabajo; Nociones de
+higiene en el trabajo; temas específicos;  
+ALIMENTOS: agentes biológicos: medidas de evaluación y control; Bioseguridad
+Seguridad en frío;  
+AUTOMATIZACIÓN Y CONTROL: ionizante y no ionizante radiación; peligrosidad;
+seguridad  
+ELÉCTRICA: baja, media y alta tensión; seguridad eléctrica y contra incendios. 
+MECÁNICA: vibración ocupacional: evaluación y controle de medidas; la seguridad
+em maquinaria y equipo; la seguridad en las calderas y recipientes a presión;
+seguridad en la soldadura;  
+PRODUCCIÓN: seguridad en el transporte y la manipulación; almacenamiento y
+manipulación de materiales; diseño de la seguridad; la gestión de riesgos;
+investigación de accidentes.  
+QUÍMICA: agentes químicos: las medidas de evaluación y control; laboratórios y
+el transporte de materiales peligrosos; señalización de seguridad y el
+etiquetado; Estudiar Riesgos e Operabilidad - HAZOP.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+A matéria não exige conhecimentos anteriores por tratar-se de uma disciplina
+fundamental à formação do engenheiro.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecer sobre princípios de prevenção e segurança no trabalho, observando as
+normas de proteção da vida humana e do ambiente; Atuar em equipes
+multidisciplinares;  Compreender e aplicar a ética e responsabilidades
+profissionais; Ter espírito de liderança e capacidade para inserir-se no
+trabalho em equipe;  Ter postura ética e consciência crítica para as questões
+sociais e ambientais; Ter consciência de seu papel como agente transformador da
+sociedade; Ter compromisso com a segurança no trabalho e com a segurança do
+público em geral; Saber tomar decisões e implementá-las; Ter consciência da
+necessidade de atualizar-se permanentemente.
+2021-EFH114página 3 de 9
+----------------Page (2) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Não
+METODOLOGIA DIDÁTICA
+Aulas teóricas expositivas e mediada por tecnologia; vídeos ilustrativos.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos e provas (uma e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Preparar o aluno para a utilização dos principais conceitos relacionados à
+Higiene e à Segurança do Trabalho, bem como assimilar as metodologias
+prevencionistas específicas aplicáveis ao exercício da profissão do engenheiro.
+BIBLIOGRAFIA
+Bibliografia Básica:
+MATTOS, Ubirajara Aluizio de Oliveira (Org.); MÁSCULO, Francisco Soares (Org.).
+HIGIENE e segurança do trabalho.  Rio de Janeiro, RJ: Elsevier / ABEPRO, 2011.
+419 p.  ISBN 9788535235203.
+PACHECO JR., Waldemar. Qualidade na segurança e higiene do trabalho: série SHT
+9000, normas para a gestão e garantia da segurança e higiene do trabalho.  São
+Paulo, SP: Atlas, 1995. 118 p.  ISBN 8522412367.
+SALIBA, Tuffi Messias et al. Higiene do trabalho e programa de prevenção de
+riscos ambientais (PPRA). 2. ed.  São Paulo, SP: LTr, 1998. 254 p.  ISBN
+85-7322-532-7.
+Bibliografia Complementar:
+BRASIL. Leis, decretos, etc. Segurança e medicina do trabalho: Lei nº 6.514, de
+22 de dezembro de 1977, normas regulamentadoras (NR) aprovadas pela Portaria nº
+3.214, de 8 de junho de 1978,. 45. ed.  São Paulo, SP: Atlas, 2000. 644 p.
+(Manuais de Legislação Atlas).  ISBN 85-224-2481-0.
+2021-EFH114página 4 de 9
+----------------Page (3) Break----------------
+BREVIGLIERO, Ezio; POSSEBON, José; SPINELLI, Robson. Higiene ocupacional:
+agentes biológicos, químicos e físicos. 6. ed.  São Paulo, SP: SENAC São Paulo,
+2011. 452 p.  ISBN 9788573599077.
+GOMES, Ary Gonçalves. Sistemas de prevenção contra incêndios: sistemas
+hidráulicos, sistemas sob comando, rede de hidrantes e sistema automático.  Rio
+de Janeiro, RJ: Interciência, 1998. 220 p.  ISBN 85-7193-009-0.
+LOPES, Ellen Almeida; ANVISA. Guia para elaboração dos procedimentos
+operacionais padronizados: exigidos pela RDC nº275 da ANVISA.  São Paulo, SP:
+Varela, 2004. 236 p. (Série Food Design).  ISBN 8585519770.
+SEITO, Alexandre Itiu (Coord.). A SEGURANÇA contra incêndio no Brasil.  São
+Paulo, SP: Projeto, 2008. 457 p.  ISBN 9788561295004.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A disciplina é semestral, com uma prova regimental mais a prova substitutiva,
+seguindo o calendário escolar. Além disso, haverá um trabalho ao longo do
+semestre.
+Nas provas será avaliada a gramática e a ortografia com relação à língua
+portuguesa, e haverá o desconto de até 1,0 (um ponto) com relação aos erros
+gramaticais e ortográficos.
+2021-EFH114página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EFH114página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Heloisa Augusto Zen
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) RICARDO BALISTIERO
+ Coordenador(a) das Disciplinas Humanísticas
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EFH114página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo
+  2 TApresentação do Plano do Curso; Sistema de Avaliação de Notas; Prevençãode
+Acidentes:Histórico e EvoluçãoAcidentes de Trabalho: Conceitos, Efeitos e
+Implicações
+  3 TBenefícios e Serviços Previdenciários relacionados aos Acidentes eDoenças do
+Trabalho
+  4 TBenefícios e Serviços Previdenciários relacionados aos Acidentes eDoenças do
+Trabalho
+  5 TBenefícios e Serviços Previdenciários relacionados aos Acidentes eDoenças do
+Trabalho
+  6 TClassificação dos Acidentes de Trabalho
+  7 TDoenças do Trabalho;
+  8 TTrabalho Compatível; CAT - Comunicação de Acidentes de TrabalhoNovo FAP - Fator
+Acidentário de Prevenção; NTEP -Nexo Técnico Epidemiológico Previdenciário
+  9 TResponsabilidade Civil e Criminal nos Acidentes de Trabalho
+ 10 TSemana de Provas
+ 11 THigiene do Trabalho - Agentes Específicos para cada Habilitação em Engenharia
+ 12 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+ 13 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+ 14 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+ 15 TSemana de Inovação - SMILE
+ 16 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+ 17 TSemana de Provas
+ 18 TSemana de Provas
+ 19 TSemana de Provas
+ 21 TSemana de Provas
+ 22 TSemana de Provas
+ 23 TApresentação do Plano do Curso; Sistema de Avaliação de Notas; Prevençãode
+Acidentes:Histórico e EvoluçãoAcidentes de Trabalho: Conceitos, Efeitos e
+Implicações
+ 24 TBenefícios e Serviços Previdenciários relacionados aos Acidentes eDoenças do
+Trabalho
+ 25 TBenefícios e Serviços Previdenciários relacionados aos Acidentes eDoenças do
+Trabalho
+ 26 TBenefícios e Serviços Previdenciários relacionados aos Acidentes eDoenças do
+Trabalho
+ 27 TClassificação dos Acidentes de Trabalho
+ 28 TDoenças do Trabalho;
+ 29 TSemana de Provas
+ 30 TTrabalho Compatível; CAT - Comunicação de Acidentes de TrabalhoNovo FAP - Fator
+Acidentário de Prevenção; NTEP -Nexo Técnico Epidemiológico Previdenciário
+ 31 TResponsabilidade Civil e Criminal nos Acidentes de Trabalho
+ 32 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+ 33 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+ 34 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+2021-EFH114página 8 de 9
+----------------Page (7) Break----------------
+ 35 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+ 36 THigiene do Trabalho - Agentes Específicos para cada Habilitação emEngenharia
+ 37 TSemana de Provas
+ 38 TSemana de Provas
+ 40 TSemana de Provas
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EFH114página 9 de 9
+----------------Page (8) Break----------------

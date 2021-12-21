@@ -93,6 +93,13 @@ export const boletim2JSON = (html: string) => {
   const disciplinasJSON = JSON.stringify(disciplinas);
   // let disciplinas = [];
 
+  const nCRs = html.match(/boletim-escolar\/index\/c/g).length;
+
+  const lastCR = q
+    .querySelector(`a[href='/mauanet.2.0/boletim-escolar/index/c/1']`)
+    .parentElement.parentElement.querySelector('td:last-child')
+    .textContent.trim();
+
   return {
     RA,
     name,
@@ -105,6 +112,8 @@ export const boletim2JSON = (html: string) => {
     periodo,
     exercicio,
     disciplinas: disciplinasJSON,
+    nCRs,
+    lastCR,
   };
 };
 
@@ -288,99 +297,105 @@ export const getPlanoEnsino = async (
   codigo: string,
   cookie: string,
   time_tolerance = 0,
+  skip_if_error = false,
 ): Promise<object> => {
-  const searchRedirectPath = await getSearchRedirectURL(codigo, cookie);
-  console.log('searchRedirectPath:', searchRedirectPath);
+  try {
+    const filePath = path.resolve('planos_de_ensino', `${codigo}.pdf`);
 
-  const searchHTML = await getHtmlWithCookie(searchRedirectPath, cookie);
+    const fileSecsOld = await howOld(filePath);
+    console.log(`## fileSecsOld: ${fileSecsOld}`);
 
-  const plano_ensino_ID = fastMatch(
-    searchHTML,
-    '/arquivos/plano-ensino/id/',
-    '"',
-  );
+    let need_new_file = false;
 
-  const pdfURL = `https://www2.maua.br/arquivos/plano-ensino/id/${plano_ensino_ID}`;
-  console.log('pdfURL:', pdfURL);
+    if (fileSecsOld === -1) {
+      console.log('## NÃO EXISTE, vou baixar...');
+      need_new_file = true;
+    }
+    if (fileSecsOld > time_tolerance) {
+      console.log('## ESTÁ VELHO, vou baixar...');
+      need_new_file = true;
+    }
+    if (need_new_file) {
+      const searchRedirectPath = await getSearchRedirectURL(codigo, cookie);
+      console.log('searchRedirectPath:', searchRedirectPath);
 
-  const filePath = path.resolve(
-    'planos_de_ensino',
-    `${codigo}_${plano_ensino_ID}.pdf`,
-  );
+      const searchHTML = await getHtmlWithCookie(searchRedirectPath, cookie);
 
-  const fileSecsOld = await howOld(filePath);
-  console.log(`## fileSecsOld: ${fileSecsOld}`);
+      const plano_ensino_ID = fastMatch(
+        searchHTML,
+        '/arquivos/plano-ensino/id/',
+        '"',
+      );
 
-  let need_new_file = false;
+      const pdfURL = `https://www2.maua.br/arquivos/plano-ensino/id/${plano_ensino_ID}`;
+      console.log('pdfURL:', pdfURL);
 
-  if (fileSecsOld === -1) {
-    console.log('## NÃO EXISTE, vou baixar...');
-    need_new_file = true;
+      const fileDownloaded = await getPdfFile(pdfURL, filePath);
+      console.log('## pdf download ok');
+      console.log(fileDownloaded.path);
+
+      const text = await pdf2text(filePath);
+      console.log('## converted to text');
+      fs.writeFileSync(`${filePath}.txt`, text);
+    } else {
+      console.log('## ESTÁ NOVO, não precisa baixar');
+    }
+
+    const text = fs.readFileSync(`${filePath}.txt`).toString();
+    // console.log(text);
+
+    const periodicidade = fastMatch(
+      text,
+      'Periodicidade:',
+      'Carga horária total:',
+    );
+
+    const carga_horaria = fastMatch(
+      text,
+      'Carga horária total:',
+      'Carga horária semanal:',
+    );
+
+    // console.log(text);
+
+    const blocoAvaliacao = fastMatch(text, 'Pesos dos trabalhos:', '--Page');
+
+    const aux = fastMatch(text, 'Disciplina:Código da Disciplina:', 'Course:');
+
+    const disciplina = aux.slice(0, -6);
+
+    const codigoEncontrado = aux.slice(-6);
+
+    const pesosTrabalho = blocoAvaliacao.match(/(?<=k[1-9]:)(.*?)(?=k|\n|\r)/g);
+
+    const pesosTrabalhoTrim: string[] = [];
+
+    if (pesosTrabalho) {
+      pesosTrabalho.forEach(str => {
+        pesosTrabalhoTrim.push(str.trim());
+      });
+    }
+
+    const peso_de_MP = blocoAvaliacao.match(
+      /(?<=Peso de MP\(kP\):\s)(.|\r|\n)*?(?=\s)/g,
+    );
+    const peso_de_MT = blocoAvaliacao.match(
+      /(?<=Peso de MT\(kT\):\s)(.|\r|\n)*?(?=\s)/g,
+    );
+
+    const info = {
+      codigo: codigoEncontrado,
+      disciplina,
+      periodicidade,
+      carga_horaria,
+      pesosTrabalhoTrim,
+      peso_de_MP,
+      peso_de_MT,
+      // pdfURL,
+    };
+
+    return info;
+  } catch (e) {
+    return { codigo, error: 'error' };
   }
-  if (fileSecsOld > time_tolerance) {
-    console.log('## ESTÁ VELHO, vou baixar...');
-    need_new_file = true;
-  }
-  if (need_new_file) {
-    const fileDownloaded = await getPdfFile(pdfURL, filePath);
-    console.log('## pdf download ok');
-    console.log(fileDownloaded.path);
-  } else {
-    console.log('## ESTÁ NOVO, não precisa baixar');
-  }
-
-  const text = await pdf2text(filePath);
-  console.log('## converted to text');
-
-  const periodicidade = fastMatch(
-    text,
-    'Periodicidade:',
-    'Carga horária total:',
-  );
-
-  const carga_horaria = fastMatch(
-    text,
-    'Carga horária total:',
-    'Carga horária semanal:',
-  );
-
-  // console.log(text);
-
-  const blocoAvaliacao = fastMatch(text, 'Pesos dos trabalhos:', '--Page');
-
-  const aux = fastMatch(text, 'Disciplina:Código da Disciplina:', 'Course:');
-
-  const disciplina = aux.slice(0, -6);
-
-  const codigoEncontrado = aux.slice(-6);
-
-  const pesosTrabalho = blocoAvaliacao.match(/(?<=k[1-9]:)(.*?)(?=k|\n|\r)/g);
-
-  const pesosTrabalhoTrim: string[] = [];
-
-  if (pesosTrabalho) {
-    pesosTrabalho.forEach(str => {
-      pesosTrabalhoTrim.push(str.trim());
-    });
-  }
-
-  const peso_de_MP = blocoAvaliacao.match(
-    /(?<=Peso de MP\(kP\):\s)(.|\r|\n)*?(?=\s)/g,
-  );
-  const peso_de_MT = blocoAvaliacao.match(
-    /(?<=Peso de MT\(kT\):\s)(.|\r|\n)*?(?=\s)/g,
-  );
-
-  const info = {
-    codigo: codigoEncontrado,
-    disciplina,
-    periodicidade,
-    carga_horaria,
-    pesosTrabalhoTrim,
-    peso_de_MP,
-    peso_de_MT,
-    pdfURL,
-  };
-
-  return info;
 };

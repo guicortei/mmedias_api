@@ -1,0 +1,359 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Resistência dos MateriaisETM101
+Course:
+Strength  of Materials
+Materia:
+Resistencia de Materiales
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 02 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica2Diurno
+Engenharia Mecânica2Noturno
+Engenharia Mecânica2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marcelo Otavio dos SantosEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Konstantinos Dimitriou StavropoulosEngenheiro MecânicoDoutor
+Marcelo Otavio dos SantosEngenheiro MecânicoDoutor
+Renato Maia Matarazzo OrsinoEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 80%
+Mediada por tecnologia: 20%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Estática aplicada à Resistência dos Materiais. Características geométricas das
+figuras planas. Esforços internos solicitantes. Diagramas de estado. Treliças e
+Pórticos. Tensão normal e de cisalhamento. Tração e compressão simples.
+Deformações térmicas. Cisalhamento puro. Torção em barras de seção circular e
+não-circular. Flexão normal e oblíqua, simples e composta. Deformações na
+flexão. Tensões de cisalhamento na flexão. Solicitações combinadas. Estado
+duplo de tensões. Critérios de resistência. Flambagem. Laboratório de Análise
+Experimental de Estruturas. Projeto Transdisciplinar: abordagem prática de
+conceitos de tensões, deformações e estabilidade estrutural.
+2021-ETM101página 1 de 10
+----------------Page (0) Break----------------
+SYLLABUS
+Static applied to the Strength of Materials. Geometric features of plane
+figures. Internal forces and moments Diagrams. Trusses. Normal and shear
+stress. Simple traction and compression. Thermal deformation. Pure shear.
+Torsion of bars with circular and non-circular cross section. Stresses in
+symmetrical and unsymmetrical bending. Bending deformation of straight beams of
+constant and variable cross section. Shear stresses in bending. Combined
+loadings. Stress transformation. Criteria of resistance. Buckling of columns.
+Laboratory of Experimental Analysis of Structures. Transdisciplinary project:
+practical approach of concepts of tensions, deformations and structural
+stability.
+TEMARIO
+Estática aplicada a la Resistencia de los Materiales. Características
+geométricas de las figuras planas. Diagramas de momentos y fuerzas internas.
+Treliças y Pórticos. Tensión normal y de cizalla. Tracción y compresión simple.
+Deformaciones térmicas. Cizallamiento puro. Torsión en barras de sección
+circular y no circular. Flexión simétrica y asimétrica. Desplazamiento en vigas
+rectas de sección constante y variable. Tensiones de cizalla en la flexión.
+Esfuerzos combinados. Estado de esfuerzo. Criterios de resistencia. Pandeo en
+columnas. Laboratorio de Análisis Experimental de Estructuras. Proyecto
+Transdisciplinario: enfoque práctico de conceptos de tensiones, deformaciones y
+estabilidad estructural.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Física e Mecânica:
+ - Estática (sistema de esforços equivalentes, polígonos de forças, equações 
+de equilíbrio no plano e no espaço, cálculo de reações de apoio, equilíbrio em 
+corpos formados por vários componentes, cálculo de propriedades de figuras
+planas.
+Cálculo:
+ - Gráficos de funções. Integrais elementares. Conceito de equações 
+diferenciais e condições de contorno.
+Desenho:
+ - Desenho esquemático de componentes. Perspectivas elementares.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Analisar e compreender os usuários das soluções de engenharia estrutural e
+seu contexto, para formular os requerimentos de engenharia e conceber soluções
+técnicas, econômicas e criativas apropriadas.2. Compreender e aplicar a ética e
+responsabilidade profissionais e avaliar o impacto das atividades da engenharia
+de estruturas no contexto social e ambiental.
+2021-ETM101página 2 de 10
+----------------Page (1) Break----------------
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos
+C1 - Reconhecer o equilíbrio dos esforços externos nas estruturas.(Estática).
+C2 - Traçar os diagramas de esforços internos solicitantes.
+C3 - Identificar as tensões e deformações provocadas pelos esforços
+solicitantes.
+C4 - Combinar as tensões normais e de cisalhamento devidas aos diversos
+esforços. (Estado duplo de tensões).
+C5 - Interpretar a instabilidade estrutural devida à compressão (Flambagem de
+barras).
+C6 - Inferir sobre a segurança de elementos estruturais. (Coeficiente de
+segurança).
+Habilidades:
+H1 - Elaborar modelos de cálculo para problemas estruturais elementares.
+H2 - Determinar os esforços solicitantes em uma estrutura.
+H3 - Calcular tensões e deformações provocadas pelos esforços solicitantes.
+H4 - Analisar tensões provocadas por esforços combinados.
+H5 - Verificar a segurança e a estabilidade de barras.
+Atitudes:
+A1 - Incorporar o conceito de que todos os corpos estão sujeitas a tensões e
+deformações podendo sofrer colapso.
+A2 - Ter consciência de que há incerteza no carregamento das estruturas e nas
+propriedades do material que a compõe. 
+A3 - Perceber que os modelos adotados para o cálculo estrutural são
+aproximações da realidade.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Design Thinking
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Uso de técnicas de aprendizagem ativa.
+Aulas expositivas.
+Aulas de exercícios.
+Projeto Transdisciplinar.
+Projetos de Pesquisas.
+Demonstrações com modelos didáticos e vídeos.
+Realização de experimentos no Laboratório de Mecânica dos Sólidos.
+2021-ETM101página 3 de 10
+----------------Page (2) Break----------------
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A Resistência dos Materiais é uma disciplina fundamental dentro do cursos de
+Engenharia. Nela são apresentados conceitos que serão utilizados em disciplinas
+subsequentes como, por exemplo, as que fazem dimensionamento de máquinas e
+componentes. Permite, partindo do diagrama de corpo livre de estruturas
+isostáticas, obter os esforços solicitantes, internos e externos. A seguir
+propicia o cálculo das tensões e deformações provocadas por estes esforços. Ao
+comparar os valores calculados com os valores apropriados do material que a
+compõe define a segurança estrutural. O conceito de instabilidade é introduzido
+através do estudo da flambagem de barras retas.
+Apesar do curso comentar as normas e regulamentos da área estrutural, ele
+enfatiza a formação de conceitos, a compreensão dos fenômenos e a origem das
+expressões analíticas. O dimensionamento de acordo com as normas deverá ser
+visto em cursos específicos subsequentes.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BEER, F. P.; JOHNSTON, E. R.; DeWOLF, J. T. MAZUREK, D.F. MECÂNICA DOS
+MATERIAIS. 7. ed.  São Paulo: McGraw-Hill, 2015. 
+GERE, J. M., GOODNO, B. J. MECÂNICA DOS MATERIAIS. 7. ed. São Paulo: CENGAGE
+Learning, 2011.
+HIBBELER, R. C. RESISTÊNCIA DOS MATERIAIS. 7. ed. São Paulo: Pearson, 2010.
+PEREIRA, C.P.M. MECÂNICA DOS MATERIAIS AVANÇADA. 1. ed. Editora INTERCIÊNCIA,
+2014.
+PHILPOT, T. A. MECÂNICA DOS MATERIAIS - UM SISTEMA INTEGRADO DE ENSINO.2. ed.
+São Paulo: LTC, 2013
+2021-ETM101página 4 de 10
+----------------Page (3) Break----------------
+Bibliografia Complementar:
+ASSAN, A. E. RESISTÊNCIA DOS MATERIAIS, V.1. 1. ed.  São Paulo: Unicamp, 2010.
+ASSAN, A. E. RESISTÊNCIA DOS MATERIAIS, V.2. 1. ed.  São Paulo: Unicamp, 2013.
+BEER, F. P.; JOHNSTON, E. R.; DeWOLF, J. T. MAZUREK, D.F. ESTÁTICA E MECÂNICA
+DOS MATERIAIS. 1. ed.  São Paulo: McGraw-Hill, 2013.
+BOTELHO, M.H.C. RESISTÊNCIA DOS MATERIAIS: PARA ENTENDER E GOSTAR. 3. ed.  São
+Paulo: Blucher, 2015.
+BUDYNAS, R.G. ADVANCED STRENGTH AND APPLIED STRESS ANALYSIS. 2. ed. MCGRAW-HILL
+SCIENCE/ENGINEERING/MATH, 1998.
+FEODOSIEV, V. I. Resistencia de Materiales.  Editorial MIR, 1972.
+MIROLIUBOV, I. Problemas de resistencia de materiales. 2. ed.  Moscu: Mir,
+1967. 467 p.
+POPOV, E. P.   INTRODUÇÃO À MECÂNICA DOS SÓLIDOS. São Paulo: Edgard Blucher,
+1978.
+RILEY, W. F.; STRURGES, L. D.; MORRIS, D. H. Mechanics of materials. 5. ed. New
+York: John Wiley, 1999. 708 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+- Pacote Office
+- Matlab/Octave
+- MDSolids
+- Ftool
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Os Trabalhos poderão ser compostos por exercícios, atividades e/ou projetos
+realizadas virtualmente e/ou presencialmente e serão informados pelo professor
+da disciplina.
+2021-ETM101página 5 de 10
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+1. Os tópicos são divididos entre dois professores. Cada um leciona a teoria e 
+apresenta exercícios sobre o assunto lecionado. Os tópicos são ministrados em 
+uma sequência lógica e coordenada entre os professores. No cronograma da 
+disciplina, a seguir, as aulas do tipo T são ministradas por um professor 
+enquanto que o outro professor leciona as aulas do tipo E.
+2. A disciplina é ministrada para as diversas turmas, em vários dias da semana
+e o calendário escolar apresenta alguns dias não letivos em função de feriados.
+Com isso o cronograma a seguir se refere a uma semana típica com seus feriados
+durante o ano.
+2021-ETM101página 6 de 10
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marcelo Otavio dos Santos
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ETM101página 7 de 10
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 ESemana dos calouros.   0
+  1 TSemana dos calouros.   0
+  2 EIntrodução. Figuras planas. Definições: Momento Estático e Centro
+de Gravidade. Exercício.
+   1% a 10%
+  2 TApresentação da disciplina. Conceitos gerais. Recordação de
+estática. Exercício.
+   1% a 10%
+  3 TEsforços internos solicitantes (EIS). Diagramas em barras (DEIS).
+Exercício.
+   11% a 40%
+  3 EFiguras planas: Definições: Momento de Inércia, Produto de
+Inércia e Raio de Giração. Momento Polar de Inércia. Translação
+de Eixos. Exercício.
+   11% a 40%
+  4 EFiguras planas. Definições: Rotação de Eixos e Momentos
+Principais de Inércia. Exercício.
+   11% a 40%
+  4 TEsforços internos solicitantes. Diagramas em barras (DEIS).
+Exercícios.
+   11% a 40%
+  5 EFiguras planas. Definições: Eixos e Momentos Principais de
+Inércia. Exercício.
+   11% a 40%
+  5 TEsforços internos solicitantes (EIS). Diagramas em barras (DEIS).
+Exercício.
+   11% a 40%
+  6 TDiagramas de esforços internos solicitante no plano. Exercício.   11% a 40%
+  6 EDefinição de tensões e deformações. Relação entre tensões e os
+EIS. Tração-compressão simples.
+   11% a 40%
+  7 TDiagramas de esforços internos solicitante no plano. Exercício.   11% a 40%
+  7 EDefinição de tensão. Tração-compressão simples. Dimensionamentos.
+Coeficiente de segurança. Exercício.
+   11% a 40%
+  8 ETração-compressão simples.  Hiperestática. Exercício.   11% a 40%
+  8 TEsforços internos solicitantes no espaço. Exercício.   11% a 40%
+  9 TProva P1   0
+  9 EProva P1   0
+ 10 TFlexão normal simples. Teoria. Exercício.   1% a 10%
+ 10 EEfeito de temperatura em barras retas. Exercícios.   1% a 10%
+ 11 EEfeito de temperatura em barras retas. Exercícios.   11% a 40%
+ 11 TFlexão normal simples. Exercício.   11% a 40%
+ 12 TFlexão normal simples. Exercício.   11% a 40%
+ 12 ECisalhamento puro. Tensões e deformações. Aplicação. Ligação por
+rebites e pinos. Exercícios.
+   11% a 40%
+ 13 ECisalhamento puro. Tensões e deformações. Aplicação. Ligação por
+rebites e pinos. Exercícios.
+   1% a 10%
+ 13 TFlexão obliqua. Exercícios.   11% a 40%
+ 14 ECisalhamento puro. Tensões e deformações. Aplicação. Ligação por
+solda. Exercícios.
+   11% a 40%
+ 14 TFlexão obliqua composta. Exercícios.   11% a 40%
+ 15 ECisalhamento puro. Tensões e deformações. Aplicação. Ligação por
+solda. Exercícios.
+   11% a 40%
+2021-ETM101página 8 de 10
+----------------Page (7) Break----------------
+ 15 TFlexão obliqua composta. Exercícios.   11% a 40%
+ 16 TFlexão obliqua composta. Exercícios.   11% a 40%
+ 16 ECisalhamento puro. Tensões e deformações. Aplicação. Ligações.
+Exercícios
+   11% a 40%
+ 17 TFlexão obliqua composta. Exercícios.   11% a 40%
+ 17 ECisalhamento puro. Tensões e deformações. Aplicação. Ligações.
+Exercícios
+   11% a 40%
+ 18 TProva P2   0
+ 18 EProva P2   0
+ 19 TProva P2   0
+ 19 EProva P2   0
+ 20 TAtendimento.   0
+ 20 EAtendimento.   0
+ 21 TProva PS1.   0
+ 21 EProva PS1.   0
+ 22 TTorção em barras de seção circular. Tensões e deformações.
+Teoria. Exercício.
+   1% a 10%
+ 22 EDeformações na flexão. Processo da integração da equação
+diferencial da linha elástica. Teoria. Exercício.
+   1% a 10%
+ 23 TTorção em barras de seção circular. Exercícios.   11% a 40%
+ 23 EDeformações na flexão. Processo da integração da E.D.L.E. usando
+funções de singularidade. Exercícios.
+   11% a 40%
+ 24 TTorção em barras de seções não circulares. Teoria. Exercícios.   11% a 40%
+ 24 EDeformações na flexão. Processo da integração da E.D.L.E. usando
+funções de singularidade para carregamento distribuído.
+Exercícios.
+   11% a 40%
+ 25 TTorção de barras de seção não-circular geral. Hiperestática.
+Exercícios.
+   11% a 40%
+ 25 EDeformações na flexão. Processo da integração da E.D.L.E. usando
+funções de singularidade em barras de seção escalonada.
+Exercícios.
+   11% a 40%
+ 26 TEstado duplo de tensões (EDT). Teoria. Círculo de Mohr.   1% a 10%
+ 26 EDeformação na flexão. Uso do princípio da superposição dos
+efeitos. Hiperestática.
+   11% a 40%
+ 27 TEstado duplo de tensões (EDT). Exercícios   11% a 40%
+ 27 EDeformação na flexão. Uso do princípio da superposição dos
+efeitos. Hiperestática.
+   11% a 40%
+ 28 TProvas P3.   0
+ 28 EProvas P3.   0
+ 29 TCisalhamento na flexão. Teoria. Exercícios.   1% a 10%
+ 29 EReservatórios sob pressão. Tensões e deformações. Exercício.   11% a 40%
+ 30 TCisalhamento na flexão. Exercícios.   11% a 40%
+ 30 EReservatórios sob pressão. Tensões e deformações. Exercício.   11% a 40%
+ 31 EFlambagem. Teoria. Exercícios.   1% a 10%
+ 31 TCisalhamento na flexão. Exercícios.   11% a 40%
+ 32 TSolicitações combinadas. Exercícios   11% a 40%
+ 32 EFlambagem. Exercícios.   11% a 40%
+ 33 TSolicitações combinadas. Exercícios   11% a 40%
+2021-ETM101página 9 de 10
+----------------Page (8) Break----------------
+ 33 ETreliças. Método das Seções. Exercícios.   11% a 40%
+ 34 EFlambagem. Treliças. Exercícios.   11% a 40%
+ 34 TDimensionamento de eixo à flexo-torção. Solicitações combinadas.   11% a 40%
+ 35 TSolicitações combinadas. Exercícios.   11% a 40%
+ 35 EFlambagem. Treliças. Exercícios.   11% a 40%
+ 36 EProva P4.   0
+ 36 TProva P4.   0
+ 37 EProva P4.   0
+ 37 TProva P4.   0
+ 38 EAtendimento.   0
+ 38 TAtendimento.   0
+ 39 TAtendimento.   0
+ 39 EAtendimento.   0
+ 40 TProva PS2.   0
+ 40 EProva PS2.   0
+ 41 TProva PS2.   0
+ 41 EProva PS2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ETM101página 10 de 10
+----------------Page (9) Break----------------

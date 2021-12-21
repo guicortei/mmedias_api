@@ -1,0 +1,216 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Trabalho de Conclusão de CursoEMC903
+Course:
+Undergraduate Thesis
+Materia:
+Trabajo de fin de curso
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 00 - 00 - 04
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Ed Claudio BordinassiTecnólogo em MecânicaDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Ed Claudio BordinassiTecnólogo em MecânicaDoutor
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Finalização de projeto de pesquisa elaborado preliminarmente na disciplina
+EMC702-Metodologia da Pesquisa Científica e Tecnológica ou PAE de mesmo nome.
+Desenvolvimento do Trabalho de Conclusão de Curso (TCC) derivado desse projeto.
+Aplicação das Normas e Filosofia da construção de uma Monografia que documente
+o TCC. Acompanhamento do avanço de desenvolvimento dos TCCs (Orientador e
+Aluno) através de documentos de conformidade, que contemplam a avaliação da
+linguagem, da forma e do conteúdo dos capítulos, assim como através de
+apresentações periódicas das equipes. Apoio para a realização de estande no
+evento interno EUREKA, envolvendo a construção de painéis e protótipos.
+2021-EMC903página 1 de 7
+----------------Page (0) Break----------------
+SYLLABUS
+Development of the graduation research project preliminarly conceived during
+the EMC702-Methodology of Scientific and Technological Research Course or
+equivalent activity (PAE). Application of standards and criteria for writing a
+technical report and monography. The development phase is monitored by both the
+project advisor and the discipline professor through a set of compliance
+documents and checkpoints, which include the evaluation of language, form and
+content of the chapters as well as through periodic group presentations. Many
+activities in this term are aimed towards supporting the EUREKA exhibit,
+including but not limited to booth layout definition, utility requirements
+definition, support hardware and software definition, prototype development,
+construction and testing.
+TEMARIO
+La finalización del proyecto de investigación preparada previamente en la
+disciplina EMC702-Metodología de la Investigación Científica y Tecnológica.
+Desarrollo del Trabajo de Conclusión del Curso (TCC) derivado de este proyecto.
+Aplicación de las Normas y de la filosofía de la elaboración de una monografía
+en la documentación del TCC. Seguimiento de la evolución de los TCCs
+(estudiante y orientador) a través de los documentos de conformidad, que
+incluyen la evaluación de la gramática, de la forma y del contenido de cada uno
+de los capítulos del documento, así como a través de las presentaciones
+periódicas de los equipos. Apoyo en la realización de los eventos internos,
+específicamente en la participación en el Eureka (evento de la Universidad
+donde se muestran para el público los trabajos de los alumnos, TCCs del año en
+curso) paneles de construcción y prototipos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Conhecimentos ministrados nos anos anteriores ou no ano corrente, nas
+disciplinas interligadas com o tema desenvolvido no Trabalho de Conclusão de
+Curso da Equipe
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Objetivos - Conhecimentos, Habilidades e Atitudes:
+Conhecimentos: 
+C1 - Metodologia para produção e apresentação de trabalhos e documentos
+Técnico-Científica;
+Habilidades: 
+H1 - Capacidade de Efetuar Sintese dos Conhecimentos Adquiridos;
+H2 - Capacidade de Elaborar Trabalho em Equipe;
+H3 - Capacidade de Realizar Comunicação de Idéias (Escrita, Verbal);
+H4 - Capacidade de Gerar Comportamentos Inovadores;
+H5 - Capacidade de Equacionar Recursos e Prazos;
+H6 - Capacidade de Identificar Relações entre Variáveis;
+Atitudes: 
+A1 - Ética nas ações junto as Organizações, essas entendidas como um conjunto
+de Pessoas;
+A2 - Avaliação e Auto-avaliação de Planos/Pessoas;
+A3 - Visão Sistêmica das Organizações;
+2021-EMC903página 2 de 7
+----------------Page (1) Break----------------
+A4 - Rigor da Visão Tecno-Científica;
+A5 - Responsabilidade para as questões ambientais e a sustentabilidade do meio
+ambiente.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Não
+METODOLOGIA DIDÁTICA
+Aulas expositivas ministradas em sala com um microcomputador e projetor para o
+Professor apresentar ferramentas para desenvolvimento da disciplina e para os
+alunos realizarem as apresentações preliminares do Trabalho de Conclusão de
+Curso. Poderá ser utilizado computador com acesso à Internet, para as equipes
+realizarem pesquisas e sínteses nas diversas fases do Trabalho. Serão feitas
+apresentações para acompanhamento do trabalho e correções da melhor forma de
+realizar a apresentação.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 2,0  k4: 6,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina propicia a realização do Trabalho de Conclusão de Curso sobre um
+problema especificado. Integra os conhecimentos adquiridos ao longo do curso de
+Engenharia, aprofundando aqueles diretamente ligados ao problema definido.
+Provoca uma visão sistêmica da função do Engenheiro nas Organizações e na
+Sociedade. Ressalta o trabalho em equipe, sua importância, seus conflitos,
+simulando situações da vida profissional e pessoal. Por meio de apresentações
+em sala seguidas de avaliações de professores e colegas, trabalha a comunicação
+de ideias de maneira eficaz, clara e concisa. Reforça o espírito de negociação
+e da tomada de decisão, uma vez que o projeto em equipe tem prazos definidos,
+qualidade e escopo especificados.
+BIBLIOGRAFIA
+Bibliografia Básica:
+CERVO, Amado Luiz; BERVIAN, Pedro Alcino; SILVA, Roberto da. Metodologia
+científica. 6. ed.  São Paulo, SP: Pearson Prentice Hall, 2007. 162 p.  ISBN
+8576050471.
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 4. ed.  São Paulo:
+Atlas, 2002. 175 p.  ISBN 8522431698.
+2021-EMC903página 3 de 7
+----------------Page (2) Break----------------
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Técnicas de pesquisa:
+planejamento e execução de pesquisas, amostragens e técnicas de pesquisa,
+elaboração, análise e interpretação de dados. 7. ed.  São Paulo, SP: Atlas,
+2011. 277 p.  ISBN 9788522451524.
+Bibliografia Complementar:
+MARTINS, Gilberto de Andrade. Manual para elaboração de monografias e
+dissertações. 2. ed.  São Paulo: Atlas, 1994. 116 p.  ISBN 8522410879.
+OLIVEIRA, Silvio Luiz de. Tratado de metodologia científica: projetos de
+pesquisas, TGI, TCC, monografias, dissertações e teses. 2. ed.  São Paulo, SP:
+Pioneira, 1999. 320 p.  ISBN 85-221-0070-5.
+TRÍBOLI, Edison Paulo De Ros. Apresentação e editoração eletrônica de trabalhos
+acadêmicos: comentários sobre os elementos da NBR 14724 e suas construções com
+auxílio do Word.  São Caetano do Sul, SP: CEUM/IMT, 2004. 115 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Pacote Office
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Avaliações: 
+1. Avaliação do TCC parcial entregue no 1° Bimestre. Peso 1,0
+2. Avaliação do TCC parcial entregue no 2° Bimestre. Peso 1,0 
+4. Evento Eureka. Peso 2,0 
+5. BANCA FINAL: Avaliação individual dos componentes da Equipe - defesa oral do
+trabalho, e análise da monografia. A Banca é composta por três professores
+especialistas ou pós-graduados em áreas correlatas ao TCC. Peso 6,0.
+Observações:
+a) Nas avaliações parciais o trabalho precisa ser mostrado em sala de aula
+antes da entrega para verificação, conforme datas especificadas no cronograma
+da disciplina. Caso não ocorra a verificação, a equipe perde 2,0 pontos na nota
+da entrega;
+b) O trabalho só é liberado para a banca após análise do NDE da Mecânica, que
+julgará se o trabalho possui os mínimos requisitos para ser apresentado. O NDE
+também define os membros da banca que podem ser sugeridos pela equipe ou Prof.
+Orientador;
+c) Em qualquer avaliação, na ocorrência de Plágio, será aplicada nota zero;
+d) A data limite para entrega do TCC em folhas soltas com as correções
+sugeridas pela banca é 10/12.
+2021-EMC903página 4 de 7
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC903página 5 de 7
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Ed Claudio Bordinassi
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC903página 6 de 7
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo
+  3 LApresentação do cronograma - Fechamento das equipes definitivas
+  5 LAcompanhamento do TCC - Revisão utilizando o WORD, normas e citações
+  7 LAcompanhamento do trabalho (ENTREGA TCC PARCIAL VIA MOODLE ATÉ 10/04 - REVISÃO
+BIBLIOGRÁFICA TERMINADA - INÍCIO MATERIAIS E MÉTODOS)-MOSTRAR O TRABALHO NA
+SALA DE AULA, SE NÃO 2,0 PTOS A MENOS NA NOTA DA ENTREGA EM 10/04.
+  9 LAcompanhamento do TCC
+ 10 LSEMANA DE PROVAS
+ 11 LAcompanhamento do TCC
+ 13 LAcompanhamento do TCC
+ 15 LSMILE
+ 17 LAcompanhamento do trabalho (ENTREGA TCC PARCIAL VIA MOODLE ATÉ 31/07 -
+MATERIAIS E MÉTODOS TERMINADO, INÍCIO DE RESULTADOS E DISCUSSÕES)-MOSTRAR O
+TRABALHO NA SALA DE AULA, SE NÃO 2,0 PTOS A MENOS NA NOTA DA ENTREGA EM 31/07
+ 19 LSEMANA DE PROVAS
+ 20 LSEMANA DE PROVAS
+ 21 LApresentação do Sistema da Eureka
+ 23 LDúvidas gerais Sistema da Eureka e preenchimento
+ 25 LAcompanhamento do trabalho
+ 27 LAcompanhamento do trabalho
+ 29 LSEMANA DE PROVAS
+ 30 LAcompanhamento do trabalho
+ 32 LAcompanhamento do trabalho (TCC TERMINADO PARA A COMISSÃO ATÉ 16/10) - Trabalho
+Impresso
+ 33 LSEMANA DA EUREKA
+ 34 LAcompanhamento do trabalho
+ 36 LAcompanhamento do trabalho
+ 37 LSEMANA DE PROVAS
+ 38 LSEMANA DE PROVAS
+ 39 LAtendimento a alunos
+ 40 LAtendimento a alunos
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC903página 7 de 7
+----------------Page (6) Break----------------

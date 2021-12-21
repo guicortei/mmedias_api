@@ -1,0 +1,247 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Finanças IMIN405
+Course:
+Finance I
+Materia:
+Finanzas I
+Periodicidade: SemestralCarga horária total: 40Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Administração4Matutino
+Administração4Noturno
+Engenharia de Alimentos5Diurno
+Engenharia de Controle e Automação5Diurno
+Engenharia de Controle e Automação6Noturno
+Engenharia de Controle e Automação5Noturno
+Engenharia de Computação5Diurno
+Engenharia Civil5Diurno
+Engenharia Civil6Noturno
+Engenharia Civil5Noturno
+Design4Matutino
+Design4Noturno
+Engenharia Eletrônica5Diurno
+Engenharia Eletrônica6Noturno
+Engenharia Elétrica6Noturno
+Engenharia Elétrica5Diurno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Noturno
+Engenharia de Produção6Noturno
+Engenharia de Produção5Diurno
+Engenharia de Produção5Noturno
+Engenharia Química6Noturno
+Engenharia Química5Diurno
+Engenharia Química5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Rossana Raffaelli LeoniBacharel em AdministraçãoMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Rossana Raffaelli LeoniBacharel em AdministraçãoMestre
+2021-MIN405página 1 de 9
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Terminologias de Contabilidade. Métodos de custeio. Formação do Preço de Venda-
+base nos custos. Demonstrações Contábil-Financeira. Indicadores Financeiros.
+Matemática Financeira. Mercado de Capitais. Risco e Retorno. Carteira Eficiente
+- Índice de Sharpe.
+SYLLABUS
+Accounting Terminologies. Costing methods. Cost of Sold. Sales Price Formation
+- on costs. Accounting and Financial Statements. Financial indicators.
+Financial math. Capital Markets. Risk and Return. Efficient Portfolio - Sharpe
+Index
+TEMARIO
+Terminología contable. Métodos de costos Costo de venta. Formación de precios
+de venta - en los costos. Contabilidad y estados financieros. Indicadores
+financieros. Matemática financiera. Los mercados de capitales. Riesgo y
+retorno. Cartera Eficiente - Sharpe Index
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Necessário conhecimentos básico de: Estatística
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Ser capaz de utilizar técnicas adequadas de observação, compreensão, registro e
+análise das necessidades dos usuários e de seus contextos sociais, culturais,
+legais, ambientais e econômicos.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+1)Sólida formação em Matemática e Estatística de modo a modelar sistemas e
+auxiliar na tomada de decisão;
+2)Conhecimento para avaliar e desenvolver soluções de problemas de sua
+habilitação específica e multidisciplinares;
+3)Sólida formação na área de Tecnologia da Informação de modo a ser capaz de
+gerenciar e otimizar o fluxo de informação nas empresas.
+Habilidades:
+1)Dimensionar e integrar recursos físicos, humanos e financeiros a fim de
+produzir, com eficiência e ao menor custo, considerando a possibilidade de
+melhorias contínuas;
+2)Utilizar indicadores de desempenho, sistemas de custeio e formação de preço
+2021-MIN405página 2 de 9
+----------------Page (1) Break----------------
+de venda;
+3)Sintetizar informações, interpretar e desenvolver modelos para a solução de
+problemas;
+Atitudes:
+1)Ser empreendedor e pró-ativo;
+2)Ter visão sistêmica e interdisciplinar na solução de problemas técnicos;
+3)Ter posição crítica com relação a conceitos de ordem de grandeza;
+4)Saber tomar decisões e implementá-las;
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Apresentação teórica dos temas.
+Aplicação de Exercícios e Estudos de Casos com fundamento em situações reais.
+Pretende-se utilizar laboratórios de informática com aplicação de planilhas
+financeiras, além de pesquisas na internet e utilização da Base de dados
+Economática, para a solução de casos.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos e provas (uma e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  
+ Peso de MP(kP): 0,7          Peso de MT(kT): 0,3
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Contribuir para a formação de profissionais com visão sistêmica
+da empresa e com adequada compreensão da importância da gestão de capitais,
+de modo a obter desenvolvimento sustentado a partir de investimento em
+operações organizacionais. A disciplina enfatiza a necessidade de considerar
+os possíveis impactos sociais e ambientais nas decisões financeiras das
+empresas.
+2021-MIN405página 3 de 9
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+BRIGHAM, Eugene F; GAPENSKI, Louis C; EHRHARDT, Michael C. Administração
+financeira: teoria e prática. Trad. de Alexandre Loureiro Guimarães Alcântara,
+José Nicolas Albuja Salazar, Rev. téc. de José Carlos Guimarães Alcântara.  São
+Paulo, SP: Atlas, 2001. 1113 p.  ISBN 85-224-2804-2.
+GITMAN, Lawrence J. Princípios de administração financeira. Trad. Allan Vidigal
+Hastings, rev. téc. Jean Jacques Salim. 12. ed.  São Paulo, SP: Pearson
+Prentice Hall, 2010. 775 p.  ISBN 9788576053323.
+ROSS, Stephen A; WESTERFIELD, Randolph W; JORDAN, Bradford D. Administração
+financeira. 8. ed.  São Paulo: McGraw-Hill, 2008. 795 p.  ISBN 9788586804755.
+Bibliografia Complementar:
+ASSAF NETO; LIMA, Fabiano Guasti. Curso de administração financeira. 2. ed. 
+São Paulo, SP: Atlas, 2011. 836 p.  ISBN 9788522462315.
+FORTUNA, Eduardo. Mercado financeiro. 16. ed.  Rio de Janeiro: Qualitymark,
+2005. 848 p.  ISBN 8573035390.
+HOJI, Masakazu. Administração financeira e orçamentária: matemática financeira
+aplicada, estratégias financeiras, orçamento empresarial. 10. ed.  São Paulo,
+SP: Atlas, 2012. 587 p.  ISBN 9788522468904.
+IUDÍCIBUS, Sérgio et al. Manual de contabilidade societária: aplicável a todas
+as sociedades: de acordo com as normas internacionais e do CPC. FIPECAFI
+Fundação Instituto de Pesquisas Contábeis, Atuarias e Financeiras. FEA/USP. 2.
+ed.  São Paulo: Atlas, 2013. 888 p.  ISBN 9788522459124.
+PADOVEZE, Clovis Luís. Contabilidade gerencial: um enfoque em sistema de
+informação contábil. 7. ed.  São Paulo, SP: Atlas, 2010. 641 p.  ISBN
+9788522460755.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Excel
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+O trabalho K1 é um em grupo de análise das Demonstrações-Financeiras com
+impacto na Carteira Eficiente.
+A prova poderá ser aplicada no OpenLMS (Moodlerooms), e as notas serão
+lançadas, seguindo o calendário escolar, no Mauanet.
+2021-MIN405página 4 de 9
+----------------Page (3) Break----------------
+A prova substitutiva será aplicada no período de 02.08.2021 até 07.08.2021. As
+notas serão lançadas até o dia 21.08.2020.
+2021-MIN405página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Sites a serem utilizados 
+Bacen - http://www.bcb.gov.br/
+CVM - http://www.cvm.gov.br/
+B3 - http://www.b3.com.br/pt_br/
+2021-MIN405página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Rossana Raffaelli Leoni
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) Claudia Alquezar Facca
+ Coordenador(a) do Curso de Design
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Ricardo Balistiero
+ Coordenador(a) do Curso de Administração
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+2021-MIN405página 7 de 9
+----------------Page (6) Break----------------
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-MIN405página 8 de 9
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 EPrograma de Recepção e Integração dos Calouros (PRINT)   0
+  2 EApresentação da Disciplina   0
+  3 ETerminologias de Contabilidade.   1% a 10%
+  4 EDemonstrações Contábil-Financeira.   1% a 10%
+  5 EIndicadores Financeiros - Liquidez, Endividamento, Rentabilidade
+e Alavancagem.
+   1% a 10%
+  6 EIndicadores Financeiros - Liquidez, Endividamento, Rentabilidade
+e Alavancagem.
+   61% a 90%
+  7 ESistema Financeiro Nacional e Mercado de Capitais   0
+  8 EFeriado   0
+  9 ERisco e Retorno.   1% a 10%
+ 10 ESemana de Prova P1   0
+ 11 ECarteira Eficiente - Índice de Sharpe, Atratividade e Jensen.   41% a 60%
+ 12 EFeriado   0
+ 13 ECarteira Eficiente - Índice de Sharpe, Atratividade e Jensen.   41% a 60%
+ 14 EMatemática Financeira. Aplicação de Recursos   41% a 60%
+ 15 ESMILE - Semana Maua de Inovação Liderança e Empreendedorismo   0
+ 16 EMatemática Financeira. Aplicação de Recursos   41% a 60%
+ 17 EMatemática Financeira. Captação de Recursos   41% a 60%
+ 18 EMatemática Financeira. Captação de Recursos   41% a 60%
+ 19 EProva - P2 - Entrega do trabalho K1   0
+ 20 EProva - P2 - Entrega do trabalho K1   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-MIN405página 9 de 9
+----------------Page (8) Break----------------
