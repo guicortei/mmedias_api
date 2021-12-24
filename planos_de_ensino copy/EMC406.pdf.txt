@@ -1,0 +1,300 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+EletricidadeEMC406
+Course:
+Electricity
+Materia:
+Electricidad
+Periodicidade: SemestralCarga horária total: 80Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica4Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Valdir Melero JuniorEngenheiro EletricistaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Valdir Melero JuniorEngenheiro EletricistaMestre
+MODALIDADE DE ENSINO
+Presencial: 50%
+Mediada por tecnologia: 50%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Fundamentos de Eletricidade. Potência elétrica e energia elétrica. Leis de Ohm
+no resistor. Circuitos em corrente contínua. Circuitos com relés. Estudo de
+instrumentos de laboratório de eletrônica. Sensores comumente utilizados em
+automação. Divisor de tensão e ponte de Wheatstone. Diodos e circuitos
+retificadores.
+SYLLABUS
+Electricity fundamentals. Electric power and electric energy. Ohm's law in the
+resistor. Direct current circuits. Circuits with relays. Study of electronic
+laboratory instruments. Sensors frequent users in automation. Voltage divider
+and Wheatstone bridge. Diodes and rectifier circuits.
+2021-EMC406página 1 de 9
+----------------Page (0) Break----------------
+TEMARIO
+Fundamentos de la electricidad. Potencia eléctrica y energía eléctrica. Leyes
+de Ohm en la resistencia. Circuitos en corriente directa. Circuitos con relés.
+Estudio de instrumentos de laboratorio de electrónica. Sensores comúnmente
+utilizados en la automatización. Divisor de tensión y puente de Wheatstone.
+Diodos y circuitos rectificadores.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Cálculo.
+Física.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Analisar e compreender os fenômenos físicos por meio de modelos matemáticos,
+computacionais ou físicos, validados por experimentação. Trabalhar e liderar
+equipes multidisciplinares.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS:
+C1 - Conceitos de tensão elétrica e corrente elétrica (CC), resistores,
+potência e energia elétrica (CC) e rendimento;
+C2 - Leis de Ohm e leis de Kirchhoff. Método de resolução de circuitos por
+análise de malhas;
+C3 - Circuitos com relés para acionamento de cargas on/off: combinatório e
+sequencial;
+C4 - Equipamentos de laboratório de eletrônica: gerador de função,
+osciloscópio, protoboard, dentre outros;
+C5 - Sensores comumente utilizados em automação;
+C6 - Polarização de sensores resistivos;
+C7 - Diodos e circuitos retificadores.
+HABILIDADES:
+H1 - Distinguir as grandezas elétricas;
+H2 - Analisar circuitos elétricos;
+H3 - Seleção de sensores comuns;
+H4 - Desenvolver raciocínio lógico para compreender projetos utilizando lógica
+com relés e contatos;
+H5 - Efetuar medidas de grandezas elétricas em um dispositivo de tecnologia
+embarcada;
+H6 - Expressar de forma adequada a comunicação oral e escrita;
+H7 - Trabalhar em equipe.
+ATITUDES:
+A1 - Motivação para prosseguir no curso e se tornar engenheiro(a);
+A2 - Valorizar as discussões de problemas de eletricidade que envolvam
+circuitos em corrente contínua;
+A3 - Desenvolver atividades acadêmicas vislumbrando aplicações profissionais
+com iniciativa e autonomia;
+2021-EMC406página 2 de 9
+----------------Page (1) Break----------------
+A4 - Desenvolver alto espírito crítico na análise de soluções propostas;
+A5 - Participação ativa nas aulas.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+METODOLOGIA DIDÁTICA
+Aulas teóricas e de exercícios participativas serão desenvolvidas em aulas
+mediadas por tecnologia, utilizando recursos computacionais.
+Aulas em laboratório da Eng. Eletrônica, com elaboração de projeto,
+implementação física e medidas elétricas.
+Para as aulas de laboratório, os alunos devem estudar previamente o que será
+realizado e relaciona-los com a teoria.
+Em ambos os casos, de aulas teóricas e práticas, vislumbra-se a discussão dos
+conceitos de modo que se provoque aos alunos a busca por soluções aos problemas
+abordados e se valorize a consulta aos recursos disponibilizados na disciplina
+e ao acervo na biblioteca da escola.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos e provas (uma e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina pretende contribuir na formação do engenheiro de três modos. O
+primeiro através da apresentação dos conceitos básicos de eletricidade e das
+técnicas de medidas das grandezas envolvidas. O segundo através da análise de
+problemas de engenharia, cuja resolução depende de conhecimentos adquiridos em
+diversas disciplinas do curso; pretendemos com isso, convencer o aluno que a
+divisão do conhecimento em disciplinas é apenas um recurso didático e que, na
+realidade, tal divisão não existe. Finalmente, o terceiro modo é através da
+motivação gerada pelas atividades da disciplina.
+2021-EMC406página 3 de 9
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+GUSSOW, Milton. Eletricidade básica. [COSTA, Aracy Mendes daLASCHUK, Anatólio].
+2. ed.  São Paulo, SP: Pearson Makron Books, 2008. 639 p.  ISBN 9788534606127.
+PAGLIARICCI, Mário. Eletrotécnica geral.  São Paulo, SP: Nacional, 1977. 236 p.
+PAZOS, Fernando. Automação de sistemas & robótica.  Rio de Janeiro, RJ: Axcel
+Books, 2002. 384 p.  ISBN 85-7323-171-8.
+Bibliografia Complementar:
+ALBUQUERQUE, Romulo Oliveira. Análise de circuitos em corrente contínua.  São
+Paulo, SP: Érica, 1988. 204 p.
+BOYLESTAD, Robert; NASHELSKY, Louis. Dispositivos eletrônicos e teoria de
+circuitos. 3. ed.  Rio de Janeiro, RJ: Prentice-Hall do Brasil, 1982. 700 p.
+FREGNI, Edson; SARAIVA, Antonio Mauro. Engenharia do projeto lógico digital. 
+São Paulo, SP: Edgard Blücher, 1995. 498 p.
+HELFRICK, Albert D; COOPER, William D. Instrumentação eletrônica moderna e
+técnicas de medição.  Rio de Janeiro, RJ: Prentice Hall, 1994. 324 p.  ISBN
+85-7054-050-7.
+MALVINO, Albert Paul. Eletrônica. 4. ed.  São Paulo, SP: Makron Books, 1997. v.
+1. 747 p.  ISBN 85-346-0378-2.
+MALVINO, Albert Paul. Eletrônica. 4. ed.  São Paulo, SP: Makron Books, 1997. v.
+2.  ISBN 85-346-0455-X.
+REGAZZI, Rógério Dias; PEREIRA, Paulo Sérgio. Soluções práticas de
+instrumentação e automação: utilizando a programação gráfica LabVIEW.  Rio de
+Janeiro: [s.n.], 2005. 456 p.  ISBN 8590546414.
+THOMAZINI, Daniel; ALBUQUERQUE, Pedro Urbano Braga e. Sensores industriais:
+fundamentos e aplicações. 7. ed.  São Paulo, SP: Érica, 2010. 224 p.  ISBN
+9788536500713.
+UYEMURA, John P. Sistemas digitais: uma abordagem integrada. Trad. de Gustavo
+Guimarães Parma, rev. téc. de Antonio Pertence Jr.  São Paulo, SP: Pioneira
+Thomson Learning, 2002. 433 p.  ISBN 8522102686.
+2021-EMC406página 4 de 9
+----------------Page (3) Break----------------
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Pacote do Microsoft Officer: word, excel e power point;
+Pacote NI com Multisim e Ultiboard;
+Navegador Google Chrome.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Critérios de avaliação dos trabalhos:
+T1 (ou k1) corresponde à média entre as notas dos trabalhos obtidas no semestre
+letivo. Será constituída pelas notas dos experimentos realizados, exercícios,
+projetos e pela prova prática, esta com peso 2 (a nota da prova prática possui
+o peso das notas de duas atividades).
+A quantidade de experimentos, exercícios e projetos será definida e apresentada
+na programação desenvolvida pelo professor e disponibilizada aos alunos
+oportunamente em um calendário de programação (no Open LMS).
+As notas obtidas em cada experimento prático serão atribuídas pela avaliação do
+relatório desenvolvido pelas equipes em cada aula de laboratório e pelos
+trabalhos práticos das mesmas. Embora a nota seja definida por equipe, é
+imprescindível a participação de todos os alunos no experimento e na produção
+do relatório, ficando a critério do professor a imposição de notas diferentes,
+caso a participação efetiva de todos os integrantes não seja satisfatória.
+Para exercícios e projetos, a quantidade de alunos por equipe será definida
+pelo professor.
+A ausência do aluno em experimento, aulas de exercícios/projetos ou prova
+prática, implicará como nota zero na respectiva atividade.
+A realização da prova prática é individual e a nota será atribuída pelo
+professor segundo avaliação do desempenho do aluno na realização de experimento
+prático ou simulação em sala apropriada. O tempo máximo para realização da
+prova prática será de 20 minutos a 30 minutos, onde o aluno deverá efetuar
+eventual montagem de um circuito básico ou simulação, obtendo medições e
+conclusões pertinentes à situação.
+Os assuntos abordados na prova prática serão definidos aleatoriamente pelo
+professor, englobando conceitos tratados durante o semestre em questão (na
+teoria e no laboratório).
+Não está previsto o aproveitamento de notas de trabalhos de anos anteriores.
+2021-EMC406página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Distribuição das aulas: as aulas de teoria e laboratório serão ministradas pelo
+Prof. Valdir Melero Junior, com distribuição segundo a programação das aulas
+disponibilizada no Open LMS.
+Demais informações relativas à organização da disciplina:
+- as aulas de teoria serão no formato mediado por tecnologia e/ou sala de aula
+com data-show;
+- o material de apoio para a disciplina será disponibilizado no Open LMS, tais
+como notas de aula, listas de exercícios, roteiros para experimentos, dentre
+outros;
+- as aulas de laboratório utilizarão recursos existentes no departamento de
+Eng. Eletrônica;
+- no início de cada experiência o professor fornecerá um roteiro a cada equipe
+(também disponibilizado no Open LMS), cujo conteúdo deverá ser desenvolvido ao
+longo da aula e entregue ao final, para ser contabilizado como relatório. Este
+relatório é elaborado pela equipe e, na eventualidade de ausência de algum
+membro, a respectiva nota individual será lançada como ZERO. É importante que
+cada componente da equipe venha munido de um formulário para anotações
+pessoais;
+- é importante ressaltar que a ordem das atividades de laboratório pode ser
+alterada em função de ocorrências imprevistas ao longo do ano corrente,
+portanto, pede-se especial atenção ao calendário disponível no Open LMS;
+- não serão aceitos TRABALHOS entregues fora das datas estipuladas;
+- não serão permitidas permutas entre turmas, salvo por intermédio da
+secretaria da escola, sob meios legais do regimento interno;
+- os instrumentos necessários para a realização das experiências são mantidos
+sobre a bancada e o material, organizado na forma de kit, deverá ser retirado e
+devolvido, sob apresentação de documento, no guichê do almoxarifado da Eng.
+Eletrônica;
+- não será permitida entrada no laboratório com atraso.
+2021-EMC406página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Valdir Melero Junior
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC406página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  1 LPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  2 LDia não letivo - Carnaval.   0
+  2 TPré Requisitos de Eletricidade e Associação de Resistores.   1% a 10%
+  3 TPotência Elétrica e Energia Elétrica.   0
+  3 LApresentação do laboratório.   0
+  4 TLeis de Ohm no Resistor. Rendimento.   0
+  4 LAssociação de resistores.   61% a 90%
+  5 TResolução de circuitos em CC.   0
+  5 LPrimeira Lei de Ohm e Medidas Elétricas.   61% a 90%
+  6 TRelés parte I.   0
+  6 LLeis de Kirchhoff.   61% a 90%
+  7 TRelés parte II - Diagrama Lader.   1% a 10%
+  7 LMétodo de Maxwell - Balanço Energético.   61% a 90%
+  8 TDia não letivo.   0
+  8 LCaracterísticas Construtivas do Relé.   91% a
+100%
+  9 TSensores: posição, velocidade, deslocamento, dentre outros.   1% a 10%
+  9 LAutomação com relés, circuitos sequenciais.   61% a 90%
+ 10 TProvas P1 - disciplinas AN e S1.   0
+ 10 LProvas P1 - disciplinas AN e S1.   0
+ 11 LFeriado - Tiradentes.   0
+ 11 TSensores resistivos. Divisor de tensão resistivo.   0
+ 12 TFeriado - Dia do Trabalho.   0
+ 12 LInstrumentos de laboratório: osciloscópio, gerador de funções e
+protoboard.
+   11% a 40%
+ 13 TPonte de Wheatstone. Aplicações.   0
+ 13 LDivisor de Tensão em CC e CA.   41% a 60%
+ 14 TExercícios.   11% a 40%
+ 14 LSimulação de circuitos eletrônicos - Parte I.   41% a 60%
+ 15 TSemana da inovação - SMILE.   0
+ 15 LSemana da inovação - SMILE.   0
+ 16 TDiodos ideais e aplicações.   0
+ 16 LSimulação de circuitos eletrônicos - Parte II.   41% a 60%
+ 17 TRetificadores. Diodos reais (aproximações) e aplicações.   0
+ 17 LDiodos e LEDs.   61% a 90%
+ 18 TExercícios.   41% a 60%
+ 18 LProva prática.   91% a
+100%
+ 19 TProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 19 LProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+2021-EMC406página 8 de 9
+----------------Page (7) Break----------------
+ 20 LProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 20 TProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 21 LAtividades de Planejamento e Capacitação Docente.   0
+ 21 TFérias escolares.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC406página 9 de 9
+----------------Page (8) Break----------------

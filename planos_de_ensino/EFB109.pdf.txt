@@ -1,0 +1,331 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Cálculo Diferencial e Integral IIEFB109
+Course:
+Differential and Integral Calculus II
+Materia:
+Cálculo Diferencial e Integral II
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Alimentos2Diurno
+Engenharia de Controle e Automação2Diurno
+Engenharia de Controle e Automação2Noturno
+Engenharia de Controle e Automação2Noturno
+Engenharia de Computação2Diurno
+Engenharia Civil2Diurno
+Engenharia Civil2Noturno
+Engenharia Civil2Noturno
+Engenharia Eletrônica2Diurno
+Engenharia Eletrônica2Noturno
+Engenharia Elétrica2Noturno
+Engenharia Elétrica2Diurno
+Engenharia Mecânica2Diurno
+Engenharia Mecânica2Noturno
+Engenharia Mecânica2Noturno
+Engenharia de Produção2Noturno
+Engenharia de Produção2Diurno
+Engenharia de Produção2Noturno
+Engenharia Química2Diurno
+Engenharia Química2Noturno
+Engenharia Química2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Juliana Martins PhilotBacharel em MatemáticaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Eloiza GomesBacharel em MatemáticaDoutor
+Juliana Martins PhilotBacharel em MatemáticaMestre
+Karina Bradaschia RochaEngenheiro CivilMestre
+2021-EFB109página 1 de 11
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Derivadas parciais: Plano tangente, reta normal. Diferenciabilidade. Regra da
+cadeia e diferenciação implícita. Derivada direcional e vetor gradiente.
+Valores máximos e mínimos e multiplicadores de Lagrange. Integrais duplas:
+definição, propriedades, coordenadas polares e aplicações. Integrais triplas:
+definição, coordenadas cilíndricas e esféricas e aplicações. Mudanças de
+variáveis em integrais múltiplas. Cálculo vetorial: campos vetoriais, campos
+conservativos, integrais de linha, Teorema de Green, operadores rotacional e
+divergente, integrais de superfície, Teorema de Stokes e Teorema de Gauss.
+SYLLABUS
+Partial derivatives: Tangent plane, normal straight. Differentiability. Chain
+rule and implicit differentiation. Directional derivative and gradient vector.
+Maximum and minimum values and Lagrange multipliers. Double integrals:
+definition, properties, polar coordinates and applications. Triple integrals:
+definition, cylindrical and spherical coordinates and applications. Variable
+changes in multiple integrals. Vector calculation: vector fields, conservative
+fields, line integrals, Green's theorem, rotational and divergent operators,
+surface integrals, Stokes¿s theorem and Gauss¿s theorem.
+TEMARIO
+Derivadas parciales: plano tangente, recta normal. Diferenciabilidad. Regla de
+la cadena y la diferenciación implícita. Derivada direccional y vector de
+gradiente. Valores máximos y mínimos y multiplicadores de Lagrange. Integrales
+dobles: definición, propiedades, coordenadas polares y aplicaciones. Integrales
+triples: definición, coordenadas cilíndricas y esféricas y aplicaciones.
+Cambios variables en múltiples integrales. Cálculo vectorial: campos
+vectoriales, campos conservadores, integrales de línea, teorema de Green,
+operadores rotacionales y divergentes, integrales de superficie, teorema de
+Stokes y teorema de Gauss.
+2021-EFB109página 2 de 11
+----------------Page (1) Break----------------
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+-Cálculo Diferencial e Integral I: limites, representação de funções, derivação
+e integração de funções. Estudo da continuidade de funções de uma variável.
+Máximos, Mínimos e Pontos de Inflexão. 
+-Vetores, Curvas e Superfícies: Vetores. Produtos escalar e vetorial.
+Dependência linear. Sistemas de coordenadas cartesianas. Retas no espaço
+tridimensional, Plano, Superfícies quádricas. Parametrização de curvas no
+espaço bi e tridimensional.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Comunicar de maneira eficaz as formas escrita, oral e gráfica.2. Manipular
+símbolos matemáticos e trabalhar com o formalismo matemático e realizar
+cálculos teóricos ao invés de cálculos práticos e com isso economizar tempo e
+recursos.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1: Derivadas parciais: aplicações
+C2: Regra da Cadeia e derivação implícita
+C3: Derivadas direcionais e gradiente: definição, interpretação geométrica e
+aplicações
+C4: Plano tangente e reta normal
+C5: Valores máximos e mínimos e multiplicadores de Lagrange  
+C6: Integrais múltiplas: integrais duplas e triplas, seus métodos de cálculo e
+suas aplicações
+C7: Integrais de linha: definição, suas aplicações geométricas e o teorema de
+Green
+C8: Operadores rotacional e divergente
+C9: Integrais de superfície, teorema de Stokes e teorema de Gauss
+Habilidades:
+H1: Leitura e compreensão de textos
+H1: Utilização dos conhecimentos adquiridos nesta disciplina e aplicação desses
+em outras disciplinas
+H2: Práticas de estudo e pesquisa
+H3: Trabalho em equipe
+H4: Utilização de software para construção de gráficos e realização de
+cálculos envolvidos nesta disciplina
+Atitudes:
+A1: Capacidade de extrapolar os conceitos vistos em aula
+A2: Responsabilidade pelo seu processo de aprendizagem
+A3: Enfrentar problemas e desafios
+A4: Respeito com o outro
+2021-EFB109página 3 de 11
+----------------Page (2) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Jigsaw
+METODOLOGIA DIDÁTICA
+Aulas teóricas participativas, com a discussão dos conceitos, realizada de
+maneira a instigar os alunos a buscarem as soluções para os problemas
+abordados. 
+Nas aulas, é feito uso de recursos computacionais e aplicativos (GeoGebra,
+Wolfram Alpha e Symbolab) que possam facilitar a visualização e o entendimento
+dos assuntos discutidos.
+Utiliza-se, em algumas das aulas, técnicas de aprendizagem ativa como, por
+exemplo, aula invertida, peer instruction e adaptação do método Jigsaw.
+O ambiente de aprendizagem virtual, Open LMS, será o portal em que os alunos
+poderão acessar todo o material da disciplina, realizar tarefas e discutir com
+alunos e professores.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 2,0  k4: 2,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+1. Identificar e compreender conceitos de Cálculo Diferencial e Integral II
+para aplicação nas disciplinas específicas das séries seguintes.
+2. Utilizar senso crítico para avaliação e análise de resultados na forma
+escrita, numérica e gráfica.
+3. Trabalhar em equipe, saber se comunicar de forma escrita e oral através da
+exposição de conceitos aplicados.
+4. Desenvolver nos alunos o hábito do estudo contínuo e organizado.
+2021-EFB109página 4 de 11
+----------------Page (3) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+ANTON, Howard. Cálculo: um novo horizonte. Trad. de Cyro de Carvalho Patarra e
+Márcia Tamanaha. 6. ed.  Porto Alegre, RS: Bookman, 2000. v. 2.  ISBN
+85-7307-652-6.
+STEWART, James. Cálculo. MORETTI, Antônio Carlos (Trad.). 6. ed.  São Paulo:
+Pioneira Thomson Learning, c2010. v. 2. 542 p.  ISBN 9788522106615.
+THOMAS JR., George B. Cálculo. Tradução de Alfredo Alves de Farias.  Rio de
+Janeiro, RJ: Ao Livro Técnico, 1965. v. 2. 426 p.
+Bibliografia Complementar:
+APOSTOL, Tom M. Calculus. 2. ed.  Barcelona: Reverte, 1973. v. 2.
+GUIDORIZZI, Hamilton Luiz. Um curso de cálculo.  S.l.p: s.c.p, 1979. v. 2/3.
+LARSON, Ron;HOSTETLER, Robert P; EDWARDS, Bruce H. Cálculo. 8. ed. São Paulo:
+McGraw-Hill, 2006. V.2 625p. 
+PISKOUNOV, N. Calculo diferencial e integral. Traducido del ruso por K. Medrov.
+3. ed.  Moscu: Mir, 1977. v. 2. 457 p.
+PISKOUNOV, N. Calculo diferencial e integral. Traduçao de Antonio Eduardo
+Pereira Teixeira e Maria José Pereira Teixeira. 4. ed.  Portugal: Lopes da
+Silva, 1975. v. 1. 516 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+- GeoGebra;
+- Wolfram Alpha;
+- Symbolab.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Provas:
+As provas semestrais P1 e P2, versarão sobre o conteúdo visto em cada
+semestre. A prova substitutiva PS versará sobre todo o conteúdo desenvolvido no
+curso. A aplicação das provas seguirá o calendário oficial da Escola.
+A média de provas MP é calculada segundo a expressão MP = (2*P1 + 3*P2)/5.
+2021-EFB109página 5 de 11
+----------------Page (4) Break----------------
+***** IMPORTANTE ***** A nota da prova PS substitui a menor dentre as notas
+das provas P1 e P2, ou a média entre essas notas, de acordo com a situação que
+melhor favorecer o aluno. 
+Trabalhos:
+As notas bimestrais de trabalho, Ti, i=1,2,3,4, serão compostas pela média
+aritmética de Aij. As atividades Aij podem conter questões dissertativas,
+múltipla escolha, preenchimento de lacunas e questões de resposta numérica.
+Tais atividades podem ser realizadas presencialmente e/ou online, via Open LMS.
+1°Bimestre: T1 = (A11 + A12)/2
+2°Bimestre: T2 = (A21 + A22)/2
+3°Bimestre: T3 = A31
+4°Bimestre: T4 = A41, 
+Será oferecido um trabalho de reposição das atividades Aij, no final do ano, a
+ser realizado na semana de 30.11 a 03.12. Esse trabalho substituirá a menor
+nota entre os Aij ou uma única ausência e versará sobre todo o conteúdo do ano.
+No caso de falta a mais de uma atividade, a nota obtida será lançada na posição
+que melhor favoreça ao aluno.
+A média de trabalhos, MT, é então calculada como a média ponderada das notas T1
+a T4: 
+MT=(T1+T2+2*T3+2*T4)/6.
+A média final será obtida por:
+MF= 0,6*MP+0,4*MT
+Se MF for maior ou igual a 6,0(seis) o aluno está aprovado nesta disciplina.
+2021-EFB109página 6 de 11
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+O desenvolvimento das atividades desta disciplina compõe um processo de
+aprendizagem onde você será tratado com respeito. São bem-vindos indivíduos de
+todas as idades, origens, crenças, etnias, gêneros, identidades de gênero,
+expressões de gênero, origens nacionais, afiliações religiosas, orientações
+sexuais, outras diferenças visíveis e não visíveis. Espera-se que todos os
+matriculados nesta disciplina contribuam para um ambiente respeitoso, acolhedor
+e inclusivo para todos.
+2021-EFB109página 7 de 11
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Juliana Martins Philot
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Hector Alexandre Chaves Gil
+ Coordenador(a) do Ciclo Básico
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+2021-EFB109página 8 de 11
+----------------Page (7) Break----------------
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EFB109página 9 de 11
+----------------Page (8) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 EPrograma de recepção e integração dos calouros - PRINT   0
+  2 EProblema motivacional, abordando o conteúdo de derivadas
+parciais, plano tangente e reta normal
+   61% a 90%
+  3 ERegra da cadeia e derivação implícita   11% a 40%
+  4 EDerivada direcional e vetor gradiente   11% a 40%
+  5 EExercícios de aplicação dos conteúdos abordados
+anteriormenteAtividade A11
+   41% a 60%
+  6 EProblema motivacional sobre Máximos e Mínimos   61% a 90%
+  7 EValores máximos e mínimos   11% a 40%
+  8 EExercícios   41% a 60%
+  9 EMultiplicadores de LagrangeAtividade A12   11% a 40%
+ 10 EAula suspensa   0
+ 11 EIntegrais duplas - aula invertida   91% a
+100%
+ 12 EIntegrais duplas utilizando sistemas de coordenadas
+polaresAtividade A21
+   11% a 40%
+ 13 EIntegrais triplas - aula invertida   91% a
+100%
+ 14 EIntegrais triplas utilizando sistemas de coordenadas cilíndricas   11% a 40%
+ 15 EAulas suspensas - Smile   0
+ 16 EIntegrais triplas utilizando sistemas de coordenadas esféricas   11% a 40%
+ 17 EAtividade de RevisãoAtividade A22   61% a 90%
+ 18 EVerificação de conceitos   61% a 90%
+ 19 ESemana de provas P1   0
+ 20 ESemana de provas P1   0
+ 21 EExercícios   61% a 90%
+ 22 EAula suspensa   0
+ 23 EProblema motivacional abordando o conceito de integral de linha
+de campo vetorial
+   61% a 90%
+ 24 EIntegral de linha de campo escalar   11% a 40%
+ 25 EIntegral de linha de campo vetorial   11% a 40%
+ 26 ECampos conservativos 01   11% a 40%
+ 27 ECampos conservativos 02   11% a 40%
+ 28 ETeorema de GreenAtividade A31   11% a 40%
+ 29 EAula suspensa   0
+ 30 EProblema motivacional de aplicação do Teorema de Stokes   61% a 90%
+ 31 EParametrização de superfícies   11% a 40%
+ 32 ECálculo de áreas de superfícies utilizando integral sobre uma
+superfície
+   11% a 40%
+ 33 EIntegrais de Superfícies   11% a 40%
+ 34 ETeorema de Stokes   11% a 40%
+ 35 EProblema motivacional de aplicação do Teorema de Gauss e cálculo
+do divergente
+   61% a 90%
+2021-EFB109página 10 de 11
+----------------Page (9) Break----------------
+ 36 ETeorema do Divergente (Gauss)Atividade A41   11% a 40%
+ 37 ESemana de Provas P2   0
+ 38 ESemana de Provas P2   0
+ 39 ESemana de Provas P2   0
+ 40 EExercícios de revisão para a PS   61% a 90%
+ 41 ESemana de Provas PS   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EFB109página 11 de 11
+----------------Page (10) Break----------------

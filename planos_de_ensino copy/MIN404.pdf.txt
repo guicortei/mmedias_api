@@ -1,0 +1,286 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+OperaçõesMIN404
+Course:
+Production Operations
+Materia:
+Operaciones de Producción
+Periodicidade: SemestralCarga horária total: 40Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Administração4Matutino
+Administração4Noturno
+Engenharia de Alimentos5Diurno
+Engenharia de Controle e Automação5Diurno
+Engenharia de Controle e Automação6Noturno
+Engenharia de Controle e Automação5Noturno
+Engenharia de Computação5Diurno
+Engenharia Civil5Diurno
+Engenharia Civil6Noturno
+Engenharia Civil5Noturno
+Design4Matutino
+Design4Noturno
+Engenharia Eletrônica5Diurno
+Engenharia Eletrônica6Noturno
+Engenharia Elétrica6Noturno
+Engenharia Elétrica5Diurno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Noturno
+Engenharia de Produção6Noturno
+Engenharia de Produção5Diurno
+Engenharia de Produção5Noturno
+Engenharia Química6Noturno
+Engenharia Química5Diurno
+Engenharia Química5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marcos Aurelio MartãoTecnólogo em Processos de ProduçãoMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Marcos Aurelio MartãoTecnólogo em Processos de ProduçãoMestre
+2021-MIN404página 1 de 9
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Diretrizes de liderança para a área de Operações. Indicadores de Desempenho.
+Normas da Qualidade ISO 9001:2015 e TS 16949. Técnicas Avançadas da Qualidade.
+Fundamentos de Gestão de Materiais e Manutenção. Teoria das Restrições
+SYLLABUS
+Guidelines for Operations area. Performance indicators. Quality Standards ISO
+9001:2015 and TS 16949. Advanced Techniques of Quality. Fundamentals of
+Materials management and Maintenance. Theory of Constraints.
+TEMARIO
+Directrices para el área de operaciones. Indicadores de desempeño. Normas de
+calidad ISO 9001:2015 y TS 16949. Técnicas avanzadas de calidad. Fundamentos de
+gestión de materiales y mantenimiento. Teoría de las restricciones
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+O Estudante deverá ter domínio de:
+- Matemática;
+- Raciocínio Lógico;
+- Princípios de Adminitração.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Competência I - Gerenciar recursos, estabelecendo objetivos e metas, planejando
+e priorizando ações, controlando o desempenho, alocando responsabilidades e
+mobilizando pessoas para o resultado.Está relacionada com liderar com
+legitimidade. Está relacionada com ser capaz de liderar empreendimentos em
+todos os seus aspectos de produção, de finanças, de pessoal e de
+mercadoCompetência II - Compreender o ambiente, utilizando cenários e seus
+impactos ao longo do tempo, considerando as dimensões humana, social, política,
+ambiental, legal, ética e econômico-financeira.Está relacionada com agir sempre
+baseado em princípios humanísticos e éticos.
+2021-MIN404página 2 de 9
+----------------Page (1) Break----------------
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Prover ao Estudante conhecimentos, habilidades e atitudes, conforme descrito:
+CONHECIMENTO
+Faculdade de conhecer (idéia, noção, informação).
+C1 - Conhecimento dos principais conceitos e técnicas da gestão de operações,
+no que se refere ao processo produtivo, fluxo das operações, análise dos
+resultados operacionais e sistemas da qualidade;
+Estrutura de conhecimentos que lhe proporcione rápida adaptação às situações do
+mercado e direcionamento para novas realizações de interesse social e humano;
+C9 - Conhecimento para avaliar e desenvolver soluções de problemas operacionais
+das áreas industrial e de serviços, bem como da gestão dos recursos materiais;
+C3 - Conhecimento de conceitos, técnicas e sistemas de gestão da qualidade. 
+HABILIDADES
+Capacidade de fazer uma coisa com perfeição e conhecimento do que executa.
+H1 - Analise de modelos de planejamento, programação e controle em diferentes
+ambientes de produção (TOC);
+H2 - Reflexão dos sistemas produtivos baseada em indicadores de eficiência,
+eficácia e produtividade;
+H3 - Cálculo e avaliação dos resultados operacionais e análise das melhorias em
+processos (TOC);
+H4 - Atuação em equipes de planejamento e gestão de produtos e processos;
+H5 - Comunicação eficiente direcionada para atuação em gestão de operações.
+ATITUDES
+Agir de maneira coerente com referência ao seu objetivo.
+A1 - Visão sistêmica e ética da gestão da produção e de pessoas;
+A2 - Busca da aprendizagem contínua;
+A4 - Interdisciplinaridade na solução de problemas técnicos;
+A9 - Compromisso com a qualidade do trabalho;
+A13 - Tomar decisões com base nos valores, missão e visão organizacional;
+A14 - Reconhecer seus próprios limites e os de suas decisões.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+2021-MIN404página 3 de 9
+----------------Page (2) Break----------------
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Sala de aula invertida
+- Gamificação
+METODOLOGIA DIDÁTICA
+Aulas expositivas, utilizando como recursos de apoio:
+- Aplicações práticas para consolidação dos conceitos
+- Metodologia ativa de aprendizagem: Sala Invertida e QUIZ;
+- Jogos de empresa com base na Teoria das Restrições;
+- Artigos de pré-leitura;
+- Estudos de Casos.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos.
+Pesos dos trabalhos:
+ k1: 4,0  k2: 6,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Os assuntos ministrados e respectivas práticas aplicadas, fornecerão o
+conhecimento e domínio de diversos conceitos, técnicas e ferramentas de Gestão
+de Operações, provendo o Estudante de visão ampla dos negócios e como utilizar
+os conhecimentos e técnicas absorvidas na solução de problemas e na tomada de
+decisão, em sistemas produtivos de bens e de serviços.
+BIBLIOGRAFIA
+Bibliografia Básica:
+GOLDRATT, Eliyahu M. A meta na prática: livro de exercícios da TOC. Trad. Maria
+Lúcia Cumo, rev. tec. Thomas Cobtt, Goldratt Consulting. São Paulo, SP: Nobel,
+2006. 91 p. ISBN 9788521313274.
+MOREIRA, Daniel Augusto. Administração da produção e operações. 4. ed. São
+Paulo: Pioneira Thomson Learning, 2001. 619 p. (Biblioteca Pioneira de
+Administração e Negócios). ISBN 8522101353.
+SLACK, Nigel; CHAMBERS, Stuart; JOHNSTON, Robert. Administração da produção.
+Trad. de Maria Teresa Corrêa de Oliveira e Fábio Alher; rev. téc. de Henrique
+Luiz Corrêa. 2. ed. São Paulo, SP: Atlas, 2002. 747 p. ISBN 9788522432509.
+2021-MIN404página 4 de 9
+----------------Page (3) Break----------------
+Bibliografia Complementar:
+CORRÊA, Henrique Luiz; GIANESI, Irineu G. N; CAON, Mauro. Planejamento,
+programação e controle da produção: MRP II / ERP: conceitos, uso e implantação.
+3. ed. São Paulo: Atlas, 2000. 411 p. ISBN 8522425027
+GAITHER, Normam; FRAZIER, Greg. Administração da produção e operações. Trad.
+José Carlos Barbosa dos Santos, Rev. téc. de Petrônio Garcia Martins. 8. ed.
+São Paulo, SP: Pioneira, 2001. 598 p. ISBN 85-221-0237-6.
+MARTINS, Petrônio Garcia; ALT, Paulo Renato Campos. Administração de materiais
+e recursos patrimoniais. São Paulo, SP: Saraiva, 2000. 353 p. ISBN
+85-02-03008-6.
+MAXIMIANO, Antonio Cesar Amaru. Introdução à administração. 6. ed.  São Paulo,
+SP: Atlas, 2004. 434 p.  ISBN 8522436274.
+RITZMAN, Larry P; KRAJEWSKI, Lee J. Administração da produção e operações.
+Trad. de Roberto Galman, rev. téc. de Carlos Eduardo Mariano da Silva. São
+Paulo, SP: Pearson Prentice Hall, 2004. 431 p. ISBN 8587918389.
+.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Serão desenvolvidas várias atividades ao longo do semestre. A média destas
+atividade será calculada e publicada como notas de trabalho (K1 e K2), a partir
+das quais será definida a média do semestre.
+2021-MIN404página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+2021-MIN404página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marcos Aurelio Martão
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) Claudia Alquezar Facca
+ Coordenador(a) do Curso de Design
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Ricardo Balistiero
+ Coordenador(a) do Curso de Administração
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+2021-MIN404página 7 de 9
+----------------Page (6) Break----------------
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-MIN404página 8 de 9
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 ENão aula - 13.02.2021   0
+  2 E0.INTRODUÇÃO À DISCIPLINA (início período letivo:
+20.02.2021)*Foco: Apresentação dos Alunos, Plano Ensino e
+Critério de Avaliação
+   11% a 40%
+  3 E1.LIDERANÇA DE OPERAÇÕES*Foco: Gestor de operações - Conceito de
+Competências
+   11% a 40%
+  4 E1.LIDERANÇA DE OPERAÇÕES*Foco: O papel do Gestor de operações -
+ESTUDO DE CASO: Aplicação
+   41% a 60%
+  5 E1.LIDERANÇA DE OPERAÇÕES*Foco: O papel do Gestor de operações-
+ESTUDO DE CASO: Resolução
+   91% a
+100%
+  6 E2.INDICADORES DE DESEMPENHO*EficiÊncia, EficÁcia e EFETIVIDADE-
+QUIZ: Mentimeter
+   41% a 60%
+  7 E3.GESTÃO DA QUALIDADE* Dimensões da Qualidade e Normas   11% a 40%
+  8 EFeriado: Paixão de Cristo   0
+  9 E4.GESTÃO DA CADEIA DE SUPRIMENTOS* Componentes de Decisão   11% a 40%
+ 10 EAvaliação Escolar da P1 - disciplinas AN e S1 - Todos os cursos 
+(12 a 17.04)
+   0
+ 11 EAVALIAÇÃO T1- QUIZ EQUIPE: MENTIMENTER (ARTIGO)- QUIZ INDIVIDUAL:
+SOCRATIVE (MATÉRIA)
+   91% a
+100%
+ 12 EFeriado: Dia do Trabalho   0
+ 13 E5. GESTÃO OPERAÇÕES: TOC*Foco: Princípios da Teoria das
+Restrições- INTRODUÇÃO AO GAME TOC
+   41% a 60%
+ 14 E5. GESTÃO OPERAÇÕES: TOC*Foco: Princípios da Teoria das
+Restrições- JOGO 01 (031)
+   61% a 90%
+ 15 ESemana Maua¿ de Inovac¿a¿o, Lideranc¿a e Empreendedorismo - SMILE
+2021
+   0
+ 16 E5. GESTÃO OPERAÇÕES: TOC*05 passos da Teoria das Restrições- JOGO
+02 + 03 (031)
+   91% a
+100%
+ 17 E5. GESTÃO OPERAÇÕES: TOC*Explorar os 05 passos da Teoria das
+Restrições- JOGO 04 (031) + 05 (030)
+   91% a
+100%
+ 18 EAVALIAÇÃO T2- QUIZ EQUIPE: MENTIMENTER (ARTIGO)- QUIZ INDIVIDUAL:
+SOCRATIVE (MATÉRIA)
+   91% a
+100%
+ 19 EAvaliação Escolar da P2 das disciplinas AN e S1 - Engenharias (14
+a 26.06)
+   0
+ 20 EAvaliação Escolar da P2 das disciplinas AN e S1 - Engenharias (14
+a 26.06)
+   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-MIN404página 9 de 9
+----------------Page (8) Break----------------

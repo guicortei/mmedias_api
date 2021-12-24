@@ -1,0 +1,252 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Hidráulica e PneumáticaECA410
+Course:
+Instrumentation
+Materia:
+Instrumentación
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação5Noturno
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Alexandre Harayashiki MoreiraEngenheiro em Controle e AutomaçãoMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Alexandre Harayashiki MoreiraEngenheiro em Controle e AutomaçãoMestre
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Introdução à automação pneumática e hidráulica. Fundamentos físicos da
+pneumática e hidráulica. Mistura ar-vapor d¿água. Fluídos hidráulicos e suas
+propriedades. Componentes de circuitos pneumáticos e hidráulicos: válvulas,
+atuadores lineares e rotativos, bombas, compressores. Simbologia gráfica.
+Análise e projeto de circuitos pneumáticos e hidráulicos. Eletro-pneumática e
+eletro-hidráulica. Aulas práticas em bancadas didáticas.
+SYLLABUS
+Introduction to pneumatic and hydraulic automation. Physical Fundamentals of
+pneumatics and hydraulics. Mixing air-water vapor. Hydraulic fluids and their
+properties. Components of pneumatic and hydraulic circuits: valves, linear and
+rotary actuators, pumps, compressors. Graphic symbols. Analysis and design of
+pneumatic and hydraulic circuits. Electro-pneumatic and electro-hydraulic.
+Practical lessons in didactics benches.
+2021-ECA410página 1 de 8
+----------------Page (0) Break----------------
+TEMARIO
+Introducción a la automatización neumática y hidráulica. Fundamentos físicos
+de la neumática y la hidráulica. Mezcla de aire-vapor de agua. Los fluidos
+hidráulicos y sus propiedades. Componentes de circuitos neumáticos y
+hidráulicos: válvulas, actuadores lineales y giratorios, bombas, compresores.
+Símbolos gráficos. Análisis y diseño de circuitos neumáticos y hidráulicos.
+Electro-neumática y electro-hidráulicos. Lecciones prácticas en bancos
+didácticos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Fenômenos de Transporte: transporte de calor e Mecânica dos Fluidos.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+II - analisar e compreender os fenômenos físicos e químicos por meio de modelos
+simbólicos, físicos e outros, verificados e validados por experimentação.III -
+conceber, projetar e analisar sistemas, produtos (bens e serviços), componentes
+ou processos.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+c5) Sólida formação em sistemas hidráulicos e pneumáticos, em especial, para
+obter os seguintes conhecimentos:
+- Elementos Finais de Controle;
+- Controladores de sistemas realimentados;
+- Outras estratégias de Controle;
+- Importância da aplicação de sistemas hidráulicos e sistemas pneumáticos
+como solução para viabilizar projetos de equipamentos e dispositivos
+mecânicos;
+- Leitura e interpretação de diagramas simbológicos de circuitos hidráulicos
+e pneumáticos;
+- Aspectos construtivos dos componentes basicos de um sistema hidráulico e
+pneumático;
+- Características principais de aplicação dos circuitos fundamentais de
+sistemas óleo hidráulicos e pneumáticos.
+HABILIDADES:
+h1) Aplicar conhecimentos matemáticos, científicos, tecnológicos e
+instrumentais à engenharia na sua área de atuação;
+h2) Assumir a postura de permanente busca de atualização profissional;
+h3) Atuar em equipes multidisciplinares;
+h6) Avaliar criticamente a operação e manutenção de sistemas e processos na sua
+área de atuação;
+h8) Comunicar eficientemente nas formas oral e escrita, no padrão formal da
+língua portuguesa;
+2021-ECA410página 2 de 8
+----------------Page (1) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas, com a participação ativa dos estudantes, acompanhadas de
+exercícios relacionados com os assuntos abordados na teoria e voltados às suas
+aplicações em situações práticas com vista à interdisciplinaridade.
+Utilização de equipamentos de audiovisual, como por exemplo, projetor de
+slides, bem como a utilização de softwares existentes na IES, para simulação do
+comportamento dinâmico de equipamentos industriais típicos e respectivos
+sistemas de controle automático.
+Utilização dos equipamentos existentes em laboratório para demonstração e/ou
+realização de práticas pertinentes a esta área de conhecimento.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  k4: 1,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+É cada vez mais frequente a necessidade de se automatizar os processos
+industriais com a finalidade de melhorar a qualidade dos produtos fabricados
+e/ou a produtividade dos processos envolvidos. Na indústria, em particular, a
+busca contínua de uma melhora no desempenho dos processos industriais leva
+obrigatoriamente à utilização de sistemas eletro-mecânicos para o acionamento e
+o controle de processos e/ou de automação da manufatura. Dentro deste cenário,
+a disciplina de Hidráulica e Pneumática contribui para integrar os
+conhecimentos adquiridos pelos alunos em outras disciplinas que compõem a
+grade curricular do curso na solução de problemas relacionados com a
+automatização de unidades industriais, desenvolvendo no aluno a
+capacidade de abordar de forma sistêmica o equipamento e/ou o processo em
+estudo. Adicionalmente esta disciplina apresenta ao aluno uma visão abrangente
+sobre os principais equipamentos utilizados industrialmente para o controle
+automático de processos industriais.
+2021-ECA410página 3 de 8
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+FESTO Didactic. Introdução à hidráulica.  São Paulo, SP: Festo, 1995. 154 p.
+FESTO Didactic. Introdução à pneumática: P111.  São Paulo, SP: Festo, 1994. 93
+p.
+STEWART, Harry L. Pneumática e hidráulica.  São Paulo, SP: Hemus, s.d. 481 p. 
+ISBN 85-289-0108-4.
+Bibliografia Complementar:
+ASSOCIAÇÃO Brasileira de Hidráulica e Pneumática. Coletânea de artigos
+técnicos: hidráulica e pneumática.  São Paulo, SP: ABHP, 1995. v. 1.
+ASSOCIAÇÃO Brasileira de Hidráulica e Pneumática. Coletânea de artigos
+técnicos: hidráulica e pneumática.  São Paulo, SP: ABHP, 1995. v. 2.
+FESTO Didactic. Análise e montagem de sistemas pneumáticos (P121).  São Paulo,
+SP: Festo, 1995. 142 p.
+MANUAL prático de hidráulica e pneumática: conceitos, cálculos dimensionais,
+conversões de medidas, tabelas, símbolos gráficos. 2. ed.  São Paulo, SP:
+Associação Brasileira de Hidráulica e Pneumática, 1993. 75 p.
+RACINE Hidráulica; PALMIERI, Antonio Carlos. Manual de hidráulica básica. 9.
+ed.  Porto Alegre, RS: Albarus, 1994. 326 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+FluidSim
+Codesys
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A avaliação será realizada com base nos trabalhos realizados em laboratório e
+também apresentados ao longo dos períodos estipulados pelos professores.
+A nota de trabalho pode ser baseada em uma média de trabalhos apresentados e/ou
+entregues no período corrente.
+2021-ECA410página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-ECA410página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Alexandre Harayashiki Moreira
+ Responsável pela Disciplina
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ECA410página 6 de 8
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LDia não letivo.   0
+  2 LApresentação do Curso, Introdução aos Circuitos Pneumáticos:
+LeisBásicas da Pneumática e Simbologia Pneumática.
+   0
+  3 LAspectos construtivos e de funcionamento dos componentes de um
+circuitopneumático.
+   41% a 60%
+  4 LAspectos construtivos e de funcionamento dos componentes de um
+circuitopneumático.
+   41% a 60%
+  5 LCircuitos Pneumáticos: comandos.   41% a 60%
+  6 LCircuitos Pneumáticos: método intuitivo. Montagem na bancada da
+Festo.
+   41% a 60%
+  7 LExercícios com Aplicações de Circuitos Pneumáticos.   91% a
+100%
+  8 LCircuitos Pneumáticos: exercícios sobre o método intuitivo no
+programaFluidSim.
+   91% a
+100%
+  9 LSemana de provas.   0
+ 10 LCircuitos Pneumáticos: método cascata.   41% a 60%
+ 11 LCircuitos Pneumáticos: exercícios utilizando o método cascata.   91% a
+100%
+ 12 LCircuitos Pneumáticos: método passo a passo.   41% a 60%
+ 13 LExercícios com o método passo a passo.   91% a
+100%
+ 14 LProjetos de circuitos pneumáticos.   91% a
+100%
+ 15 LProjetos de circuitos pneumáticos.   91% a
+100%
+ 16 LAvaliação com circuitos pneumáticos.   91% a
+100%
+ 17 LApresentação projeto de circuitos pneumáticos.   91% a
+100%
+ 18 LSemana de provas.   0
+ 19 LSemana de provas.   0
+ 20 LRevisão de notas.   0
+ 21 LSimbologia Hidráulica: Conceitos e Convenções. Simbologia
+Aplicada aCircuitos Hidráulicos.
+   0
+ 22 LClassificação dos Componentes Básicos de um Circuito Hidráulico.
+Aspectos Construtivos dos Componentes de um Circuito Hidráulico.
+   0
+ 23 LEspecificação e dimensionamento de componentes hidráulicos.   41% a 60%
+ 24 LAplicações de Circuitos Hidráulicos. Exemplos e exercícios.   41% a 60%
+ 25 LProjetos e Aplicações de um Circuito Hidráulico.   91% a
+100%
+ 26 LProjetos e Aplicações de um Circuito Hidráulico.   91% a
+100%
+ 27 LProjetos e Aplicações de um Circuito Hidráulico.   91% a
+100%
+2021-ECA410página 7 de 8
+----------------Page (6) Break----------------
+ 28 LExercícios sobre circuitos hidráulicos.   91% a
+100%
+ 29 LSemana de provas.   0
+ 30 LExercícios sobre circuitos hidráulicos.   91% a
+100%
+ 31 LProjeto de sistemas de automação.   91% a
+100%
+ 32 LProjeto de sistemas de automação.   91% a
+100%
+ 33 LProjeto de sistemas de automação.   91% a
+100%
+ 34 LProjeto de um sistema de automação aplicado à indústria.   91% a
+100%
+ 35 LProjeto de um sistema de automação aplicado à indústria.   91% a
+100%
+ 36 LSemana de provas.   0
+ 37 LSemana de provas.   0
+ 38 LSemana de provas.   0
+ 39 LSolução de exercícios de avaliação.   41% a 60%
+ 40 LSemana de provas.   0
+ 41 LSemana de provas.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ECA410página 8 de 8
+----------------Page (7) Break----------------

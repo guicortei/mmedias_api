@@ -1,0 +1,281 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Transferência de Calor IIEMC616
+Course:
+Heat Transfer II
+Materia:
+Transferencia de Calor II
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 01 - 01 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica5Noturno
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marco Antonio Soares de PaivaEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Bruno Galelli ChieregattiEngenheiro MecânicoDoutor
+Carlos Vinicius Xavier BessaEngenheiro MecânicoDoutor
+João de Sa Brasil LimaEngenheiro MecânicoDoutor
+Marco Antonio Soares de PaivaEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 30%
+Mediada por tecnologia: 70%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+- Projeto: 10%
+EMENTA
+Uso de software de elementos finitos e CFD para resolução de problemas de
+transferência de calor. Convecção natural. Convecção forçada interna. Ebulição
+de fluidos em piscina. Condensação de fluidos na forma de filmes. Cálculo de
+carga térmica de ambientes. Trocadores de calor. Projeto de um radiador
+automotivo.
+SYLLABUS
+Solving heat transfer problems through CFD and finite element softwares.
+Natural convection. Internal forced convection. Pool boiling. Film
+condensation. Room heat load calculation. Heat exchangers. Automotive radiator
+project.
+2021-EMC616página 1 de 9
+----------------Page (0) Break----------------
+TEMARIO
+Uso de elementos finitos y software CFD para resolver problemas de
+transferencia de calor. Convección natural. Convección forzada interna. Fluido
+hirviendo en piscina. Condensación de fluidos en forma de películas. Cálculo de
+carga térmica ambiental. Intercambiadores de calor Proyecto de un radiador para
+autos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Geometria e Visão Espacial
+- Física e Mecânica Geral
+- Cálculo Diferencial e Integral
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Analisar e compreender os usuários das soluções de engenharia e seu
+contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadas na área de energia e fluidos.2. Dominar o ciclo de investigação dos
+aspectos analítico, numérico e experimental de um mesmo fenômeno, aprendendo a
+conciliar as diferenças encontradas no conhecimento interdisciplinar coordenado
+entre as disciplinas da área de energia e fluidos.3. Analisar e compreender os
+fenômenos físicos e químicos por meio de modelos matemáticos, computacionais ou
+físicos, validados por experimentação.4. Projetar, analisar e supervisionar a
+operação e a manutenção de sistemas, produtos e processos.5. Planejar,
+elaborar, coordenar e avaliar a viabilidade econômica de projetos e serviços de
+engenharia na área de energia e fluidos.6. Comunicar-se eficientemente nas
+formas escrita, oral e gráfica.7. Trabalhar e liderar equipes
+multidisciplinares.8. Conceber modelos numéricos e simulações para predizer
+resultados de projetos inovadores.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Objetivos - Conhecimentos, Habilidades e Atitudes:
+Conhecimento:
+C1 - conceitos fundamentais;
+C2 - conhecimento dos mecanismos de transmissão de calor, matéria e
+propriedades termofísica.
+Atitudes:
+A1 - desenvolver capacidade de compreensão de problemas;
+A2 - abstração para a formulação de modelos matemáticos;
+A3 - aplicação de leis gerais;
+A4 - análise do comportamento do modelo do processo ou do equipamento;
+A5 - organizar os procedimentos de solução de problemas.
+Habilidades:
+H1 - desenvolver a capacidade do aluno de conceituar problemas e generalizar a
+aplicação dos conhecimentos;
+H2 - desenvolver a capacidade de observar a realidade e com o ferramental
+adquirido gerar modelos matemáticos dela representativos;
+H3 - avaliar desvios entre o comportamento simulado do modelo e a realidade.
+2021-EMC616página 2 de 9
+----------------Page (1) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas presenciais e remotas mediadas por tecnologia, acompanhadas
+de exercícios. Durante o curso será desenvolvido com os alunos o projeto
+transdisciplinar da área de Energia e Fluidos, envolvendo as disciplinas
+Mecânica dos Fluidos e Termodinâmica no assunto de salas limpas. Como
+infraestrutura para o desenvolvimento do curso, além das ferramentas
+tradicionais de ensino, são utilizados equipamento multimídia para projeção de
+material didático, o Laboratório de Termodinâmica e também o uso do software
+EES Enginnering Equation Solver. As atividades computacionais complementares
+são desenvolvidas em laboratório computacional dedicado ao curso.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 0,5  k2: 0,5  
+ Peso de MP(kP): 0,8          Peso de MT(kT): 0,2
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina propicia o conhecimento dos mecanismos de transferência de calor e
+também o entendimento de como a Termodonâmica e a Transferência de Calor estão
+relacionadas. Desenvolve a capacidade de modelagem matemática e simulação
+computacional de problemas. Propicia o desenvolvimento de procedimentos
+organizados para o desenvolvimento de modelagem matemática por meio da
+estrutura de raciocínio que deve caracterizar a atitude do engenheiro. As
+aplicações extrapolam o âmbito da própria disciplina.
+2021-EMC616página 3 de 9
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+COELHO, João Carlos Martins. Energia e Fluidos: Transferência de calor. :
+Blucher, 2016. v. 3. 287 p. ISBN 9788521209492.
+INCROPERA, Frank P; DEWITT, David P. Fundamentos de transferência de calor e de
+massa. Trad. de Carlos Alberto Biolchini da Silva. 5. ed. Rio de Janeiro, RJ:
+LTC, 2002. 698 p. ISBN 85-216-1378-4.
+ÇENGEL, Yunus A. Transferência de calor e massa: uma abordagem prática. Trad.
+de Luiz Felipe mendes de Moura ; rev. téc. de Kamal A. R. Ismail. 3. ed.
+Boston: McGraw-Hill, 2009. 902 p. (McGraw-Hill Series in Mechanical
+Engineering). ISBN 9788577260751.
+Bibliografia Complementar:
+MORAN, Michael J et al. Introdução à engenharia de sistemas térmicos:
+termodinâmica, mecânica dos fluidos e transferência de calor. Tradução de
+Carlos Alberto Biolchini da Silva. Rio de Janeiro, RJ: LTC, 2005. 604 p. ISBN
+8521614462.
+MUNSON, Bruce R; YOUNG, Donald F; OKIISHI, Theodore. Uma introdução concisa à
+mecânica dos fluidos. trad. da 2. ed. americana por Euryale de Jesus Zerbini.
+São Paulo, SP: Edgard Blücher, 2005. 372 p. ISBN 8521203608.
+Ozisik, M. Necati. Transferência de calor: um texto básico. [OLIVEIRA, Luiz
+de;MACEDO, Horácio]. Rio de Janeiro, RJ: Guanabara Koogan, 1990. 661 p. ISBN
+852270160X.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+1) Engineering Equation Solver (EES);
+2) ANSYS
+Ambos são disponíveis na escola.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Avaliação (conforme Resolução RN CEPE 07/2007):
+Baseada em: Provas e Trabalhos
+Pesos dos trabalhos:
+k1: 0,5 k2: 0,5
+Peso de MP(kP): 0,8 Peso de MT(kT): 0,2
+A nota P1 resultará da avaliação de uma simulação CFD realizada no horário de
+aula.
+2021-EMC616página 4 de 9
+----------------Page (3) Break----------------
+A nota P2 será composta por uma avaliação realizada no horário de aula,
+composta por questões discursivas, certo ou errado, de múltipla escolha e
+também por questões de resolução numérica.
+2021-EMC616página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Em função do DECRETO Nº 64.881, DE 22 DE MARÇO DE 2020 e suas sucessivas
+prorrogações determinando Quarentena obrigatória no Estado de São Paulo, todas
+as avaliações realizadas a partir daquela data e até que haja encerramento da
+Quarentena e autorização Estadual para retomada específica das aulas
+presenciais, serão realizadas via Plataforma de Ensino Mediado por Tecnologia.
+A nota da PS1 será determinada por uma atividade de avaliação realizada no
+horário de aula.
+2021-EMC616página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marco Antonio Soares de Paiva
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC616página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TNão há aulas para alunos veteranos   0
+  1 ENão há aulas para alunos veteranos   0
+  2 TApresentação da disciplina   0
+  2 EApresentação da disciplina   0
+  3 TIntrodução à CFD   0
+  3 EIntrodução à CFD   91% a
+100%
+  4 TCondução de Calor - Experimental   91% a
+100%
+  4 ECondução de Calor - Experimental   91% a
+100%
+  5 TCondução de Calor - Simulação   61% a 90%
+  5 ECondução de Calor - Simulação   61% a 90%
+  6 TCondução de Calor - Simulação   61% a 90%
+  6 ECondução de Calor - Simulação   61% a 90%
+  7 TSimulação - Condução e Convecção   61% a 90%
+  7 ESimulação - Condução e Convecção   61% a 90%
+  8 TSimulação - Análise Transiente   61% a 90%
+  8 ESimulação - Análise Transiente   61% a 90%
+  9 TProva P1   0
+  9 EProva P1   0
+ 10 TConvecção forçada interna. Teoria e exercícios.   61% a 90%
+ 10 EConvecção forçada interna. Exercícios.   61% a 90%
+ 11 TConvecção forçada interna. Teoria e exercícios.   61% a 90%
+ 11 EConvecção forçada interna. Exercícios.   61% a 90%
+ 12 EConvecção forçada interna e externa combinados. Exercícios.   61% a 90%
+ 12 TConvecção forçada interna e externa combinados.   61% a 90%
+ 13 TConvecção natural. Teoria e exercícios.   61% a 90%
+ 13 EConvecção natural. Exercícios   61% a 90%
+ 14 TConvecção natural. Teoria e exercícios.   61% a 90%
+ 14 EConvecção natural. Exercícios   61% a 90%
+ 15 TEbulição de fluidos em piscinas. Teoria e exercícios   61% a 90%
+ 15 EEbulição de fluidos em piscinas. Exercícios   61% a 90%
+ 16 TEbulição de fluidos em piscinas. Teoria e exercícios   61% a 90%
+ 16 EEbulição de fluidos em piscinas. Exercícios   61% a 90%
+ 17 TEbulição de fluidos em piscinas. Teoria e exercícios   61% a 90%
+ 17 EEbulição de fluidos em piscinas. Exercícios   61% a 90%
+ 18 TProva P2   0
+ 18 EProva P2   0
+ 19 TProva P2   0
+ 19 EProva P2   0
+ 20 TRevisão Prova P2   0
+ 20 ERevisão Prova P2   0
+ 21 EProva PS1   0
+2021-EMC616página 8 de 9
+----------------Page (7) Break----------------
+ 21 TProva PS1   0
+ 22 TProva PS1   0
+ 22 EProva PS1   0
+ 23 ECondensação em filme. Exercícios   61% a 90%
+ 23 TCondensação em filme. Teoria e exercícios   61% a 90%
+ 24 ECondensação em filme. Exercícios   61% a 90%
+ 24 TCondensação em filme. Teoria e exercícios   61% a 90%
+ 25 ECálculo de carga térmica de ambientes. Exercícios.   61% a 90%
+ 25 TCálculo de carga térmica de ambientes. Teoria e exercícios.   61% a 90%
+ 26 ECálculo de carga térmica de ambientes. Exercícios.   61% a 90%
+ 26 TCálculo de carga térmica de ambientes. Teoria e exercícios.   61% a 90%
+ 27 ECálculo de carga térmica de ambientes. Exercícios.   61% a 90%
+ 27 TCálculo de carga térmica de ambientes. Teoria e exercícios.   61% a 90%
+ 28 ECálculo de carga térmica de ambientes. Exercícios.   61% a 90%
+ 28 TCálculo de carga térmica de ambientes. Teoria e exercícios.   61% a 90%
+ 29 TProva P3   0
+ 29 EProva P3   0
+ 30 TTrocadores de calor. Conceitos e exercícios   61% a 90%
+ 30 ETrocadores de calor. Exercícios.   61% a 90%
+ 31 TTrocadores de calor. Conceitos e exercícios   61% a 90%
+ 31 ETrocadores de calor. Exercícios.   61% a 90%
+ 32 ETrocadores de calor. Exercícios.   61% a 90%
+ 32 TTrocadores de calor. Conceitos e exercícios   61% a 90%
+ 33 TDimensionamento de um radiator de automóvel.   61% a 90%
+ 33 EDimensionamento de um radiator de automóvel.   61% a 90%
+ 34 TDimensionamento de um radiator de automóvel.   61% a 90%
+ 34 EDimensionamento de um radiator de automóvel.   61% a 90%
+ 35 EDimensionamento de um radiator de automóvel.   61% a 90%
+ 35 TDimensionamento de um radiator de automóvel.   61% a 90%
+ 36 TDimensionamento de um radiator de automóvel.   61% a 90%
+ 36 EDimensionamento de um radiator de automóvel.   61% a 90%
+ 37 TProva P4   0
+ 37 EProva P4   0
+ 38 TProva P4   0
+ 38 EProva P4   0
+ 39 ERevisão Prova P4   0
+ 39 TRevisão Prova P4   0
+ 40 EProva PS2   0
+ 40 TProva PS2   0
+ 41 TProva PS2   0
+ 41 EProva PS2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC616página 9 de 9
+----------------Page (8) Break----------------

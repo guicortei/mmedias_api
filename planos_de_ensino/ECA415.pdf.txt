@@ -1,0 +1,338 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Processos de Fabricação e Lab. de ManufaturaECA415
+Course:
+Mechanical Manufacturing Processes
+Materia:
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Engenharia de Controle e Automação4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Adalto de FariasEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Adalto de FariasEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 70%
+Mediada por tecnologia: 30%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Teoria: Apresentar ao aluno os conceitos de processos de fabricação mecânicos
+capacitando-o a identificar e diferenciar as características e potencialidades
+de cada processo: Fundição em areia, shell-moulding, cera perdida e
+sob-pressão; Processos de conformação plástica, Laminação, Forjamento em matriz
+aberta e fechada, Estampagem, Trefilação e Extrusão; Processos de remoção de
+material por Usinagem, torneamento, fresamento, furação, mandrilamento e
+rosqueamento; Retificação plana e cilíndrica; Processos de sinterização;
+Processos de união por solda; Processos especiais de fabricação por
+Eletro-erosão, laser e jato de água de alta pressão.
+Laboratório: Permitir ao aluno o contato prático com a tecnologia de fabricação
+por usinagem em máquinas convencionais, torno, fresa, furadeira e também com
+máquinas CNC, torno e fresa. Apresentar ao aluno conceitos referentes à
+geometria de ferramentas de usinagem, criação de folhas de processo e escolha
+de parâmetros operacionais. Introduzir os conceitos da linguagem de programação
+ISO-G para máquinas CNC através da programação manual com simulação em software
+e com apoio de softwares específicos de programação CAM.
+2021-ECA415página 1 de 11
+----------------Page (0) Break----------------
+SYLLABUS
+Theory: Introduce the student to the concepts of mechanical manufacturing
+processes enabling him to identify and differentiate the characteristics of
+each process: Sand casting, shell-molding, lost wax and pressure casting;
+Plastic forming processes, Lamination, Open and closed die forging, Stamping,
+Drawing and Extrusion; Material removal processes by machining, turning,
+milling, drilling, boring and threading; Flat and cylindrical grinding;
+Sintering processes; Union processes by welding; Special manufacturing
+processes by Electro-eletrode, laser and high pressure water jet.
+Laboratory: Allow the student practical contact to machining technology with
+conventional machines as lathe, milling machine, drilling machine and with CNC
+machines, lathe and milling machine. Present to the student concepts related to
+the tools geometry, creation of process sheets and choice of operational
+parameters. Introduce the concepts of the ISO-G programming language for CNC
+machines through manual programming with software simulation and with the aid
+of specific CAM programming software.
+TEMARIO
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Desenho técnico mecânico;
+- Resistência dos Materiais;
+- Elementos de máquinas: aplicação e representação;
+- Materiais de construção mecânica;
+- Noções de metrologia;
+- Matemática, Física;
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1 - Analisar e compreender os fenômenos físicos e químicos por meio de modelos
+simbólicos, físicos e outros, verificados e validados por experimentação.2 -
+Implantar, supervisionar e controlar as soluções de engenharia.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos
+C1)Conhecer os principais processos de fabricação mecânica.
+C2)Conhecer e operar os principais equipamentos convencionais utilizados em
+processos de usinagem dos materiais.
+C3)Conhecer e programar os principais equipamentos CNC utilizados em processos
+de usinagem dos materiais.
+C4)Conhecer a principal linguagem de programação de máquinas CNC de usinagem.
+C5)Conhecer recursos computacionais utilizados na preparação de processos de
+fabricação por usinagem.
+C6)Formação nas áreas da Engenharia Mecânica pertinentes ao desenho, mecânico,
+projeto de máquinas e processos de fabricação.
+Habilidades
+2021-ECA415página 2 de 11
+----------------Page (1) Break----------------
+H1)Habilidade para avaliar e desenvolver soluções de problemas de relacionados
+aos processos de fabricação.
+H2)Atuar em equipe.
+H3)Avaliar criticamente a operação e manutenção de sistemas e
+processos de fabricação mecânicos.
+H4)Conceber, projetar e analisar processos mecânicos de fabricação e seu
+ferramental pertinente.
+H5)Demonstrar noção de ordem de grandeza na estimativa de dados e na avaliação
+de resultados relacionados aos processos de produção.
+H6)Conduzir experimentos e interpretar resultados.
+H7)Habilidade para utilizar os recursos de informática necessários para a
+solução dos problemas relacionados aos processos de fabricação.
+A1)Ter espírito de liderança e capacidade para inserir-se no trabalho em
+equipe.
+A2)Ter visão sistêmica e interdisciplinar na solução de problemas técnicos.
+A3)Ter percepção do conjunto e capacidade de síntese.
+A4)Ter posição crítica com relação a conceitos de ordem de grandeza.
+A5)Ter compromisso com a qualidade do trabalho.
+A6)Ter compromisso com a segurança no trabalho e do público em geral.
+A7)Ter dinamismo para saber acompanhar as mudanças tecnológicas em
+constante transformação.
+A8)Organizar o seu trabalho.
+A9)Tomar decisões e implementá-las
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Apresentação da teoria em aulas expositivas com auxílio de projetor e resolução
+de exercícios na lousa. Treinamento de habilidades em uso de softwares de
+simulação e CAM em laboratório de informática. Operação de máquinas operatrizes
+no laboratório de fabricação. Programação e operação de máquinas CNC (torno e
+fresadora) no laboratório de automação da manufatura com uso de equipamento
+industrial.
+2021-ECA415página 3 de 11
+----------------Page (2) Break----------------
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  k4: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina oferecerá base informativa e de conhecimento sobre as diferentes 
+possíveis alternativas de manufatura de um determinado componente mecânico.
+Permitirá a redução substancial de não conformidades, muito comumente 
+causadas no desenvolvimento de projetos mecânicos, quando o engenheiro 
+adquirir um conhecimento mais amplo das alternativas de fabricação
+existentes. Garantirá uma maior familiriarização com as diferentes áreas de 
+produção mecânica.
+Preparar o futuro engenheiro para atuar nos seguintes campos de atuação 
+segundo a resolução CREA: 1.3.4.01.01; 1.3.4.01.02; 1.3.4.08.00; 1.3.4.9.01 e
+1.3.4.9.02
+BIBLIOGRAFIA
+Bibliografia Básica:
+DINIZ, Anselmo Eduardo; MARCONDES, Francisco Carlos; COPPINI, Nivaldo Lemos.
+Tecnologia da usinagem dos materiais. 5. ed.  São Paulo, SP: Artliber, 2006.
+255 p.  ISBN 85-87296-01-9.
+GROOVER, Mickell P. Introdução aos processos de fabricação.  Rio de Janeiro:
+LTC, c2012. 737 p.  ISBN 9788521625193.
+Kiminami, Claudio Shyinti. Introdução aos processos de fabricação de produtos
+metálicos / Claudio Shyinti Kiminami, Walman Benício de
+Castro, Marcelo Falcão de Oliveira ¿ São Paulo: Blucher, 2013
+ISBN 978-85-212-0682-8
+Novaski, Olívio. Introdução à Engenharia de Fabricação Mecânica /
+Olívio Novaski. ¿ 2. ed. - São Paulo : Blucher, 2013.
+ISBN 978-85-212-0763-4
+2021-ECA415página 4 de 11
+----------------Page (3) Break----------------
+Álisson Rocha Machado, Reginaldo Teixeira Coelho, Alexandre Mendes Abrão,
+Márcio Bacci da Silva. Teoria da Usinagem dos Materiais. Ed. Blucher. 2015 ¿ 3ª
+edição. ISBN: 9788521208464
+Bibliografia Complementar:
+ALTAN, Taylan; OH, Soo-Ik; GEGEL, Harold L. Conformação de metais. Trad. de
+Reginaldo Teixeira Coelho; rev. téc. de Luís Antônio Adami; supervisão de
+Rosalvo Tiago Ruffino.  São Carlos, SP: EESC-USP, 1999. 350 p.  ISBN
+8585205253.
+KALPAKJIAN, Serope. Manufacturing engineering and technology. 4. ed.  New
+Jersey: Prentice Hall, 2000. 1148 p.  ISBN 0-201-36131-0.
+Lira, Valdemir Martins. Princípios dos processos de fabricação
+utilizando metais e polímeros / Valdemir Martins
+Lira. ¿ São Paulo : Blucher, 2017. 240 p.
+ISBN 978-85-212-1085-6
+NOVASKI, Olívio. Introdução à engenharia de fabricação mecânica.  São Paulo,
+SP: Edgard Blücher, 1994. 119 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+1-NX módulo de manufatura
+2-SSCNC simulação CNC
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Provas
+P1 - Somente teoria relativa ao 1° Semestre
+P2 - Somente teoria relativa ao 2° Semestre
+Psub - Toda a matéria
+	
+Trabalhos	
+T1 - Folha de processos de usinagem valendo até 10 pontos em GRUPO baseada em
+atividades práticas nas Máquinas Convencionais com pontos atribuídos de forma
+INDIVIDUAL ao aluno em função de seu desempenho na fabricação de um conjunto
+mecânico; Somente a presença vale 0,5 pts.
+T2 - Média das atividades (até 3) de aprendizagem ativas a serem realizadas nas
+aulas do Primeiro semestre.
+T3 - São atividades (até 5) práticas de programação nas Máquinas CNC em GRUPO,
+com pontos atribuídos de forma INDIVIDUAL ao aluno em função de seu desempenho;
+Somente a presença vale 0,5 pts.
+T4 -  Média das atividades (até 3) de aprendizagem ativas a serem realizadas
+2021-ECA415página 5 de 11
+----------------Page (4) Break----------------
+nas aulas do Segundo semestre.
+2021-ECA415página 6 de 11
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+2021-ECA415página 7 de 11
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Adalto de Farias
+ Responsável pela Disciplina
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ECA415página 8 de 11
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TDia não letivo   0
+  1 LDia não letivo   0
+  2 LPequena Intro - Normas de Segurança do Laboratório   0
+  2 TPequena Intro da Disciplina - Introdução ao Planejamento de
+Processos, considerações de Projeto de Produto para Usinagem
+   0
+  3 TOperações de Usinagem e Máquinas-Ferramenta: Torno   0
+  3 LIntro Proc. Fabricação por Usinagem - Geometria de Ferramentas de
+Corte
+   0
+  4 TOperações de Usinagem e Máquinas-Ferramenta: Furadeiras   0
+  4 LParâmetros e dados de corte - Catálogos - Introd. Folha de
+Processos
+   1% a 10%
+  5 TOperações de Usinagem e Máquinas-Ferramenta: Fresadora   0
+  5 LExecução de Folha de Processos de Usinagem - Exemplo 1   11% a 40%
+  6 TTeoria da Usinagem dos Metais - Forças e Potência de Corte   0
+  6 LExecução de Folha de Processos de Usinagem - Exemplo 2   11% a 40%
+  7 TForças e Potência de Corte   0
+  7 LAtividade no laboratório de Fabricação Máquinas Convencionais
+aula 1
+   91% a
+100%
+  8 TMateriais para ferramentas de usinagem   0
+  8 LAtividade no laboratório de Fabricação Máquinas Convencionais
+aula 2
+   91% a
+100%
+  9 LSemana de provas   0
+  9 TSemana de provas   0
+ 10 TAvaria, Desgaste e Vida da Ferramenta de usinagem   0
+ 10 LAtividade no laboratório de Fabricação Máquinas Convencionais
+aula 3
+   91% a
+100%
+ 11 LAtividade no laboratório de Fabricação Máquinas Convencionais
+aula 4
+   0
+ 11 TCondições Econômicas em Usinagem   1% a 10%
+ 12 TCondições Econômicas em Usinagem   0
+ 12 LAtividade no laboratório de Fabricação Máquinas Convencionais
+aula 5
+   91% a
+100%
+ 13 TRetificação e Outros Processos Abrasivos   0
+ 13 LIntrodução Máquinas CNC - Linguagem de Prog. ISO G - Torno   1% a 10%
+ 14 TProcessos Não Convencionais de Usinagem   0
+ 14 LLinguagem de Prog. ISO G - Torno - Simulador SSCNC   61% a 90%
+ 15 TSemana da Inovação   0
+ 15 LSemana da inovação   0
+ 16 TProcessos de Soldagem   0
+ 16 LLinguagem de Prog. ISO G - Torno - Simulador SSCNC   61% a 90%
+ 17 LRevisão da matéria   0
+ 17 TProcessos de Soldagem   0
+ 18 TSemana de provas   0
+ 18 LSemana de provas   0
+2021-ECA415página 9 de 11
+----------------Page (8) Break----------------
+ 19 LSemana de provas   0
+ 19 TSemana de provas   0
+ 20 LRevisão da matéria   0
+ 20 TRevisão da matéria   0
+ 21 TSemana de provas substitutivas   0
+ 21 LSemana de provas substitutivas   0
+ 22 TPrototipagem rápida e Manufatura aditiva   0
+ 22 LLinguagem de Prog. ISO G - Torno - Simulador SSCNC   41% a 60%
+ 23 TFundamentos da fundição de metais   0
+ 23 LLinguagem de Prog. ISO G - Fresadora - Simulador SSCNC   41% a 60%
+ 24 TProcessos de Fundição de Metais - Projeto de matrizes   0
+ 24 LLinguagem de Prog. ISO G - Fresadora - Simulador SSCNC   41% a 60%
+ 25 TFundamentos de conformação dos metais   0
+ 25 LProgramação software NX CAM - Torno   41% a 60%
+ 26 TProcessos de Laminação   0
+ 26 LProgramação software NX CAM - Torno   41% a 60%
+ 27 TProcessos de Forjamento   0
+ 27 LProgramação software NX CAM - Torno   41% a 60%
+ 28 LSemana de provas   0
+ 28 TSemana de provas   0
+ 29 TProcessos de Forjamento - Projeto de matrizes   0
+ 29 LProgramação software NX CAM - Fresa   41% a 60%
+ 30 TProcessos de Extrusão   0
+ 30 LProgramação software NX CAM - Fresa   41% a 60%
+ 31 TProcessos de Trefilação   0
+ 31 LAtividade no laboratório de Fabricação Máquinas CNC aula 1   91% a
+100%
+ 32 TConformação de chapas metálicas   0
+ 32 LAtividade no laboratório de Fabricação Máquinas CNC aula 2   91% a
+100%
+ 33 TConformação de chapas metálicas - Projeto de matrizes   0
+ 33 LAtividade no laboratório de Fabricação Máquinas CNC aula 3   91% a
+100%
+ 34 TProcessos de Conformação para Plásticos   0
+ 34 LAtividade no laboratório de Fabricação Máquinas CNC aula 4   91% a
+100%
+ 35 TMetalurgia do pó - Metálicos e Cerâmicos   0
+ 35 LAtividade no laboratório de Fabricação Máquinas CNC aula 5   91% a
+100%
+ 36 LSemana de provas   0
+ 36 TSemana de provas   0
+ 37 TSemana de provas   0
+ 37 LSemana de provas   0
+ 38 TSemana de provas   0
+ 38 LSemana de provas   0
+ 39 TRevisão da matéria   0
+ 39 LRevisão da matéria   0
+ 40 TRevisão da matéria   0
+2021-ECA415página 10 de 11
+----------------Page (9) Break----------------
+ 40 LRevisão da matéria   0
+ 41 LSemana de provas substitutivas   0
+ 41 TSemana de provas substitutivas   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ECA415página 11 de 11
+----------------Page (10) Break----------------

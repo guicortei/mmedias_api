@@ -1,0 +1,276 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Sistemas de Conversão de Energia IEMC617
+Course:
+Energy Conversion Systems I
+Materia:
+Sistemas de Conversión de Energía
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica3Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marco Antonio Soares de PaivaEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Marco Antonio Soares de PaivaEngenheiro MecânicoDoutor
+Roberto de Aguiar PeixotoEngenheiro NavalDoutor
+MODALIDADE DE ENSINO
+Presencial: 30%
+Mediada por tecnologia: 70%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Apresentação de aplicações da Termodinâmica. Conceitos e definições. A
+substância pura - propriedades termodinâmicas. Modelo gás perfeito. Conceito de
+trabalho e de calor. Primeira lei da Termodinâmica para sistemas. Primeira lei
+da Termodinâmica para volumes de controle. Segunda lei da Termodinâmica.
+Entropia. Segunda lei da Termodinâmica para sistemas. Segunda lei da
+Termodinâmica para volumes de controle. Irreversibilidade e disponibilidade.
+Termodinâmica, eficiência e questões ambientais. Breve apresentação de ciclos
+motores e de refrigeração atualmente existentes para conversão de energia.
+2021-EMC617página 1 de 9
+----------------Page (0) Break----------------
+SYLLABUS
+Thermodynamics applications. Some concepts and definitions. Properties of a
+pure substance. Ideal gas model. Work and heat. The First Law of Thermodynamics
+for closed systems. The First Law of Thermodynamics for control volumes. The
+Second Law of Thermodynamics. Entropy. The Second Law of Thermodynamics for
+control volumes. Irreversibility and availability. Thermodynamics and
+environmental issues. Brief presentation of power and refrigeration cycles.
+TEMARIO
+Presentación de las aplicaciones de la Termodinámica. Conceptos y definiciones.
+La sustancia pura-propiedades termodinâmicas. Modelo de gás perfecto. Concepto
+de trabajo e calor. Primera ley de la termodinámica para sistemas. Primera ley
+de la termodinámica para volumen de control. Entropia. Segunda ley de la
+termodinámica para sistemas. Segunda ley de la termodinámica volumen de
+control. Irreversibilidad y disponibilidad. Termodinámica y ambiente. Breve
+presentación de los ciclos de potencia e de refrigeración de máquinas térmicas.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Matemática: cálculo diferencial e integral; funções no espaço Rn ; operadores
+matemáticos. 
+Física: conceitos fundamentais,propriedades da matéria, equações de
+conservação, mecânica.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Analisar e compreender os usuários das soluções de engenharia e seu
+contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadas em projetos da área de energia e fluidos.2. Dominar o ciclo
+completo de investigação dos aspectos analítico, numérico e experimental de um
+mesmo fenômeno, aprendendo a conciliar as diferenças encontradas no
+conhecimento interdisciplinar coordenado entre as disciplinas da área de
+energia e fluidos e demais disciplinas do curso de Engenharia Mecânica.3.
+Analisar e compreender os fenômenos físicos e químicos por meio de modelos
+matemáticos, computacionais ou físicos, validados por experimentação. .4.
+Conceber, projetar, analisar  e supervisionar a operação e a manutenção de
+sistemas, produtos e processos..6. Comunicar-se eficientemente nas formas
+escrita, oral e gráfica..7. Trabalhar e liderar equipes multidisciplinares.10.
+Conceber modelos numéricos e simulações para predizer resultados de projetos
+inovadores e acelerar o ciclo de desenvolvimento.
+2021-EMC617página 2 de 9
+----------------Page (1) Break----------------
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimento:
+C1 - conceitos fundamentais;
+C2 - conhecimento da matéria; propriedades da matéria.
+Atitudes:
+A1 - desenvolver capacidade de compreensão de problemas;
+A2 - abstração para a formulação de modelos;
+A3 - aplicação de leis gerais;
+A4 - análise do comportamento do modelo do processo ou do equipamento;
+A5 - organizar os procedimentos de solução de problemas.
+Habilidades:
+H1 - desenvolver a capacidade do aluno de conceituar problemas e generalizar
+aplicação dos conhecimentos;
+H2 - desenvolver a capacidade de observar a realidade e com o ferramental 
+adquirido gerar modelos dela representativos;
+H3 - avaliar desvios entre o comportamento simulado do modelo e a realidade.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+As aulas de teoria serão apresentadas utilizando recursos de exposições orais
+com apoio de transparências apresentadas em multimídia, textos colocados na
+lousa, proposição de textos e vídeos para consulta prévia à aula, na qual serão
+discutidos entre os alunos ou entre esses e o professor. Aulas serão
+expositivas presenciais e remotas mediadas por tecnologia.
+A assimilação de conteúdo será algumas vezes avaliada por meio de questionários
+a serem respondidos em tempo real com o auxílio de ferramentas didáticas
+(Kahoot ou Socrative).
+Nas aulas de exercícios os alunos deverão resolver e entregar para avaliação,
+exercícios propostos conforme programa no MoodleRooms. Para a resolução de
+exercícios os alunos aprenderão a utilizar um aplicativo de nome EES. O EES
+(Engineering Equation Solver)tem um banco de dados para determinação de
+propriedades de todas as substâncias contidas nos exercícios propostos.
+Exercícios serão também resolvidos nas aulas de teoria.
+Durante o curso será desenvolvido com os alunos o projeto transdisciplinar da
+área de Energia e Fluidos, envolvendo as disciplinas de Termodinâmica,
+Transferência de Calor e Mecânica dos Fluidos.
+Durante o curso poderão ser realizados experimentos no laboratório de
+Termodinâmica,segundo programação apresentada no MoodleRooms.
+2021-EMC617página 3 de 9
+----------------Page (2) Break----------------
+Serão propostos exercícios para resolução e entrega em grupo, cujas avaliações
+comporão a nota de trabalho da disciplina.
+Durante o curso poderá ser programada eventualmente a visita a uma planta
+industrial ou comercial para
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 0,5  k2: 0,5  
+ Peso de MP(kP): 0,8          Peso de MT(kT): 0,2
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina de Termodinâmica propicia o conhecimento das propriedades da
+matéria e dos fenômenos físicos naturais que envolvem conversões de energia. Dá
+treinamento na solução de problemas complexos. Desenvolve a capacidade de
+análise de problemas. Propicia o desenvolvimento de procedimentos organizados
+para a criação de modelos simplificados de problemas e sua solução. Com isso,
+cria no aluno o desenvolvimento de estruturas de raciocínio que devem
+caracterizar a atitude típica esperada do engenheiro. As aplicações abordadas
+no curso extrapolam o âmbito da própria disciplina.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BORGNAKKE, Claus; SONNTAG, Richard E. Fundamentos da termodinâmica. PEIXOTO,
+Roberto de Aguiar (Coord. e Revisor). 8. ed.  São Paulo: Blucher, 2013. 728 p.
+(Van Wylen).  ISBN 9788521207924.
+MORAN, Michael J; SHAPIRO, Howard N. Princípios de termodinâmica para
+engenharia. Trad. e rev. téc. Gisele Maria Ribeiro Vieira. 6. ed.  Rio de
+Janeiro, RJ: LTC, 2009. 800 p.  ISBN 9788521616894.
+ÇENGEL, Yunus A; BOLES, Michael A. Termodinâmica. Trad. de Kátia Aparecida
+Roque. 5. ed.  São Paulo, SP: McGraw-Hill, 2006. 740 p.  ISBN 8586804665.
+Bibliografia Complementar:
+2021-EMC617página 4 de 9
+----------------Page (3) Break----------------
+HOLMAN, Jack Phillip. Thermodynamics. 2. ed.  Tokyo: McGraw-Hill Kogakusha,
+1974. 590 p.
+LEE, John F; SEARS, Francis Weston. Termodinâmica. Trad. de Borisas Cimbleris. 
+Rio de Janeiro, RJ: Ao Livro Técnico, 1969. 667 p.
+MODELL, Michael; REID, Robert C. Thermodynamics and its applications. 2. ed. 
+Englewood Cliffs, NJ: Prentice-Hall, 1983. 450 p.
+MORAN, Michael J et al. Introdução à engenharia de sistemas térmicos:
+termodinâmica, mecânica dos fluidos e transferência de calor. Tradução de
+Carlos Alberto Biolchini da Silva.  Rio de Janeiro, RJ: LTC, 2005. 604 p.  ISBN
+8521614462.
+ZEMANSKY, Mark W; VAN NESS, H. C. Basic engineering thermodynamics.  New York:
+McGraw-Hill, 1966. 380 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Engineering Equation Solver (EES), disponível na escola.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A avaliação da disciplina é feita exclusivamente por provas e trabalhos. A
+média final (MF) é assim calculada: MF = 0,2 MT + 0,8 MP; onde
+MP = 0,2 P1 + 0,2 P2 + 0,3 P3 + 0,3 P4
+MT = 0,5 T1 + 0,5 T2
+A nota P1 será composta por duas avaliações realizadas no horário de aula
+contendo questões discursivas, escolha certo/errado, de múltipla escolha e
+também por questões de resolução numérica.
+A nota P2 será estabelecida por metodologia análoga, mas com atividade
+realizada em apenas uma aula.
+Em função do DECRETO Nº 64.881, DE 22 DE MARÇO DE 2020 e suas sucessivas
+prorrogações determinando Quarentena obrigatória no Estado de São Paulo, todas
+as avaliações realizadas a partir daquela data e até que haja encerramento da
+Quarentena e autorização Estadual para retomada específica das aulas
+presenciais, serão realizadas via Plataforma de Ensino Mediado por Tecnologia
+A nota da PS1 será determinada por uma atividade de avaliação realizada no
+horário de aula.
+2021-EMC617página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+O livro texto principal é o livro "Fundamentos da Termodinâmica", 8a. ed.
+Edições anteriores do livro também poderão ser utilizadas pelo corpo discente.
+2021-EMC617página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marco Antonio Soares de Paiva
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC617página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 ENão há aulas para alunos veteranos   0
+  2 ESemana de Carnaval   0
+  3 EApresentação da disciplina - comentários preliminares - conceitos
+e definições.
+   61% a 90%
+  4 EPropriedades da substência pura - capítulo 2.   61% a 90%
+  5 EPropriedades da substência pura - capítulo 2.   61% a 90%
+  6 EA primeira lei da termodinâmica - capítulo 3.   61% a 90%
+  7 EA primeira lei da termodinâmica - capítulo 3.   61% a 90%
+  8 EA primeira lei da termodinâmica - capítulo 3.   61% a 90%
+  9 EP1   0
+ 10 EP1   0
+ 11 EA equação da energia para volumes de controle - capitulo 4.
+Teoria e exercícios.
+   61% a 90%
+ 12 EA equação da energia para volumes de controle - capitulo 4.Teoria
+e exercícios.
+   61% a 90%
+ 13 EA equação da energia para volumes de controle - capitulo 4.
+Aplicação a casos de resfriamento de ambientes.
+   61% a 90%
+ 14 EA equação da energia para volumes de controle - capitulo 4.Teoria
+e exercícios.
+   61% a 90%
+ 15 ESmile   0
+ 16 EA equação da energia para volumes de controle - capitulo 4.Teoria
+e exercícios.
+   61% a 90%
+ 17 EP2   0
+ 18 EP2   0
+ 19 EP2   0
+ 20 ERevisão P2   0
+ 21 EPS1   0
+ 22 EPS1   0
+ 23 EEXPERIMENTO DE 1A. LEI DA TERMODINÂMICA   91% a
+100%
+ 24 EA segunda lei da termodinâmica - capítulo 5.   61% a 90%
+ 25 EA segunda lei da termodinâmica - capítulo 5.   61% a 90%
+ 26 EEntropia - capítulo 6.   61% a 90%
+ 27 EEntropia - capítulo 6.   61% a 90%
+ 28 EEntropia - capítulo 6.   61% a 90%
+ 29 EP3   0
+ 30 EA segunda lei da termodinâmica para volumes de controle -
+capítulo 7.
+   61% a 90%
+ 31 EA segunda lei da termodinâmica para volumes de controle -
+capítulo 7.
+   61% a 90%
+ 32 EExergia - capítulo 8.   61% a 90%
+ 33 EExergia - capítulo 8.   61% a 90%
+ 34 EExergia - capítulo 8.   61% a 90%
+2021-EMC617página 8 de 9
+----------------Page (7) Break----------------
+ 35 EBreve apresentação de sistemas de conversão de energia: ciclos de
+potência e refrigeração
+   61% a 90%
+ 36 EBreve apresentação de sistemas de conversão de energia: ciclos de
+potência e refrigeração
+   61% a 90%
+ 37 EP4   0
+ 38 EP4   0
+ 39 ERevisão P4   0
+ 40 EPS2   0
+ 41 EPS2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC617página 9 de 9
+----------------Page (8) Break----------------

@@ -1,0 +1,245 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Introdução à Ciência de DadosMIN703
+Course:
+Introduction to Data Science
+Materia:
+Introducción a la ciencia de datos
+Periodicidade: SemestralCarga horária total: 40Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Administração4Matutino
+Administração4Noturno
+Engenharia de Alimentos5Diurno
+Engenharia de Controle e Automação5Diurno
+Engenharia de Controle e Automação6Noturno
+Engenharia de Controle e Automação5Noturno
+Engenharia de Computação5Diurno
+Engenharia Civil5Diurno
+Engenharia Civil6Noturno
+Engenharia Civil5Noturno
+Design4Matutino
+Design4Noturno
+Engenharia Eletrônica5Diurno
+Engenharia Eletrônica6Noturno
+Engenharia Elétrica6Noturno
+Engenharia Elétrica5Diurno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Noturno
+Engenharia de Produção6Noturno
+Engenharia de Produção5Diurno
+Engenharia de Produção5Noturno
+Engenharia Química6Noturno
+Engenharia Química5Diurno
+Engenharia Química5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Tiago Sanches da SilvaEngenheiro em Elétrica e EletrônicaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Tiago Sanches da SilvaEngenheiro em Elétrica e EletrônicaMestre
+2021-MIN703página 1 de 8
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+- Projeto: 40%
+- Evento: 20%
+EMENTA
+Introdução ao tema Ciência de Dados;
+Visão geral do processo (pipeline) de um projeto em Ciência de Dados;
+Palestra/Meet-ups com convidados do mercado de trabalho;
+Discussão e definição sobre projetos de entrega do módulo (projetos reais:
+Industria ou Dados Abertos);
+Onde reside a informação, pensamento crítico sobre exploração e projetos no
+tema;
+Papeis relevantes e suas responsabilidades dentro de um projeto de Ciência de
+Dados;
+Ferramentas de desenvolvimento e gerenciamento utilizadas pelo mercado;
+Desenvolvimento e acompanhamento do projeto de formação do módulo.
+SYLLABUS
+Introduction to Data Science;
+Overview of the process (pipeline) of a project in Data Science;
+Lecture / Meet-ups with guests from the labor market;
+Discussion and definition of module delivery projects (real projects: Industry
+or Open Data);
+Where information, critical thinking about exploration and projects on the
+subject resides;
+Relevant roles and their responsibilities within a Data Science project;
+Development and management tools used by the market;
+Development and monitoring of the module training project.
+TEMARIO
+Introducción a la ciencia de datos;
+Descripción general del proceso (pipeline) de un proyecto en Data Science;
+Conferencia / Reuniones con invitados del mercado laboral;
+Discusión y definición de proyectos de entrega de módulos (proyectos reales:
+industria o datos abiertos);
+Donde reside la información, el pensamiento crítico sobre la exploración y los
+proyectos sobre el tema;
+Roles relevantes y sus responsabilidades dentro de un proyecto de ciencia de
+datos;
+Herramientas de desarrollo y gestión utilizadas por el mercado;
+Desarrollo y seguimiento del proyecto de formación del módulo.
+2021-MIN703página 2 de 8
+----------------Page (1) Break----------------
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Python
+- Estatística
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Comunicar-se eficazmente nas formas escrita, oral e gráfica.Analisar e
+compreender os fenômenos físicos e químicos por meio de modelos simbólicos,
+físicos e outros, verificados e validados por experimentação (Raciocínio
+Lógico).
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+A disciplina de Ciência de Dados será responsável por realizar a interligação
+de todas as grandes áreas que integram o tema, como análise de dados,
+visualização, engenharia de dados, aprendizado de máquina, validação de
+modelos, entendimento do problema, levantamento de requisitos e fluxo de
+processo (pipeline) de trabalho, de forma prática através de projetos que
+consolidam e integram esses conceitos. Áreas de conhecimento mais relevantes
+serão abordadas com maior profundidade em disciplinas separadas, como é o caso
+de ¿Análise de Dados¿ e ¿Aprendizado de Máquina¿. O aluno será capaz de
+desenvolver projetos de Análise Descritiva e Análise Diagnostica dentro da área
+de Ciência de Dados, também terá uma visão mais detalhada dos tipos de cenários
+encontrados no mercado de trabalho através de palestras de convidados
+relevantes na indústria.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Sala de aula invertida
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas e debates em torno do tema. Além da utilização de PBL com a
+abordagem prática de projetos didáticos e reais.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+2021-MIN703página 3 de 8
+----------------Page (2) Break----------------
+Disciplina semestral, com trabalhos.
+Pesos dos trabalhos:
+ k1: 0,4  k2: 0,6  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina exercita conceitos e práticas com o objetivo de identificar
+oportunidades de exploração e análise de dados. Ao seu término o aluno será
+capaz de planejar e executar iniciativas de Ciência de Dados, envolvendo
+atividades de extração, armazenamento, modelagem e processamento de dados.
+BIBLIOGRAFIA
+Bibliografia Básica:
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+- PowerBi
+- Anaconda
+- Python
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+2021-MIN703página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-MIN703página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Tiago Sanches da Silva
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) Claudia Alquezar Facca
+ Coordenador(a) do Curso de Design
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Ricardo Balistiero
+ Coordenador(a) do Curso de Administração
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+2021-MIN703página 6 de 8
+----------------Page (5) Break----------------
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-MIN703página 7 de 8
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPRINT   0
+  2 LVisão geral do Minor em Ciência de Dados e revisão
+PythonIntrodução ao Google Colab
+   61% a 90%
+  3 LVisão geral do processo (pipeline) de um projeto em Ciência de
+Dados
+   61% a 90%
+  3 LVisão geral do processo (pipeline) de um projeto em Ciência de
+Dados
+   61% a 90%
+  4 LDiscussão e definição sobre projetos de entrega do módulo
+(projetos reais: Industria ou Dados Abertos);Onde estão os dados?
+   41% a 60%
+  4 LDiscussão e definição sobre projetos de entrega do módulo
+(projetos reais: Industria ou Dados Abertos);Onde estão os dados?
+   41% a 60%
+  5 LPapeis relevantes e suas responsabilidades dentro de um projeto
+de Ciência de Dados;
+   0
+  5 LPapeis relevantes e suas responsabilidades dentro de um projeto
+de Ciência de Dados;
+   0
+  6 LAnálise descritiva.   61% a 90%
+  6 LAnálise descritiva.   61% a 90%
+  7 LPalestra/Meet-ups com convidados do mercado de trabalho   0
+  7 LPalestra/Meet-ups com convidados do mercado de trabalho   0
+  8 LFeriado   0
+  9 LTrabalho T1   91% a
+100%
+ 10 LP1   0
+ 11 LAnálise diagnostica.   0
+ 12 LIntegração de IA com Ciência de Dados   11% a 40%
+ 13 LProjeto de Integração de IA com Ciência de Dados   91% a
+100%
+ 14 LProjeto de Integração de IA com Ciência de Dados   0
+ 15 LSMILE   91% a
+100%
+ 16 LPalestra/Meet-ups com convidados do mercado de trabalho   0
+ 16 LPalestra/Meet-ups com convidados do mercado de trabalho   0
+ 17 LAcompanhamento e desenvolvimento do projeto em sala   0
+ 17 LAcompanhamento e desenvolvimento do projeto em sala   0
+ 18 LApresentação dos trabalhos Semestrais - T2   91% a
+100%
+ 19 LP2   0
+ 20 LP2   0
+ 21 LFérias   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-MIN703página 8 de 8
+----------------Page (7) Break----------------

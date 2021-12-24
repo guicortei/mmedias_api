@@ -1,0 +1,332 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Introdução à Engenharia de ProduçãoEPM306
+Course:
+EPM306
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Produção2Diurno
+Engenharia de Produção2Noturno
+Engenharia de Produção2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Fernando Cezar Leandro ScramimEngenheiro de Produção MecânicaDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Antonio Carlos Dantas CabralEngenheiro de AlimentosDoutor
+Fernando Cezar Leandro ScramimEngenheiro de Produção MecânicaDoutor
+MODALIDADE DE ENSINO
+Presencial: 20%
+Mediada por tecnologia: 80%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Conceitos básicos sobre Engenharia de Produção e sua aplicação em grandes,
+médias e pequenas empresas. Tipos de operações de produção. Estratégias de
+produção. Os cinco objetivos da produção. Projeto de processos. Arranjo físico
+e fluxo. Tempos e método operacionais. Planejamento de Recursos da Empresa
+(ERP): conceitos básicos. Técnicas de melhoramento da produção. Estudos de
+caso.
+SYLLABUS
+Introduction to Production Engineering (Operations management) applied to
+large, medium and small companies. Production operations types. Production
+strategies. The five production objectives. Process design. Lay out and process
+flow. Operations procedures, time and methods. Enterprise Resource Planning
+(ERP): basic concepts. Technical improvement of iroduction. Case studies.
+2021-EPM306página 1 de 10
+----------------Page (0) Break----------------
+TEMARIO
+Conceptos básicos sobre la ingeniería de producción y su aplicación en grandes,
+medias y pequeñas empresas. Tipos de operaciones de producción. Estratégias de
+producción. Los cinco objetivos de la producción. Proyecto de procesos. Arranjo
+físico y flujo. Tempos y método operativos. Planeamiento de Recursos de la
+Empresa (ERP): conceitos básicos. Técnicas de mejoramiento de la producción.
+Estudos de casos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Para o bom desempenho na disciplina são necessários os seguintes conhecimentos 
+prévios:
+a) Cálculo e Computação - para o desenvolvimento de planilhas eletrônicas e a 
+realização de cálculos como o de capacidade produtiva;
+b) Lingua portuguesa - para as leituras complementares e interpretação de 
+textos ligados à Administração;
+c) Aplicativos de edição de texto, planilhas eletrônicas e apresentação - para 
+o desenvolvimento dos relatórios, planilhas e apresentações.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+C01.02 Formular, de maneira ampla e sistêmica, questões de engenharia,
+considerando o usuário e seu contexto, concebendo soluções criativas, bem como
+o uso de técnicas adequadas.C3.03 Aplicar conceitos de gestão para planejar,
+supervisionar, elaborar e coordenar projetos e serviços de Engenharia.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1 - Domínio dos diversos aspectos da sua habilitação profissional de modo a
+atuar nas áreas da Engenharia de Produção;
+- Funções da administração da produção;
+- Principais modelos da administração da produção em grandes, médias e 
+pequenas empresas;
+C2 - Sólida formação generalista nas principais áreas da Engenharia de
+Produção;
+- Conceitos básicos de projeto de sistemas produtivos;
+- Princípios de planejamento e controle de processos produtivos;
+- Otimização de eficiência e eficácia em processos produtivos;
+- Habilidades gerenciais de um administrador.
+C8 - Formação multidisciplinar de modo a poder permear entre as diversas áreas
+da Engenharia e de modo a dispor de uma visão sistêmica na solução de problemas
+técnicos;
+- Conceitos básicos de projeto de sistemas produtivos;
+- Princípios de planejamento e controle de processos produtivos;
+- Otimização de eficiência e eficácia em processos produtivos;
+C11 - Conhecimento da Língua Portuguesa;
+- Provas e trabalhos com questões dissertativas e contextualizadas.
+2021-EPM306página 2 de 10
+----------------Page (1) Break----------------
+Habilidades :
+H4 - Atuar em equipes multidisciplinares; 
+H6 - Avaliar criticamente a operação e manutenção de sistemas e processos na
+sua área de atuação;
+- Desenvolver senso prático para identificar problemas gerenciais nas 
+organizações, evidenciando suas possíveis causas e propor soluções exequíveis;
+- Compreender corretamente a atividade de produção, especialmente as 
+intersecções da engenharia com a administração;
+- Utilizar as técnicas gerenciais da administração da produção objetivando 
+otimizar a eficiência das operações e a eficácia das organizações;
+H8 - Comunicar eficientemente nas formas oral e escrita, no padrão formal da
+língua portuguesa;
+H15 - Organizar o seu trabalho, de forma a cumprir os requisitos e metas
+estabelecidos;
+Atitudes :
+A2 -Ter interesse em buscar, continuamente, a sua atualização e aprimoramento;
+A4 - Ter visão sistêmica e interdisciplinar na solução de problemas técnicos;
+A7 - Ter consciência de seu papel como agente transformador da sociedade:
+- Refletir continuamente sobre o comportamento humano nas organizações, 
+contribuindo para a formação de equipes de alta performance.
+A12 - Saber organizar o seu trabalho, de forma a cumprir os requisitos
+estabelecidos:
+- Incorporar o conceito de organização, trabalhar por resultados de grupos 
+e não de indivíduos;
+A14 - Ter autocrítica para reconhecer os seus próprios limites e os de suas
+decisões:
+- Pensar profissionalmente, fazer uso da razão e da intuição;
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+2021-EPM306página 3 de 10
+----------------Page (2) Break----------------
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Ensino Híbrido
+- Problem Based Learning
+- Gamificação
+METODOLOGIA DIDÁTICA
+O curso é baseado em aulas expositivas e aulas práticas. As aulas expositivas 
+utilizam, geralmente, um microcomputador e um projetor além de transparências.
+O material didático preparado pelo professor será disponibilizado no Moodle.
+As aulas práticas podem ser individuais ou em equipe. Nelas serão discutidos 
+casos práticos pertinentes ao conteúdo da disciplina.
+Dos trabalhos práticos, pelo menos um poderá ser realizado tendo por base
+empresas do mercado, evidenciando o uso das ferramentas adquiridas na
+disciplina durante o período letivo. Os trabalhos serão avaliados através de
+relatórios técnicos elaborado pelos estudantes e seus resultados serão expostos
+oralmente para a sala no final do ano.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 4,0          Peso de MT(kT): 6,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+O mundo de hoje é uma sociedade composta de organizações. Todas as atividades 
+voltadas para a produção de bens ou para a prestação de serviços são 
+planejadas, coordenadas, dirigidas e controladas dentro das organizações. 
+Todas as organizações são constituídas de pessoas e recursos não-humanos. As 
+organizações são heterogêneas e diversificadas de tamanhos, características, 
+estruturas e até de objetivos diferentes. 
+Esta disciplina é o primeiro contato formal com o projeto e o gerenciamento 
+dos sistemas produtivos constituidos de infra-estrutura, processos e pessoas e 
+ainda busca nivelar os conhecimentos do engenheiro para com as variáveis 
+descritas, possibilitando ao mesmo, reflexão e ação no sentido de usar seu 
+talento para o crescimento das organizações e da sociedade como um todo. 
+2021-EPM306página 4 de 10
+----------------Page (3) Break----------------
+A disciplina introduzirá o futuro engenheiro ao uso das técnicas mais comuns de
+planejamento, organização e controle administrativo. Os métodos de
+gerenciamento mais utilizados atualmente serão amplamente discutidos em sala de
+aula, por exemplo estudos sobre arranjo físico, previsão de demanda,
+planejamento de capacidade, JIT e MRP.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BATALHA, M. O. - Introdução à Engenharia de Produção - Rio de Janeiro:
+Elsevier, 2008
+CHASE R.B.; JACOBS F.R.; AQUILANO N.J. Administração da produção e operações.
+São Paulo, McGraw-Hill, 2006.
+MARTINS P.G.; LAUGENI F.P. Administração da produção. São Paulo, Saraiva, 2005.
+SLACK, N.; BRNDON-JONES, A; JOHNSTON, R . Administração da produção. 4ª ed;
+Atlas; São Paulo; 2015 - LIVRO TEXTO DO CURSO.
+	
+Bibliografia Complementar:
+CORREA H. L.; CAON M. Gestão de serviços. São Paulo: Atlas, 2002.
+CORRÊA H. L.; CORRÊA C.A. Administração da produção e operações. São Paulo:
+Atlas, 2012.
+KRAJEWSKI L.; RITZMAN L.; MALHOTRA M. Administração da produção e operações.
+São Paulo: Pearson Prentice Hall, 2009.
+LACOMBE, Francisco José Masset; HEILBORN, Gilberto Luiz José. Administração;
+princípios e tendências. São Paulo, SP: Saraiva, 2003. 542p. 
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Excel, Powerpoint, Word
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Os trabalhos serão baseados em Estudos de Caso, que são exercícios práticos de 
+maior complexidade, geralmente elaborados a partir de casos reais. 
+Eles servirão de exemplo para aplicação da teoria desenvolvida. O material
+deverá ser produzido e distribuído pelo grupo, além de concomitantemente 
+ocorrer uma apresentação do mesmo para toda a sala de aula. Esse tipo de
+trabalho permite aos alunos realizarem a aplicação do conhecimento adquirido, é
+2021-EPM306página 5 de 10
+----------------Page (4) Break----------------
+a ligação da teoria de sala e a prática do mercado de trabalho. Serão formados 
+grupos de no máximo 04 alunos.
+“Para os alunos dependentes, a disciplina considerará as notas de 
+trabalhos entregues nos anos anteriores”, desde que sejam (T1 E T2) iguais ou
+superiores a 6,0.
+OBS: Em função da pandemia ocorrida as aulas e os processos de avaliação estão
+ocorrendo de forma remota e, portanto, as avaliações P1, P2, P3 e P4 quando
+cabível, serão conduzidas com a realização de atividades a serem determinadas
+pelos professores, podendo ser síncronas ou assíncronas. Deve-se seguir
+orientações de prazos previstos no calendário escolar.
+2021-EPM306página 6 de 10
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EPM306página 7 de 10
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Fernando Cezar Leandro Scramim
+ Responsável pela Disciplina
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EPM306página 8 de 10
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 ERecepção aos calouros   1% a 10%
+  2 EApresentação da disciplina - Objetivos gerais a serem
+alcançadosAdministração do tempo Planejamento atividades: Linha
+do Tempo.As empresas como sistemas produtivos. A Indústria 4.0
+   41% a 60%
+  3 ERoteiro de visitas a empresas - Trabalho T1  Papel estratégico e
+objetivos de desempenho da produção. Modelo de Transformação
+(adaptdado de Slack et al. 2010)
+   41% a 60%
+  4 EProdutividade: conceitos básicosExercício em casos reais   61% a 90%
+  5 EPara que serve uma empresa - Estudo de casoEstratégia da Produção
+- Exercício em grupo
+   41% a 60%
+  6 EProjeto de processo - Tipos de processo e serviçosExercício:
+identificação de tipos de processo e serviçosVídeos ilustrativos
+- casos
+   91% a
+100%
+  7 EMapeamento de processo - ferramentas: Mapeamento do fluxo de valo
+e outras.
+   61% a 90%
+  8 EIndicadores de desempenho em Engenharia de ProduçãoA importância
+do adequado uso dos indicadores: tempos produtivos e indicadores
+de performance operacional
+   91% a
+100%
+  9 EExercícios   91% a
+100%
+ 10 EProvas P1   91% a
+100%
+ 11 EProjeto e organização do trabalho - Parte 1 - Estudo do Método   41% a 60%
+ 12 EProjeto e organização do trabalho - Parte 2 - Estudo do Método   91% a
+100%
+ 13 EOficina de mapeamento de processo - PBL   91% a
+100%
+ 14 EArranjo físico e fluxo produtivo. Tipos de processos de
+fabricação. Exercícios em sala.Cálculo de Tm, Tn e TP
+   41% a 60%
+ 15 ESemana de Inovação - SMILE 2021   91% a
+100%
+ 16 EExercícios em sala.Cálculo de Tm, Tn e TP   41% a 60%
+ 17 ETempo Padrão, Tempo de ciclo, Tempos de atravessamento e takt
+time - Princípios do Balanceamento de Linha
+   41% a 60%
+ 18 ETempo Padrão, Tempo de ciclo, Tempos de atravessamento e takt
+time -  Preparação para P2 - exercícios
+   91% a
+100%
+ 19 EP2   91% a
+100%
+ 20 EP2   91% a
+100%
+ 21 EAtividades de capacitação docente   91% a
+100%
+ 22 EProvas PS1   11% a 40%
+2021-EPM306página 9 de 10
+----------------Page (8) Break----------------
+ 23 EPlanejamento de Operações - sistemas ERPsGestão da Demanda e
+Planejamento de Vendas e as Cadeias produtivas;Bases para o MRP
+I, II e III.
+   41% a 60%
+ 24 EPlanejamento de Operações - sistemas ERPsGestão da Demanda e
+Planejamento de VendasBases para o MRP I, II e
+III.ExercíciosExercícios
+   91% a
+100%
+ 25 EModelos de previsão de demandaQuantitativos   41% a 60%
+ 26 EModelos Qualitativos de análise de demanda   91% a
+100%
+ 27 EPlanejamento de Recursos de Empresa - Apresentação do PBL -
+trabalho em grupo para apresentação do fim do cursoExercícios
+   41% a 60%
+ 28 EPlanejamento de Operações - sistemas ERPsGestão da Demanda e
+Planejamento de VendasBases para o MRP I, II e III.
+   91% a
+100%
+ 29 EP3   41% a 60%
+ 30 EMRP I: Atividades dirigidas   0
+ 31 EEstrutura dos produtos em árvoreMRP I: a montagem do sistema em
+planilhasExercícios
+   61% a 90%
+ 32 EFerramentas de Melhoria Contínua dos Processos - Gestão da
+QualidadePDCA, 5S, Gráficos de Dispersão e Pareto e Gráficos de
+Controle
+   61% a 90%
+ 33 EFerramentas de Melhoria Contínua dos Processos - Gestão da
+QualidadePDCA, 5S, Gráficos de Dispersão e Pareto e Gráficos de
+Controle
+   61% a 90%
+ 34 EApresentações de resultados do PBL- exercícios complementares   91% a
+100%
+ 35 EExercícios complementares em gestão de projetos e de resultado
+operacional
+   91% a
+100%
+ 36 EExercícios complementares em gestão de projetos e de resultado
+operacional
+   91% a
+100%
+ 37 EP4   91% a
+100%
+ 38 EP4   91% a
+100%
+ 39 EFechamento das notas   1% a 10%
+ 40 ERevisão da P4   91% a
+100%
+ 41 EP Sub 2   1% a 10%
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EPM306página 10 de 10
+----------------Page (9) Break----------------

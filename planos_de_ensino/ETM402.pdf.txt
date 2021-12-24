@@ -1,0 +1,355 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+EletricidadeETM402
+Course:
+Electricity
+Materia:
+Electricidad
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 01 - 00 - 01
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Noturno
+Engenharia Mecânica2Diurno
+Engenharia de Produção2Noturno
+Engenharia de Produção2Diurno
+Engenharia de Produção2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Valdir Melero JuniorEngenheiro EletricistaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Valdir Melero JuniorEngenheiro EletricistaMestre
+MODALIDADE DE ENSINO
+Presencial: 50%
+Mediada por tecnologia: 50%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Fundamentos de Eletricidade. Circuitos elétricos em corrente contínua e em
+corrente alternada. Potência elétrica em corrente alternada e fator de
+potência. Noções de expressões lógicas. Projeto utilizando lógica de contatos.
+SYLLABUS
+Electricity fundamentals. Electric circuits direct current and alternating
+current. Electric power in alternating current and power factor. Notions of
+logical expressions. Project using contact logic.
+2021-ETM402página 1 de 10
+----------------Page (0) Break----------------
+TEMARIO
+Conceptos básicos de electricidad. Circuitos eléctricos en corriente continua y
+corriente alterna. Potencia eléctrica en corriente alterna y factor de
+potencia. Nociones de expresiones lógicas. Proyecto utilizando la lógica del
+contacto.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Cálculo Integral e Diferencial.
+Física.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Trabalhar e liderar equipes multidisciplinares.Gerir projetos de novos
+produtos, novos processos e novos sistemas, buscando a interdisciplinaridade e
+sinergia entre diferentes áreas do conhecimento.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS:
+C1 - Conceitos de tensão elétrica e corrente elétrica (CC e CA), resistores,
+impedâncias, potência elétrica (CC e CA), energia elétrica e rendimento;
+C2 - Leis de Ohm e leis de Kirchhoff. Método de resolução de circuitos por
+análise de malhas;
+C3 - Conceitos de técnicas digitais e simplificação de circuitos digitais com
+lógicas de relés e contatos, acionamento de cargas on/off;
+C4 - Conceitos de indutor e capacitor;
+C5 - Representação fasorial;
+C6 - Potência em corrente alternada e correção do fator de potência.
+HABILIDADES:
+H1 - Conhecer e distinguir as grandezas elétricas;
+H2 - Analisar circuitos elétricos;
+H3 - Interpretar problemas envolvendo potências de cargas monofásicas;
+H4 - Desenvolver raciocínio lógico para compreender projetos utilizando lógica
+com relés e contatos;
+H5 - Expressar de forma adequada a comunicação oral e escrita;
+H6 - Trabalhar em equipe.
+ATITUDES:
+A1 - Motivação para prosseguir no curso e se tornar engenheiro(a);
+A2 - Valorizar as discussões de problemas de eletricidade que envolvam
+circuitos em corrente contínua e em corrente alternada;
+A3 - Desenvolver atividades acadêmicas vislumbrando aplicações profissionais
+com iniciativa e autonomia;
+A4 - Desenvolver alto espírito crítico na análise de soluções propostas;
+A5 - Participação ativa nas aulas.
+2021-ETM402página 2 de 10
+----------------Page (1) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+METODOLOGIA DIDÁTICA
+Aulas teóricas e de exercícios participativas serão desenvolvidas em sala de
+aula, utilizando recursos computacionais, projeção com data-show ou mediação
+por tecnologia.
+Aulas em laboratório da Eng. Eletrônica, com elaboração de projeto e
+implementação física. O aluno deve estudar previamente os assuntos envolvidos
+nas aulas de laboratório, de modo relacionado à teoria.
+Em ambos os casos, de aulas teóricas e práticas, vislumbra-se a discussão dos
+conceitos de modo que se provoque aos alunos a busca por soluções aos problemas
+abordados e se valorize a consulta aos recursos disponibilizados na disciplina
+e ao acervo na biblioteca da escola.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina pretende contribuir na formação do engenheiro de três modos. O
+primeiro, através da apresentação dos conceitos básicos de eletricidade e das
+técnicas de medidas das grandezas envolvidas. O segundo, através da análise de
+problemas de engenharia, cuja resolução depende de conhecimentos adquiridos em
+diversas disciplinas do curso; pretendemos com isso, convencer o aluno que a
+divisão do conhecimento em disciplinas é apenas um recurso didático e que, na
+realidade, tal divisão não existe. Finalmente, o terceiro modo é através da
+motivação gerada pelas atividades da disciplina e, principalmente, pela análise
+de instalações monofásicas em corrente alternada e pela elaboração de projetos
+utilizando lógica de relés.
+2021-ETM402página 3 de 10
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+GUSSOW, Milton. Eletricidade básica. [COSTA, Aracy Mendes daLASCHUK, Anatólio].
+2. ed.  São Paulo, SP: Pearson Makron Books, 2008. 639 p.  ISBN 9788534606127.
+PAGLIARICCI, Mário. Eletrotécnica geral.  São Paulo, SP: Nacional, 1977. 236 p.
+UYEMURA, John P. Sistemas digitais: uma abordagem integrada. Trad. de Gustavo
+Guimarães Parma, rev. téc. de Antonio Pertence Jr.  São Paulo, SP: Pioneira
+Thomson Learning, 2002. 433 p.  ISBN 8522102686.
+Bibliografia Complementar:
+ALBUQUERQUE, Romulo Oliveira. Análise de circuitos em corrente contínua.  São
+Paulo, SP: Érica, 1988. 204 p.
+BOYLESTAD, Robert; NASHELSKY, Louis. Dispositivos eletrônicos e teoria de
+circuitos. 3. ed.  Rio de Janeiro, RJ: Prentice-Hall do Brasil, 1982. 700 p.
+FREGNI, Edson; SARAIVA, Antonio Mauro. Engenharia do projeto lógico digital. 
+São Paulo, SP: Edgard Blücher, 1995. 498 p.
+MALVINO, Albert Paul. Eletrônica. 4. ed.  São Paulo, SP: Makron Books, 1997. v.
+1. 747 p.  ISBN 85-346-0378-2.
+MALVINO, Albert Paul. Eletrônica. 4. ed.  São Paulo, SP: Makron Books, 1997. v.
+2.  ISBN 85-346-0455-X.
+MALVINO, Albert Paul; LEACH, Donald P. Eletrônica digital: princípios e
+aplicações.  São Paulo: McGraw-Hill, 1988. v. 2.
+MALVINO, Albert Paul; LEACH, Donald P. Eletrônica digital: princípios e
+aplicações.  São Paulo: McGraw-Hill, c1988. v. 1.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Pacote do Microsoft Officer: word, excel e power point;
+Navegador Google Chrome.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Critério de avaliação dos trabalhos:
+- T1 (ou k1): corresponde à média de trabalhos do primeiro semestre, a qual é
+calculada pela média aritmética simples das notas dos relatórios e trabalhos
+com peso de 60% somado à nota da prova prática com peso 40%.
+2021-ETM402página 4 de 10
+----------------Page (3) Break----------------
+- T2 (ou k2): corresponde à média de trabalhos do segundo semestre, a qual é
+calculada pela média aritmética simples das notas dos relatórios e trabalhos
+(projeto semestral em cada uma das aulas).
+A quantidade de experimentos será definida e apresentada na programação
+desenvolvida pelo professor e disponibilizada aos alunos oportunamente em um
+calendário de programação (no Open LMS).
+As notas obtidas em cada experimento prático serão atribuídas pela avaliação do
+relatório desenvolvido pelas equipes em cada aula de laboratório e pelos
+trabalhos práticos das mesmas. Embora a nota seja definida por equipe, é
+imprescindível a participação de todos os alunos no experimento e na produção
+do relatório, ficando a critério do professor a imposição de notas diferentes,
+caso a participação efetiva de todos os integrantes não seja satisfatória.
+A nota referente ao Projeto Semestral será composta pela avaliação do circuito
+físico final e do relatório, sendo distribuída igualmente nas aulas práticas
+destinadas a tal projeto (apresentação, desenvolvimento e avaliação), portanto,
+a ausência do aluno em aula(s) dedicadas ao projeto semestral será
+contabilizada como nota zero na respectiva data, gerando desconto proporcional
+na nota final do projeto.
+A realização da prova prática é individual e a nota será atribuída segundo
+avaliação do desempenho do aluno na realização de experimento prático ou
+simulação. O tempo máximo para será de 20 a 30 minutos, onde o aluno deverá
+efetuar eventual montagem de um circuito ou simulação, obtendo medições e
+conclusões pertinentes à situação.
+Os assuntos abordados na prova prática serão definidos aleatoriamente pelo
+professor, englobando conceitos tratados durante o semestre em questão.
+Não está previsto o aproveitamento de notas de trabalhos de anos anteriores.
+2021-ETM402página 5 de 10
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Categoria da disciplina: C4/2014, disciplina anual, com avaliação baseada em
+provas e trabalhos (duas provas + uma prova substitutiva).
+Distribuição das aulas: as aulas de teoria e de laboratório serão ministradas
+pelo Prof. Valdir Melero Junior, cujas programações estarão disponibilizadas no
+Open LMS. 
+Demais informações relativas à organização da disciplina:
+- as aulas de teoria deverão ocorrer por mediação de tecnologia ou em sala de
+aula com data-show;
+- o material de apoio para a disciplina será disponibilizado no Open LMS (na
+página da disciplina), tais como notas de aula, listas de exercícios, roteiros
+para experimentos, dentre outros, sendo que a inscrição, pela ferramenta do
+Open LMS, deve ser realizada pelo aluno;
+- as aulas de laboratório utilizarão recursos existentes no departamento de
+Eng. Eletrônica, tais como fontes de tensão contínua, multímetros, placas de
+montagens, componentes eletrônicos, cabos, materiais para soldagem com liga de
+estanho e materiais do projeto semestral, composto por placas de circuito
+impresso e painéis;
+- no início de cada experiência (que não seja referente ao Desenvolvimento do
+Projeto Semestral) o professor fornecerá um roteiro a cada equipe (também
+disponibilizado no Open LMS), que deverá ser preenchido e entregue ao final da
+aula, para ser contabilizado como relatório. Este relatório é elaborado pela
+equipe e, na eventualidade de ausência de algum membro, a respectiva nota
+individual será lançada como ZERO. É importante que cada componente da equipe
+venha munido de um formulário para anotações pessoais;
+- é importante ressaltar que a ordem das atividades de laboratório pode ser
+alterada em função de ocorrências imprevistas ao longo do ano corrente,
+portanto, pede-se especial atenção ao calendário disponível no Open LMS;
+- não serão aceitos RELATÓRIOS ou TRABALHOS entregues fora das datas
+estipuladas;
+- não serão permitidas permutas entre turmas, salvo por intermédio da
+secretaria da escola, sob meios legais do regimento interno;
+- os instrumentos necessários para a realização das experiências são mantidos
+sobre a bancada e o material, organizado na forma de kit, que deverá ser
+retirado e devolvido, sob apresentação de documento, no guichê do almoxarifado
+da Eng. Eletrônica;
+- não será permitida entrada no laboratório com qualquer atraso.
+2021-ETM402página 6 de 10
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Valdir Melero Junior
+ Responsável pela Disciplina
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ETM402página 7 de 10
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  1 LPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  2 TPré Requisitos de Eletricidade e Associação de Resistores.   0
+  2 LDia não letivo - Carnaval.   0
+  3 LApresentação do laboratório.   0
+  3 TSem aula quinzenal.   0
+  4 TPotência Elétrica e Energia Elétrica.   0
+  4 LAssociação de resistores.   11% a 40%
+  5 TSem aula quinzenal.   0
+  5 LAssociação de resistores.   11% a 40%
+  6 TLeis de Ohm no Resistor. Rendimento.   0
+  6 LPrimeira Lei de Ohm e Medidas Elétricas.   11% a 40%
+  7 TSem aula quinzenal.   0
+  7 LPrimeira Lei de Ohm e Medidas Elétricas.   11% a 40%
+  8 TFeriado - Paixão de Cristo.   0
+  8 LLeis de Kirchhoff.   11% a 40%
+  9 TResolução de circuitos em CC.   0
+  9 LLeis de Kirchhoff.   11% a 40%
+ 10 TProvas P1 - disciplinas AN e S1.   0
+ 10 LProvas P1 - disciplinas AN e S1.   0
+ 11 TSem aula quinzenal.   0
+ 11 LMétodo de Maxwell - Balanço Energético.   11% a 40%
+ 12 TRelés.   0
+ 12 LMétodo de Maxwell - Balanço Energético.   11% a 40%
+ 13 TSem aula quinzenal.   0
+ 13 LCaracterísticas Construtivas do Relé.   41% a 60%
+ 14 TSistemas Lógicos. Tabela Verdade.   0
+ 14 LCaracterísticas Construtivas do Relé.   41% a 60%
+ 15 TSemana da inovação - SMILE.   0
+ 15 LSemana da inovação - SMILE.   0
+ 16 TSem aula quinzenal.   0
+ 16 LProva prática.   91% a
+100%
+ 17 TSimplificação de Expressões Lógicas.   0
+ 17 LProva prática.   91% a
+100%
+ 18 TSem aula quinzenal.   0
+ 18 LAtendimento aos alunos e exercícios.   61% a 90%
+ 19 TProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 19 LProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 20 TProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+2021-ETM402página 8 de 10
+----------------Page (7) Break----------------
+ 20 LProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 21 TFérias escolares.   0
+ 21 LAtividades de Planejamento e Capacitação Docente.   0
+ 22 LProvas PS1 das disciplinas AN e S1.   0
+ 22 TProvas PS1 das disciplinas AN e S1.   0
+ 23 TIntrodução ao projeto semestral - Tutorial.   11% a 40%
+ 23 LApresentação prática do projeto semestral - Equipamentos.   11% a 40%
+ 24 TSem aula quinzenal.   0
+ 24 LApresentação prática do projeto semestral - Equipamentos.   11% a 40%
+ 25 TCircuitos em Corrente Alternada (CA).   0
+ 25 LDesenvolvimento do projeto semestral.   61% a 90%
+ 26 TSem aula quinzenal.   0
+ 26 LDesenvolvimento do projeto semestral.   61% a 90%
+ 27 TLei de Ohm em CA (L,R e C).   0
+ 27 LFeriado - Independência do Brasil.   0
+ 28 TSem aula quinzenal.   0
+ 28 LDesenvolvimento do projeto semestral.   61% a 90%
+ 29 LProvas P3 das disciplinas AN e P1 das disciplinas do S2.   0
+ 29 TProvas P3 das disciplinas AN e P1 das disciplinas do S2.   0
+ 30 TPotência em CA.   0
+ 30 LDesenvolvimento do projeto semestral.   61% a 90%
+ 31 TSem aula quinzenal.   0
+ 31 LDesenvolvimento do projeto semestral.   61% a 90%
+ 32 LFeriado - N.Sra. Aparecida - Padroeira do Brasil.   0
+ 32 TCorreção do Fator de Potência.   1% a 10%
+ 33 TSem aula quinzenal.   0
+ 33 LDesenvolvimento do projeto semestral.   91% a
+100%
+ 34 TProjeto: potência CA e correção do FP CA.   41% a 60%
+ 34 LApresentação final em aula do projeto semestral: circuito
+operacional e relatório completo.
+   91% a
+100%
+ 35 TSem aula quinzenal.   0
+ 35 LFeriado - Finados.   0
+ 36 TExercícios.   41% a 60%
+ 36 LApresentação final em aula do projeto semestral: circuito
+operacional e relatório completo.
+   91% a
+100%
+ 37 TProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 37 LProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 38 TProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 38 LProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 39 LAtendimento aos alunos.   0
+ 39 TSem aula quinzenal.   0
+ 40 LAtendimento aos alunos.   0
+2021-ETM402página 9 de 10
+----------------Page (8) Break----------------
+ 40 TAtendimento aos alunos.   0
+ 41 TProvas PS das disciplinas (AN) e semestrais do S2.   0
+ 41 LProvas PS das disciplinas (AN) e semestrais do S2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ETM402página 10 de 10
+----------------Page (9) Break----------------

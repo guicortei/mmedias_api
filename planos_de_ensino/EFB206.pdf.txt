@@ -1,0 +1,438 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Física IIEFB206
+Course:
+Physics II
+Materia:
+Física II
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Alimentos2Diurno
+Engenharia de Controle e Automação2Diurno
+Engenharia de Controle e Automação2Noturno
+Engenharia de Controle e Automação2Noturno
+Engenharia de Computação2Diurno
+Engenharia Civil2Diurno
+Engenharia Civil2Noturno
+Engenharia Civil2Noturno
+Engenharia Eletrônica2Diurno
+Engenharia Eletrônica2Noturno
+Engenharia Elétrica2Noturno
+Engenharia Elétrica2Diurno
+Engenharia Mecânica2Diurno
+Engenharia Mecânica2Noturno
+Engenharia Mecânica2Noturno
+Engenharia de Produção2Noturno
+Engenharia de Produção2Diurno
+Engenharia de Produção2Noturno
+Engenharia Química2Diurno
+Engenharia Química2Noturno
+Engenharia Química2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Airton EirasBacharel em CiênciasDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Airton EirasBacharel em CiênciasDoutor
+Luis Coelho dos SantosBacharel em FísicaDoutor
+Paulo Alexandre MartinEngenheiro EletricistaDoutor
+Rodrigo CutriEngenheiro EletricistaDoutor
+2021-EFB206página 1 de 13
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+TEORIA: Interação Eletromagnética. Campo Elétrico. Lei de Gauss. Potencial
+Elétrico. Energia Eletrostática. Corrente Elétrica. Campo de Indução Magnética.
+Lei de Biot-Savart e Lei de Ampère. Lei de Faraday. Movimento harmônico
+simples. Oscilações amortecidas. Propagação ondulatória. Ondas mecânicas.
+Propagação de energia. Ondas estacionárias. As equações de Maxwell.
+LABORATÓRIO: Fontes de Tensão. Campo Elétrico. Condutores Filiformes. Bipolos.
+Carga e Descarga de Capacitores. Movimento Oscilatório. Campo Magnético
+Terrestre. Lei de Biot-Savart. Lei de Faraday. Efeito Fotoelétrico. Difração.
+SYLLABUS
+THEORY: Electromagnetic interaction. Electric Field. Gauss¿s Law. Electric
+potential . Eletrostactic energy. Electric current. Magnetic induction.
+Biot-Savart¿s Law. Ampere¿s Law. Faraday¿s Law. Periodic and oscillatory
+motions. Simple harmonic motion. Physical concepts of forced oscillations,
+resonance and damped oscillations. Mechanical waves. Energy propagation.
+Standing waves. Maxwell¿s equations. 
+LABORATORY: D.C. generator. Eletric Field.Filiform conductors. Capacitors.
+Oscillatory motion. Biot-Savart¿s Law. Earth Magnetic Field. Faraday¿s Law.
+Photoelectric effect. Diffraction.
+TEMARIO
+TEORÍA: La interacción electromagnética. Campo eléctrico. Ley de Gauss.
+Potencial Eléctrico. Energía electrostática. Corriente eléctrica. Campo de
+inducción Magnética. Ley de Biot-Savart. Ley de Ampere. Ley de Faraday.
+Movimiento armónico simple. Oscilaciones amortiguadas. Propagación de ondas.
+Ondas mecánicas. Propagación de Energía. Ondas estacionarias. La ecuaciones de
+Maxwell. 
+LAB: Fuentes de tensión. Campo eléctrico. Conductores filiformes. Bipolos.
+Cargo y Descarga del condensador. Movimiento oscilatorio. Ley de Biot-Savart.
+Ley de Faraday. Campo Magnético Terrestre. Efecto Fotoeléctrico. Difracción.
+2021-EFB206página 2 de 13
+----------------Page (1) Break----------------
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+FÍSICA I : Equilíbrio e Dinâmica da partícula e do corpo rígido. Estudo
+geral do movimento na reta e no plano. Compreensão clara das Leis de Newton.
+Familiaridade e desembaraço no tratamento matemático dos conceitos acima.
+Compreensão do método científico. Noções básicas de Análise Dimensional.
+Conhecimento dos procedimentos experimentais de medidas, análise e
+interpretação de resultados experimentais e do desenvolvimento de modelos
+físicos. Construção e interpretação de gráficos. Teoria dos Erros.
+CÁLCULO I: Derivação e integração. Estudo da continuidade de funções de uma
+variável. Familiaridade com o conceito de infinitésimos. Série de Taylor.
+Máximos e mínimos.
+VETORES CURVAS E SUPERFÍCIES: Adição de grandezas vetoriais. Produtos escalar e
+vetorial. Dependência linear. Sistemas de coordenadas cartesianas e polares.
+Base vetorial. Equação da reta no plano e espaço.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Desenvolver representações abstratas de sistemas reais estudados no
+laboratório, compreendendo suas limitações, incertezas e implementando
+previsões utilizando modelos físico - matemáticos teóricos.Desenvolver
+habilidades de Engenharia por meio de projetos que envolvam modelamento
+matemático e experimentação, coletando, analisando e interpretando dados reais
+por meio de observações do mundo físico.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS: 
+C1. Estudo dos fenômenos físicos devidos às distribuições discretas
+e contínuas de cargas em equilíbrio estático. 
+C2. Estudo do movimento das cargas elétricas e dos efeitos básicos provocados
+pela corrente elétrica. 
+C3. Estudo das propriedades gerais da propagação de energia através dos
+fenômenos ondulatórios. 
+C4. Fundamentos de física moderna. 
+HABILIDADES: 
+H1. Compreender as interações básicas da natureza e a construção da Teoria
+Eletromagnética,seguindo os passos históricos que, a partir de observações
+experimentais, conduziram às Equações de Maxwell. 
+H2. Tratar de forma quantitativa e qualitativa problemas que envolvam
+distribuições contínuas de cargas elétricas e problemas que envolvam a
+interação produzida por cargas elétricas que se movem. 
+H3. Tratar de forma quantitativa e qualitativa fenômenos ondulatórios. 
+H4. Compreender e aplicar os procedimentos experimentais e analíticos da
+física: medidas, incertezas, precisão,descrição; análise na construção de um
+modelo científico. 
+2021-EFB206página 3 de 13
+----------------Page (2) Break----------------
+ATITUDES: 
+A1. Despertar do interesse no estudo dos fenômenos naturais, constatando a
+presença da Física em seu dia a dia. 
+A2. Tratar os fenômenos de forma quantitativa com ênfase no hábito de usar as
+ferramentas do Cálculo Diferencial e Integral na análise, previsão e simulação
+de fenômenos. 
+A3. Trabalhar em equipe, estimulando o senso crítico, ética e responsabilidade.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Ensino Híbrido
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+1. AULA TEÓRICA: A aula teórica é um ambiente de discussão sobre os fenômenos e
+os principais conceitos dos conteúdos de Física, com exemplos dirigidos para o
+curso de Engenharia, visando despertar o interesse pelo assunto abordado na
+aula. O material do conteúdo apresentado pelo professor é previamente
+distribuído aos estudantes, via Moodle. Sempre que houver disponibilidade são
+realizadas demonstrações experimentais para ajudar a compreensão dos fenômenos
+físicos estudados. O uso do livro didático na aula, é fundamental, para que o
+estudante familiarize-se com o livro e o tenha como um elemento de apoio ao seu
+aprendizado. O aprendizado dos conceitos é verificado por meio de exercícios
+propostos no decorrer da aula. Nos exercícios os alunos são estimulados à
+trabalhar em equipes sendo orientados pelo professor na resolução de problemas,
+na discussão de conceitos e de resultados obtidos. Além da aula presencial o
+aluno conta com diversas video-aulas gravadas colocadas a sua disposição por
+meio do sistema Open LMS.
+2. AULA DE LABORATÓRIO: O aluno trabalha em equipe realizando experimentos cujo
+objetivo é a determinação de grandezas ou relações entre grandezas de interesse
+na engenharia. O conteúdo do laboratório didático de Física II é relacionado ao
+conteúdo desenvolvido nas aulas de teoria e exercícios. O relato dos
+experimentos e seus resultados é realizado tanto na forma escrita como oral, em
+apresentações de curta duração. A análise dos resultados experimentais é feita
+comparando com o modelo teórico, fortalecendo assim a metodologia científica.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+2021-EFB206página 4 de 13
+----------------Page (3) Break----------------
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 6,0          Peso de MT(kT): 4,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A Engenharia é a arte profissional de organizar e dirigir o trabalho do homem,
+aplicando conhecimentos científicos e utilizando, com parcimônia, os materiais
+e as energias da natureza para produzir bens e serviços de interesse e
+necessidades dentro de parâmetros de segurança; (CONFEA 8211; Decisão
+CR-100/93). 
+O Engenheiro aplica as leis da Física para a transformação da matéria, assim
+sendo, deve dominar os princípios da Física e suas aplicações.
+Deve conhecer o método científico, que lida com o conhecimento por meio da
+observação, descrição e análise na formulação dos modelos. A Física II visa
+promover o entendimento conceitual e introduzir a descrição quantitativa dos
+modelos da Natureza. 
+Para tanto Teoria e Laboratório formam uma unidade que visa fornecer as
+competências e,também, as condições para o desenvolvimento das habilidades e
+atitudes que propiciem o devido desempenho no curso de engenharia e na
+atividade profissional. A participação do aluno na sua formação é de extrema
+importância para o sucesso do curso.
+Após ter cursado a disciplina Física II a aluno estará apto a:
+1. Identificar e compreender conceitos básicos de Física II para aplicação nas
+disciplinas específicas das séries seguintes.
+2. Utilizar senso crítico para avaliação e análise de resultados na forma
+escrita, numérica e gráfica.
+3. Realizar medidas físicas e interpretar seus resultados, analisar problemas
+de forma conceitual e introduzir a descrição quantitativa dos modelos da
+Natureza.  
+4. Estabelecer ligações entre a Física e as disciplinas da área de Matemática.
+5. Elaborar relatório científico de acordo com as normas vigentes.
+6. Trabalhar em equipe.
+2021-EFB206página 5 de 13
+----------------Page (4) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de física. Biasi,
+Paulo Sérgio de. 10. ed.  Rio de Janeiro: LTC, c2016. v. 2. 282 p.  ISBN
+9788521630364.
+HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de física. Biasi,
+Paulo Sérgio de. 10. ed.  Rio de Janeiro: LTC, c2016. v. 3. 365 p.  ISBN
+9788521630371.
+TIPLER, Paul A. Física: para cientistas e engenheiros. 4. ed.  Rio de Janeiro,
+RJ: LTC, 2000. v. 2.  ISBN 85-216-1214-1.
+YOUNG, Hugh D; FREEDMAN, Roger A. Física. LUIZ, Adir Moysés (trad.). 10. ed. 
+São Paulo, SP: Pearson/Addison Wesley, 2003. v. 3. 402 p.  ISBN 9788588639041.
+YOUNG, Hugh D; FREEDMAN, Roger A. Física. Trad. e rev. téc. de Adir Moysés
+Luiz. 10. ed.  São Paulo, SP: Pearson/Addison Wesley, 2003. v. 2. 328 p.  ISBN
+8588639033.
+Bibliografia Complementar:
+HAYT JR., William H. Eletromagnetismo. Trad. de Paulo Cesar Pfaltzgraff
+Ferreira. 4. ed.  Rio de Janeiro, RJ: LTC, 1998. 403 p.  ISBN 85-216-0278-2.
+NUSSENZVEIG, Herch Moysés. Curso de física básica.  S¿o Paulo, SP: Edgard
+Blücher, 1981. v. 2.
+SADIKU, Matthew N. O. Elementos de eletromagnetismo. Trad. de Jorge Amoretti
+Lisboa e Liane Ludwig Loder. 3. ed.  Porto Alegre, RS: Bookman, 2004. 687 p. 
+ISBN 853302755.
+SERWAY, Raymond A. Física: para cientistas e engenheiros com física moderna. 3.
+ed.  Rio de Janeiro, RJ: LTC, 1996. v. 4.  ISBN 85-216-10734-4.
+YOUNG, Hugh D; FREEDMAN, Roger A; FORD, A. Lewis. Física. Trad. e rev. téc. de
+Adir Moysés Luiz. 12. ed.  São Paulo, SP: Pearson/Addison Wesley, 2010. v. 4.
+420 p.  ISBN 9788588639355.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+*Pacote Office (em especial Word, Excel e Powerpoint)
+*Sofware Pasco - Aquisição de Dados
+2021-EFB206página 6 de 13
+----------------Page (5) Break----------------
+O software se encontra em:
+http://www.pasco.com/downloads/capstone/pasco-capstoneupdate/index.cfm, versão
+1.4.1. 
+Licença para estudantes do CEUN-IMT:
+Serial Number: LIC00004880 
+License Key: 18tmj-791n1-0dci1-hjech-k1gok-og936
+Software Tracker - Análise de Videos 
+http://physlets.org/tracker/
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+As notas de trabalhos resultam das atividades de laboratório e projetos
+semestrais.
+LABORATÓRIO: As notas semestrais de laboratório resultam dos relatórios das
+experiências realizadas, atividades online (questionários MOODLE) e do projeto
+semestral.
+Trabalhos do Primeiro Semestre:
+T1 -- Nota relativa as atividades em laboratório do 1ºsemestre: 40% atribuída à
+média dos relatórios, 30% para a atividade de exercícios e 30% para o projeto
+semestral.
+Trabalhos do Segundo Semestre:
+T2 -- Nota relativa as atividades em laboratório do 2ºsemestre: 40% atribuída à
+média dos relatórios, 30% para a atividade de exercícios e 30% para o projeto
+semestral.
+A média final (MT) das atividades é calculada da seguinte forma:
+MT = média das atividades = (T1*k1+T2*k2)/(k1+k2)
+As provas semestrais P1 e P2 versarão sobre o conteúdo visto em cada semestre.
+A prova substitutiva PS versará sobre os conteúdos do primeiro e segundo
+semestres. A aplicação das provas seguirá o calendário oficial da Escola.
+A média de provas MP é calculada segundo a expressão MP = (2*P1 + 3*P2)/5.
+***** IMPORTANTE ***** A nota da prova PS substitui a menor dentre as notas das
+2021-EFB206página 7 de 13
+----------------Page (6) Break----------------
+provas P1 e P2, ou a média entre essas notas, de acordo com a situação que
+melhor favorece o aluno. 
+A média final (MF) é calculada por:
+MF=0,6*MP+0,4*MT , é considerado aprovado o aluno com MF maior ou igual à 6,0.
+Os alunos dependentes e repetentes na disciplina não poderão aproveitar as
+notas de trabalho do ano anterior ao cursado.
+2021-EFB206página 8 de 13
+----------------Page (7) Break----------------
+OUTRAS INFORMAÇÕES
+O desenvolvimento das atividades desta disciplina compõe um processo de
+aprendizagem onde você será tratado com respeito. São bem-vindos indivíduos de
+todas as idades, origens, crenças, etnias, gêneros, identidades de gênero,
+expressões de gênero, origens nacionais, afiliações religiosas, orientações
+sexuais, outras diferenças visíveis e não visíveis. Espera-se que todos os
+matriculados nesta disciplina contribuam para um ambiente respeitoso, acolhedor
+e inclusivo para todos.
+AULAS DE LABORATÓRIO: As aulas de laboratório são de caráter participativo,
+sendo essencial a presença e participação efetiva dos alunos para o completo
+entendimento da matéria. O trabalho experimental é feito por equipes formadas
+por três à quatro alunos que serão definidas na primeira semana de aulas. O
+aluno deverá estar presente desde o início da aula, não sendo tolerado atraso.
+Os alunos serão avaliados por meio de relatórios e projeto semestral. Em cada
+semestre serão realizadas n atividades experimentais, podendo ser n diferente
+em cada semestre. Serão atribuídas aos estudantes duas notas de laboratório, T1
+e T2,correspondentes ao 1º e 2º semestres respectivamente. Poderá ser
+solicitado à equipe de alunos em algum experimento que traga seu próprio
+notebook para a coleta de dados e trabalho com algum software específico.
+REVISÃO E VISTAS DE PROVAS: As revisões e vistas de provas serão feitas de
+acordo com o Regimento Interno.
+OBSERVAÇÕES GERAIS: 
+A fim de permitir ao aluno desenvolver seu pensamento crítico e habilidades de
+comunicação e trabalho em equipe são utilizadas metodologias ativas em sala de
+aula. Assim, são utilizadas principalmente as abordagens relativas ao
+aprendizado baseado em problemas e projetos.
+2021-EFB206página 9 de 13
+----------------Page (8) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Airton Eiras
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Hector Alexandre Chaves Gil
+ Coordenador(a) do Ciclo Básico
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+2021-EFB206página 10 de 13
+----------------Page (9) Break----------------
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EFB206página 11 de 13
+----------------Page (10) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPrograma de recepção dos calouros   0
+  1 TPrograma de recepção dos calouros   0
+  2 LApresentação do Laboratório de Física 2   0
+  2 TApresentação do curso e Movimento Harmônico Simples Aula 1   41% a 60%
+  3 TMovimento Harmônico Simples Aula 2   41% a 60%
+  3 LExperimento Movimento Harmônico Simples   61% a 90%
+  4 TOscilações Amortecidas Aula 1   41% a 60%
+  4 LExperimento Movimento Harmônico Pêndulo Simples   61% a 90%
+  5 TOscilações Amortecidas Aula 2   41% a 60%
+  5 LExperimento Oscilações Amortecidas Aula 1   61% a 90%
+  6 TOscilações Forçadas e Ressonância Aula 1   41% a 60%
+  6 LExperimento Oscilações Amortecidas Aula 2   61% a 90%
+  7 TOscilações Forçadas e Ressonância Aula 2   41% a 60%
+  7 LExperimento Oscilações Forçadas e Ressonância   61% a 90%
+  8 LAula Extra de Exercícios   61% a 90%
+  8 TAula Extra de Exercícios   61% a 90%
+  9 TAula Extra de Exercícios   61% a 90%
+  9 LAtividade de Exercícios MOODLE   91% a
+100%
+ 10 LSemana de Provas P1   0
+ 10 TSemana de Provas P1   0
+ 11 TLei de Coulomb   41% a 60%
+ 11 LBipolos Elétricos   61% a 90%
+ 12 TCampo Elétrico Aulas 1   41% a 60%
+ 12 LFontes de Tensão   61% a 90%
+ 13 TCampo Elétrico Aulas 2   41% a 60%
+ 13 LCondutores Filiformes   61% a 90%
+ 14 LAula Extra de Exercícios   61% a 90%
+ 14 TAula Extra de Exercícios   61% a 90%
+ 15 LSemana de Inovação - SMILE   0
+ 15 TSemana de Inovação - SMILE   0
+ 16 TLei de Gauss Aula 1   41% a 60%
+ 16 LExperimento Campo Elétrico   61% a 90%
+ 17 TLei de Gauss Aula 2   41% a 60%
+ 17 LApresentação e Avaliação dos projetos semestrais   91% a
+100%
+ 18 TAula Extra de Exercícios   61% a 90%
+ 18 LAula Extra de Exercícios   61% a 90%
+ 19 LSemana de Provas P2   0
+ 19 TSemana de Provas P2   0
+ 20 LSemana de Provas P2   0
+ 20 TSemana de Provas P2   0
+ 21 TAula Extra de Exercícios   61% a 90%
+ 21 LAula Extra de Exercícios   61% a 90%
+2021-EFB206página 12 de 13
+----------------Page (11) Break----------------
+ 22 LSemana de Provas PSUB1   0
+ 22 TSemana de Provas PSUB1   0
+ 23 TCampo Magnético Aula 1   41% a 60%
+ 23 LCapaccitores   61% a 90%
+ 24 TCampo Magnético Aula 2   41% a 60%
+ 24 LExperimento Campo Magnético Terrestre   61% a 90%
+ 25 TLei de Biot - Savart Aula 1   41% a 60%
+ 25 LAtividade de Exercícios MOODLE   91% a
+100%
+ 26 TLei de Biot - Savart Aula 2   41% a 60%
+ 26 LExperimento Lei de Biot - Savart   61% a 90%
+ 27 TLei de Ampère   41% a 60%
+ 27 LExperimento Bobinas de Helmholtz   61% a 90%
+ 28 TAula Extra de Exercícios   61% a 90%
+ 28 LAula Extra de Exercícios   61% a 90%
+ 29 LSemana de provas P3   0
+ 29 TSemana de provas P3   0
+ 30 TLei de Faraday - Lenz Aula 1   41% a 60%
+ 30 LLei de Faraday - Simulador   61% a 90%
+ 31 TLei de Faraday - Lenz Aula 2   41% a 60%
+ 31 LExperimento Lei de Faraday   61% a 90%
+ 32 TOndas Mecânicas   41% a 60%
+ 32 LExperimento Ondas Mecânicas   61% a 90%
+ 33 TEquações de Maxwell   41% a 60%
+ 33 LOndas Eletromagnéticas   61% a 90%
+ 34 LAula Extra de Exercícios   61% a 90%
+ 34 TAula Extra de Exercícios   61% a 90%
+ 35 TOndas eletromagnéticas   41% a 60%
+ 35 LApresentação e Avaliação dos Projetos Semestrais   91% a
+100%
+ 36 TAula Extra de Exercícios   61% a 90%
+ 36 LAula Extra de Exercícios   61% a 90%
+ 37 LSemana de Provas P4   0
+ 37 TSemana de Provas P4   0
+ 38 TSemana de Provas P4   0
+ 38 LSemana de Provas P4   0
+ 39 TAula Extra de Exercícios   61% a 90%
+ 39 LAula Extra de Exercícios   61% a 90%
+ 40 LAula Extra de Exercícios   61% a 90%
+ 40 TAula Extra de Exercícios   61% a 90%
+ 41 TSemana de Provas PSUB2   0
+ 41 LSemana de Provas PSUB2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EFB206página 13 de 13
+----------------Page (12) Break----------------

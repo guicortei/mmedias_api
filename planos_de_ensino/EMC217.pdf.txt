@@ -1,0 +1,214 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Manufatura Assistida por ComputadorEMC217
+Course:
+Computer-Assisted Manufacturing
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Adalto de FariasEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Adalto de FariasEngenheiro MecânicoDoutor
+Alisson Alves SarmentoEngenheiro MecânicoMestre
+MODALIDADE DE ENSINO
+Presencial: 70%
+Mediada por tecnologia: 30%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Propiciar ao aluno o contato com máquinas operatrizes com Comando Numérico
+Computadorizado(CNC)apresentando suas características e aplicações. Apresentar
+uma base da linguagem ISO G de programação de máquinas CNC para tornos e para
+fresadoras e trabalhar a integração das máquinas CNC e computador através de
+softwares de simulação de usinagem. Introduzir o aluno aos ambientes de
+manufatura assistida por computador com integração CAD/CAM trabalhando
+programas para manufatura assistida por computador (CAM). Discutir os conceitos
+de automação da manufatura, sistemas flexíveis de fabricação, conceitos da
+Manufatura Avançada e Indústria 4.0.
+SYLLABUS
+Provide the students familiarization with CNC machines, showing its
+characteristics and applications. introduce to the students the basics of ISO G
+programming language for CNC machines, lathe and milling machines. Work the
+integration of CNC machines and computer through machining simulation software.
+Introduce the student to the computer assisted manufacturing environments
+CAD/CAM and machine integration on computer aided manufacturing (CAM) programs.
+Discuss the concepts of manufacturing automation, flexible manufacturing
+systems, advanced manufacturing and Industry 4.0.
+2021-EMC217página 1 de 7
+----------------Page (0) Break----------------
+TEMARIO
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Processos de manufatura de peças mecânicas.
+- Desenho técnico mecânico.
+- Elementos de Máquinas.
+- Processos de fabricação: usinagem.
+- Elementos de máquinas: aplicação e representação.
+- Materiais de construção mecânica.
+- Noções de metrologia.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Competência 1:Analisar e compreender os usuários das soluções de engenharia e
+seu contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadasCompetência 2:Dominar o ciclo completo de investigação dos aspectos
+analítico, numérico e experimental de um mesmo fenômeno, aprendendo a conciliar
+as diferenças encontradas no conhecimento interdisciplinar coordenado entre as
+disciplinas do Curso de Engenharia Mecânica.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1 - Processos de automação da produção.
+C2 - Programação de máquinas CNC (Controle Numérico Computadorizado) em
+linguagem ISO.
+C3 - Ferramentas computacionais de simulação para processo de usinagem e
+fabricação mecânica.
+C4 - Operação de software CAD (Projeto Assistido por Computador).
+C5 - Operação de software CAM (Manufatura Assistida por Computador).
+C6 - Processos de Manufatura Avançada.
+C7 - Processos da Indústria 4.0.
+Habilidades:
+H1 - Leitura e interpretação de desenhos de fabricação.
+H2 - Desenvolver um programa CNC a partir do modelo de uma peça manualmente.
+H3 - Desenvolver um programa CNC a partir do modelo de uma peça utilizando
+ferramentas CAM.
+H4 - Realizar simulações de processo de usinagem com recurso de softwares.
+H5 - Elaborar sequência de operações de usinagem.
+H6 - Trabalhar em equipe.
+Atitudes:
+A1 - Ter visão sistêmica e interdisciplinar na solução de problemas técnicos.
+A2 - Ter compromisso com a qualidade do trabalho.
+A3 - Ter compromisso com a segurança no trabalho e com a segurança do público
+em geral.
+A5 - Trabalhar com senso crítico-construtivo.
+A6 - Abordar as situações de forma sistêmica.
+2021-EMC217página 2 de 7
+----------------Page (1) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Utilização de metodologias hibridas de ensino, PBL e sala de aula invertida,
+com auxílio de projetor e resolução de exercícios na lousa. Treinamento de
+habilidades em uso de softwares de simulação e CAM em laboratório de
+informática. Programação e operação de máquinas CNC (torno e fresadora) no
+laboratório de automação da manufatura com uso de equipamento industrial.
+Utilização das técnicas de programação para execução da usinagem de peças do
+projeto transdisciplinar da Mecânica.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,5          Peso de MT(kT): 0,5
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Após o estudo desta disciplina, o aluno deverá ter adquirido a capacidade de:
+- Realizar o ciclo projeto - manufatura de peças mecânicas.
+- Utilizar ferramentas atuais de simulação para manufatura assistidas por
+computador, CAD e CAM.
+- Programar em linguagem ISO G máquinas como fresadoras e tornos CNC.
+- Avaliar as novas e modernas práticas de manufatura.
+- Discutir sobre a inovação na manufatura oriunda da Indústria 4.0.
+2021-EMC217página 3 de 7
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+FITZPATRICK, Michael. Introdução à usinagem com CNC - Comando Numérico
+Computadorizado.  Porto Alegre: AMGH, 2013. 365 p.  ISBN 9788580552515.
+GROOVER, Mikell P. Automation, production systems, and computer-integrated
+manufacturing. 3. ed.  New Jersey: Prentice Hall, c2008. 815 p.  ISBN
+0132393212.
+SOUZA, Adriano Fagali de; ULBRICH, Cristiane Brasil Lima. Engenharia integrada
+por computadores e sistema CAD/CAM/CNC: princípios e aplicações. 2. ed. rev. e
+ampl.  São Paulo: Artliber, c2013. 358 p.  ISBN 9788588098909.
+VOLPATO, Neri (Org.) et al. Manufatura aditiva: tecnologias e aplicações da
+impressão em 3D.  São Paulo: Blucher, 2017. 400 p.  ISBN 9788521211501.
+Bibliografia Complementar:
+ALTINTAS, Yusuf. Manufacturing automation: metal cutting mechanics, machine
+tool vibrations, and CNC design.  Ney York: Cambridge University, 2000. 286 p. 
+ISBN 0521659736.
+FERRARI, Alfredo Virgilio Fuentes. A evolução dos tornos automáticos: do came
+ao CNC.  São Paulo, SP: Ergomat, 2003. 21 p.
+GROOVER, Mikell P. Robótica: tecnologia e programação.  São Paulo, SP:
+McGraw-Hill, 1989. 401 p.  ISBN 0-07-450178-X.
+GROOVER, Mikell P; ZIMMERS JR., Emory W. CAD/CAM: computer aided design and
+manufacturing.  Englewood Cliffs, NJ: Prentice-Hall, c1984. 489 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+2021-EMC217página 4 de 7
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC217página 5 de 7
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Adalto de Farias
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC217página 6 de 7
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TDefinições CAM - Programação NX CAM TORNO   0
+  1 LIntrodução à Programação CNC linguagem ISO G   0
+  2 TProgramação CNC - Compensação de raio de ferramentas Torno   41% a 60%
+  2 LProgramação NX CAM TORNO   91% a
+100%
+  3 TProgramação CNC - Ciclos fíxos Torno   41% a 60%
+  3 LProgramação NX CAM TORNO   91% a
+100%
+  4 TProgramação CNC - Torno - Exercícios   41% a 60%
+  4 LProgramação NX CAM FRESADORA   91% a
+100%
+  5 TProgramação CNC - Fresadora - Compensação de raio e ciclos fixos   41% a 60%
+  5 LProgramação NX CAM FRESADORA   91% a
+100%
+  6 TProgramação CNC - Exercícios   61% a 90%
+  6 LSimulador SSCNC Torno   91% a
+100%
+  7 TManufatura Avançada - Indústria 4.0   0
+  7 LSimulador SSCNC Torno   91% a
+100%
+  8 TManufatura Avançada - Indústria 4.0   41% a 60%
+  8 LSimulador SSCNC Fresadora   91% a
+100%
+  9 TIntrodução da Automação em sistemas produtivos   0
+  9 LAtividades práticas no Lab. de máquinas CNC com rodizio de grupos   91% a
+100%
+ 10 TSistemas flexíveis de manufatura (FMS)   0
+ 10 LAtividades práticas no Lab. de máquinas CNC com rodizio de grupos   91% a
+100%
+ 11 TRobôs industriais e suas aplicações   0
+ 11 LAtividades práticas no Lab. de máquinas CNC com rodizio de grupos   91% a
+100%
+ 12 TManufatura Aditiva e Prototipagem rápida - Impressoras 3D   0
+ 12 LAtividades práticas no Lab. de máquinas CNC com rodizio de grupos   91% a
+100%
+ 13 TO computador do projeto à manufatura (CAD, CAM, CAPP, CAX)
+Sistemas PLM
+   0
+ 13 LAtividades práticas no Lab. de máquinas CNC com rodizio de grupos   91% a
+100%
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC217página 7 de 7
+----------------Page (6) Break----------------

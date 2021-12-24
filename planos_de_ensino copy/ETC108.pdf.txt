@@ -1,0 +1,353 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Tecnologia e Gestão BIMETC108
+Course:
+BIM Technology and Management
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Civil6Noturno
+Engenharia Civil5Diurno
+Engenharia Civil5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Paula KatakuraArquitetura e UrbanismoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Paula KatakuraArquitetura e UrbanismoDoutor
+Soraya Arida KatchvartanianEngenheiro CivilMestre
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+- Programa: 10%
+EMENTA
+Programação, Planejamento e Controle de todas as etapas de uma Obra Civil.
+Ciclo de vida do empreendimento. Inovações tecnológicas na execução da obra.
+Coordenação e compatibilização de projetos. Validação dos modelos.
+Interoperabilidade. BIM no contexto da inspeção e gestão da obra. Lean
+Construction e BIM. Especificação de materiais, equipamentos e serviços.
+Pré-construção. Análise da construtibilidade. Antecipação de incertezas e
+riscos. Logística do canteiro. Quantificação, orçamentação. Modelo digital da
+construção, gêmeos digitais. Simulação da construção, softwares de
+acompanhamento da obra.
+2021-ETC108página 1 de 10
+----------------Page (0) Break----------------
+SYLLABUS
+Programming, Planning and Control of all stages of  Civil Works. Project life
+cycle. Technological innovation in the execution of the construction.
+Coordination and compatibility of projects. Validation of models.
+Interoperability. BIM in the context of construction inspection and management.
+Lean Construction and BIM. Specification of materials, equipment, and services.
+Pre-construction. Constructibility analysis. The anticipation of uncertainties
+and risks. Construction site logistics. Quantification, cost estimating.
+Digital model of the building, digital twins. Construction simulation,
+construction planning and management softwares.
+TEMARIO
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Representação gráfica, noções de arquitetura, de construção de edifícios, de
+projeto de estruturas, projeto de instalações prediais, planejamento da
+construção, noções de ferramentas BIM.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Planejar a execução da obra utilizando modelos digitais.Organizar o fluxo de
+trabalho BIM selecionando tecnologias adequadas a cada etapa do processo.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Estudar as atividades a serem desenvolvidas pelo engenheiro no
+gerenciamento de obras civis de grande porte, visando a integração com os
+conhecimentos adquiridos em disciplinas correlatas do curso. Colocar em prática
+as ferramentas de gestão de modelos virtuais de construção, analisar modelos,
+verificar a construtibilidade dos projetos, estudar a logística dos canteiros,
+simular a construção tendo o "Bulding Information Modeling"-BIM como
+metodologia central.
+Conhecimentos
+C1-Conceitos fundamentais do BIM;
+C2-BIM no ciclo de vida do empreendimento, softwares BIM;
+C3-Pré-construção BIM, planejamento e simulação da construção;
+C4-Gestão da obra com modelo virtual e inovações tecnológicas no canteiro;
+C5-Fluxo de trabalho, gestão de projetos BIM.
+H1-Utilizar ferramentas tecnológicas de comunicação e compartilhamento;
+H2-Analisar diferentes softwares BIM e selecionar o mais adequado aos
+objetivos;
+H3-Incorporar novas inovações ao planejamento da obra;
+H4-Comunicar-se com as diferentes equipes disciplinares;
+H5-Utilizar os modelos virtuais para antecipar problemas na obra.
+A1-Organizar e planejar uma obra;
+A2-Compatibilizar projetos;
+2021-ETC108página 2 de 10
+----------------Page (1) Break----------------
+A3-Aprender novas ferramentas;
+A4-Comunicar-se por meio das ferramentas e repositórios BIM;
+A5-Incorporar inovações tecnológicas às rotinas de trabalho.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Ensino Híbrido
+- Sala de aula invertida
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Para o desenvolvimento dos tópicos do conteúdo programático da disciplina, a
+metodologia didático-pedagógica adotará aulas teóricas
+expositivas, pré-leitura de referencial teórico com discussões em sala de
+aula, estudo de problemas, debates com gestores de projetos e obras BIM,
+planejamento de obra a partir de modelo digital utilizando diferentes
+ferramentas BIM. Todas as aulas serão compostas por discussões conceituais e
+desenvolvimento prático de atividades relacionadas à gestão de obras em BIM com
+problemas reais que deverão ser analisados, revisados e preparados para a
+execução da obra. Os trabalhos serão desenvolvidos em duplas que semanalmente
+deverão realizar o upload de sua produção/atividade no OpenLMS. A autoavaliação
+de rubricas por tarefa faz parte das atividades didáticas dos alunos e serão
+previamente disponibilizadas.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 2,0  k4: 4,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina visa possibilitar ao futuro profissional realizar a gestão do
+processo de produção de obras civis por meio de métodos racionais e tecnologias
+BIM considerando os recursos disponíveis, o contexto físico, os objetivos do
+cliente e a função do empreendimento. Apresentará os conceitos fundamentais do
+BIM em todo o ciclo de vida da edificação com destaque para o planejamento e a
+execução da obra. Utilizará um modelo real para a experimentação, verificação,
+simulação e organização da obra procurando antecipar problemas, reduzir riscos,
+analisar projetos de fabricação, interferências e prazos.
+2021-ETC108página 3 de 10
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+EASTMAN, Chuck et al. Manual de BIM: um guia de modelagem da informação da
+construção para arquitetos, engenheiros, gerentes, construtores e
+incorporadores. SANTOS, Eduardo Toledo (Rev.). Porto Alegre: Bookman, 2014. 483
+p.
+LEUSIN, Sérgio Roberto. Gerenciamento e Coordenação de Projetos BIM. Rio de
+Janeiro: Elsevier, 2018.
+OLIVEIRA, Adriano de; CAMPOS NETTO, Claudia. Autodesk Navisworks 2017:
+conceitos e aplicações. 1. ed. Rio de Janeiro: Érica/Saraiva, c2017. 175 p.
+Bibliografia Complementar:
+AGÊNCIA BRASILEIRA DE DESENVOLVIMENTO. Coletânea Guias BIM ABDI ¿ MDIC.
+Brasília: ABDI-MDIC, 2017. Disponíveis em:
+https://www.abdi.com.br/projetos/modernizacao-da-construcao. Acesso em
+17/08/2020.
+CAMPESTRINI, T. F. et al. Entendendo BIM. Curitiba: UFPR, 2015.e-book
+Disponível em:
+http://www.gpsustentavel.ufba.br/documentos/livro_entendendo_bim.pdf. Acesso em
+17/08/2020. 
+CAREZZATO, Gustavo Gonçalves. Protocolo de gerenciamento BIM nas fases de
+contratação, projeto e obra em empreendimentos civis baseado na ISO 19650.
+2018. Dissertação- Escola Politécnica, Universidade de São Paulo, São
+Paulo.online
+CÂMARA BRASILEIRA DA INDÚSTRIA DA CONSTRUÇÃO. Implementação do BIM para
+construtoras e incorporadoras. Brasília: CBIC, 2016. v. 1. 124 p. (Coletânea).
+YAZIGI, Walid. A técnica de edificar. 4. ed.  São Paulo, SP: Pini, 2002. 669 p.
+ ISBN 85-7266-136-0.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Revit 2021, Navisworks 2021, Autocad 2021, Google Earth Pro, Autodesk
+Infraworks 2021, software ACCA para andaimes, TQS, Open Building Design, MS
+Project e Synchro.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Os trabalhos são processuais e serão avaliados considerando a participação
+semanal dos alunos. Os trabalhos T1, T2, T3 e T4 serão compostos por pequenos
+exercícios semanais constituem a Pré-Construção BIM e que serão revisados,
+2021-ETC108página 4 de 10
+----------------Page (3) Break----------------
+discutidos e organizados ao longo das semanas. As atividades são cumulativas e
+o trabalho é processual. É fundamental que o desenvolvimento seja progressivo e
+que os conhecimentos das aulas conceituais sejam incorporados a cada etapa do
+trabalho. Não serão consideradas entregas de trabalhos que não tiverem sido
+supervisionados pelas professoras durante o curso.
+Os exercícios deverão ser postados no Open LMS semanalmente por apenas um
+integrante da dupla e serão desenvolvidos durante as aulas.
+A presença nas aulas será aferida por diários eletrônicos da seção Zoom,
+conferida a permanência durante no mínimo 75% do período de duração das aulas.
+A participação nas aulas inclui também a contribuição nas equipes, a
+iniciativa, a organização do tempo, etc. Os trabalhos foram pensados em função
+da formação por competências e serão avaliados por metodologia de rubricas
+previamente apresentadas às turmas. Recomenda-se que cada aluno faça também a
+sua autoavaliação para verificar seu desenvolvimento ao longo das aulas.
+Por constituir no conjunto um trabalho único, processual e cumulativo,
+recomenda-se realizar as tarefas semanalmente de maneira a não acumular partes
+que precisarão ser desenvolvidas ao final. 
+As aulas são alternadas entre as professoras devendo o aluno verificar sempre a
+tabela de divisão dos laboratórios com os respectivos dias e conteúdos das
+aulas.
+2021-ETC108página 5 de 10
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+A avaliação na disciplina não conta com provas e será realizada apenas com base
+nas entregas dos trabalhos, na participação dos alunos e na evolução
+demonstrada ao final de cada etapa.
+Haverá aplicação prática de recursos de realidade ampliada para construtoras
+como parte do programa de extensão.
+2021-ETC108página 6 de 10
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Paula Katakura
+ Responsável pela Disciplina
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ETC108página 7 de 10
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LAula Magna.  Apresentação da disciplina, Metodologia, critérios
+de Avaliação.
+   91% a
+100%
+  2 LAula 1: BIM e ciclo de vida, principais conceitos, níveis de
+detalhamento e dimensões. Apresentação do projeto do
+empreendimento.  Exercício Prático: Análise dos projetos para
+apresentação de proposta técnica de obra.
+   91% a
+100%
+  3 LAula 2: Gestão de Projetos BIM na obra, PMBOK e preparação para a
+Execução da Obra. Exercício Prático: Entrega da implantação com
+os eixos da Torre.
+   91% a
+100%
+  4 LAula 3: A execução da obra dentro do ciclo de vida do
+empreendimento e a pré-construção. Exercício prático:análise dos
+projetos para proposta técnica de pré-construção e construção.
+Análise do terreno de implantação, topografia
+   91% a
+100%
+  5 LAula 4: Caderno de encargos BIM e BIM Mandate.Exercício prático:
+desenvolvimento do projeto de fundações.
+   91% a
+100%
+  6 LAula 5: Navisworks. A importância da interoperabilidade.
+Integração de projetos.Exercício prático:integração de projetos
+no Navisworks, modelo federado.Entrega de relatório com prints do
+modelo integrado e descrição de problema
+   91% a
+100%
+  7 LAula 6: Análise construtiva de projetos para estratégias de
+propostas de pré-construção. Exercício Prático: Análise
+construtiva e estratégias para construção. Entrega da análise
+construtiva do memorial.
+   91% a
+100%
+  8 LAvaliação do T1   91% a
+100%
+  9 LAula 7: Navisworks. Exercício prático: Verificação de clashes
+utilizando Navisworks. Entrega do relatório de verificação de
+clashes e de verificação manual.
+   91% a
+100%
+ 10 LAula 8: Vistoria cautelar. Exercício prático: Utilização do App
+gerando Qrcode
+   91% a
+100%
+ 11 LAula 9: Navisworks.Exercício prático; levantamento quantitativo
+preliminar.
+   91% a
+100%
+ 12 LAula 10: Logística e layout do canteiro de obras. Exercício
+Prático: elaboração do projeto do canteiro, modelagem paramétrica
+do canteiro de obras. Entrega parcial.
+   91% a
+100%
+ 13 LAula 11: A pré-construção BIM. Exercício prático: elaboração da
+proposta de pré-construção.Entrega parcial
+   91% a
+100%
+ 14 LAula 12:  Andaimes em Bim na logística e layout do canteiro de
+obras. Exercício Prático: elaboração do projeto de andaimes
+utilizando o programa ACCA.
+   91% a
+100%
+ 15 LAvaliação   0
+ 16 LAvaliação   0
+ 17 LDiscussão do T1 e T2   91% a
+100%
+2021-ETC108página 8 de 10
+----------------Page (7) Break----------------
+ 18 LRevisão   0
+ 19 LAula 13:  A execução da obra dentro do ciclo de vida do
+empreendimento e a pré-construção. Exercício prático: análise dos
+projetos para proposta técnica de pré-construção.
+   91% a
+100%
+ 20 LRevisão   0
+ 21 LAula 14: Canteiro de obras digital, digital twin, georadar,
+vants, realidade aumentada para construção. Exercício Prático:
+elaboração do projeto do canteiro, modelagem paramétrica do
+canteiro de obras. Entrega final da modelage
+   91% a
+100%
+ 22 LAula 15:A execução da obra dentro do ciclo de vida do
+empreendimento e a pré-construção. Exercício prático: análise dos
+projetos para proposta técnica de pré-construção
+   91% a
+100%
+ 23 LAula 16:BIM 4D e 5D, principais softwares, cases.Exercício
+prático: elaboração de Simulação 4D da obra. Entrega parcial.
+   91% a
+100%
+ 24 LAula 17: Compatibilização de projetos BIM, repositório,
+documentação BIM na web. Project Wise e Dalux. Exercício prático:
+Gestão do projeto utilizando o Dalux. Entrega de relatório final
+   91% a
+100%
+ 25 LAula 18:  Gestão BIM da obra, drones, softwares. Exercício
+prático: inovações tecnológicas inseridas na proposta de
+pré-construção.
+   91% a
+100%
+ 26 LAula 19: Norma de desempenho. Webinar   91% a
+100%
+ 27 LAula 20: Synchro Pro- acompanhamento de obra, mini-palestra.
+Exercício prático:  Simulação com synchro, previsto/executado.
+   91% a
+100%
+ 28 LAula 21: Gêmeos Digitais e Smart Cities. Exercício prático:
+finalização da proposta de pré-construção.
+   91% a
+100%
+ 29 LAula 23: Facility Management, softwares. Exercício prático:
+roteiro para organização de todo material produzido para a
+proposta de execução da obra.
+   91% a
+100%
+ 30 LAula 22: Entrega final da obra.Vistorias, manual do proprietário
+com realidade virtual.
+   91% a
+100%
+ 31 LAula 24: Check list para a apresentação final do T4.   91% a
+100%
+ 32 LAula 25: Finalização da proposta de pré-construção.   91% a
+100%
+ 33 LAula 26:  Finalização da proposta de pré-construção.   91% a
+100%
+ 34 LEntrega final.   91% a
+100%
+ 35 LSeminários   91% a
+100%
+ 36 LAvaliação   0
+ 37 LDiscussão dos trabalhos apresentados.   91% a
+100%
+ 38 LDiscussão dos trabalhos apresentados.   91% a
+100%
+ 39 LRevisão   0
+ 40 LAvaliação final   0
+2021-ETC108página 9 de 10
+----------------Page (8) Break----------------
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ETC108página 10 de 10
+----------------Page (9) Break----------------

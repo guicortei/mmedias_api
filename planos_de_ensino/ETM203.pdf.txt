@@ -1,0 +1,322 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Materiais de Construção Mecânica IETM203
+Course:
+Mechanical Construction Materials I
+Materia:
+Materiales de Construcción Mecánica I
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 01 - 00 - 01
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Produção2Diurno
+Engenharia de Produção2Noturno
+Engenharia de Produção2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marcelo Ferreira MoreiraEngenheiro MetalúrgicoMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Marcelo Ferreira MoreiraEngenheiro MetalúrgicoMestre
+Susana Marraccini Giampietri LebraoEngenheiro MetalúrgicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 50%
+Mediada por tecnologia: 50%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Ciência dos materiais. Ligas metálicas. Diagramas de equilíbrio. Introdução aos
+aços de construção mecânica. Diagrama de equilíbrio Fe-C. Diagramas TTT. Ferros
+Fundidos. Ligas de alumínio. Ligas de cobre. Cerâmicas. Polímeros.
+Processamento, degradação e reciclagem de polímeros. LABORATÓRIO: Estudo e
+realização dos principais ensaios mecânicos: tração, dureza, impacto. Líquidos
+penetrantes e partículas magnéticas. Metalografia dos aços e do alumínio.
+Ensaio de fadiga. Ensaios mecânicos de polímeros.
+SYLLABUS
+Materials science. Metal alloys. Equilibrium diagrams. Introduction to
+mechanical construction steels. Fe-C equilibrium diagram. TTT diagrams. Cast
+Iron. Aluminum alloys. Copper alloys. Ceramics. Polymers. Processing,
+degradation and recycling of polymers. LAB: Study and realization of the main
+mechanical tests: tensile, hardness, impact. Penetrant and magnetic particles.
+Metallography of steels and aluminum. Fatigue test. Mechanical tests polymers.
+2021-ETM203página 1 de 9
+----------------Page (0) Break----------------
+TEMARIO
+Ciencia de los materiales. Aleaciones de metal. Diagramas de equilibrio.
+Introducción a aceros de construcción mecánicas. Fe-C diagrama de equilibrio.
+Diagramas TTT. Hierro fundido. Las aleaciones de aluminio. Las aleaciones de
+cobre. Cerámica. Polímeros. Procesamiento, la degradación y el reciclado de
+polímeros. LAB: Estudio y realización de las principales pruebas mecánicas:
+resistencia a la tracción, dureza, impacto. Penetrantes y partículas
+magnéticas. Metalografía de aceros y aluminio. Prueba de resistencia. Ensayos
+mecánicos polímeros.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Química- ligações químicas 
+Física- Conceitos de dilatação térmica, densidade, condutibilidade térmica e 
+elétrica, unidades de medida, análise dimensional
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+A disciplina estabelece correlações entre propriedades mecânicas, 
+microestruturas e composições químicas. Isso promove competências relacionadas
+à identificação de padrões, estabelecimento de conexões e pensamento
+estruturado.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+O curso objetiva a disseminação de conhecimentos, habilidades e competências
+consideradas introdutórias aos materiais de construção mecânica.  
+São considerados os seguintes conhecimentos:
+C1- Conceitos e princípios fundamentais de metalurgia e ciência dos materiais. 
+C2- Conceitos de propriedades físicas e mecânicas dos materiais. 
+C3- Noções básicas sobre processos de fabricação e aplicações dos materiais.
+C4- Noções básicas do processo de seleção dos materiais. 
+As seguintes habilidades a serem desenvolvidas:
+H1- Estabelecer correlações entre composição química, propriedades mecânicas e 
+microestrutura em materiais.
+H2- Identificar fenômenos destrutivos em materiais.
+E os seguintes valores:
+V1- Compreensão mais fundamentada sobre a constituição dos materiais, suas 
+propriedades, aplicações e limitações. 
+V2- Visão crítica sobre o processo de seleção de materiais
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+2021-ETM203página 2 de 9
+----------------Page (1) Break----------------
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Ensino Híbrido
+- Experimentação
+- Simulação
+METODOLOGIA DIDÁTICA
+Aulas expositívas, aulas práticas de laboratório, exercícios, discussão e 
+resolução de casos
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  k4: 1,0  
+ Peso de MP(kP): 7,0          Peso de MT(kT): 3,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Os conhecimentos adquiridos na disciplina fazem parte da fundamentação teórica 
+básica de um engenheiro, sendo aplicados rotineiramente em sua vida 
+profissional. A premissa é que o engenheiro projetará, construirá ou ainda, 
+administrará a produção de componentes e que estes serão fabricadas com algum 
+material. Assim, a disciplina possibilitará ao aluno compreender a 
+constituição dos materiais metálicos de um ponto de vista mais amplo, 
+envolvendo sua estrutura cristalina, sua microestrutura e as relações destas 
+com as propriedades mecânicas.
+Adicionalmente, a disciplina também apresentará aos alunos de engenharia que 
+os materiais, empregados em componentes por eles projetados, também poderão 
+ser projetados ou desenvolvidos para um determinada finalidade, maximizando o 
+desempenho do produto final.
+BIBLIOGRAFIA
+Bibliografia Básica:
+SHACKELFORD, James F. Introduction to materials science for engineers. 4. ed. 
+New Jersey: Prentice-Hall, c1996. 670 p.  ISBN 0024097616.
+Bibliografia Complementar:
+2021-ETM203página 3 de 9
+----------------Page (2) Break----------------
+ASHBY, Michael F; JONES, David R. H. Engenharia de materiais. Trad. da 3 ed.
+americana por Arlete Simille Marques.  Rio de Janeiro , RJ: Elsevier, 2007. v.
+1. 371 p.  ISBN 9788535223620.
+CALLISTER JR., William D. Ciência e engenharia de materiais: uma introdução.
+SOARES, Sérgio Murilo Stamile (trad.), d'ALMEIDA, José Roberto Moraes de
+(Rev.). 7. ed.  Rio de Janeiro, RJ: LTC, 2007. 705 p.  ISBN 9788521615958.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+CES Edupack
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A nota dos trabalhos será composta por 5,0 pontos referentes aos relatórios
+realizados e entregues em aula de laboratório e 5,0 pontos referentes aos
+trabalhos realizados via moodle. 
+Como todos os trabalhos serão realizados e entregues via moodle, com prazo de
+uma semana para sua realização e avisados antecipadamente em sala e por
+mensagem no moodle, não haverá trabalho substitutivo. 
+A primeira prova deverá ser feita com recursos mediados por tecnologia, com o
+auxilio do Moodlerooms acompanhado pelo professor no Collaborate, durante no
+horário de aula.
+Esta disciplina opta pela concessão prevista na resolução CEUN-CEPE 02.12.2008.
+2021-ETM203página 4 de 9
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-ETM203página 5 de 9
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marcelo Ferreira Moreira
+ Responsável pela Disciplina
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ETM203página 6 de 9
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  1 TPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  2 LDia não letivo - Carnaval.   0
+  2 TDia não letivo - Carnaval.   0
+  3 L(L1) Palestra sobre segurança nos laboratórios e assinatura do
+termo de compromisso. Apresentação dos laboratórios e dos
+critérios de avaliação da disciplina.
+   1% a 10%
+  3 T(T01) Apresentação do professor e da temática do curso.
+Apresentação do software CES Edupack e propriedades dos
+materiais.
+   1% a 10%
+  4 LNão haverá aula   0
+  4 TNão haverá aula   0
+  5 T(T02) Breve revisão de ligações químicas. Definição de força de
+ligação e energia de ligação. Relação entre propriedades físicas
+e o tipo da ligação química, características gerais dos metais.
+   1% a 10%
+  5 L(L2) Deformação elástica dos materiais: ensaio de tração
+instrumentado com extensômetro.
+   91% a
+100%
+  6 LNão haverá aula   0
+  6 TNão haverá aula   0
+  7 TExercícios em sala - Lista de exercícios extra sobre energia de
+ligação química e propriedades físicas. Resolução individual e
+correção no final da aula.
+   61% a 90%
+  7 L(L3) Ensaio de tração com escoamento nítido (metais).   91% a
+100%
+  8 LNão haverá aula   0
+  8 TNão haverá aula   0
+  9 T(T03) Estrutura cristalina dos metais, reticulados cristalinos,
+parâmetros do reticulado, número de coordenação - estruturas CCC,
+CFC e HC. Estrutura polimérica e cerâmica.
+   1% a 10%
+  9 L(L4) Ensaio de tração com escoamento não-nítido (limite de
+escoamento 0,2%).
+   91% a
+100%
+ 10 LProvas P1 das disciplinas AN e P1 das disciplinas do S2.   0
+ 10 TProvas P1 das disciplinas AN e P1 das disciplinas do S2.   0
+ 11 LFeriado Tiradentes   0
+ 11 TNão haverá aula   0
+ 12 TExercícios em sala. Fator de empacotamento atômico das estruturas
+CCC e CFC. Cálculo de densidade teórica e materiais
+policristalinos e introdução às imperfeições cristalinas
+   61% a 90%
+ 12 L(L5) Materiais cerâmicos e ensaio de flexão em cerâmicas (cálculo
+do módulo de ruptura - MOR)
+   91% a
+100%
+ 13 LNão haverá aula   0
+ 13 TNão haverá aula   0
+ 14 T(T04) Imperfeições cristalinas e estruturas não-cristalinas.   1% a 10%
+2021-ETM203página 7 de 9
+----------------Page (6) Break----------------
+ 14 L(L6) Ensaio de impacto (estudo de caso do Titanic).   91% a
+100%
+ 15 LSMILE 2021   0
+ 15 TSMILE 2021   0
+ 16 LNão haverá aula   0
+ 16 TNão haverá aula   0
+ 17 TEsclarecimento de dúvidas e discussão de exercícios   11% a 40%
+ 17 L(L7) Ensaios de dureza (escalas Brinell, Rockwell, Vickers)   91% a
+100%
+ 18 LNão haverá aula   0
+ 18 TNão haverá aula   0
+ 19 LProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 19 TProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 20 LProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 20 TProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 21 TAtividades de Planejamento e Capacitação Docente.   0
+ 21 LAtividades de Planejamento e Capacitação Docente.   0
+ 22 LProvas PS1 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 22 TProvas PS1 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 23 LNão haverá aula   0
+ 23 TNão haverá aula   0
+ 24 T(T05) Mecanismos de endurecimento aplicáveis aos materiais
+metálicos.
+   1% a 10%
+ 24 L(L8) Observação de estruturas bifásicas (latão alfa e latão
+alfa-beta) Exercícios - cálculos e sequência de solidificação
+   91% a
+100%
+ 25 LNão haverá aula   0
+ 25 TNão haverá aula   0
+ 26 T(T06) Ligas metálicas, generalidades, soluções sólidas -
+Introdução aos diagramas de equilíbrio. Cálculos e sequência de
+solidificação no diagrama isomorfo.
+   11% a 40%
+ 26 L(L9) Observação de microestruturas hipoeutética, eutética e
+hipereutética do sistema Al-Si. Exercícios com cálculos e
+sequência de solidificação.
+   91% a
+100%
+ 27 LNão haverá aula   0
+ 27 TFeriado - Independência do Brasil   0
+ 28 T(T07) Diagramas de equilíbrio. Cálculos e sequência de
+solidificação nos diagramas eutético, eutetóide e peritético.
+   11% a 40%
+ 28 L(L10) Síntese polimérica e caracterização   41% a 60%
+ 29 LProvas P3 das disciplinas AN e P1 das disciplinas do S2.   0
+ 29 TProvas P3 das disciplinas AN e P1 das disciplinas do S2.   0
+ 30 LNão haverá aula   0
+ 30 TNão haverá aula   0
+2021-ETM203página 8 de 9
+----------------Page (7) Break----------------
+ 31 T(T08) Introdução ao diagrama Fe-Fe3C. Exercícios sobre diagrama
+Fe-Fe3C
+   11% a 40%
+ 31 L(L11) Ensaios mecânicos em polímeros   91% a
+100%
+ 32 LNão haverá aula   0
+ 32 TFeriado - Nossa Senhora Aparecida   0
+ 33 TExercícios sobre diagrama Fe-Fe3C   61% a 90%
+ 33 L(L12) Metalografia e observação de estruturas de aços resfriados
+lentamente
+   91% a
+100%
+ 34 LNão haverá aula   0
+ 34 TNão haverá aula   0
+ 35 TFeriado - Finados   0
+ 35 LAtendimento aos alunos.   1% a 10%
+ 36 LNão haverá aula   0
+ 36 TPlantão para esclarecimento de dúvidas   1% a 10%
+ 37 LProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 37 TProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 38 TProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 38 LProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 39 TNão haverá aula   0
+ 39 LRevisão de provas   11% a 40%
+ 40 LNão haverá aula   0
+ 40 TPlantão para esclarecimento de dúvidas   1% a 10%
+ 41 TProvas PS2 das disciplinas (AN) e semestrais do S2.   0
+ 41 LProvas PS2 das disciplinas (AN) e semestrais do S2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ETM203página 9 de 9
+----------------Page (8) Break----------------

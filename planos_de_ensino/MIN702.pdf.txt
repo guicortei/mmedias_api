@@ -1,0 +1,220 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Aprendizado de MáquinaMIN702
+Course:
+-
+Materia:
+Periodicidade: SemestralCarga horária total: 40Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Administração4Matutino
+Administração4Noturno
+Engenharia de Alimentos5Diurno
+Engenharia de Controle e Automação5Diurno
+Engenharia de Controle e Automação6Noturno
+Engenharia de Controle e Automação5Noturno
+Engenharia de Computação5Diurno
+Engenharia Civil5Diurno
+Engenharia Civil6Noturno
+Engenharia Civil5Noturno
+Design4Matutino
+Design4Noturno
+Engenharia Eletrônica5Diurno
+Engenharia Eletrônica6Noturno
+Engenharia Elétrica6Noturno
+Engenharia Elétrica5Diurno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Noturno
+Engenharia de Produção6Noturno
+Engenharia de Produção5Diurno
+Engenharia de Produção5Noturno
+Engenharia Química6Noturno
+Engenharia Química5Diurno
+Engenharia Química5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Rodrigo Mangoni NicolaEngenheiro em Controle e AutomaçãoMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Rodrigo Mangoni NicolaEngenheiro em Controle e AutomaçãoMestre
+2021-MIN702página 1 de 8
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Conceito de inteligência artificial em que se destacam: aspectos históricos;
+abordagens clássicas e modernas; estudo de alguns modelos tradicionais e seus
+campos de aplicação; tendências e perspectivas futuras. O aluno será capaz de
+entender as classificações dentre as estruturas e algoritmos de Aprendizado de
+Máquina, para que seja capaz de escolher a melhor solução para um determinado
+cenário/problema, simulado ou real, bem como conseguira implementar a solução
+com ferramentas de mercado como Scikit-Learn.
+SYLLABUS
+Concept of artificial intelligence in which they stand out: historical aspects;
+classic and modern approaches; study of some traditional models and their
+fields of application; future trends and perspectives. The student will be able
+to understand the classifications among the structures and algorithms of
+Machine Learning, so that he will be able to choose the best solution for a
+given scenario / problem, simulated or real, as well as being able to implement
+the solution with market tools such as Scikit -Learn.
+TEMARIO
+Concepto de inteligencia artificial en el que destacan: aspectos históricos;
+enfoques clásicos y modernos; estudio de algunos modelos tradicionales y sus
+campos de aplicación; Tendencias y perspectivas futuras. El alumno podrá
+comprender las clasificaciones entre las estructuras y algoritmos de Machine
+Learning, de modo que podrá elegir la mejor solución para un escenario /
+problema dado, simulado o real, así como también podrá implementar la solución
+con herramientas de mercado como Scikit -Aprender.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Noções básicas de conceitos de estatística;
+Noções básicas de algoritmos e programação;
+Noções básicas de programação utilizando a linguagem Python.
+2021-MIN702página 2 de 8
+----------------Page (1) Break----------------
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Comunicar-se eficazmente nas formas escrita, oral e gráfica.Analisar e
+compreender os fenômenos físicos e químicos por meio de modelos simbólicos,
+físicos e outros, verificados e validados por experimentação (Raciocínio
+Lógico).
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Apresentar problemas de aprendizado de máquina envolvendo dados estruturados.
+Utilizar algoritmos desenvolvidos em Python para reconhecimento de padrões,
+classificação e análise de dados. Saber como manipular dados usando as
+bibliotecas de interesse.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Sala de aula invertida
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas teóricas expositivas com utilização de equipamento multimídia e aulas
+práticas em laboratório para desenvolvimento computacional.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Apresentar os principais modelos de aprendizado de máquina como uma
+ferramenta aplicável aos problemas que envolvam reconhecimento de padrões e
+classificação de dados desenvolvidos em Python.
+2021-MIN702página 3 de 8
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+GÉRON, Aurélien. Hands-on machine learning with Scikit-Learn & TensorFlow:
+concepts, tolls, and techniques to build intelligent systems.  Sebastopol, CA:
+O'Reilly, c2017. 548 p.  ISBN 9781491962299.
+WITTEN, Ian H; FRANK, Eibe. Data mining: practical machine learning tools and
+techniques. 2. ed.  Amsterdam: Elsevier, 2005. 525 p. (Morgan Kaufmann Series
+in Data Management Systems).  ISBN 9780120884070.
+Bibliografia Complementar:
+HAN, Jiawei; KAMBER Micheline. Data mining: concepts and techniques. 2. ed. 
+Amsterdam: Elsevier, 2006. 770 p. (The Morgan Kaufmann Series in Data
+Management Systems).  ISBN 9781558609013.
+JANG, Jyh-Shing Roger; SUN, Chuen-Tsai; MIZUTANI, Eiji. Neuro-fuzzy and soft
+computing: a computational approach to learning and machine intelligence.  New
+Jersey: Prentice Hall, c1997. 614 p. (MATLAB Curriculum Series).  ISBN
+0132610663.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Python
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Trabalhos:
+1. Análise e estrutura de dados;
+2. Reconhecimento de padrões;
+3. Identificação de classes;
+4. Apresentação de seminário.
+2021-MIN702página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-MIN702página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Rodrigo Mangoni Nicola
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) Claudia Alquezar Facca
+ Coordenador(a) do Curso de Design
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Ricardo Balistiero
+ Coordenador(a) do Curso de Administração
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+2021-MIN702página 6 de 8
+----------------Page (5) Break----------------
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-MIN702página 7 de 8
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LSemana PRINT.   0
+  2 LApresentação do curso. Introdução ao Python e à utilização das
+bibliotecas pandas e scikit-learn.
+   1% a 10%
+  3 LVisão geral do processo de aprendizado de máquina e suas
+ferramentas.
+   1% a 10%
+  4 LIntrodução à algoritmos de regressão. Regressão linear simples.   11% a 40%
+  5 LIntrodução à algoritmos de classificação. Regressão logística.   11% a 40%
+  6 LK-nearest neighbours.   11% a 40%
+  7 LSupport Vector Machines (SVM).   11% a 40%
+  8 LDia não letivo.   0
+  9 LNaive Bayes.   11% a 40%
+ 10 LSemana de Provas   0
+ 11 LIntroução à algoritmos de clustering. K-means clustering.   11% a 40%
+ 12 LDia não letivo.   0
+ 13 LDecision Trees e Random Forests.   11% a 40%
+ 14 LAlgoritmos de boosting.   11% a 40%
+ 15 LRegressão linear multi-variável e polinomial.   11% a 40%
+ 16 LRegressão utilizando algoritmos de boosting. XGBoost.   11% a 40%
+ 17 LIntrodução à redes neurais. Feed forward.   1% a 10%
+ 18 LIntrodução à redes neurais. Redes convolucionais.   1% a 10%
+ 19 LSemana de provas.   0
+ 20 LSemana de provas.   0
+ 21 LAtendimento aos alunos.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-MIN702página 8 de 8
+----------------Page (7) Break----------------

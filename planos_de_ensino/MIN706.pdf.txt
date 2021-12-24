@@ -1,0 +1,213 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Projetos em Ciência de DadosMIN706
+Course:
+Data Science Projects
+Materia:
+Proyectos de ciencia de datos
+Periodicidade: SemestralCarga horária total: 40Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Administração4Matutino
+Administração4Noturno
+Engenharia de Alimentos5Diurno
+Engenharia de Controle e Automação5Diurno
+Engenharia de Controle e Automação6Noturno
+Engenharia de Controle e Automação5Noturno
+Engenharia de Computação5Diurno
+Engenharia Civil5Diurno
+Engenharia Civil6Noturno
+Engenharia Civil5Noturno
+Design4Matutino
+Design4Noturno
+Engenharia Eletrônica5Diurno
+Engenharia Eletrônica6Noturno
+Engenharia Elétrica6Noturno
+Engenharia Elétrica5Diurno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Noturno
+Engenharia de Produção6Noturno
+Engenharia de Produção5Diurno
+Engenharia de Produção5Noturno
+Engenharia Química6Noturno
+Engenharia Química5Diurno
+Engenharia Química5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Tiago Sanches da SilvaEngenheiro em Elétrica e EletrônicaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Tiago Sanches da SilvaEngenheiro em Elétrica e EletrônicaMestre
+2021-MIN706página 1 de 7
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+- Projeto: 80%
+- Prestação de Serviços: 20%
+EMENTA
+Apresentação de problemas propostos, dados abertos e empresas parceiros;
+Apresentação dos conceitos de Análise preditiva e prescritiva;
+Como criar um ciclo produtivo de projeto em ciência de dados;
+Apresentação de ferramentas de auxílio a fluxo de processos em Ciência de Dados
+e Aprendizado de Máquina, exemplo TFX (TensorFlow Extended);
+Acompanhamento e suporte ao desenvolvimento do projeto final do Minor.
+SYLLABUS
+Presentation of proposed problems, open data and partner companies;
+Presentation of the concepts of predictive and prescriptive analysis;
+How to create a productive cycle of data science project;
+Presentation of tools to assist process flow in Data Science and Machine
+Learning, example TFX (TensorFlow Extended);
+Monitoring and supporting the development of the final Minor project.
+TEMARIO
+Presentación de problemas propuestos, datos abiertos y empresas asociadas;
+Presentación de los conceptos de análisis predictivo y prescriptivo;
+Cómo crear un ciclo productivo de proyecto de ciencia de datos;
+Presentación de herramientas para ayudar al flujo del proceso en Data Science y
+Machine Learning, ejemplo TFX (TensorFlow Extended);
+Monitoreo y apoyo al desarrollo del proyecto final Minor.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Python
+- Aprendizado de Maquina
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Solução de problemasAnálise de cenários
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Na disciplina de Projetos em Ciência de Dados serão aplicados conceitos
+avançados de extração de informação e predição de cenários utilizando dados e
+problemas reais de empresas convidadas. Neste módulo os alunos exercitarão as
+dimensões de Análise Preditiva e Prescritiva sobre um cenário controlado, ou
+Análise Descritiva e Diagnostica sobre um grande volume de dados aplicando os
+conceitos de Big Data em um projeto real. O aluno deverá ser capaz de
+2021-MIN706página 2 de 7
+----------------Page (1) Break----------------
+apresentar suas descobertas e insights de maneira convincente e visual para as
+empresas parceiras, aplicando técnicas aprendidas na disciplina de Negócios e
+Decisões.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Desde a primeira aula os alunos já têm contato com projetos de Ciência de
+Dados. A disciplina é baseada em aprendizado orientado a projetos e problemas.
+Trabalhos práticos e estudos de caso são realizados.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos.
+Pesos dos trabalhos:
+ k1: 0,4  k2: 0,6  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Esta disciplina oferece uma oportunidade única para que os alunos trabalhem e
+enfrentem desafios reais do mundo corporativo.
+Ao seu término o aluno será capaz de planejar e executar iniciativas de Ciência
+de Dados, envolvendo atividades de extração, armazenamento, modelagem e
+processamento de dados disponíveis na Web e em grandes repositórios.
+BIBLIOGRAFIA
+Bibliografia Básica:
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+- PowerBi
+- Hadoop
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+2021-MIN706página 3 de 7
+----------------Page (2) Break----------------
+OUTRAS INFORMAÇÕES
+2021-MIN706página 4 de 7
+----------------Page (3) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Tiago Sanches da Silva
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) Claudia Alquezar Facca
+ Coordenador(a) do Curso de Design
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Ricardo Balistiero
+ Coordenador(a) do Curso de Administração
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+2021-MIN706página 5 de 7
+----------------Page (4) Break----------------
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-MIN706página 6 de 7
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+ 22 L- PSub 1   0
+ 23 LApresentação da disciplina e dos temas de conclusão do Minor   0
+ 24 LIntrodução a análise preditiva   41% a 60%
+ 25 LIntrodução a Diagnostica   41% a 60%
+ 26 LIntrodução a análise prescritiva   41% a 60%
+ 27 LApresentação de ferramentas de auxílio a fluxo de processos em
+Ciência de Dados e Aprendizado de Máquina, exemplo TFX
+(TensorFlow Extended) - Parte 1
+   61% a 90%
+ 28 LApresentação de ferramentas de auxílio a fluxo de processos em
+Ciência de Dados e Aprendizado de Máquina, exemplo TFX
+(TensorFlow Extended) - Parte 2
+   91% a
+100%
+ 29 L- P3   11% a 40%
+ 30 LCiclo produtivo de projeto em ciência de dados   0
+ 31 LApresentação parcial do projeto de conclusão do Minor   91% a
+100%
+ 32 LAcompanhamento e desenvolvimento do projeto em sala   91% a
+100%
+ 33 LAcompanhamento e desenvolvimento do projeto em sala   91% a
+100%
+ 34 LAcompanhamento e desenvolvimento do projeto em sala   91% a
+100%
+ 35 LAcompanhamento e desenvolvimento do projeto em sala   91% a
+100%
+ 36 L- Eureka   0
+ 37 L- P4   91% a
+100%
+ 38 L- P4   0
+ 39 LAcompanhamento do projeto   0
+ 40 LApresentação do projeto final de conclusão do Minor   91% a
+100%
+ 41 L- PSub 2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-MIN706página 7 de 7
+----------------Page (6) Break----------------

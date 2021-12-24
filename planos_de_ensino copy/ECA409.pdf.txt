@@ -1,0 +1,275 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Microcontroladores e Sistemas MicrocontroladosECA409
+Course:
+Microcontrollers and Systems
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação5Noturno
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Fernando Silveira MadaniEngenheiro em Controle e AutomaçãoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Fernando Silveira MadaniEngenheiro em Controle e AutomaçãoDoutor
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Análise e projeto de circuitos sequenciais. Arquitetura de microprocessadores e
+microcontroladores. Arquitetura Von Neumann e Harvard. Desenvolvimento de
+projetos de sistemas microprocessados e microcontrolados. Linguagem Assembly.
+Laboratório: Utilização de ambiente dedicado para Desenvolvimento de projetos e
+implementações com microcontroladores. Desenvolvimento de projetos e
+implementações utilizando entradas e saídas digitais, botões, teclados, leds,
+displays, timers, interrupção, PWM, EEPROM, conversor D/A e conversor A/D.
+SYLLABUS
+Analysis and design of sequential circuits. Microprocessors and
+microcontrollers architectures. Von Neumann and Harvard Architectures.
+Microprocessor and microcontrollers systems design. Assembly Language. Lab:
+Environment for design and implementations with microcontrollers. Design and
+implementations using digital inputs and outputs, push-buttons, keyboards,
+LEDs, displays, timers, interrupts, PWM, EEPROM, D/A and A/D converter.
+2021-ECA409página 1 de 9
+----------------Page (0) Break----------------
+TEMARIO
+Análisis y diseño de circuitos secuenciales. Arquitectura de microprocesadores
+y microcontroladores. La arquitectura Von Neumann y la arquitectura Harvard.
+Desarrollo de proyectos de sistemas de microprocesadores y microcontroladores.
+Lenguaje Ensamblador. Lab: El uso del entorno dedicado al desarrollo de
+proyectos e implementaciones con microcontroladores. Desarrollo de proyectos e
+implementaciones que utilizan entradas y salidas digitales, mandos, teclados,
+LEDs, displays, temporizadores, interrupciones, PWM, EEPROM, convertidor D / A
+y convertidor A/D.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Física - Campo elétrico e campo magnético.
+Circuitos Elétricos - Análise de circuitos elétricos, capacitores, resistores 
+e indutores.
+Eletrônica Analógica - Diodos, transistores e análise de circuitos digitais.
+Matemática - Lógica Booleana e conversão de bases numéricas.
+Eletrônica Digital - Funcões e portas lógicas, memórias semicondutoras,(ALU)
+Unidade Lógica Aritmética, flip-flops e máquinas de estados.
+Língua portuguesa -– redação, leitura e interpretação de textos.
+Língua Inglesa - leitura de manuais técnicos.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+I - Conceber, projetar e analisar sistemas, produtos, componentes e
+processos.II - Aprender de forma autônoma e lidar com situações e contextos
+complexos, atualizando-se em relação aos avanços da ciência, da tecnologia e
+aos desafios da inovação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+c3) Sólida formação nas áreas da engenharia eletrônica relacionada à eletrônica
+analógica e digital, microprocessadores e microcontroladores, em específico
+sobre:
+- Circuitos Seqüenciais;
+- Arquitetura de um sistema digital microprocessado e microcontrolado
+- Familias de microprocessadores e microcontroladores;
+- Memórias e dispositivos de entrada/saída;
+- Microcontroladores;
+- Linguagem Assembly.
+- Linguagem C para Microcontroladores.
+c15) Conhecimento para projetar, executar e analisar resultados de
+experimentos;
+c16) Conhecimentos práticos para manusear equipamentos mecânicos, eletrônicos,
+de informática e de controle e automação;
+Habilidades:
+h1) Aplicar conhecimentos matemáticos, científicos, tecnológicos e
+instrumentais à engenharia na sua área de atuação;
+h2) Assumir a postura de permanente busca de atualização profissional;
+2021-ECA409página 2 de 9
+----------------Page (1) Break----------------
+h3) Atuar em equipes multidisciplinares;
+h11) Desenvolver raciocínio espacial, lógico e matemático;
+h12) Desenvolver e/ou utilizar novas ferramentas e técnicas;
+h13) Esboçar, ler e interpretar desenhos, gráficos e imagens;
+h17) Projetar e conduzir experimentos;
+h18) Sintetizar informações e desenvolver modelos para a solução de problemas
+nas áreas da Engenharia de Controle e Automação;
+h20) Utilizar os recursos de informática necessários para o exercício da sua
+profissão;
+h21) Interpretar resultados de experimentos e de simulações de modelos
+matemáticos;
+Atitudes:
+a1) Ter espírito de liderança e capacidade para inserir-se no trabalho em
+equipe;
+a4) Ter visão sistêmica e interdisciplinar na solução de problemas técnicos;
+a5) Ter percepção do conjunto e capacidade de síntese;
+a8) Ter posição crítica com relação a conceitos de ordem de grandeza;
+a10) Ter compromisso com a segurança no trabalho e com a segurança do publico
+em geral;
+a11) Ter dinamismo para saber acompanhar as mudanças tecnológicas em constante
+transformação.
+a14) Ter auto-crítica para reconhecer os limites dos modelos e dos experimentos
+estabelecidos.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Sala de aula invertida
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas, implementação de projetos, atividades práticas, avaliação 
+escrita.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos.
+Pesos dos trabalhos:
+ k1: 4,0  k2: 6,0  
+2021-ECA409página 3 de 9
+----------------Page (2) Break----------------
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina de Microprocessadores e Microcontroladores fornecerá as técnicas 
+necessárias para a análise e projeto de sistemas controlados eletronicamente 
+através de implementações em sistemas digitais comerciais. Os conceitos 
+apresentados serão reutilizados em disciplinas que envolvam o projeto 
+integrado de sistemas eletrônicos com sistemas mecânicos. A disciplina 
+introduz os conceitos necessários para a compreensão da arquitetura básica dos 
+sistemas digitais microprocessados ou microcontrolados, permitindo sua análise 
+e a elaboração de projetos de sistemas digitais complexos utilizando 
+ferramentas modernas de desenvolvimento. No curso de laboratório serão 
+treinadas as habilidades de analisar sistemas eletrônicos digitais e projetar 
+sistemas baseados em microcontroladores comerciais.
+BIBLIOGRAFIA
+Bibliografia Básica:
+MIYADAIRA, Alberto Noboru. Microcontroladores PIC 18: aprenda e programa em
+linguagem C.  São Paulo, SP: Érica, 2009. 400 p.  ISBN 9788536502441.
+PEREIRA, Fábio. Microcontroladores PIC: técnicas avançadas.  São Paulo, SP:
+Érica, 2002. 358 p.  ISBN 85-7194-727-9.
+TOCCI, Ronald J; WIDMER, Neal S. Sistemas digitais: princípios e aplicações.
+Trad. de José Lucimar do Nascimento; rev. téc. de Antonio Pertence Jr. 8. ed. 
+São Paulo, SP: Pearson/Prentice Hall, 2003. 753 p.  ISBN 8587918206.
+Bibliografia Complementar:
+FLOYD, Thomaz L. Sistemas digitais: fundamentos e aplicações. Trad. José
+Lucimar do Nascimento. 9. ed.  Porto Alegre,  RS: Bookman, 2007. 888 p.  ISBN
+9788560031931.
+SEDRA, Adel S; SMITH, Kenneth C. Microeletrônica. 4. ed.  São Paulo, SP: Makron
+Books, 2000. 1270 p.  ISBN 85-346-1044-4.
+SOUSA, Daniel Rodrigues de; SOUZA, David José de; LAVINIA, Nicolás César.
+Desbravando o microcontrolador PIC18: recursos avançados.  São Paulo, SP:
+Érica, 2010. 336 p.  ISBN 9788536502632.
+TOOLEY, Mike. Circuitos eletrônicos: fundamentos e aplicações. Trad. de Luiz
+Cláudio de Queiroz Faria; rev. tec. de Henrique Serdeira.  Rio de Janeiro,  RJ:
+Elsevier, 2008. 417 p.  ISBN 9788535223644.
+2021-ECA409página 4 de 9
+----------------Page (3) Break----------------
+ZANCO, Wagner da Silva. Microcontroladores PIC18 com linguagem C: uma abordagem
+prática e objetiva com base no PIC18F4520. 1. ed..  São Paulo: Prentice-Hall,
+c2010. 446 p.  ISBN 9788536502854.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+MPlab X IDE
+XC 8
+Eagle
+Microchip MCC
+Proteus 8 professional
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A nota T1 é a média dos trabalhos realizados no primeiro semestre e a T2 a
+média dos trabalhos do segundo semestre. Os trabalhos serão realizados em
+laboratório, em forma de experimentos e avaliados no próprio laboratório. As
+notas de trabalhos dos alunos dependentes podem, por solicitação dos alunos e
+aceite do professor, ser utilizadas na disciplina.
+2021-ECA409página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+2021-ECA409página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Fernando Silveira Madani
+ Responsável pela Disciplina
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ECA409página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LApresentação do curso   0
+  2 LExemplos de microcontroladores e suas aplicaçãoes.   0
+  3 LArquitetura de Microprocessadores e Microcontroladores.   0
+  4 LImplementação de uma aplicação com microcontrolador.   11% a 40%
+  5 LAmbiente de desenvolvimento para programação de
+microcontroladores PIC
+   11% a 40%
+  6 LPrática de programação em assembly.   41% a 60%
+  7 LMicroinstruções de ciclo de fetch, movimentação de dados,
+operações aritméticas e lógicas, desvios condicionais e
+incondicionais.
+   41% a 60%
+  8 LAmbiente de desenvolvimento para microcontroladores PIC
+(simulador).
+   11% a 40%
+  9 LInstruções de movimentação de dados, operações aritméticas e
+lógicas e desvios incondicionais e condicionais.
+   41% a 60%
+ 10 LSimulação de instruções de movimentação de dados, operações
+aritméticas e lógicas.
+   41% a 60%
+ 11 LEntradas e saídas digitais em microcontroladores.   11% a 40%
+ 12 LProgramação e gravação de dispositivos (microcontroladores).   11% a 40%
+ 13 LRotinas de atraso (delay).   11% a 40%
+ 14 LImplementação de um projeto utilizando entradas e saídas
+digitais, com rotinas de atraso.
+   41% a 60%
+ 15 LFiltro para eliminar ruídos em entradas digitais de
+microcontroladores.
+   0
+ 16 LImplementação de um projeto utilizando botões, leds e displays de
+7 segmentos.
+   41% a 60%
+ 17 LLinguagem C para microcontroladores PIC.   11% a 40%
+ 18 LAmbiente de desenvolvimento em linguagem C para
+microcontroladores PIC.
+   11% a 40%
+ 19 LEntradas e saídas digitais de microcontroladores em linguagem C.   41% a 60%
+ 20 LSimulação e implementação de entrada digital e acionamento
+digital em linguagem C.
+   41% a 60%
+ 21 LImplementação utilizando vetores e matrizes em linguagem C.   41% a 60%
+ 22 LBibliotecas em linguagem C.   11% a 40%
+ 23 LProgramação em linguagem C utilizando bibliotecas.   41% a 60%
+ 24 LInterrupções (Interrupts) e temporizadores (Timers). Simulação e
+implementação de interrupção (interrupt) e temporizador (timer)
+em linguagem C.
+   11% a 40%
+ 25 LMemória EEPROM.   11% a 40%
+ 26 LConversor Analógico/Digital (ADC).   11% a 40%
+ 27 LProgramação utilizando Conversor Analógico/Digital (ADC) em
+linguagem C.
+   41% a 60%
+ 28 LMódulo de Captura, comparação e PWM (Pulse Width Modulation).   11% a 40%
+ 29 LPWM (Pulse Width Modulation) em linguagem C.   11% a 40%
+ 30 LControle de uma carga DC utilizando PWM (Pulse Width Modulation).   41% a 60%
+2021-ECA409página 8 de 9
+----------------Page (7) Break----------------
+ 31 LComunicação Serial.   11% a 40%
+ 32 LProjeto com comunicação serial.   41% a 60%
+ 33 LUtilização de recursos combinados.   41% a 60%
+ 34 LComunicação USB.   11% a 40%
+ 35 LDesenvolvimento de interface com PC.   41% a 60%
+ 36 LImplementação utilizando recursos combinados.   41% a 60%
+ 37 LComunicação I2C   11% a 40%
+ 38 LPrática de programação   41% a 60%
+ 39 LProjeto T2 - desenvolvimento de sistema microcontrolado.   61% a 90%
+ 40 LProjeto T2 - desenvolvimento de sistema microcontrolado.   61% a 90%
+ 41 LApresentação final do projeto T2   61% a 90%
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ECA409página 9 de 9
+----------------Page (8) Break----------------

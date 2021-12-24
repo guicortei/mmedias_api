@@ -1,0 +1,275 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Propulsão VeicularEMC505
+Course:
+Vehicle Propulsion
+Materia:
+Propulsión vehicular
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica5Noturno
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Clayton Barcelos ZabeuEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Clayton Barcelos ZabeuEngenheiro MecânicoDoutor
+Fernando MalvezziEngenheiro MecânicoDoutor
+Renato RomioEngenheiro MecânicoMestre
+MODALIDADE DE ENSINO
+Presencial: 90%
+Mediada por tecnologia: 10%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Motores de combustão interna: ciclos padrão a ar, curvas características de
+motores, combustão em motores a pistão, formação de mistura, sistemas de
+injeção de combustível & ignição e emissões. Sistemas de propulsão híbridos,
+elétricos.
+SYLLABUS
+Internal combustion engines: thermodynamic analysis of the combustion and gas
+exchange processes, engine performance curves, combustion, air-fuel mixture
+requirements/formation, ignition/Injection systems and
+emissions/aftertreatment. Hybrid and electric propulsion systems.
+2021-EMC505página 1 de 9
+----------------Page (0) Break----------------
+TEMARIO
+Motores de combustión interna alternativos: análisis termodinámico de la
+combustión y los procesos de intercambio de gases, las curvas características
+del motor de combustión interna, los requisitos de mezcla, sistemas de
+encendido y emisiones. Sistemas de propulsión híbridos y eléctricos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+MATEMÁTICA: Cálculo diferencial e integral, álgebra linear, análise vetorial.
+FÍSICA: Mecânica Geral, Eletricidade Básica.
+QUÍMICA: Combustíveis, lubrificantes, estequiometria.
+FENÔMENOS DE TRANSPORTE: Mecânica dos Fluidos, Transmissão de Calor.
+TERMODINÂMICA: gás perfeito, ciclos, Primeira Lei, Segunda Lei.
+ELEMENTOS DE MÁQUINAS.
+MECANISMOS E DINÂMICA DOS SISTEMAS.
+LÍNGUA INGLESA: desejável para a leitura de textos técnicos.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Dominar o ciclo completo de investigação dos aspectos analítico, numérico e
+experimental de um mesmo fenômeno, aprendendo a conciliar as diferenças
+encontradas no conhecimento interdisciplinar coordenado entre as disciplinas do
+Curso de Engenharia Mecânica.Analisar e compreender os fenômenos físicos e
+químicos por meio de modelos matemáticos, computacionais ou físicos, validados
+por experimentação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS
+C1 - Princípios de funcionamento dos motores de combustão interna(MCI).
+C2 - Associação dos conhecimentos de Termodinâmica à máquina térmica MCI.
+C3 - Ensaios, propriedades e curvas características.
+C4 - Combustão em MCI. Pós-tratamento de gases visando abater emissões de
+poluentes ambientais.
+C5 - A alimentação de ar e combustível dos motores.
+C6 - A ignição.
+C7 - Sistemas eletrônicos de gerenciamento de motores.
+C8 - Sistemas convencionais e alternativos de propulsão.
+HABILIDADES
+H1 - Conhecer os motores alternativos e suas partes.
+H2 - Comparar desempenho e curvas características de motores.
+H3 - Calibrar sistemas de gerenciamento eletrônicos de MCIs.
+H4 - Analisar resultados obtidos com modelos matemáticos e ensaios 
+experimentais.
+ATITUDES
+A1 - Desenvolver a consciência de que o aluno é o elemento central no processo
+de ensino-aprendizagem.
+A2 - Manter uma atitude crítica e participativa durante as aulas.
+A3 - Ter motivação para enfrentar problemas de engenharia automotiva.
+2021-EMC505página 2 de 9
+----------------Page (1) Break----------------
+A4 - Valorizar o rigor conceitual.
+A5 - Trabalhar em equipes e em rede para solucionar problemas de engenharia.
+A6 - Proatividade.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Não
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas onde são apresentados os conceitos básicos do conjunto de 
+conhecimento da disciplina, eventualmente apresentados com o uso de 
+projetor multimídia e componentes reais de motores e veículos;
+Atividades experimentais no laboratório de engenharia automobilística, onde o
+aluno, por meio de PBL (problem based learning), consolida o conhecimento
+adquirido participando de competições acadêmicas:
+- avaliação experimental de desempenho de motor de combustão interna por meio
+de ensaios em bancada dinamométrica;
+- ensaios de fluxo em cabeçotes;
+- aumento de potência/torque de um motor monocilíndro, aplicado a um
+mini-veículo, objetivando adequação a uma competição tipo "arrancada".
+Durante as atividades de PBL os alunos interagem com profissionais da área
+automotiva que atuam como mentores das equipes.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,7          Peso de MT(kT): 0,3
+2021-EMC505página 3 de 9
+----------------Page (2) Break----------------
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+- Introduzir os fundamentos de motores e máquinas térmicas aplicados a sistemas
+de propulsão veicular;
+- Desenvolver a capacidade do aluno para elaborar modelos matemáticos 
+aplicados a sistemas veiculares.
+- Exercitar a análise de resultados do desempenho de motores e sistemas 
+veiculares, obtidos por meio de modelos matemáticos e ensaios experimentais.
+- Interação com profissionais da área automotiva que atuam como mentores das
+equipes.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BRUNETTI, Franco. Motores de combustão interna.  São Paulo: Blucher, 2012. v.
+1. 553 p.  ISBN 9788521207085.
+BRUNETTI, Franco. Motores de combustão interna.  São Paulo: Blucher, 2012. v.
+2. 485 p.  ISBN 97885212007092.
+DENTON, T. 
+Veículos Elétricos e Híbridos
+Editora Blücher (em parceria com SENAI)
+ISBN-10: 8521213018
+Bibliografia Complementar:
+BOSCH, Robert. Manual de tecnologia automotiva. Tradução de Euryale de Jesus
+Zerbini.  São Paulo, SP: Edgard Blücher, 2005. 1232 p.  ISBN 8521203780.
+EHSANI, M. et al. Modern Electric, Hybrid Electric, and Fuel Cell Vehicles -
+Fundamentals, Theory and Design. 3a ed, CRC Press, 2018.
+HEYWOOD, John B. Internal combustion engine fundamentals.  New York:
+McGraw-Hill, 1988. 930 p. (McGraw-Hill Series in Mechanical Engineering).  ISBN
+0-07-100499-8.
+HEYWOOD, John B. Internal combustion engine fundamentals. 2a edição. New York:
+McGraw-Hill, 2018. 930 p. (McGraw-Hill Series in Mechanical Engineering). ASIN:
+B07BYM9RL4
+TAYLOR, Charles Fayette. Análise dos motores de combustão interna. Trad. de
+Mauro O. C. Amorelli.  São Paulo, SP: Edgard Blücher, 1988. v. 1.
+2021-EMC505página 4 de 9
+----------------Page (3) Break----------------
+TAYLOR, Charles Fayette. Análise dos motores de combustão interna. Trad. de
+Mauro O. C. Amorelli.  São Paulo, SP: Edgard Blücher, 1988. v. 2.
+TAYLOR, Charles Fayette. Effect of size on the design and performance of
+internal combustion engines.  s.l.p: ASME, [s.d.].
+TAYLOR, Charles Fayette; MIT. The internal combustion engine in theory and
+practice.  Massachussets: MIT, 1960. v. 1.
+TAYLOR, Charles Fayette; TAYLOR, Edward S. The internal-combustion engine. 
+Scranton, Pen: International Textbook, 1961. 668 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+AVL Boost
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+PROVAS
+As provas semestrais P1 e P2 versarão sobre o conteúdo visto em cada semestre.
+A prova substitutiva PS versará sobre todo o conteúdo desenvolvido no curso. A
+aplicação das provas seguirá o calendário oficial da Escola.
+A média de provas MP é calculada segundo a expressão MP = (2*P1 + 3*P2)/5.
+***** IMPORTANTE ***** Como reza o artigo 13 da Res. Normativa, a nota da prova
+substitutiva poderá substituir qualquer uma das notas das provas ou ambas as
+notas das provas do ano letivo, de modo a resultar a maior média das provas
+(MP).
+TRABALHOS
+Os trabalhos T1 e T2 serão aplicados ao longo do primeiro e segundo semestres,
+respectivamente. Esses trabalhos podem conter problemas aplicados, questões
+dissertativas, de múltipla escolha e questões de resposta numérica. Tais
+atividades podem ser realizadas presencialmente e/ou no formato online, via
+Open LMS. As notas T1 e T2 serão as médias aritméticas das atividades
+requisitadas durante os respectivos semestres.
+A média dos trabalhos MT é calculada segundo a expressão MT=(T1+T2)/2.
+MÉDIA FINAL
+A média FINAL MF é calculada segundo a expressão MF = 0,7*MP + 0,3*MT.
+O aluno estará aprovado se a MF for maior ou igual a 6,0(seis).
+2021-EMC505página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Para 2021 as atividades presenciais estarão vinculadas às diretrizes impostas
+pelo Governo do Estado de São Paulo devido à crise epidêmica.
+2021-EMC505página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Clayton Barcelos Zabeu
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC505página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LAulas somente para a 1a série.   
+  2 LIntrodução ao curso. Introdução aos MCI. Definição e comparação
+com motores de combustão externa. Classificação dos MCIs quanto à
+forma construtiva e quanto ao desenvolvimento da combustão.
+   
+  3 LCombustíveis. Números de octano e de cetano.Entes geométricos e
+cinemáticos de MCIs. Planilha de cálculo.
+   
+  4 LCiclos padrão ar - Otto e Diesel.Ciclos reais de motores
+alternativos de 2T e 4T. Comparações.
+   
+  5 LExercícios e desmontagem de motores.Lista de alterações dos
+motores.
+   
+  6 LExercícios sobre ciclos termodinâmicos. Planilha de cálculo.   
+  7 LParâmetros característicos em MCIs. Curvas de desempenho de MCIs.
+Dinamômetro de motor.
+   
+  8 LFeriado - dia não letivo.   
+  9 LRevisão e exercícios.   
+ 10 LAtividade de avaliação.   
+ 11 LCombustão MIF e anomalias (demonstração em dinamômetro)   
+ 12 LCombustão MIE e anomalias.   
+ 13 LAtividade de preparação de motores (1).   
+ 14 LLevantamento experimental de curvas de desempenho (T, N, Ce,
+rendimentos térmico, volumétrico, global) 
+   
+ 15 LSMILE - dia não letivo.   
+ 16 LAtividade de preparação de motores (2).   
+ 17 LDinâmica longitudinal de veículos - acoplamento motor-veículo.   
+ 18 LProvas P1.   
+ 19 LProvas P1.   
+ 20 LEnsaios em dinamômetro de rolos veículos com motores modificados.   
+ 21 LAtividade de avaliação de veículos modificados.   
+ 22 LSistemas de injeção/gerenciamento eletrônico.   
+ 23 LAtividade de preparação de motores (3).   
+ 24 LSistemas de injeção em MIE.   
+ 25 LConsumo de ar em MC 4T.   
+ 26 LEnsaios bancada de fluxo.   
+ 27 LEmissões e pós-tratamento de gases de escapamento de MCIs.   
+ 28 LRevisão e exercícios.   
+ 29 LAtividade de avaliação.   
+ 30 LAtividade de preparação dos motores (4)/ Sistemas de ignição em
+MIF.
+   
+ 31 LAtividade de preparação dos motores (4)/ Sistemas de ignição em
+MIF.
+   
+ 32 LSistemas de lubrificação e de arrefecimento em MCI.   
+ 33 LEureka - exercícios   
+ 34 LSistemas de sobrealimentação em MCI.   
+2021-EMC505página 8 de 9
+----------------Page (7) Break----------------
+ 35 LSistemas alternativos de propulsão - híbridos, elétrico a bateria
+e fuel cell.
+   
+ 36 LRevisão e exercícios.   
+ 37 LProvas P2.   
+ 38 LProvas P2.   
+ 39 LAtividade de preparação dos motores e veículos.   
+ 40 LAtividade de preparação dos motores e veículos.   
+ 41 LProvas substitutivas PS.   
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC505página 9 de 9
+----------------Page (8) Break----------------

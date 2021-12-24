@@ -1,0 +1,272 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Mecânica VibratóriaEMC507
+Course:
+Vibration Mechanics
+Materia:
+Mecánica Vibratoria
+Periodicidade: AnualCarga horária total: 120Carga horária semanal: 02 - 01 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Konstantinos Dimitriou StavropoulosEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Konstantinos Dimitriou StavropoulosEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 50%
+Mediada por tecnologia: 50%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Linearização de equações diferenciais. Vibrações livres sem e com amortecimento
+de sistemas com um grau de liberdade. Vibrações forçadas com e sem
+amortecimento, um grau de liberdade. Desequilíbrio rotativo. Base oscilante.
+Medição de vibrações: acelerômetros e vibrômetros. Isolamento da vibração.
+Suspensão de veículos. Princípio da Superposição. Série de Fourier. Vibrações
+livres sem amortecimento, dois graus de liberdade. Vibrações forçadas sem
+amortecimento, dois ou mais graus de liberdade. Análise Modal. Método Direto.
+Absorvedores dinâmicos de vibrações. Vibrações de vigas e eixos. Modelo de
+Bernoulli-Euler. Vibrações de vigas com massas concentradas. Método de
+Rayleigh. Vibrações de Estruturas pelo Método dos Elementos Finitos.
+2021-EMC507página 1 de 9
+----------------Page (0) Break----------------
+SYLLABUS
+Linearization of differential equations. Free vibration with and without
+damping with one degree of freedom. Harmonically excited vibrations with and
+without damping with one degree of freedom. Rotating unbalance. Response of a
+damped system to the harmonic motion of the base. Accelerometers. Vibrometers.
+Vehicle suspension. Vibration isolation. Superposition Principle. Fourier
+Series. Free vibrations without damping with two degrees of freedom.
+Harmonically excited forced vibrations without damping with two or more degrees
+of freedom. Modal analysis. Direct method. Undamped dynamic vibration
+absorbers. Vibrations of beams and shafts. Bernoulli-Euler beam model. Beam
+vibrations with lumped masses. Rayleigh method. Structural vibrations using the
+Finite Element Method.
+TEMARIO
+Linealización de las ecuaciones diferenciales. Vibraciones con y sin
+amortiguamiento con un grado de libertad. Vibraciones armónicamente excitadas
+con y sin amortiguamiento con un grado de libertad. Desequilíbrio giratorio.
+Respuesta de un sistema amortiguado al movimiento armónico de la base.
+Accelerómetros. Vibrómetros. Suspensión del vehículo. Principio de
+superposición. Serie de Fourier. Vibraciones libres sin amortiguación con dos
+grados de libertad. Vibraciones forzados sin amortiguación con dos o más grados
+de libertad. Análisis modal. Método directo. Amortiguadores de vibraciones
+dinámicas no amortiguadas. Vibraciones de vigas y ejes. Modelo de viga de
+Bernoulli-Euler. Vibraciones de vigas con masas concentrados. Método de
+Rayleigh. Vibraciones estructurales utilizando el Método de Elementos Finitos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Cálculo diferencial e integral - principalmente derivadas e equações
+diferenciais.
+Geometria analítica - vetores, produto escalar, projeção de um vetor numa
+direção. Ter clareza sobre a diferença entre grandezas escalares e vetoriais.
+Mecânica Geral - Cinemática e dinâmica do corpo rígido.
+Mecânica Analítica - Método de Lagrange, integração numérica de equações
+diferenciais, cálculo de esforços dinâmicos.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Modelagem de sistemas mecânicos.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Aprendizado de conceitos fundamentais e aplicações típicas de vibrações em
+sistemas mecânicos. Obtenção de equações diferenciais lineares, para pequenas
+oscilações em torno de posições de equilibrio estáveis. Capacitação em
+modelagem e análise de sistemas com um, dois ou mais graus de liberdade,
+sujeitos a excitações mecânicas harmônicas. Familiarização com algumas
+aplicações.
+2021-EMC507página 2 de 9
+----------------Page (1) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Sala de aula invertida
+- Problem Based Learning
+- exercícios feitos pelos alunos
+METODOLOGIA DIDÁTICA
+Apresentação da teoria e exemplos de exercícios em sala de aula. Listas de
+exercícios para os alunos sedimentarem o aprendizado.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina contribui para a formação do engenheiro mecânico uma vez que
+vibrações ocorrem com frequência em máquinas. Na maioria
+das situações, vibrações são indesejáveis, porém não podem ser totalmente
+eliminadas. O engenheiro deve saber como projetar um sistema que minimize os
+problemas causados por vibrações. Um exemplo típico ocorre quando se tem um
+motor elétrico sobre uma estrutura. O motor sempre terá algum
+desbalanceamento, por menor que seja. Este desbalanceamento causa vibrações
+na estrutura. Estas vibrações dependem da frequência angular do motor, das
+frequências naturais da estrutura e seu grau de amortecimento. As frequências
+naturais da estrutura dependem da rigidez e da inércia dos elementos da
+estrutura.
+2021-EMC507página 3 de 9
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+INMAN, Daniel J. Engineering vibration. 3. ed.  Upper Saddle River, NJ:
+Prentice Hall, 2008. 669 p.
+RAO, Singiresu. Vibrações mecânicas. Trad. Arte Simille Marques; rev. téc. José
+Juliano de Lima Jr. 4. ed.  São Paulo, SP: Pearson Prentice Hall, 2009. 424 p. 
+ISBN 9788576052005.
+Bibliografia Complementar:
+BALACHANDRAN, Balakumar; MAGRAB, Edward, B. Vibrações mecânicas. Trad. da 2.
+ed. norte-americana por All Tasks; rev. téc. Mario F. Mucheroni.  São Paulo,
+SP: Cengage Learning, 2011. 616 p.  ISBN 9788522109050.
+CREDE, Charles E. Choque e vibração nos projetos de engenharia. Trad. Edgar
+Ferreira da Costa e Souza e Renato Teixeira.  Rio de Janeiro: Ao Livro Técnico,
+1972. 159 p.
+DEN HARTOG, G. P. Mechanical vibrations.  New York: McGraw-Hill, 1956. 436 p.
+DIMAROGONAS, Andrew D. Vibration for engineers. 2. ed.  New Jersey: Prentice
+Hall, 1996. 825 p.  ISBN 0-13-456229-1.
+FONSECA, Adhemar. Vibrações: vibrações unidimensionais, isolamento das
+vibrações,vibrações multidimensionais.  Rio de Janeiro, RJ: Livro Técnico,
+1964. 339 p.
+GINSBERG, Jerry H. Mechanical  and structural vibrations: theory and
+applications.  New York: John Wiley, 2001. 692 p.  ISBN 0471128082.
+STEIDEL JR., Robert F. An introduction to mechanical vibrations.  New York:
+John Wiley, 1971. 393 p.
+THOMSON, William T. Teoria da vibração.  Rio de Janeiro, RJ: Interciência,
+1978. 462 p.
+VIERCK, Robert K. Vibration analysis.  Scranton, Penn: International textbook,
+1969. 378 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Usamos o MatLab ou Octave.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+2021-EMC507página 4 de 9
+----------------Page (3) Break----------------
+Os dois trabalhos serão realizados individualmente no período correspondente as
+ provas P1 e P3 do calendário.
+2021-EMC507página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC507página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Konstantinos Dimitriou Stavropoulos
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC507página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TNão há aula.   0
+  1 ENão há aula.   0
+  2 TIntrodução. Linearização das EDM (Equações Diferenciais do
+Movimento).
+   0
+  2 EVibrações Livres sem amortecimento, um grau de liberdade.   1% a 10%
+  3 ENão há aula. (quinzenal)   0
+  3 TVibrações Livres sem amortecimento, um grau de liberdade.   1% a 10%
+  4 TVibrações Livres sem amortecimento, um grau de liberdade.   11% a 40%
+  4 EVibrações Livres sem amortecimento, um grau de liberdade. Lista 4   11% a 40%
+  5 ENão há aula (quinzenal).   0
+  5 TVibrações Livres sem amortecimento, um grau de liberdade. Lista 4   11% a 40%
+  6 TVibrações Livres com amortecimento, um grau de liberdade. Lista 6   1% a 10%
+  6 EVibrações Livres com amortecimento, um grau de liberdade. Lista 6   11% a 40%
+  7 ENão há aula (quinzenal).   0
+  7 TVibrações Livres com amortecimento, um grau de liberdade. Lista 6   11% a 40%
+  8 ENão há aula.   0
+  8 TNão há aula.   0
+  9 TVibrações Livres com amortecimento, um grau de liberdade. Lista 6   11% a 40%
+  9 EVibrações Livres com amortecimento, um grau de liberdade. Lista 6   11% a 40%
+ 10 EProva P1   0
+ 10 TProva P1   0
+ 11 TVibrações Forçadas (Harmônica) com e sem amortecimento 1 gdl
+Lista 7
+   0
+ 11 EVibrações Forçadas (Harmônica) com e sem amortecimento 1 gdl
+Lista 7
+   11% a 40%
+ 12 TNão há aula   0
+ 12 ENão há aula   0
+ 13 TAplicações:  Desequilibrio Rotativo   1% a 10%
+ 13 EAplicações: Base Oscilante   1% a 10%
+ 14 ENão há aula (quinzenal)   0
+ 14 TAcelerômetros, Vibrômetros, Suspensão de Veículos   11% a 40%
+ 15 ESMILE   0
+ 15 TSMILE   0
+ 16 ESérie de Fourier. Análise de Sinais   1% a 10%
+ 16 TPrincípio da Superposição. Mais de uma força perturbadora.   11% a 40%
+ 17 ENão há aula (quinzenal).   0
+ 17 TSérie de Fourier. Análise de Sinais   1% a 10%
+ 18 TSérie de Fourier. Análise de Sinais   11% a 40%
+ 18 ESérie de Fourier. Análise de Sinais   11% a 40%
+ 19 EProvas P2   0
+ 19 TProvas P2   0
+ 20 TProvas P2   0
+ 20 EProvas P2   0
+ 21 TFérias   0
+2021-EMC507página 8 de 9
+----------------Page (7) Break----------------
+ 21 EFérias   0
+ 22 EProvas PS1   0
+ 22 TProvas PS1   0
+ 23 ESistemas com 2 gdl.  Vibrações livres. Frequencias naturais e
+modos de vibrar
+   1% a 10%
+ 23 TSistemas com 2 gdl.  Vibrações livres. Frequencias naturais e
+modos de vibrar
+   1% a 10%
+ 24 ENão há aula (quinzenal).   0
+ 24 TSistemas com 2 gdl.  Vibrações livres. Frequencias naturais e
+modos de vibrar
+   11% a 40%
+ 25 TAnfoque matricial. Auto-valores e auto-vetores.   1% a 10%
+ 25 EAnfoque matricial. Auto-valores e auto-vetores.   1% a 10%
+ 26 EAnfoque matricial. Auto-valores e auto-vetores.   11% a 40%
+ 26 TAnfoque matricial. Auto-valores e auto-vetores.   11% a 40%
+ 27 TVibrações Forçadas, Análise Modal.   1% a 10%
+ 27 EVibrações Forçadas, Análise Modal.   11% a 40%
+ 28 ENão há aula (quinzenal).   0
+ 28 TMétodo direto. Absorvedores Dinâmicos de Vibrações   1% a 10%
+ 29 EProvas P3   0
+ 29 TProvas P3   0
+ 30 TSistemas Contínuos. Vibrações de Vigas. Modelo de Bernoulli-Euler   1% a 10%
+ 30 ESistemas Contínuos. Vibrações de Vigas. Modelo de Bernoulli-Euler   1% a 10%
+ 31 ENão há aula (quinzenal).   0
+ 31 TSistemas Contínuos. Vibrações de Vigas. Modelo de Bernoulli-Euler   1% a 10%
+ 32 ESoluções aproximadas. Massas concentradas em vigas   1% a 10%
+ 32 TSoluções aproximadas. Massas concentradas em vigas   1% a 10%
+ 33 ENão há aula (quinzenal).   0
+ 33 TSoluções aproximadas. Massas concentradas em vigas   11% a 40%
+ 34 TMétodo de Rayleigh   1% a 10%
+ 34 EMétodo de Rayleigh   11% a 40%
+ 35 ENão há aula (quinzenal).   0
+ 35 TVibrações de Estruturas pelo Método dos Elementos Finitos.   1% a 10%
+ 36 EVibrações de Treliças Planas   1% a 10%
+ 36 TVibrações de Treliças Planas   1% a 10%
+ 37 EVibrações de Pórticos 3D   1% a 10%
+ 37 TVibrações de Pórticos Planos Base Oscilante   1% a 10%
+ 38 EProvas P4   0
+ 38 TProvas P4   0
+ 39 TProvas P4   0
+ 39 EProvas P4   0
+ 40 EExercícios   41% a 60%
+ 40 TExercícios   41% a 60%
+ 41 EProvas PS2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC507página 9 de 9
+----------------Page (8) Break----------------

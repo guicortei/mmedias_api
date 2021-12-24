@@ -1,0 +1,280 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Projeto de Máquinas e MecanismosECA513
+Course:
+Design of Machinery and Mechanisms
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação5Noturno
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Andressa Corrente MartinsEngenheiro AeronáuticaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Anderson Harayashiki MoreiraEngenheiro em Controle e AutomaçãoDoutor
+Andressa Corrente MartinsEngenheiro AeronáuticaMestre
+MODALIDADE DE ENSINO
+Presencial: 70%
+Mediada por tecnologia: 30%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Introdução aos mecanismos. Principais tipos (barras e cames). Áreas de estudo.
+Considerações de projeto. Síntese gráfica de mecanismos. Cinemática de
+mecanismos de barras. Análise de posição, velocidade e aceleração. Dinâmica de
+mecanismos de barras. Análise de forças e torques em mecanismos de barras.
+Balanceamento estático e dinâmico de mecanismos. Cálculo de volantes de
+inércia. Projeto de cames. Introdução a terminologia de cames. Diagramas de
+espaço-velocidade-aceleração e pulso. Casos específicos de projeto de came.
+Análise dinâmica de cames. Análise de força e torque em mecanismos de came.
+Aplicação de ferramentas CAE para análise de mecanismos.
+2021-ECA513página 1 de 9
+----------------Page (0) Break----------------
+SYLLABUS
+Introduction to mechanisms. Project Considerations. Graphical synthesis of
+mechanisms. Kinematics of mechanisms. Position, velocity and acceleration
+analysis. Dynamics of mechanisms. Analysis of forces and torques. Mechanism
+balancing and inertia flywheels calculation. Gearing: gearing of spur gears,
+cylindrical spur and helical gears, gear geometry and kinematics, transmission
+and modulus normalizations, interference and degree of recoating, geared torque
+correction. Recommendations for materials for the manufacture of gears. Sizing
+of gears by criteria of flexural strength and contact pressure. Reducers.
+Brakes and clutches. Practical work and projects.
+Application of CAE tools for mechanism analysis.
+TEMARIO
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Física
+Mecânica geral
+Cálculo
+Resistência dos materiais
+Materiais de construção mecânica
+Projeto de elementos de máquinas
+Processos de fabricação
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Formular e conceber soluções desejáveis de engenharia, analisando e
+compreendendo os usuários dessas soluções e seu contexto.Conceber, projetar e
+analisar sistemas, produtos (bens e serviços), componentes ou
+processos.Aprender de forma autônoma e lidar com situações e contextos
+complexos, atualizando-se em relação aos avanços da ciência, da tecnologia e
+aos desafios da inovação.Integrar conhecimentos para desenvolvimento de novas
+aplicações envolvendo Mecânica, Eletrônica e Computação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+C1) Domínio dos diversos aspectos da sua habilitação profissional de modo a
+atuar nas áreas da Engenharia Mecânica;
+C2) Sólida formação generalista nas principais áreas da Engenharia Mecânica;
+C3) Sólida formação em Matemática e Estatística de modo a modelar sistemas
+mecânicos e auxiliar na tomada de decisão;
+C6) Sólida formação nas áreas da Engenharia Mecânica pertinentes ao
+desenho mecânico, projeto de máquinas, processos de fabricação e materiais de
+construção mecânica;
+C7) Sólida formação nas ciências básicas para facilitar a compreensão dos
+avanços tecnológicos, como: computação, desenho técnico, eletricidade, física,
+matemática, química, resistência dos materiais e ciências térmicas;
+C9) Conhecimento para:
+a. avaliar e desenvolver soluções de problemas de sua habilitação específica e
+multidisciplinares;
+2021-ECA513página 2 de 9
+----------------Page (1) Break----------------
+f. projetar, executar e analisar resultados de experimentos.
+C11) Conhecimento da Língua Portuguesa;
+C12) Conhecimento, em nível técnico, da Língua Inglesa;
+H1) Dimensionar e integrar recursos físicos, humanos e financeiros a fim de
+produzir, com eficiência e ao menor custo, considerando a possibilidade de
+melhorias contínuas;
+H2) Aplicar conhecimentos matemáticos, estatísticos, científicos,
+tecnológicos e instrumentais à engenharia na sua área de atuação;
+H4) Atuar em equipe multidisciplinares;
+H7) Compreender e aplicar a ética e responsabilidades profissionais;
+H8) Comunicar eficientemente nas formas oral e escrita, no padrão formal
+da língua portuguesa;
+H9) Conceber, projetar e analisar sistemas, produtos e processos na sua
+área de atuação;
+H10) Identificar, formular e resolver problemas na área da engenharia na
+sua área de atuação;
+H11) Demonstrar noção de ordem de grandeza na estimativa de dados e
+na avaliação de resultados.
+H12) Desenvolver raciocínio espacial, lógico e matemático;
+H13) Selecionar, desenvolver ou utilizar o conhecimento científico e
+tecnológico, no projeto de produtos ou na melhoria de suas características e
+funcionalidades;
+H14) Esboçar, ler e interpretar desenhos, gráficos e imagens;
+H15) Organizar o seu trabalho, de forma a cumprir os requisitos e metas
+estabelecidos;
+H16) Planejar, supervisionar, elaborar e coordenar projetos e serviços de
+engenharia na sua área de atuação;
+H17) Projetar e conduzir experimentos e interpretar resultados;
+H18) Sintetizar informações, interpretar e desenvolver modelos para a
+solução de problemas de Engenharia Mecânica;
+H19) Utilizar os recursos de informática necessários para o exercício da sua
+profissão;
+A1) Ter espírito de liderança e capacidade para inserir-se no trabalho em
+equipe;
+A4) Ter visão sistêmica e interdisciplinar na solução de problemas técnicos;
+A5) Ter percepção do conjunto e capacidade de síntese;
+A8) Ter posição crítica com relação a conceitos de ordem de grandeza;
+A9) Ter compromisso com a qualidade do trabalho;
+A12) Saber organizar o seu trabalho, de forma a cumprir os requisitos
+estabelecidos;
+A13) Saber tomar decisões e implementá-las;
+2021-ECA513página 3 de 9
+----------------Page (2) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Explanação teórica dialogada e apresentação em lousa com Recursos
+áudio-visuais: 
+Transparências, Multimídia, Utilização de softwares de projeto. Estudo dirigido
+com realização de trabalhos e apresentações em seminários. Estudo dos
+mecanismos de barras e cames. Projeto e montagem de mecanismos com fabricação
+de maquetes.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 1,0          Peso de MT(kT): 1,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina Projeto de Máquinas e Mecanismos consolida o estudo dos principais
+tipos de mecanismos utilizados em dispositivos e máquinas de maneira geral.
+Capacita ao engenheiro no projeto e na construção dos equipamentos mecânicos
+necessários para as diversas atividades na área industrial, comercial e
+domiciliar com os requisitos de automação e controle exigidos. Permite a
+aplicação de programas computacionais desenvolvidos para o projeto e engenharia
+(CAD/CAE)
+BIBLIOGRAFIA
+Bibliografia Básica:
+NORTON, Robert L. Cinemática e dinâmica dos mecanismos. Trad. Alessandro P. de
+Medeiros.  Porto Alegre,  RS: AMGH, 2010. 800 p.  ISBN 9788563308191.
+WALDRON, Kenneth J; KINZEL, Gary L. Kinematics, dynamics, and design of
+machinery.  New York: John Wiley, 1999. 640 p.  ISBN 0-471-58399-5.
+2021-ECA513página 4 de 9
+----------------Page (3) Break----------------
+Bibliografia Complementar:
+ASIMOW, Morris. Introdução ao projeto: fundamentos do projeto de engenharia.
+Trad. de José Walderley Coêlho Dias.  São Paulo, SP: Mestre Jou, 1968. 171 p.
+NIEMANN, Gustav. Elementos de máquinas. Tradução de Carlos van Langendonck e
+Otto Alfredo Rehdei.  São Paulo, SP: Edgard Blücher, 1971. v. 1.
+NIEMANN, Gustav. Elementos de máquinas. Tradução de Carlos van Langendonck e
+Otto Alfredo Rehder.  São Paulo, SP: Edgard Blücher, 1971. v. 2.
+NIEMANN, Gustav. Elementos de máquinas. Tradução de Carlos van Langendonck e
+Otto Alfredo de Rehder.  São Paulo, SP: Edgard Blücher, 1971. v. 3.
+SHIGLEY, Joseph Edward; MISCHKE, Charles R. Mechanical engineering design. 6.
+ed.  Boston: McGraw-Hill, 2001. 1248 p. (McGraw-Hill Series in Mechanical
+Engineering).  ISBN 0-07-118186-5.
+SHIGLEY, Joseph Edward; MISCHKE, Charles R; BUDYNAS, Richard G. Projeto de
+engenharia mecânica. Trad. de João Batista de Aguiar e José Manoel de Aguiar.
+7. ed.  Porto Alegre, RS: Bookman, 2005. 960 p.  ISBN 8536305622.
+SPOTTS, M. F; SHOUP, T. E; HORNBERGER, L. E. Design of machine elements. 8. ed.
+ Upper Saddle River: Pearson/Prentice Hall, 2003. 928 p.  ISBN 0-13-726167-5.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Solidworks
+Siemens NX
+Matlab
+Mathcad
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A disciplina ECA513 - Projeto de Máquinas e Mecanismos possui duas provas: P1 e
+P2.
+Obs.: Excepcionalmente, devido a COVID-19, a prova P1 da disciplina será
+realizada por meio de avaliações assíncronas semanais no A.V.A. (Ambiente
+Virtual de Aprendizagem) da disciplina.
+T1 = média dos trabalhos aplicados no 1. semestre letivo
+T2 = média dos trabalhos aplicados no 2. semestre letivo
+2021-ECA513página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Conforme previsto na resolução CEUN-CEPE-02.12.2008 os alunos que forem cursar
+esta disciplina em regime de dependência e tenham obtido anteriormente Média de
+Trabalhos igual ou superior a seis, serão dispensados das aulas práticas,
+ficando com a Média de Trabalhos igual à obtida no ano da reprovação.
+2021-ECA513página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Andressa Corrente Martins
+ Responsável pela Disciplina
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ECA513página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  2 LFeriado.   0
+  3 LApresentação da disciplina. Introdução aos mecanismos. Histórico.
+áreas de estudo. Pares cinemáticos. Graus de liberdade e
+mobilidade.
+   0
+  4 LCondição de Grashof e Considerações básicas de projeto.   1% a 10%
+  5 LSíntese Gráfica de Mecanismos - 2 posições.   11% a 40%
+  6 LPeríodo de provas P1.   41% a 60%
+  7 LPeríodo de provas P1.   41% a 60%
+  8 LSíntese Gráfica de Mecanismos - 3 posições.   0
+  9 LAnálise de posição em mecanismos de 4 barras.   0
+ 10 LAnálise de posição em mecanismos biela manivela.   1% a 10%
+ 11 LSemana de Inovação Mauá - SMILE 2020.   0
+ 12 LAnálise de movimento no mecanismo de 4 barras utilizando software
+de CAD.
+   61% a 90%
+ 13 LAnálise de velocidade em mecanismos de 4 barras.   61% a 90%
+ 14 LAnálise de velocidade em mecanismos biela manivela.   61% a 90%
+ 15 LAnálise de velocidades com uso de centros instantâneos.   0
+ 16 LAnálise de movimento no mecanismo de caçamba utilizando software
+de CAD.
+   11% a 40%
+ 17 LDescritivo do projeto da disciplina.   61% a 90%
+ 18 LProjeto da disciplina.   0
+ 19 LPeríodo de provas P2.   0
+ 20 LPeríodo de provas P2.   0
+ 21 LAtividades de Planejamento e Capacitação Docente.   0
+ 22 LPeríodo de provas PS1.   0
+ 23 LPeríodo de provas PS1.   0
+ 24 LAnálise de acelerações em mecanismos de 4 barras.   11% a 40%
+ 25 LAnálise de acelerações em mecanismos biela manivela.   11% a 40%
+ 26 LFundamentos de Dinâmica de Mecanismos.   1% a 10%
+ 27 LFeriado.   61% a 90%
+ 28 LAnálise de movimento no mecanismo de avanço de ferramenta de
+corte utilizando software de CAD.
+   0
+ 29 LAnálise Dinâmica de mecanismos de 4 barras.   41% a 60%
+ 30 LPeríodo de provas P3.   0
+ 31 LAnálise Dinâmica de mecanismos de biela Manivela.   11% a 40%
+ 32 LFeriado.   1% a 10%
+ 33 LProjeto cinemático de cames. Terminologia básica. Seleção de
+funções espaço, velocidade, aceleração e pulso.
+   0
+ 34 LProjeto de cames. Dimensionamento. Considerações de projeto.
+Análise dinâmica de cames. Força e Torque.
+   1% a 10%
+ 35 LBalanceamento de mecanismos.   41% a 60%
+ 36 LProjeto semestral.   0
+ 37 LProjeto semestral.   41% a 60%
+2021-ECA513página 8 de 9
+----------------Page (7) Break----------------
+ 38 LPeríodo de provas P4.   0
+ 39 LPeríodo de provas P4.   0
+ 40 LRevisão de trabalhos e provas.   0
+ 41 LPeríodo de provas PS2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ECA513página 9 de 9
+----------------Page (8) Break----------------

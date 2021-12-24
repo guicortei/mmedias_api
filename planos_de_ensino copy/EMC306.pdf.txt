@@ -1,0 +1,371 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Construção de Máquinas IIEMC306
+Course:
+Machine Construction II
+Materia:
+Construcción de Máquinas II
+Periodicidade: AnualCarga horária total: 120Carga horária semanal: 01 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica5Noturno
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Ed Claudio BordinassiTecnólogo em MecânicaDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Regis de Matos Curvelo de BarrosEngenheiro MecânicoMestre
+MODALIDADE DE ENSINO
+Presencial: 90%
+Mediada por tecnologia: 10%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Teoria - Classificação de sistemas de transmissão engrenados - Engrenagens
+cilíndricas de dentes retos e helicoidais - Geometria e cinemática dos
+engrenamentos - Normalizações de relações de transmissão e de módulos -
+Interferência e grau de recobrimento - Correção de pares engrenados -
+Recomendações de materiais para fabricação de engrenagens - Dimensionamento de
+engrenagens pelos critérios de resistência à flexão e pressão de contato -
+Engrenamento cônico e parafuso sem fim coroa - Redutores Planetários e
+Harmônicos - Mecanismos e pares cinemáticos - Cinemática e dinâmica dos
+mecanismos - Projeto e dimensionamento dos mecanismos de barras e cames - 
+Trabalhos práticos e projetos - Projeto com detalhamento de sistemas engrenados
+e de mecanismos - Trabalhos de montagem e desmontagem de sistemas engrenados,
+verificação de medidas W, distância entre centros, diâmetros, larguras, ângulos
+de pressão e módulos
+2021-EMC306página 1 de 10
+----------------Page (0) Break----------------
+SYLLABUS
+Theory - Classification of geared transmission systems - Spur and helical
+cylindrical gears - Gear geometry and kinematics - Standardization of
+transmission ratios and modules - Interference and degree of recoating - Geared
+pairs¿ correction - Materials recommendations for manufacturing gears - Design
+of gears by the criteria of resistance bending and contact pressure - Bevel and
+worm gear - Planetary and Harmonic Reducers - Mechanisms and kinematics pairs -
+Kinematics and dynamics of mechanisms - Design and sizing bars and cams
+mechanisms - Practical work and projects - Project with details of mechanisms
+systems and geared - Assembling and disassembling of geared systems, checking W
+measures, distances between centers, diameters, widths, angle pressure and
+modules
+TEMARIO
+Teoría ¿ Clasificación de los sistemas de engrenamiento - Engranajes
+cilíndricos de dientes rectos y helicoidales - Geometría y cinemática de los
+engranajes - Normalización de las relaciones de transmisión y de los módulos -
+Interferencia y grado de recubrimiento - Corrección de los pares engranados -
+Recomendaciones sobre los materiales empleados en la fabricación de los
+engranajes - Diseño de los engranajes por los criterios de la resistencia a la
+flexión y de la presión en el contacto entre los dientes - Engranajes cónicas y
+tornillo sin fin - Reductores Planetarios y Harmónicos - Mecanismos y pares
+cinemáticos - Cinemática y dinámica de los mecanismos - Proyecto de los
+mecanismos de barras y camos - Trabajos prácticos y proyectos completos de
+engranajes y mecanismos - Trabajos de montaje y desmontaje de sistemas
+engranados y mecanismos - Verificación de las medidas W, distancia entre
+centros, diámetros, anchuras, ángulos de engrane y módulos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Física
+Mecânica geral
+Cálculo
+Resistência dos materiais
+Introdução ao projeto e manufatura
+Materiais de construção mecânica
+Construção de máquinas I
+Processos de fabricação
+Fenômenos de transporte
+Mecânica analítica
+Teoria das estruturas
+2021-EMC306página 2 de 10
+----------------Page (1) Break----------------
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1) Analisar e compreender os usuários das soluções de engenharia e seu
+contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadas;2) Conceber, projetar, analisar  e supervisionar a operação e a
+manutenção de sistemas, produtos e processos.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+C1) Domínio dos diversos aspectos da sua habilitação profissional de modo a
+atuar nas áreas da Engenharia Mecânica;
+C2) Sólida formação generalista nas principais áreas da Engenharia Mecânica;
+C3) Sólida formação em Matemática e Estatística de modo a modelar sistemas
+mecânicos e auxiliar na tomada de decisão;
+C6) Sólida formação nas áreas da Engenharia Mecânica pertinentes ao
+desenho mecânico, projeto de máquinas, processos de fabricação e materiais de
+construção mecânica;
+C7) Sólida formação nas ciências básicas para facilitar a compreensão dos
+avanços tecnológicos, como: computação, desenho técnico, eletricidade, física,
+matemática, química, resistência dos materiais e ciências térmicas;
+C9) Conhecimento para:
+   a. avaliar e desenvolver soluções de problemas de sua habilitação específica
+e multidisciplinares;
+   f. projetar, executar e analisar resultados de experimentos.
+C11) Conhecimento da Língua Portuguesa;
+C12) Conhecimento, em nível técnico, da Língua Inglesa;
+H1) Dimensionar e integrar recursos físicos, humanos e financeiros a fim de
+produzir, com eficiência e ao menor custo, considerando a possibilidade de
+melhorias contínuas;
+H2) Aplicar conhecimentos matemáticos, estatísticos, científicos,
+tecnológicos e instrumentais à engenharia na sua área de atuação;
+H4) Atuar em equipe multidisciplinares;
+H7) Compreender e aplicar a ética e responsabilidades profissionais;
+H8) Comunicar eficientemente nas formas oral e escrita, no padrão formal
+da língua portuguesa;
+H9) Conceber, projetar e analisar sistemas, produtos e processos na sua
+área de atuação;
+H10) Identificar, formular e resolver problemas na área da engenharia na
+sua área de atuação;
+H11) Demonstrar noção de ordem de grandeza na estimativa de dados e
+na avaliação de resultados.
+H12) Desenvolver raciocínio espacial, lógico e matemático;
+H13) Selecionar, desenvolver ou utilizar o conhecimento científico e
+tecnológico, no projeto de produtos ou na melhoria de suas características e
+funcionalidades;
+H14) Esboçar, ler e interpretar desenhos, gráficos e imagens;
+H15) Organizar o seu trabalho, de forma a cumprir os requisitos e metas
+estabelecidos;
+2021-EMC306página 3 de 10
+----------------Page (2) Break----------------
+H16) Planejar, supervisionar, elaborar e coordenar projetos e serviços de
+engenharia na sua área de atuação;
+H17) Projetar e conduzir experimentos e interpretar resultados;
+H18) Sintetizar informações, interpretar e desenvolver modelos para a
+solução de problemas de Engenharia Mecânica;
+H19) Utilizar os recursos de informática necessários para o exercício da sua
+profissão;
+H20) Direcionar as atividades numa dinâmica de síntese entre a teoria
+(aprendida na Faculdade) e a prática (resolução de problemas práticos de
+empresas).
+H21) Promover o levantamento de informação (croquis), a expressão de ideias por
+meio de desenhos e a sequência de dimensionamento e seleção de elementos de
+máquinas para solução de problemas específicos.
+H22) Realizar projetos que se aproximem de equivalentes comerciais.
+H23) Familiarizar-se com os mecanismos presentes em ferramentas, dispositivos e
+máquinas (partes e funcionamento).
+H24) Dominar a modelagem de qualquer tipo de mecanismo facilitando sua
+posterior análise.
+A1) Ter espírito de liderança e capacidade para inserir-se no trabalho em
+equipe;
+A4) Ter visão sistêmica e interdisciplinar na solução de problemas técnicos;
+A8) Ter posição crítica com relação a conceitos de ordem de grandeza;
+A9) Ter compromisso com a qualidade do trabalho;
+A13) Saber tomar decisões e implementá-las;
+A14) Conduzir-se na dinâmica de resolução de problemas (projetos) de média e
+longa duração (semelhante aos que acontecem na empresa e no mundo real);
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas e desafios propostos em sala a cada tópico novo apresentado
+para a aplicação e fixação da teoria (¿Aprendizagem Ativa¿). Estas atividades
+recebem uma avaliação qualitativa do professor para que o aluno avalie seu
+nível de aquisição do conhecimento.
+No decorrer do ano, desenvolvimento de projetos do mundo real nas aulas de
+Laboratório onde os alunos devem praticar os conhecimentos adquiridos na
+disciplina (¿Metodologia de Projetos¿) e em disciplinas anteriores, promovendo
+desta forma uma síntese de todo o conhecimento apreendido nas disciplinas de
+Projetos de Máquinas na Faculdade.
+2021-EMC306página 4 de 10
+----------------Page (3) Break----------------
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 2,0  
+ Peso de MP(kP): 5,0          Peso de MT(kT): 5,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina Projeto de Máquinas II consolida o estudo dos mecanismos relativos
+às transmissões engrenadas bem como os principais tipos de mecanismos
+utilizados em dispositivos e máquinas de maneira geral. Capacita ao engenheiro
+o projeto e a construção dos equipamentos mecânicos necessários para as
+diversas atividades na área industrial, comercial e domiciliar com os
+requisitos de automação e controle exigidos. Permite a aplicação de programas
+computacionais desenvolvidos para o projeto, manufatura e engenharia
+CAE/CAD/CAM
+BIBLIOGRAFIA
+Bibliografia Básica:
+KINZEL, Gary L. WALDROM, K.J., Kinematics, dynamics, and design of machinery.
+New York, John Wiley, 1999. 640 p.
+NORTON, Robert L. Cinemática e Dinâmica dos Mecanismos. Porto Alegre : Bookman
+McGraw-Hill, 2010 812p.
+SPOTTS, M. F; SHOUP, T. E. Design of machine elements. 7. ed.  New Jersey:
+Prentice Hall, 1998. CD-ROM.
+Bibliografia Complementar:
+ALTINTAS, Y. Manufacturing Automation, Metal cutting mechanics, machine tool
+vibrations, and CNC design, Cambridge, 2000
+MARSHEK, Kurt M.; JUVINALL, Robert C. FUNDAMENTALS OF MACHINE COMPONENT DESIGN.
+1ª E 3ª ed New York : John Wiley, 2000 888p. audio e livro
+MARSHEK, Kurt M.; JUVINALL, Robert C. Fundamentos do Projeto de Componentes de
+Máquinas. New York : John Wiley, 2008 888p.
+2021-EMC306página 5 de 10
+----------------Page (4) Break----------------
+NIEMANN, Gustav ELEMENTOS DE MAQUINAS. São Paulo, SP : Edgard Blücher, 1971 3v.
+NORTON, Robert L. DESIGN OF MACHINERY; AN INTRODUCTION TO THE SYNTHESIS AND
+ANALYSIS OF MECHANISMS AND MACHINES. New York : McGraw-Hill, 1992 714p.
+NORTON, Robert L. PROJETO DE MAQUINAS ; UMA ABORDAGEM INTEGRADA. Porto Alegre,
+RS : Bookman, 2004 931p. 6 ex(s).
+RESHETOV, D. N. ATLAS DE CONSTRUÇÃO DE MAQUINAS. Rio de Janeiro, RJ : Hemus,
+1979 3v.
+SHIGLEY, Joseph Edward, CINEMATICA DOS MECANISMOS. São Paulo, SP : Edgard
+Blücher, EDUSP, 1969 396p.
+SHIGLEY, Joseph Edward, DINAMICA DAS MAQUINAS. São Paulo, SP : Edgard Blücher,
+EDUSP, 1969 343p.
+SKARSKI, Boleslaw. Análise cinemática dos mecanismos. Campinas, SP: UNICAMP,
+1980. 111 p.
+SKARSKI, Boleslaw. Síntese cinemática dos mecanismos. Campinas, SP: UNICAMP,
+1980. 114 p.
+STIPKOVIC FILHO, Marco. Engrenagens: geometria, dimensionamento, controle,
+geração, ensaios. 3. ed.  São Paulo: Printon, 2001. 163 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+NX
+Solid Works
+Adams
+Matlab
+Pacote Office
+Kisssoft
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+k1 - Trabalho a ser definido abordando dimensionamento e aplicação de
+engrenagens;
+k2 - Trabalho a ser definido, abordando mecanismos.
+2021-EMC306página 6 de 10
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC306página 7 de 10
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Ed Claudio Bordinassi
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC306página 8 de 10
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  2 LApresentação do laboratório. Análise crítica e exemplos práticos.
+Apresentação do conteúdo de laboratório
+   11% a 40%
+  2 TEmenta. Motivação.  Critério de avaliação. Fundamentos e
+aplicações de engrenamento.
+   11% a 40%
+  3 LDimensionamento ECDR/ECDH: : Critérios de Lewis e
+hertzComplemento teoria: ECDR (geometria).
+   11% a 40%
+  4 TECDR e ECDH: geometria sem correção.   11% a 40%
+  4 LProposta do primeiro trabalho - Início   61% a 90%
+  5 LDimensionamento engrenamento cônico: Critérios de Lewis e hertz   11% a 40%
+  6 TECDR e ECDH: correção de perfil   11% a 40%
+  6 LSoftware Kisssoft: demonstração. Acompanhamento do trabalho   61% a 90%
+  7 LSoftware Kisssoft: demonstração. Acompanhamento do trabalho   61% a 90%
+  8 TCoroa e sem fim.Geometria e dimensionamento.
+Exercícios.Engrenamento conico. Coroa e sem fim.
+   11% a 40%
+  8 LAcompanhamento do trabalho   91% a
+100%
+  9 LAcompanhamento do trabalho para entrega   91% a
+100%
+ 10 TSEMANA DE PROVAS   0
+ 10 LSEMANA DE PROVAS   0
+ 11 TEngrenamento planetário: fundamentos e cálculos.   11% a 40%
+ 11 LEngrenamento e NVH: introdução.   11% a 40%
+ 12 LFreios e embreagens   11% a 40%
+ 13 TDefinição e classificação de mecanismos. Classificação de elos e
+juntas. Grau de liberdade.
+   11% a 40%
+ 13 LInício do 2° trabalho   91% a
+100%
+ 14 LExercícios de mecanismos   91% a
+100%
+ 15 TSMILE   0
+ 15 LSMILE   0
+ 16 LTeorema de Kutzbach 2D e 3D Classificação de acordo com a
+mobilidade.
+   11% a 40%
+ 16 TMecanismos de barras - análise cinemática gráfica   41% a 60%
+ 17 LMicro-eletro-mecanismos. Mecanismos elásticos - acompanhanento do
+trabalho
+   61% a 90%
+ 18 TMecanismos de barras - aceleração gráfica   11% a 40%
+ 18 LExercícios gráficos de mecanismos   91% a
+100%
+ 19 LSEMANA DE PROVAS   0
+ 19 TSEMANA DE PROVAS   0
+ 20 LSEMANA DE PROVAS   0
+ 20 TSEMANA DE PROVAS   0
+ 21 LATENDIMENTO A ALUNOS   0
+2021-EMC306página 9 de 10
+----------------Page (8) Break----------------
+ 21 TATENDIMENTO A ALUNOS   0
+ 22 TSEMANA DE PROVAS   0
+ 22 LSEMANA DE PROVAS   0
+ 23 TMecanismo biela-manivela. Métodos gráficos de aceleração e
+velocidade
+   11% a 40%
+ 23 LIntrodução: simulação multicorpos.   91% a
+100%
+ 24 LADAMS: simulação.   91% a
+100%
+ 25 TMecanismos paradoxos e isômeros. Inversão   11% a 40%
+ 25 LADAMS: simulação.   91% a
+100%
+ 26 LADAMS: simulação.   91% a
+100%
+ 27 TMecanismos paradoxos e isômeros. Inversão   11% a 40%
+ 27 LADAMS: simulação. Acompanhamento do trabalho   91% a
+100%
+ 28 LTópicos de Matlab aplicados a mecanismos. Método analítico de
+mecanismos
+   61% a 90%
+ 29 LSEMANA DE PROVAS   0
+ 29 TSEMANA DE PROVAS   0
+ 30 TMétodo análitico aplicado a mecanismos   11% a 40%
+ 30 LTópicos de Matlab aplicados a mecanismos. Método analítico de
+mecanismos
+   91% a
+100%
+ 31 LControle e instrumentação aplicados a mecanismos   61% a 90%
+ 32 TMétodo análitico - atuadores pneumáticos e hidráulicos   11% a 40%
+ 32 LSistemas de controle e mecanismos: medição de velocidade .
+Comparação com teoria.
+   91% a
+100%
+ 33 LSistemas de controle e mecanismos: medição de velocidade .
+Comparação com teoria.
+   91% a
+100%
+ 34 TDinâmica aplicada a mecanismos   11% a 40%
+ 34 LAcompanhamento do trabalho   91% a
+100%
+ 35 LDinâmica de mecanismos: complementos a teoria.   41% a 60%
+ 36 LDinâmica de mecanismos: complementos a teoria.   11% a 40%
+ 36 TDinâmica aplicada a mecanismos   11% a 40%
+ 37 TSEMANA DE PROVAS   0
+ 37 LSEMANA DE PROVAS   0
+ 38 LSEMANA DE PROVAS   0
+ 38 TSEMANA DE PROVAS   0
+ 39 LATENDIMENTO A ALUNOS   0
+ 39 TATENDIMENTO A ALUNOS   0
+ 40 LATENDIMENTO A ALUNOS   0
+ 40 TATENDIMENTO A ALUNOS   0
+ 41 LSEMANA DE PROVAS   0
+ 41 TSEMANA DE PROVAS   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC306página 10 de 10
+----------------Page (9) Break----------------

@@ -1,0 +1,212 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Análise de DadosMIN701
+Course:
+Data analysis
+Materia:
+Análisis de datos
+Periodicidade: SemestralCarga horária total: 40Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Administração4Matutino
+Administração4Noturno
+Engenharia de Alimentos5Diurno
+Engenharia de Controle e Automação5Diurno
+Engenharia de Controle e Automação6Noturno
+Engenharia de Controle e Automação5Noturno
+Engenharia de Computação5Diurno
+Engenharia Civil5Diurno
+Engenharia Civil6Noturno
+Engenharia Civil5Noturno
+Design4Matutino
+Design4Noturno
+Engenharia Eletrônica5Diurno
+Engenharia Eletrônica6Noturno
+Engenharia Elétrica6Noturno
+Engenharia Elétrica5Diurno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Noturno
+Engenharia de Produção6Noturno
+Engenharia de Produção5Diurno
+Engenharia de Produção5Noturno
+Engenharia Química6Noturno
+Engenharia Química5Diurno
+Engenharia Química5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Alcides Carlos de AraújoBacharel em AdministraçãoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Alcides Carlos de AraújoBacharel em AdministraçãoDoutor
+Tiago Sanches da SilvaEngenheiro em Elétrica e EletrônicaMestre
+2021-MIN701página 1 de 8
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+O que são dados? O que são informações? Visão geral da área de Análise de
+Dados; Introdução ao BigQuery; Introdução ao Pandas; Técnicas de limpeza e
+tratamento de dados; A importância da visualização de dados; Introdução a
+Matplotlib e Seaborn; Ferramentas de visualização de dados (PowerBi, Visual
+Studio); Introdução ao BI;
+SYLLABUS
+What is data? What is information? Overview of the Data Analysis area;
+Introduction to BigQuery; Introduction to Pandas; Data cleaning and processing
+techniques; The importance of data visualization; Introduction to Matplotlib
+and Seaborn; Data visualization tools (PowerBi, Visual Studio); Introduction to
+BI;
+TEMARIO
+¿Qué son los datos? ¿Qué es la información? Descripción general del área de
+análisis de datos; Introducción a BigQuery; Introducción a los pandas; Limpieza
+de datos y técnicas de procesamiento; La importancia de la visualización de
+datos; Introducción a Matplotlib y Seaborn; Herramientas de visualización de
+datos (PowerBi, Visual Studio); Introducción a BI;
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Conhecimento básico de funções SQL, introdução a Python, estatística e lógica
+de programação.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Programação PythonEstatística
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Esta disciplina consiste em desenvolver a capacidade técnica e analítica do
+aluno quanto a exploração de dados de uma organização ou outro ambiente
+qualquer em que ele esteja inserido, utilizando técnicas estatísticas e
+ferramentas de visualização de dados para modelar o ocorrido, com o intuito de
+auxiliar a tomada de decisão baseado na análise do passado: Análise Descritiva
+e Diagnóstica. Os três pontos focais dessa disciplina são: - utilização de
+ferramentas para visualização de dados como PowerBi, Visual Studio e pacotes do
+próprio Python (MatplotLib e Seaborn); Ingestão (BigQuery), limpeza e
+tratamento de dados de diferentes fontes como Base de Dados e arquivos como
+CSVs entre outros; - Análise estatística, modelagem e desenvolvimento do
+2021-MIN701página 2 de 8
+----------------Page (1) Break----------------
+pensamento crítico do aluno para que seja capaz de extrair insights que
+auxiliem gestores e executivos em suas decisões.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+A disciplina envolve aulas teóricas expositivas com utilização de equipamento
+multimídia e aulas práticas com recursos computacionais, sendo que os assuntos
+abordados em teoria serão exercitados nas aulas práticas. Serão utilizadas
+soluções de mercado como BigQuery e Google Colaboratory.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Apresentar os conceitos de Python relacionados a análise de dados
+Uso do BigQuery para preparação dos dados para análise
+Uso das ferramentas de visualização como Matplotlib, Visual Studio, Power BI
+Técnicas para preparação e limpeza de dados
+BIBLIOGRAFIA
+Bibliografia Básica:
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Microsoft Office
+Power BI
+Data Studio
+Google Colab (disponível online)
+BigQuery (disponível online)
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Trab. 1: Ingestão e preparação de dados com BigQuery.
+Trab. 2: Preparação e visualização: BigQuery/Pandas e Visualização.
+Trab. 3: Projeto final sobre análise exploratória de dados com visualização e
+2021-MIN701página 3 de 8
+----------------Page (2) Break----------------
+apresentação de insights.
+2021-MIN701página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-MIN701página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Alcides Carlos de Araújo
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) Claudia Alquezar Facca
+ Coordenador(a) do Curso de Design
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Ricardo Balistiero
+ Coordenador(a) do Curso de Administração
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+2021-MIN701página 6 de 8
+----------------Page (5) Break----------------
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-MIN701página 7 de 8
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPRINT   0
+  2 LVisão geral da área de análise de dados   0
+  3 LIntrodução Extração, Transformação e Carregamento (ETL)   1% a 10%
+  4 LIntrodução ao Big Query   11% a 40%
+  5 LTrab. 1: Ingestão e preparação de dados com BigQuery   91% a
+100%
+  6 LIntrodução ao Colab (numpy, pandas)   11% a 40%
+  7 LLimpeza e Armazenamento de dados   11% a 40%
+  8 LP1   0
+  9 LFeriado   0
+ 10 LApresentação de convidados   0
+ 11 LApresentação de convidados   0
+ 12 LTrab. 2: Preparação e visualização   91% a
+100%
+ 13 LIntrodução ao BI   0
+ 14 LSMILE   0
+ 15 LVisualização de dados com Matplotlib e Seaborn   11% a 40%
+ 16 LVisualização de dados com Power BI/Visual Studio   11% a 40%
+ 17 LInício da preparação do projeto final   91% a
+100%
+ 18 LTrab. 3: Apresentação final dos projetos   91% a
+100%
+ 19 LP2   0
+ 20 LP2   0
+ 21 LFérias   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-MIN701página 8 de 8
+----------------Page (7) Break----------------

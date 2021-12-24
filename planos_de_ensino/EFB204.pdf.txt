@@ -1,0 +1,326 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Mecânica GeralEFB204
+Course:
+Mechanics
+Materia:
+Mecánica
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 02 - 00 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Alimentos2Diurno
+Engenharia de Controle e Automação2Diurno
+Engenharia de Controle e Automação2Noturno
+Engenharia de Controle e Automação2Noturno
+Engenharia de Computação2Diurno
+Engenharia Civil2Diurno
+Engenharia Civil2Noturno
+Engenharia Civil2Noturno
+Engenharia Eletrônica2Diurno
+Engenharia Eletrônica2Noturno
+Engenharia Elétrica2Noturno
+Engenharia Elétrica2Diurno
+Engenharia Mecânica2Diurno
+Engenharia Mecânica2Noturno
+Engenharia Mecânica2Noturno
+Engenharia de Produção2Noturno
+Engenharia de Produção2Diurno
+Engenharia de Produção2Noturno
+Engenharia Química2Diurno
+Engenharia Química2Noturno
+Engenharia Química2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Fernando MalvezziEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Demetrio Elie BaracatEngenheiro MecânicoDoutor
+Fernando MalvezziEngenheiro MecânicoDoutor
+Renato Maia Matarazzo OrsinoEngenheiro MecânicoDoutor
+2021-EFB204página 1 de 11
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Triedro de Frenet. Cinemática de corpos rígidos: campos de velocidades e
+acelerações, composição de movimentos.
+Dinâmica de corpos rígidos: distribuição de massa, teorema do movimento do
+baricentro, momento angular e teorema do momento angular, energia cinética e
+teorema da energia cinética.
+SYLLABUS
+Frenet frame (Moving Trihedron). Rigid Bodies Kinematics: velocity and
+acceleration fields, moving reference frames. 
+Rigid Bodies Dynamics: mass distribution, center of mass theorem, angular
+momentum and angular momentum theorem, kinetic energy and kinetic energy
+theorem.
+TEMARIO
+Triedro de Frenet. Cinemática del cuerpo rígido: campos de velocidad y
+aceleración, composición de movimientos. 
+Dinámica del cuerpo rígido: distribución de masa, teorema del movimiento del
+centro de masa. El momento angular de un cuerpo rígido y teorema del momento
+angular. La energia cinética de un cuerpo rígido y teorema de la energía
+cinética.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+É importante que os alunos tenham bons conhecimentos de: 
+1) Estática:
+1.1 Vínculos;
+1.2 Condições de equilíbrio;
+1.3 Equilíbrio de sistemas multicorpos. 
+2) Cálculo diferencial e integral. 
+3) Vetores e Geometria Analítica:
+3.1 Sistema Cartesiano;
+3.2 Sistema polar;
+3.3 Operações com vetores:projeção de vetores, produto escalar, produto
+vetorial, produto misto e duplo produto vetorial;
+3.4 Vetores para abordagem de problemas de paralelismo e perpendicularismo
+entre retas, planos e entre reta e plano.
+2021-EFB204página 2 de 11
+----------------Page (1) Break----------------
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+- Analisar e compreender os fenômenos físicos por meio de modelos simbólicos e
+por simulações. A validação por experimentação também poderia ser realizada.-
+Aprender de forma autônoma e lidar com situações e contextos complexos
+(adequados para os alunos da 2a série), atualizando-se em relação aos avanços
+da ciência, da tecnologia, bem como em relação aos desafios da inovação.-
+Comunicar-se eficazmente nas formas escrita e gráfica.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS
+C1 - Momento e produto de Inércia.
+C2 - Triedo de Frenet. 
+C3 - Cinemática do ponto material.
+C4 - Cinemática do corpo rígido no plano.
+C5 - Movimento relativo. 
+C6 - Dinâmica do corpo rígido no movimento plano. 
+HABILIDADES
+H1 - Aplicar conceitos da cinemática e da dinâmica para análise de problemas de
+engenharia.
+H2 - Identificar, formular e propor soluções para problemas relacionados com
+sistemas dinâmicos.
+H3 - Avaliar o movimento de corpos rígidos no movimento plano.
+H4 - Aplicar conceitos do cálculo e da geometria analítica em sistemas
+mecânicos. 
+ATITUDES
+A1 - Desenvolver a consciência de que o aluno é o elemento central no processo
+de ensino-aprendizagem.
+A2 - Manter uma atitude crítica e participativa durante as aulas.
+A3 - Persistir na busca da melhor solução para um problema.
+A4 - Valorizar o rigor matemático e conceitual.
+A5 - Cultivar a organização durante a resolução de problemas.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Problem Based Learning
+2021-EFB204página 3 de 11
+----------------Page (2) Break----------------
+METODOLOGIA DIDÁTICA
+Aulas expositivas onde são apresentados os conceitos básicos do conjunto de
+conhecimentos da disciplina, eventualmente apresentados com o uso de data-show.
+Aulas com participação ativa dos alunos (aula invertida).
+Aulas de exercícios utilizando a aprendizagem por pares.
+Uso da plataforma de aprendizagem a distância Moodle para realização de
+exercícios e trabalhos.
+Estudo com exercícios resolvidos em forma de videoaula.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+1. Iniciar o aluno no equacionamento de problemas de engenharia e na busca de
+soluções;
+2. Consolidar conhecimentos de Cálculo e Geometria Analítica, pela sua
+aplicação em situações significativas para o engenheiro;
+3. Contribuir para a base de outras disciplinas, como Resistência dos
+Materiais, Mecânica Analítica, Mecânica Vibratória, Construção de Máquinas e
+Projeto de Mecanismos.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BEER, F. P.; JOHNSTON, E. R. MECÂNICA VETORIAL PARA ENGENHEIROS. São Paulo, SP:
+McGraw-Hill, 1991. v. 2.
+FRANÇA, L. N. F.; MATSUMURA, A. Z. Mecânica geral. 2. ed. São Paulo, SP: Edgard
+Blücher, 2004. 235 p.
+MERIAN, J. L.; KRAIGE, L. G. DINÂMICA. 5. ed. Rio de Janeiro: LTC, 2004. v. 2.
+496 p.
+2021-EFB204página 4 de 11
+----------------Page (3) Break----------------
+Bibliografia Complementar:
+BEER, Ferdinand Pierre; JOHNSTON JR., E. Russell. Vector mechanics for
+engineers: dynamics. 6. ed.  Boston: McGraw-Hill, 1997. 1314 p.  ISBN
+0-07-005366-9.
+GIACAGLIA, G. E. O. Mecânica geral: para as escolas superiores. 3. ed. São
+Paulo, SP: Nobel, 1972. 447 p.
+MERIAN, J. L.,KRAIGE, L. G. ESTÁTICA. 5. ed. Rio de Janeiro, RJ: LTC, 2004. v.
+1. 349 p.
+RAHNEJAT, Homer. Multi-body dynamics: vehicles, machines, and mechanisms. 
+Warrendade: SAE, 1998. 355 p.  ISBN 0-7680-0269-9.
+SANTOS, I. F. Dinâmica de sistemas mecânicos: modelagem, simulação,
+visualização, verificação. São Paulo, SP: Makron Books, 2001. 272 p.
+TENENBAUM, Roberto A. Dinâmica.  Rio de Janeiro, RJ: Ed. UFRJ, 1997. 759 p. 
+ISBN 85-7108-201-4.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Programa Excel
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+PROVAS
+As provas semestrais P1 e P2 versarão sobre o conteúdo visto em cada semestre.
+A prova substitutiva PS versará sobre todo o conteúdo desenvolvido no curso. A
+aplicação das provas seguirá o calendário oficial da Escola.
+A média de provas MP é calculada segundo a expressão MP = (2*P1 + 3*P2)/5.
+***** IMPORTANTE ***** A nota da prova PS substitui a menor dentre as notas
+das provas P1 e P2, ou a média entre essas notas, de acordo com a situação que
+melhor favorecer o aluno. 
+ 
+TRABALHOS
+Os trabalhos T1 e T2 serão aplicados ao longo do primeiro e segundo semestres,
+respectivamente. Esses trabalhos podem conter problemas aplicados, questões
+dissertativas, de múltipla escolha e questões de resposta numérica. Tais
+atividades podem ser realizadas presencialmente e/ou no formato online, via
+Open LMS.
+O trabalho T1 é composto por uma atividade avaliativa, realizada ao final do 1o
+bimestre (AA1), e por outra(s) atividade(s), realizada(s) ao longo do 1o
+semestre (AS1). A nota T1 é calculada segundo a expressão T1 = 0,7AA1 + 0,3AS1.
+2021-EFB204página 5 de 11
+----------------Page (4) Break----------------
+  
+O trabalho T2 é composto por uma atividade avaliativa ,realizada ao final do 3o
+bimestre (AA2), e por outra(s) atividade(s), realizada(s) ao longo do 2o
+semestre (AS2). A nota T2 é calculada segundo a expressão T2 = 0,7AA2 + 0,3AS2.
+A média dos trabalhos MT é calculada segundo a expressão MT=(T1+T2)/2.
+MÉDIA FINAL
+A média FINAL MF é calculada segundo a expressão MF = 0,6*MP + 0,4*MT.
+O aluno estará aprovado se a MF for maior ou igual a 6,0(seis).
+2021-EFB204página 6 de 11
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+Todos os alunos, inclusive os que já cursaram a disciplina em anos anteriores e
+não foram aprovados, deverão entregar os trabalhos T1 e T2.
+O desenvolvimento das atividades desta disciplina compõe um processo de
+aprendizagem onde você será tratado com respeito. São bem-vindos indivíduos de
+todas as idades, origens, crenças, etnias, gêneros, identidades de gênero,
+expressões de gênero, origens nacionais, afiliações religiosas, orientações
+sexuais, outras diferenças visíveis e não visíveis. Espera-se que todos os
+matriculados nesta disciplina contribuam para um ambiente respeitoso, acolhedor
+e inclusivo para todos.
+2021-EFB204página 7 de 11
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Fernando Malvezzi
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Hector Alexandre Chaves Gil
+ Coordenador(a) do Ciclo Básico
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+2021-EFB204página 8 de 11
+----------------Page (7) Break----------------
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EFB204página 9 de 11
+----------------Page (8) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TAulas somente para a primeira série.   0
+  2 TApresentação da disciplina. Introdução à Cinemática do ponto
+material (movimento retilíneo).
+   0
+  3 TCinemática do ponto material (movimento retilíneo).   1% a 10%
+  4 TTriedro de Frenet.   0
+  5 TTriedro de Frenet (exercícios).   1% a 10%
+  6 TCinemática do ponto material(movimento curvilíneo).   1% a 10%
+  7 TCinemática do ponto material (aplicações em sistemas
+multicorpos).
+   1% a 10%
+  8 TCinemática do ponto material(aplicações em sistemas multicorpos).   11% a 40%
+  9 TCinemática do ponto material(aplicações em sistemas multicorpos).   11% a 40%
+ 10 TPeríodo de atividades avaliativas.   91% a
+100%
+ 11 TCinemática dos corpos rígidos.   0
+ 12 TCinemática dos corpos rígidos.   1% a 10%
+ 13 TCinemática dos corpos rígidos.   11% a 40%
+ 14 TCinemática dos corpos rígidos.   11% a 40%
+ 15 TSemana de Inovação   0
+ 16 TEstudos de caso e aplicações de cinemática em problemas de
+engenharia.
+   91% a
+100%
+ 17 TCinemática - Movimento Relativo.   0
+ 18 TCinemática - Movimento Relativo.   11% a 40%
+ 19 TSemana de Provas (P1).   0
+ 20 TSemana de Provas (P1).   0
+ 21 TAtividades de Planejamento.   0
+ 22 TPeríodo de atividades avaliativas.   91% a
+100%
+ 23 TPeríodo de atividades avaliativas.   91% a
+100%
+ 24 TMomento de Inércia. Produto de Inércia.   0
+ 25 TTeorema de Steiner. Momento de Inércia com– figuras compostas.
+Raio de Giração.
+   1% a 10%
+ 26 TDinâmica dos corpos rígidos no plano - Translação.   1% a 10%
+ 27 TDinâmica dos corpos rígidos no plano - Translação.   11% a 40%
+ 28 TDinâmica dos corpos rígidos no plano - Rotação.   1% a 10%
+ 29 TPeríodo de atividades avaliativas.   91% a
+100%
+ 30 TDinâmica dos corpos rígidos no plano - Rototranslação.   0
+ 31 TDinâmica dos corpos rígidos no plano - Rototranslação.   1% a 10%
+ 32 TDinâmica dos corpos rígidos no plano - Rototranslação.   91% a
+100%
+ 33 TDinâmica dos corpos rígidos no plano - Trabalho e Energia.   0
+ 34 TDinâmica dos corpos rígidos no plano - Trabalho e Energia.   1% a 10%
+2021-EFB204página 10 de 11
+----------------Page (9) Break----------------
+ 35 TEstudos de caso e aplicações de dinâmica em problemas de
+engenharia.
+   91% a
+100%
+ 36 TDinâmica dos corpos rígidos no plano - Trabalho e Energia.   41% a 60%
+ 37 TSemana de Provas (P2).   0
+ 38 TSemana de Provas (P2).   0
+ 39 TSemana de Provas (P2).   0
+ 40 TComplementos de dinâmica dos corpos rígidos no plano.   0
+ 41 TSemana de Provas (PS).   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EFB204página 11 de 11
+----------------Page (10) Break----------------

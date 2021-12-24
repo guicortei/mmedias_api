@@ -1,0 +1,348 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+InstrumentaçãoECA407
+Course:
+Instrumentation
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Engenharia de Controle e Automação4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Valdir Melero JuniorEngenheiro EletricistaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Andressa Corrente MartinsEngenheiro AeronáuticaMestre
+Valdir Melero JuniorEngenheiro EletricistaMestre
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Conceitos básicos de instrumentação industrial. Simbologias e nomenclaturas da
+instrumentação. Sensores de posição comumente empregados na indústria.
+Aplicações práticas com sensores de posição. Estudo de medidas de temperatura,
+pressão e vazão. Condicionamento de sinais. Aplicação computacional envolvendo
+medidas de grandezas. Transmissões de sinais industriais. Elementos finais de
+controle: válvulas, pneumática, eletropneumática e motores. Aplicações com
+motores.
+SYLLABUS
+Basic concepts of industrial instrumentation. Symbologies and nomenclatures of
+instrumentation. Position sensors commonly used in industry. Practical
+applications with position sensors. Study of temperature, pressure and flow
+measurements. Sign conditioning. Signal aquisition and computational
+processing.  Industrial signal transmissions. Final control elements: valves,
+pneumatics, electropneumatics and motors. Applications with motors.
+2021-ECA407página 1 de 9
+----------------Page (0) Break----------------
+TEMARIO
+Conceptos básicos de la instrumentación industrial. Símbolos y las
+clasificaciones de la instrumentación. Sensores de posición utilizados en la
+industria. Aplicaciones prácticas con sensores de posición. Estudio de
+mediciones de la temperatura, la presión y el flujo. Acondicionamiento de
+señales. Aplicación computacional que implica medidas de grandeza.
+Transmisiones de señales industriales. Elementos de control final: válvulas
+neumáticas, neumáticas y motores. Aplicaciones con motores.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+É desejável conhecimento em:
+ Física;
+ Cálculo;
+ Lógica de programação e lógica digital;
+ Fundamentos em eletricidade e eletrônica analógica;
+ Fundamentos de fenômenos de transporte e mecânica dos fluidos.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Formular e conceber soluções desejáveis de engenharia, analisando e
+compreendendo os usuários dessas soluções e seu contexto. Trabalhar e liderar
+equipes multidisciplinares.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS:
+C1 - Simbologias, nomenclaturas, dispositivos e métodos comumente empregados em
+instrumentação industrial;
+C2 - Sensores, condicionadores simples de sinais para controle e atuadores;
+C3 - Condicionamento de sinais;
+C4 - Metodologias de análise;
+C5 - Possibilidade de resolver problemas da engenharia aplicados à
+instrumentação;
+C6 - Materiais elétricos e técnicas de instalações.
+HABILIDADES:
+H1 - Conhecer, distinguir e interpretar problemas e elementos de instrumentação
+em processos industriais;
+H2 - Desenvolver raciocínio lógico para atuar em projetos de sistemas de
+instrumentação industrial;
+H3 - Conhecer as tecnologias utilizadas na integração de sistemas de automação;
+H4 - Comparar diferentes soluções para um problema.
+H5 - Expressar de forma adequada a comunicação oral e escrita;
+H6 - Trabalhar em equipe.
+ATITUDES:
+A1 - Desenvolver atividades acadêmicas vislumbrando aplicações profissionais
+com iniciativa e autonomia, buscando atualização profissional na área de
+instrumentação industrial;
+2021-ECA407página 2 de 9
+----------------Page (1) Break----------------
+A2 - Valorizar discussões de problemas de instrumentação juntamente aos
+profissionais da área industrial;
+A3 - Desenvolver postura proativa e empreendedora no que diz respeito à
+instrumentação da automação de instalações industriais;
+A4 - Desenvolver fortalecimento da capacidade de raciocinar de forma sistêmica
+e espírito crítico sobre o funcionamento de equipamentos e/ou instalações
+industriais;
+A5 - Motivação para prosseguir no curso e se tornar engenheiro(a);
+A6 - Participação ativa nas aulas.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+- Visita técnica
+METODOLOGIA DIDÁTICA
+Aulas expositivas com datashow e lousa, seminários, projetos, experimentos em
+laboratórios e estudos de casos, com a participação ativa dos estudantes,
+acompanhadas de exercícios relacionados aos assuntos abordados e voltados às
+suas aplicações, em situações práticas com vista à interdisciplinaridade.
+Utilização de recursos audiovisuais, bem como a utilização de softwares
+existentes no IMT.
+Visitas técnicas à instalações laboratoriais do IMT.
+Em ambos os casos, de aulas teóricas e práticas, vislumbra-se a discussão dos
+conceitos de modo que se provoque aos alunos a busca por soluções aos problemas
+abordados e se valorize a consulta aos recursos disponibilizados na disciplina
+e ao acervo na biblioteca da escola.
+Para as aulas destinadas aos projetos, em equipes, os temas são escolhidos
+pelos alunos e aprovados pelo(a) Professor(a), sendo que os alunos devem
+pesquisar e estudar previamente os conteúdos a serem aplicados, bem como
+discutir os resultados obtidos e relaciona-los com a teoria, sob orientação do
+Professor(a).
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+2021-ECA407página 3 de 9
+----------------Page (2) Break----------------
+Disciplina anual, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Possibilitar ao aluno a oportunidade de conhecer assuntos relacionados à
+instrumentação industrial, visto o constante crescimento da automatização nos
+processos, pelos quais se promovem melhorias na qualidade dos produtos
+fabricados e/ou a produtividade dos sistemas envolvidos. Dentro deste cenário,
+a disciplina contribui para integrar os conhecimentos adquiridos pelos alunos
+em outras disciplinas da grade curricular, na solução de problemas relacionados
+com a automatização de unidades industriais, permitindo que desenvolva a
+capacidade de abordar, de forma sistêmica, o equipamento e/ou o processo em
+estudo.
+Adicionalmente apresenta-se ao aluno uma visão abrangente sobre os principais
+equipamentos utilizados industrialmente para o controle automático de processos
+industriais.
+BIBLIOGRAFIA
+Bibliografia Básica:
+HELFRICK, Albert D; COOPER, William D. Instrumentação eletrônica moderna e
+técnicas de medição.  Rio de Janeiro, RJ: Prentice Hall, 1994. 324 p.  ISBN
+85-7054-050-7.
+KEMPENICH, Geraldo. Instrumentação e controle de processos. 1991.  São Caetano
+do Sul, SP: CAEEM, 1991. pt. 1.
+PAZOS, Fernando. Automação de sistemas & robótica.  Rio de Janeiro, RJ: Axcel
+Books, 2002. 384 p.  ISBN 85-7323-171-8.
+REGAZZI, Rógério Dias; PEREIRA, Paulo Sérgio. Soluções práticas de
+instrumentação e automação: utilizando a programação gráfica LabVIEW.  Rio de
+Janeiro: [s.n.], 2005. 456 p.  ISBN 8590546414.
+Bibliografia Complementar:
+ALVES, José Luiz Loureiro. Instrumentação, controle e automação de processos.
+2. ed.  Rio de Janeiro, RJ: LTC, 2012. 201 p.  ISBN 9788521617624.
+BEGA, Egídio Alberto (Org.) et al. INSTRUMENTAÇÃO industrial. 3. ed.  Rio de
+Janeiro, RJ: Interciência, 2011. 694 p.  ISBN 9788571932456.
+2021-ECA407página 4 de 9
+----------------Page (3) Break----------------
+CAPELLI, Alexandre. Automação industrial: controle do movimento e processos
+contínuos.  São Paulo: Érica, 2006. 236 p.  ISBN 139788536501178.
+CAPELLI, Alexandre. Automação industrial: controle do movimento e processos
+contínuos. 3. ed.  São Paulo: Érica, 2014. 236 p.  ISBN 139788536501178.
+DOEBELIN, Ernest O. Measurement systems: application and design. 4. ed.  New
+York: McGraw-Hill, 1990. 960 p.  ISBN 0-07-100697-4.
+MIODUSKI, Alfons Leopold. Elementos e técnicas modernas de medição analógica e
+digital.  Rio de Janeiro, RJ: Guanabara Dois, 1982. 463 p.
+MORAES, Cícero Couto de; CASTRUCCI, Plínio de Lauro. Engenharia de automação
+industrial. 2. ed.  Rio de Janeiro,  RJ: LCT, c2007. 347 p.  ISBN
+9788521615329.
+SIGHIERI, Luciano; NISHINARI, Akioshi. Controle automático de processos
+industriais: instrumentação.  São Paulo, SP: Edgard Blücher, [s.d.]. 240 p.
+THOMAZINI, Daniel; ALBUQUERQUE, Pedro Urbano Braga e. Sensores industriais:
+fundamentos e aplicações. 7. ed.  São Paulo, SP: Érica, 2010. 224 p.  ISBN
+9788536500713.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Pacote Microsoft Office: word, excel e power point;
+Navegador Google Chrome;
+IDE do Arduino;
+NI Multsim;
+Eagle da Autodesk;
+Microchip MPLAB.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Ao longo do ano letivo serão realizados dois trabalhos (k1 e k2), sendo:
+- k1 = T1, que corresponde à média dos relatórios de laboratório + projetos +
+exercícios desenvolvidos e entregues ao longo do primeiro semestre;
+- k2 = T2, que corresponde à média dos relatórios de laboratório + projetos +
+exercícios desenvolvidos e entregues ao longo do segundo semestre.
+Em cada um dos dois semestres haverá a apresentação de um projeto e seminário,
+cujo peso da nota será proporcional à quantidade de aulas envolvidas para a
+condução do respectivo projeto.
+2021-ECA407página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+A disciplina será ministrada pelo Prof. Valdir Melero Junior para o período
+noturno e pela Profa. Andressa Corrente Martins para o período diurno, sendo
+que as aulas ocorrerão no laboratório com lousa, datashow, bancadas e
+computadores (para professor e alunos), utilizando recursos existentes no
+departamento da Eng. de Controle e Automação e/ou Eng. Eletrônica, tais como
+fontes de tensão contínua, osciloscópios, geradores de funções, multímetros,
+placas de montagens, protoboard, componentes eletrônicos, cabos, módulos NI,
+dentre outros.
+O aluno deverá manter-se informado quanto à programação das aulas, sendo que os
+recursos de apoio ao curso estarão disponibilizados na respectiva página da
+disciplina, junto ao Open LMS. É importante ressaltar que a ordem das
+atividades de laboratório pode ser alterada em função de ocorrências
+imprevistas ao longo do ano corrente, portanto, pede-se especial atenção à
+possíveis mensagens transmitidas ao grupo, pelo Open LMS.
+As notas obtidas em cada experimento prático serão atribuídas pela avaliação do
+relatório desenvolvido pelas equipes em cada aula de laboratório e pelos
+trabalhos práticos das mesmas. Embora a nota seja definida por equipe, é
+imprescindível a participação de todos os alunos no experimento e na produção
+do relatório, ficando a critério do professor a imposição de notas diferentes,
+caso a participação efetiva de todos os integrantes não seja satisfatória.
+Para as aulas experimentais o professor fornecerá um roteiro a cada equipe, que
+deverá ser desenvolvido, preenchido e entregue ao final da aula ou data
+pré-determinada, para ser contabilizado como relatório. Este relatório é
+elaborado pela equipe e, na eventualidade de ausência de algum membro, a
+respectiva nota individual será lançada como ZERO. É importante que cada
+componente da equipe venha munido de um formulário para anotações pessoais. Os
+instrumentos necessários para a realização das experiências são mantidos sobre
+a bancada, e o material  organizado na forma de kit, que deverá ser retirado e
+devolvido, sob apresentação de documento no guichê do almoxarifado da Eng. de
+Controle e Automação e/ou Eng. Eletrônica.
+Para os projetos e exercícios em sala de aula, poderão ter validade como nota
+de trabalho, sendo o desenvolvimento individual ou em equipe, à critério
+combinado pelo professor. Assim como no laboratório, a ausência na aula de
+exercício ou projeto, acarretará em nota zero ao aluno.
+Não serão aceitos RELATÓRIOS ou TRABALHOS entregues fora das datas estipuladas
+e não será permitida entrada no laboratório com atraso.
+2021-ECA407página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Valdir Melero Junior
+ Responsável pela Disciplina
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ECA407página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  2 LIntrodução à disciplina e elementos básicos de
+instrumentação.Teoria e demonstrações em laboratório.
+   1% a 10%
+  3 LDiagrama ISA e suas normalizações.Teoria, demonstrações em
+laboratório e trabalho para entrega.
+   11% a 40%
+  4 LCódigo de cores. Padrões para transmissões de sinais.Teoria,
+demonstrações em laboratório e trabalho para entrega.
+   11% a 40%
+  5 LIntrodução ao LabVIEW.Aula prática.   41% a 60%
+  6 LLabVIEW aplicado - ensaios com sensores binários.Aula prática.   41% a 60%
+  7 LLabVIEW aplicado - ensaios com sensores binários - parte II.Aula
+prática.
+   41% a 60%
+  8 LFeriado - Paixão de Cristo.   0
+  9 LLabVIEW aplicado - estudo com sensores PTC/NTC com acoplamento
+por divisor resistivo.Aula prática.
+   41% a 60%
+ 10 LProvas P1 - disciplinas AN e S1.   0
+ 11 LTeoria sobre ponte de Wheatstone e introdução aos filtros
+implementáveis em LabVIEW.Aula prática.
+   11% a 40%
+ 12 LExperimento PTC/NTC com ponte de Wheatstone (entrada diferencial)
+e filtro.Aula prática.
+   41% a 60%
+ 13 LEnunciado do projeto semestral e orientação sobre os temas.Aula
+prática.
+   61% a 90%
+ 14 LDesenvolvimento do projeto semestral.Aula prática.   91% a
+100%
+ 15 LSemana SMILE.   0
+ 16 LDesenvolvimento do projeto semestral.Aula prática.   91% a
+100%
+ 17 LDesenvolvimento do projeto semestral e possível avaliação.Aula
+prática.
+   91% a
+100%
+ 18 LAula do final do semestre para ajustes no projeto semestral.Aula
+prática.
+   91% a
+100%
+ 19 LProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 20 LProvas P2 disciplinas AN e S1; Provas das disciplinas com 1
+avaliação no 1o sem.
+   0
+ 21 LDia não letivo - férias de julho (02/07/19).   0
+ 22 LProvas PS1 das disciplinas AN e S1.   0
+ 23 LPirômetros e medidores de pressão.Teoria com demonstração.   1% a 10%
+ 24 LMedidores de vazão.Teoria com demonstração.   1% a 10%
+ 25 LElementos finais de controle: válvulasTeoria e experimento em
+laboratório."
+   11% a 40%
+ 26 LAplicação de técnica de aprendizagem ativa.Visita técnica às
+plantas dos blocos I, J ou Palestra com profissional da área.
+   91% a
+100%
+ 27 LEstudo de instrumentação aplicada à rede LoRa.Aula prática.   11% a 40%
+2021-ECA407página 8 de 9
+----------------Page (7) Break----------------
+ 28 LEnunciado do Projeto Semestral e definição das equipes.Aula
+prática.
+   61% a 90%
+ 29 LProvas P3 das disciplinas AN e P1 das disciplinas do S2.   0
+ 30 LDesenvolvimento do projeto semestral.Aula prática.   91% a
+100%
+ 31 LDesenvolvimento do projeto semestral.Aula prática.   91% a
+100%
+ 32 LDesenvolvimento do projeto semestral.Aula prática.   91% a
+100%
+ 33 LDesenvolvimento do projeto semestral.Aula prática.   91% a
+100%
+ 34 LDesenvolvimento do projeto semestral.Aula prática.   91% a
+100%
+ 35 LAvaliação do projeto semestral de instrumentação e seminário.Aula
+prática.
+   91% a
+100%
+ 36 LPossível finalização do projeto e atendimento aos alunos.   91% a
+100%
+ 37 LProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 38 LProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 39 LAtendimento aos alunos.   0
+ 40 LAtendimento aos alunos.   0
+ 41 LProvas PS das disciplinas (AN) e semestrais do S2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ECA407página 9 de 9
+----------------Page (8) Break----------------

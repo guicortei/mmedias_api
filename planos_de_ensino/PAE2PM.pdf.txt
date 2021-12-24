@@ -1,0 +1,197 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Projetos e Atividades Especiais IIPAE2PM
+Course:
+Special projects and activities II
+Materia:
+Proyectos y actividades especiales II
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 00 - 00 - 04
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Produção2Diurno
+Engenharia de Produção2Noturno
+Engenharia de Produção2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marcelo Marques GomesEngenheiro EletricistaDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Afonso Carlos BragaEngenheiroMestre
+David Garcia PenofBacharel em AdministraçãoDoutor
+Eduardo LinzmayerEngenheiro de ProduçãoMestre
+Jorge KawamuraEngenheiro Eletricista e EletrônicaMestre
+Leonardo ChwifEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Desenvolvimento de competências, habilidades e atitudes com pertinência à
+formação do futuro Engenheiro de Produção, por meio de atividades práticas
+eletivas e centradas no aluno. Treino das habilidades de interpretação e
+análise.
+Metodologias de resolução de problemas. Desenvolvimento de projetos de
+Engenharia. Visitas técnicas, palestras, oficinas, seminários e competições
+tecnológicas. Participações em programas de monitoria, projetos de iniciação
+científica e de pesquisa tecnológica, além da participação em projetos de
+responsabilidade social.
+2021-PAE2PMpágina 1 de 8
+----------------Page (0) Break----------------
+SYLLABUS
+Development of competencies, skills and attitudes relevant to the formation of
+future Production Engineer, through electives and student-centered practical
+activities. Training of interpretation and analysis skills. Problem solving
+methodologies. Development of engineering projects. Technical visits, lectures,
+workshops, seminars and technological competitions. Participation In
+undergraduate monitoring programs, scientific projects and technological
+research, as well as participation in social responsibility projects.
+TEMARIO
+Desarrollo de las competencias, habilidades y actitudes relacionadas con la
+formación de futuro Ingeniero de Producción, através de actividades prácticas
+optativas centradas en el estudiante. Entrenamiento de habilidades de
+interpretación y análisis. Metodologia para la resolución de problemas.
+Desarrollo de proyectos de ingeniería. Visitas técnicas, conferencias,
+talleres, seminarios y concursos. Participacion en los programas de supervisión
+y proyectos de investigación científica, así como la participación en proyectos
+de responsabilidad social.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+1. Conhecimentos adquiridos nas disciplinas do Ensino Médio;
+2. Conhecimentos adquiridos nas disciplinas da 1a série do curso de engenharia;
+3. Noções de operação e uso de editores de texto e planilhas eletrônicas.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Formular e conceber soluções desejáveis de engenharia, analisando e
+compreendendo os usuários dessas soluções e seu contexto.Aprender de forma
+autônoma e lidar com situações e contextos complexos, atualizando-se em relação
+aos avanços da ciência, da tecnologia e aos desafios da inovação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1: Apresentar problemas e projetos de Engenharia aos alunos;
+C2: Complementar a formação profissional, cultural e de responsabilidade social
+do aluno;
+C3: Servir de elemento motivador e transformador da forma de pensar e agir por
+meio da prática vivencial, mostrando aplicações práticas e multidisciplinares.
+Habilidades:
+H1: Desenvolver a capacidade analítica do aluno na argumentação e na busca de
+soluções de questões e problemas;
+H2: Desenvolver técnicas de identificação, formulação e resolução de problemas;
+H3: Desenvolver a habilidade de trabalhar em equipe;
+H4: Organizar e realizar uma apresentação em público;
+Atitudes:
+A1: Motivar o aluno a prosseguir no curso e se tornar engenheiro;
+A2: Empreender na busca de solução de problemas;
+2021-PAE2PMpágina 2 de 8
+----------------Page (1) Break----------------
+A3: Divulgar a engenharia como profissão que promove mudanças no mundo.
+A4: Incentivar o modo de pensar analítico e reflexivo do Engenheiro.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Ensino Híbrido
+- Sala de aula invertida
+- Sala de aula invertida
+- Design Thinking
+- Project Based Learning
+- Problem Based Learning
+- Gamificação
+- A serem definidas pelo aplicador
+METODOLOGIA DIDÁTICA
+1. Atividades em laboratório;
+2. Elaboração de projetos;
+3. Eventual participação em estudos de caso e visitas técnicas;
+4. Participação em oficinas, competições e palestras;
+5. Elaboração de relatório das atividades desenvolvidas;
+6. Apresentação de seminários.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina somente com indicação de Suficiente ou Insuficiente.
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina deve proporcionar ao aluno o desenvolvimento de habilidades e
+atitudes mais próximas da vida real de um Engenheiro por meio da realização de
+práticas vivenciais onde o mesmo é posto em contato com situações reais e deve
+buscar informações e desenvolver soluções para problemas e projetos de
+engenharia. 
+A disciplina também contribui para que o aluno sinta-se mais próximo do
+dia-a-dia da atuação de engenheiros de produção.
+2021-PAE2PMpágina 3 de 8
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+BATALHA, Mário Otávio (Org.) et al. Introdução à engenharia de produção.  Rio
+de Janeiro: Elsevier, 2008. 312 p. (Coleção ABEPRO-CAMPUS Engenharia de
+Produção).  ISBN 9788535223304.
+HIBBELER, Russell Charles. Resistência dos materiais. [Mechanics of materials].
+Trad. de Joaquim Pinheiro Nunes; rev. téc. de Wilson Carlos da Silva Jr. 5. ed.
+ São Paulo, SP: Pearson Prentice Hall, 2004. 670 p.  ISBN 9788587918673.
+MORAN, Michael J et al. Introdução à engenharia de sistemas térmicos:
+termodinâmica, mecânica dos fluidos e transferência de calor. Tradução de
+Carlos Alberto Biolchini da Silva.  Rio de Janeiro, RJ: LTC, 2005. 604 p.  ISBN
+8521614462.
+SLACK, Nigel; CHAMBERS, Stuart; JOHNSTON, Robert. Administração da produção.
+Trad. de Maria Teresa Corrêa de Oliveira e Fábio Alher; rev. téc. de Henrique
+Luiz Corrêa. 2. ed.  São Paulo, SP: Atlas, 2002. 747 p.  ISBN 9788522432509.
+Bibliografia Complementar:
+ALVARENGA NETO, Rivadávia Correa Drummond de. Gestão do conhecimento em
+organizações: proposta de mapeamento conceitual integrativo.  São Paulo, SP:
+Saraiva, 2008. 236 p.  ISBN 9788502064492.
+ASSAO, Eliana Sanae et al. Gerenciamento ambiental de resíduos. Orientador:
+NAKAGAWA, Tetsuo.  São Paulo, SP: EAM, 2000. 109 p.
+BRASIL. Leis, decretos, etc; BRASIL. Ministério da Indústria e do Comércio.
+Sistema nacional de metrologia, normalização e qualidade industrial.  s.l.p:
+MICSTI, 1977. 25 p.
+PENOF , David Garcia (Org.); MELO, Edson Correia de (Org.); LUDOVICO, Nelson
+(Org.). Gestão da produção e logística.  São Paulo: Saraiva, 2013. 258 p.  ISBN
+9788502201941.
+TOLEDO Jr., Itys-Fides Bueno. Cronoanálise. 16. ed.  Mogi das Cruzes, SP: Itys
+Fides, 2007. 197 p. (Racionalização Industrial).
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A disciplina Projetos e Atividades Especiais é formada por um conjunto de
+atividades específicas ofertas aos alunos dos cursos de Engenharia conforme
+2021-PAE2PMpágina 4 de 8
+----------------Page (3) Break----------------
+calendário próprio. 
+Para ser aprovado, o aluno deverá cumprir a carga horária estabelecida de
+acordo com cada atividade específica desenvolvida na disciplina e somar o total
+da carga horária estabelecida para a disciplina Projetos e Atividades
+Especiais. 
+Todas as atividades relacionadas deverão estar suportadas por documentação
+comprobatória a ser entregue a cada professor da atividade específica da
+disciplina.
+As atividades serão validadas pelo professor da atividade específica recebendo
+a qualificação "cumpriu" (C) ou "não cumpriu" (NC).
+2021-PAE2PMpágina 5 de 8
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+2021-PAE2PMpágina 6 de 8
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marcelo Marques Gomes
+ Responsável pela Disciplina
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-PAE2PMpágina 7 de 8
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPrograma não foi definido   91% a
+100%
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-PAE2PMpágina 8 de 8
+----------------Page (7) Break----------------

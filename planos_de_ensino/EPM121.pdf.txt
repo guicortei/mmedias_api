@@ -1,0 +1,308 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Sistemas de Informação IEPM121
+Course:
+Information Systems I
+Materia:
+Sistemas de Información I
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Produção3Diurno
+Engenharia de Produção2Diurno
+Engenharia de Produção3Noturno
+Engenharia de Produção2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marcelo Marques GomesEngenheiro EletricistaDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Marcelo Marques GomesEngenheiro EletricistaDoutor
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Noções básicas de Sistema de Informação. Sistemas de bancos de dados:
+modelagem, normalização e implementação de bancos de dados utilizando o sistema
+gerenciador de bancos de dados MySQL e Access. Noções básicas da linguagem SQL.
+Sistemas ERP, conceitos básicos e visão geral dos módulos. Estudo e aplicação
+do ERP nos principais processos de negócios da empresa: vendas, compras,
+planejamento da produção, finanças e contabilidade. Prática com ERP Odoo.
+Modelagem básica no ERP para uma pequena empresa.
+SYLLABUS
+Basic notions of Information System. Database systems: modeling, normalization
+and implementation of databases using the MySQL and Access database management
+system. Basics of the SQL language. ERP systems, basic concepts and module
+overview. Study and application of ERP in the company's main business
+processes: sales, purchasing, production planning, finance and accounting.
+Practice with ERP Odoo. Basic modeling in ERP for a small business.
+2021-EPM121página 1 de 10
+----------------Page (0) Break----------------
+TEMARIO
+Nociones básicas de Sistema de Información. Sistemas de bases de datos:
+modelado, normalización e implementación de bases de datos utilizando el
+sistema de gestión de bases de datos MySQL y Access. Conceptos básicos del
+lenguaje SQL. Sistemas ERP, conceptos básicos y descripción general del módulo.
+Estudio y aplicación de ERP en los principales procesos de negocio de la
+empresa: ventas, compras, planificación de la producción, finanzas y
+contabilidad. Practica con ERP Odoo. Modelado básico en ERP para una pequeña
+empresa.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+1. Conhecimentos de Computação: lógica de algoritmos, uso de planilhas
+eletrônicas e pelo menos uma linguagem de programação de alto nível; 
+2. Familiaridade como técnica(s) de documentação de sistemas: pelo menos ter
+familiaridade com o desenho de Fluxogramas.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Formular, de maneira ampla e sistêmica, questões de engenharia, considerando o
+usuário e seu contexto, concebendo soluções criativas, bem como o uso de
+técnicas adequadas.Ser capaz de interagir com profissionais de outras áreas de
+conhecimento atuando como gestor de projetos para criação de novos produtos,
+processos e sistemas.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C5: Sólida formação na área de Tecnologia da Informação de modo a ser capaz de
+gerenciar e otimizar o fluxo de informação nas empresas: Adquirir familiaridade
+com a terminologia da área de TI, Aprender técnicas e métodos utilizados para
+projetar e implementar Sistemas de Informação (SI) nas empresas, Entender o
+papel estratégico dos SI e da TI nas empresas, Aprender como utilizar a TI no
+desenvolvimento de novos negócios em uma economia digital, Projetar e praticar
+com um SI utilizando um pacote real; 
+C9: Conhecimento para: 1) avaliar e desenvolver soluções de problemas de sua
+habilitação específica e multidisciplinares: Prática com módulos de um SI
+empresarial; 
+C13: Conhecimento, em nível técnico, da Língua Inglesa: Analisar estudos de
+caso em SI; 
+Habilidades: 
+H3: Assumir a postura de permanente busca de atualização profissional de modo a
+acompanhar os avanços tecnológicos, organizando-os e colocando-os a serviço da
+demanda das empresas e da sociedade; 
+H4: Atuar em equipes multidisciplinares: Elaborar os requisitos do sistema a
+partir de diversas áreas; 
+H6: Avaliar criticamente a operação e manutenção de sistemas e processos na sua
+área de atuação: Expressar os fluxos de trabalho de forma automatizada,
+Relacionar os conhecimentos de projeto de SI com o negócio; 
+H8: Comunicar eficientemente nas formas oral e escrita, no padrão formal da
+2021-EPM121página 2 de 10
+----------------Page (1) Break----------------
+língua portuguesa: Elaborar documentação do projeto de um SI; 
+H10: Identificar, formular e resolver problemas na área da engenharia na sua
+área de atuação : Revisar os processos do negócio com suporte da TI; 
+H14: Esboçar, ler e interpretar desenhos, gráficos e imagens: Desenvolver
+modelos pictóricos de SI; 
+H18: Sintetizar informações, interpretar e desenvolver modelos para a solução
+de problemas de Engenharia de Produção: Estudar métodos de projeto de SI; 
+H19: Utilizar os recursos de informática necessários para o exercício da sua
+profissão: Utilizar softwares diagramadores, de desenvolvimento e empresariais;
+Atitudes: 
+A1: Ter espírito de liderança e capacidade para inserir-se no trabalho em
+equipe: Realização de trabalhos e projetos em equipe; 
+A2: Ter interesse em buscar, continuamente, a sua atualização e aprimoramento:
+Estudar tecnologias de SI; 
+A4: Ter visão sistêmica e interdisciplinar na solução de problemas técnicos:
+Praticar a modelagem de SI; 
+A5: Ter percepção do conjunto e capacidade de síntese: Preparar relatórios
+sobre estudos de caso e atividades em SI; 
+A11: Ter dinamismo para saber acompanhar as mudanças tecnológicas em constante
+transformação: Aplicar técnicas atualizadas de TI nas empresas; 
+A12: Saber organizar o seu trabalho, de forma a cumprir os requisitos
+estabelecidos: Lidar com diversos tipos de tarefas da disciplina.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+O curso se baseia em aulas expositivas e aulas práticas. Tanto as aulas
+expositivas quanto práticas serão ministradas em um laboratório de informática
+contendo um microcomputador com projetor acoplado para o professor e vinte e
+dois microcomputadores para que os alunos acompanhem as aulas e desenvolvam
+seus projetos em duplas. Nas aulas práticas, serão realizadas atividades que
+podem ser individuais ou, preferencialmente, em equipe e demandarão o uso de
+softwares de apoio como pacotes de automação de escritórios (planilhas
+eletrônicas, geradores de apresentação e editores de texto), sistemas
+gerenciadores de bancos de dados, linguagens de programação e pacotes de
+sistemas gerenciadores de informação. As atividades individuais serão para
+avaliação automática de conhecimentos ministrados no momento e devem ser de
+curta duração, enquanto que as atividades em grupo serão baseadas em estudos de
+casos propostos e podem, eventualmente, durar mais de uma aula, resultando em
+um artigo/seminário a ser elaborado/exposto ou a análise/projeto/implementação
+de parte de um sistema de informação gerencial, bem como a realização de
+pesquisas para aprofundamento de conteúdo em Sistemas de Informação. Os
+2021-EPM121página 3 de 10
+----------------Page (2) Break----------------
+exercícios deverão ser entregues, preferencialmente, via Moodle.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 4,0          Peso de MT(kT): 6,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+O Engenheiro de Produção trabalha com diversas informações, como volumes a
+serem produzidos, apontamentos de produção, custos de materiais, produtividade
+de equipamentos e pessoas, sequências de atividades, somente para citar
+algumas. A essência do seu trabalho é receber informações e empregando técnicas
+e métodos adequados, organizá-las e gerar novas informações para serem
+transformadas em ações dentro do escopo de negócios de uma empresa. Sendo
+assim, a disciplina Sistemas de Informação I possibilita ao aluno vivenciar
+esse processo de organização e gestão de informações pela aplicação de métodos
+e técnicas de análise, projeto e implementação de sistemas de informação em
+casos apresentados durante o curso, sempre sob a ótica do negócio. Além disso,
+o engenheirando obterá uma visão parcial dos Sistemas de Informação em uso nas
+empresas.
+BIBLIOGRAFIA
+Bibliografia Básica:
+ALVES, William Pereira. Estudo dirigido de Microsoft Office Access 2013. 1. ed.
+ São Paulo: Érica, 2016. 264 p. (Processamento de dados. Série Estudo).  ISBN
+9788536504605.
+BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. UML: guia do usuário. 2. ed.
+rev. e atual.  Rio de Janeiro: Elsevier/Campus, c2012. 472 p.  ISBN
+9788535217641.
+WATSON, Richard T. Data management: banco de dados e organizações. WATSON,
+Richard. 3. ed.  Rio de Janeiro: LTC, 2004. 370 p.  ISBN 852161408X.
+Bibliografia Complementar:
+2021-EPM121página 4 de 10
+----------------Page (3) Break----------------
+0 material didático apresentado em aula pelo professor será disponibilizado no
+ambiente de ensino à distância da disciplina.
+DATE, C. J. Introdução a sistemas de bancos de dados. VIEIRA, Daniel (Trad.).
+8. ed.  Rio de Janeiro: Campus/ Elsevier, c2004. 803 p.  ISBN 9788535212730.
+DeMARCO, Tom. Análise estruturada e especificação de sistema.  Rio de Janeiro:
+Campus, c1989. 333 p. (Série Yourdon Press).  ISBN 8570015445.
+ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 4. ed.  São
+Paulo: Pearson/Addison Wesley, 2005. 724 p.  ISBN 8588639173.
+LAUDON, Kenneth C; LAUDON, Jane Price. Sistemas de informação gerenciais:
+administrando a empresa digital. MARQUES, Arlete Simille (Trad.). 5. ed.  São
+Paulo: Person/Prentice Hall, 2006. 562 p.  ISBN 9788587918390.
+PENDER, Tom. UML: a Bíblia. VIEIRA, Daniel (Trad.).  Rio de Janeiro: Elsevier,
+2004. 711 p.  ISBN 8535214089.
+SILVER, Bruce. BPMN method and style.  Aptos, CA: Cody-Cassidy Press, 2009. 213
+p.  ISBN 9780982368107.
+STAIR, Ralph, M; REYNOLDS, George W. Princípios de sistemas de informação.
+[Principles of information system: a managerial approach]. SILVA, Flávio Soares
+Corrêa da (Trad.).  São Paulo: Pioneira Tomson, c2006. 646 p.  ISBN 8522104816.
+TURBAN, Efraim; RAINER JR., R. Kelly; POTTER, Richard E. Administração de
+tecnologia da informação: teoria e prática. VIEIRA, Daniel (Trad.).  Rio de
+Janeiro: Elsevier, c2005. 618 p.  ISBN 8535215719.
+YOURDON, Edward. Análise estruturada moderna. [Modern structured analysis].
+Tradução da terceira edição americana por Dalton Conde de Alencar.  Rio de
+Janeiro: Campus/Elsevier, 1992. 836 p. (Yourdon Press).  ISBN 9788570016157.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Bizagi Modeler
+Bizagi Studio
+MySQL Server Community
+MySQL Workbench Community
+Microsoft Access
+Microsoft Excel
+Odoo Community
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+As notas dos Trabalhos de anos anteriores NÃO SERÃO APROVEITADAS.
+---------------------------------------------------------------
+A programação de aulas da disciplina será disponibilizada na página da 
+2021-EPM121página 5 de 10
+----------------Page (4) Break----------------
+disciplina no ambiente EAD. As avaliações serão realizadas, em equipes de até
+quatro elementos, durante a aula e cobrirão o assunto no bimestre. Essas
+avaliações práticas são pequenos projetos de sistemas de informação que poderão
+eventualmente demandar mais de uma aula para serem finalizados e tratarão da
+aplicação de métodos e técnicas de análise e implementação (previamente
+ministrados nas aulas expositivas) de parte ou de todo um sistema de
+informação. Cada atividade desenvolvida em grupo deverá resultar na elaboração
+de uma documentação apropriada do software, contendo a descrição do mesmo via
+texto, diagramas e ou código no nível que foi exigido. Dada a forte
+interligação com diversas disciplinas, sempre que possível, o aluno realizará
+em grupo atividades que envolvam diretamente assuntos tratados por essas
+disciplinas, porém no escopo de Sistemas de Informação I.
+2021-EPM121página 6 de 10
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+Não há.
+2021-EPM121página 7 de 10
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marcelo Marques Gomes
+ Responsável pela Disciplina
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EPM121página 8 de 10
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 EAulas somente para os alunos ingressantes   0
+  2 EApresentação da disciplina   0
+  3 EF E R I A D O   0
+  4 EBPMN - Teoria   1% a 10%
+  5 EBPMN - Exercícios   91% a
+100%
+  6 EBPMN - Atividade   91% a
+100%
+  7 EModelagem de dados   11% a 40%
+  8 EModelagem de dados / Normalização   41% a 60%
+  9 ENormalização - Exercícios   91% a
+100%
+ 10 EPeríodo de Provas - P1   0
+ 11 ENormalização - Exercícios   91% a
+100%
+ 12 EDiagrama de Classes + Normalização - Atividade   91% a
+100%
+ 13 ESQL - Teoria/Exercícios   41% a 60%
+ 14 ESQL - Teoria/Exercícios   41% a 60%
+ 15 ESemana SMILE   0
+ 16 EAula complementar   91% a
+100%
+ 17 ESQL - Teoria/Exercícios   41% a 60%
+ 18 EPeríodo de Provas - P2   0
+ 19 EPeríodo de Provas - P2   0
+ 20 EReposição de Atividade do Primeiro Semestre   91% a
+100%
+ 21 EPeríodo de Provas - PSub1   0
+ 22 ESQL - Atividade   91% a
+100%
+ 23 EAccess - Teoria   11% a 40%
+ 24 EAccess - Teoria   11% a 40%
+ 25 EAccess - Teoria/Exercícios   41% a 60%
+ 26 EAula complementar   91% a
+100%
+ 27 EAccess - Atividade   91% a
+100%
+ 28 EERP - Conceitos   0
+ 29 EPeríodo de Provas - P3   0
+ 30 EERP - Odoo   11% a 40%
+ 31 EERP - Odoo - familiarização   91% a
+100%
+ 32 EAula complementar   91% a
+100%
+2021-EPM121página 9 de 10
+----------------Page (8) Break----------------
+ 33 EERP - Relatório   41% a 60%
+ 34 EERP - Customização   41% a 60%
+ 35 EERP - Apresentação   91% a
+100%
+ 36 EERP - Apresentação   91% a
+100%
+ 37 EPeríodo de Provas - P4   0
+ 38 EPeríodo de Provas - P4   0
+ 39 EReposição de Atividade do Segundo Semestre   11% a 40%
+ 40 EPeríodo de Provas - PSub2   0
+ 41 EPeríodo de Provas - PSub2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EPM121página 10 de 10
+----------------Page (9) Break----------------

@@ -1,0 +1,258 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Programação Orientada a Objetos e Banco de DadosECA304
+Course:
+Programação Orientada a Objetos e Banco de Dados
+Materia:
+Programação Orientada a Objetos e Banco de Dados
+Periodicidade: AnualCarga horária total: 68Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação3Diurno
+Engenharia de Controle e Automação4Noturno
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Alexandre Harayashiki MoreiraEngenheiro em Controle e AutomaçãoMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Alexandre Harayashiki MoreiraEngenheiro em Controle e AutomaçãoMestre
+Anderson Harayashiki MoreiraEngenheiro em Controle e AutomaçãoDoutor
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Conceitos de engenharia de software. Conceitos do paradigma da orientação a
+objetos: classe, objeto, atributo, método, estado, herança, polimorfismo,
+métodos virtuais. Conceitos de modelagem orientada a objetos com UML. Modelagem
+de banco de dados com diagramas de entidade-relacionamento. Bancos de dados:
+conceitos, normalização, criação e manipulação de bancos de dados com a
+linguagem SQL. Implementação de sistemas cliente-servidor.
+SYLLABUS
+Software engineering concepts. Paradigm concepts of object orientation: class,
+object, attribute, method, state, inheritance, polymorphism, virtual methods.
+Concepts of object-oriented modeling with UML. Database modeling with
+entity-relationship diagrams. Databases: concepts, standardization, creation
+and manipulation of databases with SQL. Implementation of client-server
+systems.
+2021-ECA304página 1 de 8
+----------------Page (0) Break----------------
+TEMARIO
+Conceptos de ingeniería de software. Conceptos paradigma de orientación a
+objetos: clase, objeto, atributo, método, estado, herencia, polimorfismo,
+métodos virtuales. Conceptos de modelado orientado a objetos con UML. Modelado
+de bases de datos con los diagramas entidad-relación. Bases de datos:
+conceptos, de normalización, de creación y manipulación de bases de datos con
+SQL. Implementación de sistemas cliente-servidor.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Considera-se como requisito básico para o acompanhamento da disciplina o
+conhecimento do uso de computadores e de uma linguagem de programação de alto
+nível (Pascal, Delphi, C ou outra), bem como lógica de programação.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+I - formular e conceber soluções desejáveis de engenharia, analisando e
+compreendendo os usuários dessas soluções e seu contexto.VIII - aprender de
+forma autônoma e lidar com situações e contextos complexos, atualizando-se em
+relação aos avanços da ciência, da tecnologia e aos desafios da inovação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+1 - Conhecer ferramentas e tecnologias para o desenvolvimento de sistemas
+orientados a objetos e com bancos de dados;
+2 - Conhecer o significado e a necessidade de tratar o software como um produto
+de Engenharia;
+3 - Adquirir familiaridade com processos de desenvolvimento de sistemas.
+Habilidades:
+1 - Trabalhar em equipe;
+2 - Adquirir uma visão geral do processo de desenvolvimento de sistemas
+orientado a objetos;
+3- Implementar sistemas de software orientados a objetos e com banco de dados;
+Atitudes:
+1 - Ter iniciativa para solução de problemas;
+2 - Iniciativa de pesquisar soluções de problemas existentes em um projeto de
+software;
+3 - Ter uma postura de trabalho em grupo.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+2021-ECA304página 2 de 8
+----------------Page (1) Break----------------
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+As aulas serão ministradas em uma sala de aula com microcomputador para o
+professor, com recursos audiovisuais acoplados ao mesmo e microcomputadores
+para o desenvolvimento de projetos pelos alunos.
+Os trabalhos práticos serão avaliados de acordo com pequenos projetos de
+software e exercícios baseados em estudos de caso que se estenderão durante o
+ano.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 2,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+O Engenheiro de Controle e Automação trabalha com a aplicação direta de
+conceitos tanto de hardware quanto de software. Em termos de software, existem
+dois conhecimentos que são imprescindíveis para a criação de sistemas de porte
+arbitrário deste tipo: programação orientada a objetos e bancos de dados. A
+disciplina Programação Orientada a Objetos e Banco de Dados contribui neste
+sentido ao oferecer os conhecimentos fundamentais para a programação orientada
+a objetos com a linguagem de programação Python e de bancos de dados
+relacionais com o sistema gerenciador de bancos de dados MySQL. Além disso,
+procura-se transmitir a importância de que projetos de softwares devam ser
+tratados como legítimos projetos de engenharia, ou seja, como produtos
+resultantes de um processo bem definido e controlado de desenvolvimento.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BARRY, Paul. Use a cabeça! Python.  Rio de Janeiro: Alta Books, 2012. 458 p. 
+ISBN 9788576087434.
+MENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e
+lógica de programação para iniciantes.  São Paulo: Novatec, 2010. 222 p.  ISBN
+9788575222508.
+2021-ECA304página 3 de 8
+----------------Page (2) Break----------------
+SUMMERFIELD, Mark. Programação em Python 3: uma introdução completa à linguagem
+Phython.  Rio de Janeiro: Alta Books, 2012. 506 p.  ISBN 9788576083849.
+Bibliografia Complementar:
+DATE, C. J. Introdução a sistemas de bancos de dados. SOUZA, Vanderberg D. de
+(Trad.). 7. ed.  Rio de Janeiro: Campus, c2000. 803 p.  ISBN 85352-05608.
+MONK, Simon. Programando com o Raspberry Pi: primeiros passos com Python.  São
+Paulo: Novatec, 2013. 190 p.  ISBN 9788575223574.
+McGUGAN, Will. Beginning game development with Python and Pygame: from novice
+to professional.  Berkeley: Apress, 2007. 316 p.  ISBN 139781590598726.
+RICHARDSON, Matt; WALLACE, Shawn. Primeiros passos com Raspberry Pi.  São
+Paulo: Novatec, 2013. 192 p.  ISBN 9788575223451.
+UPTON, Eben; HALFACREE, Gareth. Raspberry Pi: manual do usuário.  São Paulo:
+Novatec, 2013. 269 p.  ISBN 9788575223512.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Anaconda
+Instalar os seguintes módulos adicionais ao Python:
+ - PIP
+ - Pygame
+ - Kivy
+ - PyQT 5
+ - TensorFlow
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A avaliação de trabalhos consta de:
+1. Exercícios de programação desenvolvidos em laboratório;
+2. Projetos de programação / estudos de caso;
+3. Participação no ambiente de ensino a distância (Moodle);
+4. Testes realizados no ambiente de ensino a distância (Moodle);
+5. Projeto integrador (Terceiro e Quarto Bimestre)
+A média final da disciplina é definida da seguinte maneira:
+MF = (T1 + T2 + 3*T3)/4
+2021-ECA304página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+A avaliação de trabalhos consistirá em:
+1. Projetos desenvolvidos no laboratório de informática;
+2. Exercícios de programação desenvolvidos em laboratório ;
+3. Arguições realizadas em aula;
+4. Participação no ambiente EaD.
+Os trabalhos serão desenvolvidos em sala de aula por até dois alunos por
+computador.
+Sobre diversidade:
+O desenvolvimento das atividades desta disciplina compõe um processo de
+aprendizagem onde você será tratado com respeito. São bem-vindos indivíduos de
+todas as idades, origens, crenças, etnias, gêneros, identidades de gênero,
+expressões de gênero, origens nacionais, afiliações religiosas, orientações
+sexuais e outras diferenças visíveis e não visíveis. Espera-se que todos os
+matriculados nesta disciplina contribuam para um ambiente respeitoso, acolhedor
+e inclusivo para todos.
+2021-ECA304página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Alexandre Harayashiki Moreira
+ Responsável pela Disciplina
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ECA304página 6 de 8
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LSemana de recepção dos calouros.   0
+  2 LApresentação da disciplina: Introdução à Linguagem Python e ao
+ambiente de desenvolvimento.
+   0
+  3 LTipos e operações em Python: Tipos básicos de dados em Python.   41% a 60%
+  4 LTipos e operações em Python: Funções e Módulos I.   41% a 60%
+  5 LTipos e operações em Python: Funções e Módulos II.   41% a 60%
+  6 LTipos e operações em Python: String.   41% a 60%
+  7 LTipos e operações em Python: Listas e Dicionários.   41% a 60%
+  8 LAvaliação Bimestral.   91% a
+100%
+  9 LSemana de Provas - P1.   0
+ 10 LIntrodução à Classes e Programação Orientada a Objetos em Python:
+Aula I - Conceitos Básicos e Diagrama UML.
+   41% a 60%
+ 11 LIntrodução à Classes e Programação Orientada a Objetos em Python:
+Aula II - Sobrecarga de Métodos e Herança Simples.
+   41% a 60%
+ 12 LIntrodução à Classes e Programação Orientada a Objetos em Python:
+Aula III - Interfaceamento entre classes.
+   41% a 60%
+ 13 LIntrodução à Classes e Programação Orientada a Objetos em Python:
+Aula IV - Métodos e atributos públicos, protegidos e privados.
+   41% a 60%
+ 14 LIntrodução à Classes e Programação Orientada a Objetos em Python:
+Aula IV - Métodos e atributos públicos, protegidos e privados.
+   41% a 60%
+ 15 LDesenvolvimento de interfaces gráficas em Python: Aula I.   41% a 60%
+ 16 LDesenvolvimento de interfaces gráficas em Python: Aula II.   41% a 60%
+ 17 LDesenvolvimento de interfaces gráficas em Python: Aula III.   41% a 60%
+ 18 LSemana de Provas - P2.   0
+ 19 LSemana de Provas - P2.   0
+ 20 LAvaliação Bimestral.   91% a
+100%
+ 21 LSemana de Provas - PS1.   0
+ 22 LSemana de Provas - PS1.   0
+ 23 LApresentação dos requisitos do Projeto Semestral da Disciplina.   0
+ 24 LAcompanhamento do Projeto Semestral da Disciplina.   91% a
+100%
+ 25 LAcompanhamento do Projeto Semestral da Disciplina.   91% a
+100%
+ 26 LAcompanhamento do Projeto Semestral da Disciplina.   91% a
+100%
+ 27 LAcompanhamento do Projeto Semestral da Disciplina.   91% a
+100%
+ 28 LAcompanhamento do Projeto Semestral da Disciplina.   91% a
+100%
+ 29 LSemana de Provas - P3.   0
+ 30 LAcompanhamento do Projeto Semestral da Disciplina.   91% a
+100%
+2021-ECA304página 7 de 8
+----------------Page (6) Break----------------
+ 31 LAcompanhamento do Projeto Semestral da Disciplina.   91% a
+100%
+ 32 LAcompanhamento do Projeto Semestral da Disciplina.   91% a
+100%
+ 33 LApresentações do Projeto Semestral da Disciplina.   0
+ 34 LApresentações do Projeto Semestral da Disciplina.   0
+ 35 LApresentações do Projeto Semestral da Disciplina.   0
+ 36 LApresentações do Projeto Semestral da Disciplina.   0
+ 37 LSemana de Provas - P4.   0
+ 38 LSemana de Provas - P4.   0
+ 39 LTrabalho Substitutivo.   91% a
+100%
+ 40 LSemana de Provas - PS2.   0
+ 41 LSemana de Provas - PS2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ECA304página 8 de 8
+----------------Page (7) Break----------------

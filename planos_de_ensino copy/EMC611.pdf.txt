@@ -1,0 +1,378 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Mecânica dos Fluidos IEMC611
+Course:
+Fluid Mechanics I
+Materia:
+Mecánica de los Fluidos I
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica3Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Antonio Luiz PacificoEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Antonio Luiz PacificoEngenheiro MecânicoDoutor
+Joseph Youssif Saab JuniorEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 80%
+Mediada por tecnologia: 20%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Noções e propriedades básicas de Mecânica dos Fluidos; análise dimensional,
+modelagem e semelhança; estática dos fluidos; equações da conservação da massa,
+quantidade de movimento e da energia para volumes de controle; escoamentos
+viscosos internos em condutos forçados.
+SYLLABUS
+Introduction to Fluid Mechanics; dimensional analysis and similarity; fluid
+statics; mass, momentum and energy equations: Control Volume analysis; viscous
+flow in ducts.
+2021-EMC611página 1 de 11
+----------------Page (0) Break----------------
+TEMARIO
+Introducción a la Mecánica de Fluidos; análisis dimensional y similitud;
+estática de los fluidos; ecuaciones de masa, momento y energía: análisis de
+volumen de control; flujo viscoso en conductos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Em se tratando de uma disciplina de Ciência de Engenharia, os conhecimentos
+prévios necessários para o acompanhamento devem estar contemplados nas
+disciplinas do curso básico (fundamental), que contemplam, particularmente, os
+seguintes tópicos:
+- Geometria e Visão Espacial;
+- Física;
+- Mecânica Geral;
+- Cálculo Diferencial e Integral.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Analisar e compreender os usuários das soluções de engenharia e seu
+contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadas em projetos da área de energia e fluidos;2. Dominar o ciclo
+completo de investigação dos aspectos analítico, numérico e experimental de um
+mesmo fenômeno, aprendendo a conciliar as diferenças encontradas no
+conhecimento interdisciplinar coordenado entre as disciplinas da área de
+energia e fluidos e demais disciplinas do curso de Engenharia Mecânica.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS
+1. Dar ao aluno uma base sólida em Mecânica dos Fluidos, o que terá
+continuidade com a disciplina Mecânica dos Fluidos II, de modo que ele possa
+desenvolver-se nas disciplinas tecnológicas e aplicadas da Engenharia, em
+particular da Engenharia Mecânica;
+2. Permitir que o aluno utilize os conhecimentos de matemática, física e
+desenho adquiridos no período fundamental, na solução de problemas aplicados à
+Mecânica dos Fluidos;
+3. Ser capaz de avaliar os impactos ambientais e sociais de seus futuros
+projetos;
+4. Ser capaz de projetar, executar e analisar resultados de experimentos.
+HABILIDADES
+1. Ter visão física, matemática e espacial na análise de problemas de
+Engenharia;
+2. Utilizar a base obtida no curso como pré-requisito na solução de problemas
+nas disciplinas subsequentes que utilizam conceitos de Mecânica dos Fluidos;
+3. Aplicar o conceito de volumes de controle no projeto e análise de sistemas
+fluido-mecânicos;
+4. Desenvolver cálculos a partir das equações gerais de conservação da massa,
+energia e quantidade de movimento;
+5. Adquirir habilidade para integração transversal da Mecânica dos Fluidos às
+áreas correlatas e afins em Engenharia.
+2021-EMC611página 2 de 11
+----------------Page (1) Break----------------
+ATITUDES
+1. Ser receptivo a obtenção de novos conhecimentos, atuando em classe de forma
+consciente com relação ao aprendizado;
+2. Alimentar um comportamento ético em classe e fora dela, mantendo uma relação
+de respeito e constante aprendizado junto aos professores e aos colegas;
+3. Ter consciência de necessidade de dedicação à Escola e que os estudos e o
+aprendizado são continuados e devem ser sempre atualizados;
+4. Incorporar o conceito de simulação numérica de sistemas e processos que
+envolvam os conhecimentos de Mecânica dos Fluidos;
+5. Ter visão sistêmica e interdisciplinar na solução de problemas técnicos;
+6. Ter percepção do conjunto e capacidade de síntese.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Ensino Híbrido
+- Sala de aula invertida
+- Project Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas ou mediadas por tecnologia, acompanhadas de aulas de
+exercícios, de laboratório e de desenvolvimento de projeto com a participação
+dos alunos.
+Como preparação às aulas será utilizado o conceito de aula invertida onde, com
+antecedência, o aluno tem como responsabilidade o estudo prévio do conteúdo a
+ser abordado na próxima aula expositiva. Para tanto o professor, mediante o uso
+do ambiente Open LMS, disponibilizará material a ser estudado bem como apontará
+páginas específicas do livro texto da disciplina a serem lidas pelos alunos.
+Como infraestrutura para o desenvolvimento do curso, além das ferramentas
+tradicionais de ensino, são utilizados equipamento multimídia para projeção de
+material didático, incluindo filmes, software etc, e a plataforma Open LMS para
+aplicação de ensino mediado por tecnologia. O curso de Mecânica dos Fluidos
+demanda intensa visualização dos fenômenos para melhor compreensão. Assim, dada
+a escassez de tempo, muitos fenômenos serão apresentados mediante a exposição
+de filmes acompanhados de discussões fenomenológicas em sala de aula.
+Atividades experimentais e computacionais complementares, que serão oferecidas
+em menor número, são desenvolvidas em laboratório didático dedicado ao curso.
+O ambiente Open LMS será utilizado para: disponibilizar materiais didáticos
+extras aos alunos; submissão de relatórios (trabalhos); comunicar os alunos
+sobre avisos importantes da disciplina, entre outros.
+Durante o curso será desenvolvido com os alunos um projeto transdisciplinar da
+área de Energia e Fluidos, envolvendo as disciplinas Mecânica dos Fluidos,
+Sistemas Térmicos, Transferência de Calor e Máquinas de Fluxo.
+2021-EMC611página 3 de 11
+----------------Page (2) Break----------------
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  k4: 1,0  
+ Peso de MP(kP): 7,0          Peso de MT(kT): 3,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina Mecânica dos Fluidos I, juntamente com a disciplina Mecânica dos
+Fluidos II, a ser ministrada aos alunos do quarto ano, são disciplinas de
+Ciência de Engenharia, que têm a função primordial de estabelecer uma ponte
+entre as disciplinas do Fundamental, onde se ensina o cálculo, a física, a
+mecânica, a geometria etc, e as disciplinas aplicadas da Engenharia, em
+particular da Engenharia Mecânica, que utilizam os conceitos de Mecânica dos
+Fluidos.
+O conhecimento e domínio dos conceitos básicos de Mecânica dos Fluidos é
+fundamental para o entendimentos de novas áreas do conhecimento tais como
+Biotecnologia, Ciências Espaciais, Fusão Nuclear, geração e busca de novas
+alternativas energéticas.
+BIBLIOGRAFIA
+Bibliografia Básica:
+FOX, Robert W; McDONALD, Alan T; PRITCHARD, Philip J. Introdução à mecânica dos
+fluidos. Trad. de Ricardo Nicolau Nassar Koury e Geraldo Campolinha França. 6.
+ed.  Rio de Janeiro: LTC, 2006. 798 p.  ISBN 8521614683.
+MUNSON, Bruce R; YOUNG, Donald F; OKIISHI, Theodore H. Fundamentos da mecânica
+dos fluidos. trad. da 4. ed. americana por Euryale de Jesus Zerbini.  São
+Paulo, SP: Edgard Blücher, 2008. 571 p.  ISBN 8521203438.
+WHITE, Frank M. Mecânica dos fluidos. 4. ed.  Rio de Janeiro, RJ: McGraw-Hill,
+2002. 570 p.  ISBN 85-86804-24-X.
+WHITE, Frank M. Mecânica dos fluidos. 8. ed.  São Paulo: AMGH, 2018. 848 p. 
+ISBN 9788580556063.
+Bibliografia Complementar:
+2021-EMC611página 4 de 11
+----------------Page (3) Break----------------
+COELHO, João Carlos Martins. ENERGIA E FLUIDOS - VOLUME 2: MECÂNICA DOS
+FLUIDOS. 1ª ed. Editora Edgard Blucher. S. Paulo, 2016, 394 p.
+Coleção de filmes didáticos do MIT/USA e Encyclopedia Britannica Educational
+Corporation.
+FOX, Robert W; McDONALD, Alan T. Introdução à mecânica dos fluidos. Tradução de
+Alexandre Matos de Souza Melo. 4. ed.  Rio de Janeiro, RJ: Guanabara Dois,
+1995. 662 p.  ISBN 85-216-1078-5.
+Liggett,J.A .& Caghey,D.A. Fluid Mechanics - Interactive Text. CD ROM -
+ASCE/Press, 1999.
+MUNSON, Bruce R; YOUNG, Donald F; OKIISHI, Theodore H. Fundamentos da mecânica
+dos fluidos. trad. da 4. ed. americana por Euryale de Jesus Zerbini.  São
+Paulo, SP: Edgard Blücher, 2008. 571 p. CD-ROM.  ISBN 8521203438.
+MUNSON, Bruce R; YOUNG, Donald F; OKIISHI, Theodore. Uma introdução concisa à
+mecânica dos fluidos. trad. da 2. ed. americana por Euryale de Jesus Zerbini. 
+São Paulo, SP: Edgard Blücher, 2005. 372 p.  ISBN 8521203608.
+MUNSON, Bruce R; YOUNG, Donald F; OKIISHI, Theodore. Uma introdução concisa à
+mecânica dos fluidos. trad. da 2. ed. americana por Euryale de Jesus Zerbini. 
+São Paulo, SP: Edgard Blücher, 2005. 372 p. CD-ROM.  ISBN 8521203608.
+SHAMES, Irving Herman. Mechanics of fluids. 3. ed.  New York: McGraw-Hill,
+1992. 858 p. (McGraw-Hill Series in Mechanical).
+SHAMES, Irving Herman. Mecânica dos fluidos. Tradução de Mauro O. C. Amorelli. 
+São Paulo, SP/Brasília, DF: Edgard Blücher, INL, 1973. v. 2.
+STREETER, Victor L. Mecânica dos fluidos. Trad. de Celso da Silva Muniz.  São
+Paulo, SP: McGraw-Hill, 1974. 736 p.
+ÇENGEL, Yunus A; CIMBALA, John M. Fluid mechanics: fundamentals and
+applications.  Boston: McGraw-Hill Higher Education, 2006. 956 p. (McGraw-Hill
+Series in Mechanical Engineering).  ISBN 0072472367.
+ÇENGEL, Yunus A; CIMBALA, John M. Fluid mechanics: fundamentals and
+applications.  Boston: McGraw-Hill Higher Education, 2006. DVD. (McGraw-Hill
+Series in Mechanical Engineering).  ISBN 0072472383.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Os softwares que são utilizados durante o curso são de código aberto, não
+necessitando de licenças para seu funcionamento.
+São eles:
+- R (www.r-project.org) e Octave (www.gnu.org/software/octave): utilizados para
+2021-EMC611página 5 de 11
+----------------Page (4) Break----------------
+introdução à modelagem de sistemas fluido mecânicos; exposição prática em aula
+de modelos e resultados; ferramentas para cálculos dos estudantes extra-aula na
+confecção de relatórios.
+- Bibliotecas adicionais de propriedades físicas dos fluidos podem ser
+implementadas para ambos os softwares acima citados utilizando a CoolProp
+(www.coolprop.org/).
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A disciplina é avaliada por meio de duas provas anuais (mais uma substitutiva)
+e dois trabalhos a cada semestre. Os pesos podem ser consultados no item de
+"Avaliação" deste plano.
+Especificamente, os trabalhos são compostos da seguinte forma.
+Primeiro Semestre:
+- T1: corresponde à média aritmética de todos os exercícios testes do primeiro
+semestre. Estes exercícios serão realizados em duplas (se aplicados
+presencialmente) ou individual (se aplicados utilizando a plataforma Open LMS)
+durante o tempo de algumas das aulas ao longo do semestre;
+- T2: corresponde à media aritmética simples de todos as atividades realizadas
+no primeiro semestre (relatórios de práticas laboratoriais e/ou
+computacionais).
+Quando necessário, os trabalhos do primeiro semestre são realizados utilizando
+o Open LMS para sua entrega.
+Segundo Semestre:
+- T3: corresponde à média aritmética de todos os exercícios testes do primeiro
+semestre. Estes exercícios serão realizados em duplas (se aplicados
+presencialmente) ou individual (se aplicados utilizando a plataforma Open LMS)
+durante o tempo de algumas das aulas ao longo do semestre;
+- T4: corresponde à media aritmética simples de todos as atividades realizadas
+no primeiro semestre (relatórios de práticas laboratoriais e/ou
+computacionais).
+Finalmente, com relação ao trabalhos T1 e T3, ao final de cada semestre serão
+oferecidos exercícios substitutivos (apenas um oferecimento por semestre).
+Alunos dependentes poderão solicitar a recuperação da notas dos quatro
+trabalhos (T1 a T4) do ano anterior. Porém fica vetado ao aluno dependente que
+já tenha solicitado essas notas em anos anteriores e continua na situação de
+dependência desta disciplina. Assim, tais notas podem ser reaproveitadas apenas
+uma vez. O professor deverá manter um controle de nomes e RA de todos os alunos
+dependentes que tenham solicitado esta recuperação de notas T1 a T4.
+Observação: Devido às condições impostas pela pandemia de Covid-19, as provas
+poderão ser realizadas de forma remota utilizando a plataforma Open LMS com
+correção automática ou submissão em formato digital das soluções pelos alunos.
+Sempre estas condições excepcionais serão previamente acordadas entre professor
+2021-EMC611página 6 de 11
+----------------Page (5) Break----------------
+e alunos.
+2021-EMC611página 7 de 11
+----------------Page (6) Break----------------
+OUTRAS INFORMAÇÕES
+Durante o curso poderão ser acrescentados outros trabalhos de caráter
+computacional, seja para substituição de alguma atividade prática laboratorial
+ou acréscimo de atividades para composição das notas de trabalhos, respeitando
+sempre a quantidade de notas de trabalhos já especificadas no item "Informações
+Sobre Provas e Trabalhos" especificadas neste plano.
+2021-EMC611página 8 de 11
+----------------Page (7) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Antonio Luiz Pacifico
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC611página 9 de 11
+----------------Page (8) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 L18/02/21 - Apresentação da Disciplina. Noções fundamentais da
+Mecânicados Fluidos: conceito de fluido; Hipótese do meio
+contínuo; noções detensão e pressão; massa, volume e peso
+específicos.
+   0
+  2 L25/02/21 - Noções fundamentais da Mecânica dos Fluidos: equação
+de estadopara gases ideais; compressibilidade dos Fluidos;
+pressão de vapor ecavitação; tensão superficial e capilaridade.
+Exercícios.
+   11% a 40%
+  3 L04/03/21 - Noções fundamentais da Mecânica dos Fluidos:
+viscosidade ereologia; e classificação dos movimentos dos
+Fluidos. Exercícios.
+   11% a 40%
+  4 L11/03/21 - Noções fundamentais da Mecânica dos Fluidos.
+Exercícios.
+   1% a 10%
+  5 L18/03/21 - Análise dimensional: dimensões; teorema de Buckingham
+paratermos Pi. Exercícios.
+   11% a 40%
+  6 L25/03/21 - Análise dimensional: principais grupos adimensionais
+emMecânica dos Fluidos. Exercícios.
+   11% a 40%
+  7 L08/04/21 - Análise dimensional: modelagem e semelhança.
+Exercícios.
+   1% a 10%
+  8 L15/04/21 - Não haverá aula: semana de avaliações.   0
+  9 L22/04/21 - Estática dos Fluidos: conceito de pressão e
+tensão;equação básica de estática dos fluidos.
+   11% a 40%
+ 10 L29/04/21 - Estática dos Fluidos: medição da pressão
+(estática,atmosférica); Lei de Stevin; manometria; medidores de
+pressãofundamentais. Exercícios.
+   11% a 40%
+ 11 L06/05/21 - Estática dos Fluidos. Exercícios.   1% a 10%
+ 12 L13/05/21 - Análise Integral I: Teorema do Transporte de
+Reynolds.Conservação da Massa. Exercícios.
+   11% a 40%
+ 13 L20/05/21 - Análise Integral I: conservação da massa; noções de
+movimentoe deformação de volumes de controle; conceito de vazão.
+Exercícios.
+   11% a 40%
+ 14 L27/05/20 - Análise Integral I: conservação da massa. Exercícios.   1% a 10%
+ 15 L10/06/20 - Análise Integral I: conceito de fluxo; conceito de
+velocidade média; massa e peso específicos médios numa seção.
+Exercícios.
+   1% a 10%
+ 16 L17/06/21 -  Não haverá aula: semana de provas (P1).   0
+ 17 L24/06/21 - Não haverá aula: semana de provas (P1).   0
+ 18 L05/08/21 - Não haverá aula: semana de avaliações   0
+ 19 L12/08/21 - Análise Integral II: conservação da energia para um
+sistema;trabalho e potência; formulação para volumes de controle
+da conservaçãoda energia.
+   11% a 40%
+ 20 L19/08/21 - Análise Integral II: conceito de "perda" de energia;
+balançode energia; fator de correção da energia Cinética.
+Exercícios.
+   11% a 40%
+2021-EMC611página 10 de 11
+----------------Page (9) Break----------------
+ 21 L26/08/21 - Análise Integral II: equação de Bernoulli. Exercícios.   1% a 10%
+ 22 L02/09/21 - Análise Integral II: equação da energia. Exercícios.   1% a 10%
+ 23 L09/09/21 - Análise Integral III: cons. da quantidade de movimento
+paravolumes de controle inerciais; fator de correção do fluxo de
+quantidade de movimento.
+   11% a 40%
+ 24 L16/09/21 - Análise Integral III: conservação da quantidade de
+movimento.Exercícios.
+   11% a 40%
+ 25 L23/09/21 - Não haverá aula: semana de avaliações.   0
+ 26 L30/09/21 - Análise Integral III: conservação da quantidade de
+movimento; cons. da quant. de mov. para VC's dotados de
+aceleração retilínea. Exercícios.
+   1% a 10%
+ 27 L07/10/21 - Análise Integral III: conservação da quantidade de
+movimento.Exercícios.
+   1% a 10%
+ 28 L14/10/21 - Esc. viscoso interno: conceito de vel. média; esc.
+laminar em dutos. Perda de carga em esc. laminar em dutos.
+   11% a 40%
+ 29 L21/10/21 - Escoamento viscoso interno: escoamento turbulento em
+dutos; exp. de Reynolds; região de entrada. Exercícios.
+   11% a 40%
+ 30 L28/10/21 - Escoamento viscoso interno: perda de carga
+distribuída. Exercícios.
+   1% a 10%
+ 31 L04/11/21 - Escoamento viscoso interno: perda de carga localizada.
+Exercícios.
+   1% a 10%
+ 32 L11/11/21 - Escoamento viscoso interno: problemas fundamentais de
+perda decarga em tubulações. Exercícios.
+   1% a 10%
+ 33 L18/11/21 - Não haverá aula: semana de provas (P2).   0
+ 34 L25/11/21 - Não haverá aula: semana de provas (P2).   0
+ 35 L02/12/21 - Plantão de dúvidas. Revisão P4. Exercícios de revisão
+como estudo para PS.
+   0
+ 36 L09/12/21 - Plantão de dúvidas. Exercícios de revisão como estudo
+para PS.
+   0
+ 37 L16/12/20 - Não haverá aula: semana de provas (PS).   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC611página 11 de 11
+----------------Page (10) Break----------------

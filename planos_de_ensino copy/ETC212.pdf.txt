@@ -1,0 +1,202 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Planejamento de TransportesETC212
+Course:
+Transportation Planning
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Civil6Noturno
+Engenharia Civil5Diurno
+Engenharia Civil5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Joyce Zampirolli ScrivanoBacharel em Engenharia de Produção
+Mecânica 
+Mestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Joyce Zampirolli ScrivanoBacharel em Engenharia de Produção
+Mecânica 
+Mestre
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Fatores que afetam o planejamento. Noções de economia dos transportes.
+Planejamento do transporte urbano e de carga. Conceito de viagem e pesquisa.
+Redes de simulação. Modelos de 4 etapas: Modelos de geração de viagem,
+distribuição de viagem, divisão e alocação modal. Ferramentas de planejamento
+de transportes. Fundamentos de pesquisa operacional. Programação linear,
+inteira e teoria de filas.
+SYLLABUS
+Factors affecting planning. Notions of transport economics. Urban and Regional
+Transport Planning. Concepts of trip and survey. Transport Network simulation.
+4 step models: Trip generation, trip distribution, modal choice and rout
+assignment. 
+Transportation planning tools. Operational research. Linear and integer
+programming, and queuing theory.
+2021-ETC212página 1 de 8
+----------------Page (0) Break----------------
+TEMARIO
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Física: conceitos básicos de mecânica. Cálculo. Geometria. Desenho.
+Estatística: conceitos de amostragem, projeções, curvas de regressão.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1- Como se desenvolvem os transportes: abordagem sistêmica.
+C2- Planejamento de transporte urbano e uso do solo.
+C3- Projeção de demanda, matriz O/D, escolha modal, alocação dos fluxos.
+C4- Noções de pesquisa operacional aplicada aos transportes.
+Habilidades:
+H1- Participar de estudos e planejamento de transportes com aplicação do método
+das quatro etapas.
+H2- Elaborar análise de viabilidade de projetos de transporte.
+H3- Participar de projetos de planejamento de transportes de carga com
+aplicação de ferramentas de pesquisa operacional.
+Atitudes:
+A1- Proporcionar uma visão sistêmica do papel dos transportes na sociedade
+moderna.
+A2- Despertar a atitude de análise crítica das soluções técnicas para o
+transporte face aos aspectos econômicos e ambientais.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Não
+METODOLOGIA DIDÁTICA
+Aulas expositivas, laboratório de modelagem, leitura de artigos técnicos,
+exercícios e trabalho. O material de apoio ao conteúdo programático da
+disciplina é disponibilizado via Moodle para os alunos.
+As aulas no período de quarentena acontecem por meio da plataforma moodlerooms:
+- Videos com as apresentação da matéria teórica são disponibilizados na
+plataforma;
+- Durante os horários de aula, os alunos assistem os videos de aula, tiram
+dúvidas e desenvolvolvem exercícios por meio de aulas on-line.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+2021-ETC212página 2 de 8
+----------------Page (1) Break----------------
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 7,0          Peso de MT(kT): 3,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+O planejamento dos transportes e sua extensão para os diversos modos permitirá
+ao aluno uma visão mais abrangente sobre a atividade de transporte e seu
+planejamento, permitindo avaliar comportamentos, opções, vantagens e
+desvantagens e sua influência no cotidiano do homem moderno. Fornecerá também
+uma noção técnica das tomadas de decisão e seus impactos nos custos, nível de
+serviço e segurança nos transportes, permitindo avaliar melhor o padrão das
+viagens e, especialmente, sua influência na economia e no meio ambiente.
+BIBLIOGRAFIA
+Bibliografia Básica:
+CHURCHMAN, C. West. Introdução à teoria dos sistemas. Trad. de Francisco M.
+Guimarães. 2. ed.  Petrópolis, RJ: Vozes, 1972. 309 p.
+WINSTON, Wayne L. Operations research: applications and algorithms. 4. ed. 
+Belmont, CA: Duxbury: Thompson Learning, 2004. CD-ROM.
+Bibliografia Complementar:
+ARENALES, Marcos et al. Pesquisa operacional. 2. ed.  Rio de Janeiro:
+Campus/Elsevier, c2015. 723 p.
+LATERZA, Amanda Gonçalves et al. Diagnóstico da malha rodoviária brasileira:
+mapeamento da infraestrutura e criação de modelos de simulação de custos do
+transporte rodoviário. GUAZZELLI, Cauê Sauter.  São Caetano do Sul: CEUN-EEM,
+2016. 126 p.
+NOVAES, Antonio Galvão. Logística e gerenciamento da cadeia de distribuição:
+estratégia, operação e avaliação. Rio de Janeiro: Campus, 2001. 409 p.
+SILVA, André Luis Mantelatto Lisboa da et al. Modelo de integração multimodal
+para transporte de cargas. GUAZZELLI, Cauê Sauter.  São Caetano do Sul:
+CEUN-EEM, 2018. 106 p.
+2021-ETC212página 3 de 8
+----------------Page (2) Break----------------
+TAHA, Hamdy A. Pesquisa operacional. MARQUES, Arlete Simille (Trad.). 8. ed. 
+São Paulo: Pearson Prentice Hall, 2008. 359 p.  ISBN 9788576051503.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Microsoft excel
+Ferramenta aberta de otimização 'Opensolver' (https://opensolver.org/)
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Trabalhos e atividades:
+Os trabalhos serão desenvolvidos em aula e em grupos a definir (tamanho e
+composição) sobre o conteúdo apresentado ao longo do ano;
+Todos os trabalhos apresentados na disciplina deverão ser inéditos em relação
+ao conteúdo e redação, sendo que o reaproveitamento, mesmo parcial, de
+trabalhos antigos levará à invalidação do mesmo.
+Para os alunos dependentes, a disciplina NÃO irá considerar as notas do Projeto
+de Pesquisa Operacional entregue no ano letivo anterior.
+Provas:
+As provas contemplarão o conteúdo desenvolvido ao longo do semestre, visto que
+a disciplina é integrada e os conteúdos são complementares.
+2021-ETC212página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-ETC212página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Joyce Zampirolli Scrivano
+ Responsável pela Disciplina
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ETC212página 6 de 8
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo
+  1 ESemana de recepção de calouros
+  2 EIntrodução do curso, programa, motivação, possibilidades de carreira e
+características do mercado;
+  3 EContextualização do planejamento e operação de transportes no processo de
+planejamento de sistemas empresariais; Estudo de configuração de rede logística
+  4 EIntrodução à modelagem matemática
+  5 EIntrodução à programação linear e ao método gráfico
+  6 EProgramação linear - exercícios
+  7 EProgramação linear - técnicas de modelagem e exercícios
+  8 EProgramação linear - técnicas de modelagem e exercícios
+  9 EAtividade em grupo
+ 10 ESemana de Provas - P1
+ 11 EProgramação linear inteira - conceituação
+ 12 EProgramação linear inteira - técnicas de modelagem e exercícios
+ 13 EProgramação linear inteira - Solução com algoritmo
+ 14 EProgramação linear inteira - Solução com algoritmo
+ 15 ESemana Smile
+ 16 EAula Solver excel
+ 17 EAula Solver excel
+ 18 ESuporte ao estudo dos alunos
+ 19 ESemana de Provas - P2
+ 20 ESemana de Provas - P1
+ 21 EAtividades de planejamento
+ 22 ESemana de Provas - PSub1
+ 23 EProblema de transportes e variações
+ 24 EProblema de transportes e variações
+ 25 EProblema de transportes e variações - exercícios
+ 26 EProblema de transportes e variações - exercícios
+ 27 EModelagem computacional do PVC
+ 28 EAtividade em grupo
+ 29 ESemana de Prova P3
+ 30 EO Problema do Transbordo
+ 31 EProblema do caminho mínimo e árvore mínima
+ 32 EProblema do caminho mínimo e árvore mínima - exercício
+ 33 EProblema do fluxo máximo
+ 34 EProblema do fluxo máximo - exercícios
+ 35 EExercícios extras
+ 36 ESuporte ao estudo dos alunos
+ 37 ESemana de Prova - P4
+ 38 ESemana de Prova - P4
+ 39 EAtendimento ao aluno
+ 40 EAtendimento ao aluno
+ 41 ESemana de Prova PSUB2
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ETC212página 7 de 8
+----------------Page (6) Break----------------
+2021-ETC212página 8 de 8
+----------------Page (7) Break----------------

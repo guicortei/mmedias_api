@@ -302,7 +302,7 @@ export const getPlanoEnsino = async (
   try {
     const filePath = path.resolve('planos_de_ensino', `${codigo}.pdf`);
 
-    const fileSecsOld = await howOld(filePath);
+    let fileSecsOld = await howOld(filePath);
     console.log(`## fileSecsOld: ${fileSecsOld}`);
 
     let need_new_file = false;
@@ -320,26 +320,36 @@ export const getPlanoEnsino = async (
       console.log('searchRedirectPath:', searchRedirectPath);
 
       const searchHTML = await getHtmlWithCookie(searchRedirectPath, cookie);
+      console.log('### passei por aqui');
 
-      const plano_ensino_ID = fastMatch(
-        searchHTML,
-        '/arquivos/plano-ensino/id/',
-        '"',
-      );
+      try {
+        const plano_ensino_ID = fastMatch(
+          searchHTML,
+          '/arquivos/plano-ensino/id/',
+          '"',
+        );
 
-      const pdfURL = `https://www2.maua.br/arquivos/plano-ensino/id/${plano_ensino_ID}`;
-      console.log('pdfURL:', pdfURL);
+        const pdfURL = `https://www2.maua.br/arquivos/plano-ensino/id/${plano_ensino_ID}`;
+        console.log('pdfURL:', pdfURL);
 
-      const fileDownloaded = await getPdfFile(pdfURL, filePath);
-      console.log('## pdf download ok');
-      console.log(fileDownloaded.path);
+        const fileDownloaded = await getPdfFile(pdfURL, filePath);
+        console.log('## pdf download ok');
+        console.log(fileDownloaded.path);
 
-      const text = await pdf2text(filePath);
-      console.log('## converted to text');
-      fs.writeFileSync(`${filePath}.txt`, text);
+        const text = await pdf2text(filePath);
+        console.log('## converted to text');
+        fs.writeFileSync(`${filePath}.txt`, text);
+      } catch (e) {
+        console.log('########## PROBLEMA AO BAIXAR PDF   #######');
+        console.log('########## VOU TENTAR O TXT ANTIGO  #######');
+      }
     } else {
       console.log('## ESTÁ NOVO, não precisa baixar');
     }
+
+    // se chegou até aqui, é porque o arquivo está na validade ou foi atualizado
+    // então vamos atualizar esta variável
+    fileSecsOld = await howOld(filePath);
 
     const text = fs.readFileSync(`${filePath}.txt`).toString();
     // console.log(text);
@@ -391,6 +401,7 @@ export const getPlanoEnsino = async (
       pesosTrabalhoTrim,
       peso_de_MP,
       peso_de_MT,
+      fileSecsOld,
       // pdfURL,
     };
 

@@ -1,0 +1,226 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Sistemas de Conversão de Energia IIEMC618
+Course:
+Energy Conversion Systems II
+Materia:
+Sistemas de Conversión de Energía II
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 02 - 00 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Roberto de Aguiar PeixotoEngenheiro NavalDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Roberto de Aguiar PeixotoEngenheiro NavalDoutor
+MODALIDADE DE ENSINO
+Presencial: 50%
+Mediada por tecnologia: 50%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Fontes de energia renováveis e não renováveis. Impactos ambientais da produção
+e uso de energia. Ciclos termodinâmicos: ciclos motores (Brayton, Otto, Diesel,
+Stirling) e ciclos de refrigeração (compressão de vapor, absorção). Turbinas a
+gás, aplicações, ciclos combinados para geração de potência. Combustíveis e
+combustão. Geradores de vapor. Bio-energia e bio-eletricidade. Psicrometria.
+Refrigeração, ar condicionado. Sistemas de termoacumulação. Impacto ambiental
+de sistemas de refrigeração e ar condicionado (camada de ozônio, mudanças
+climáticas). Cogeração de energia com chillers a absorção. Projeto básico de
+instalação de sala limpa.
+2021-EMC618página 1 de 8
+----------------Page (0) Break----------------
+SYLLABUS
+Renewable and non-renewable energy sources. Environmental impacts of energy
+production and use. Thermodynamic cycles: power cycles (Brayton, Otto, Diesel,
+Stirling) and refrigeration cycles (vapor compression, absorption). Gas
+turbines, applications, combined cycles for power generation. Fuels and
+combustion. Steam generators. Bioenergy and bioelectricity. Psychrometry.
+Refrigeration, air conditioning. Thermal accumulation systems. Environmental
+impact of refrigeration and air conditioning systems (ozone layer, climate
+change). Energy cogeneration with absorption chillers. Basic clean room
+installation project
+TEMARIO
+Fuentes de energía renovables y no renovables. Impactos ambientales de la
+producción y uso de energía. Ciclos termodinámicos: ciclos de potencia
+(Brayton, Otto, Diesel, Stirling) y ciclos de refrigeración (compresión de
+vapor, absorción). Turbinas a gas, aplicaciones, ciclos combinados para
+generación de potencia. Combustibles y combustión. Generadores de vapor.
+Bioenergía y bioelectricidad. Psicrometría. Refrigeración, aire acondicionado.
+Sistemas de acumulación térmica. Impacto ambiental de los sistemas de
+refrigeración y aire acondicionado (capa de ozono, cambio climático).
+Cogeneración energética con enfriadores de absorción. Proyecto básico de
+instalación de sala limpia.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Fundamentos de Termodinâmica Clássica
+Mecânica dos Fluidos
+Transferência de Calor
+Cálculo Diferencial e Integral
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Analisar e compreender os fenômenos físicos e químicos por meio de modelos
+matemáticos, computacionais ou físicos, validados por experimentação. 2.
+Comunicar-se eficientemente nas formas escrita, oral e gráfica.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+Análise de sistemas convencionais e não-convencionais de conversão de energia.
+Características básicas de equipamentos que constituem os sistemas de conversão
+de energia.
+Impacto ambiental de sistemas de conversão de energia e fontes de energia
+renováveis.
+Habilidades:
+Aplicar os princípios e das equações básicas da termodinâmica, mecânica dos
+fluidos e da transferência de calor na análise de sistemas de conversão de
+energia.
+Analisar os aspectos ambientais e energéticos de um sistema de conversão de
+energia.
+2021-EMC618página 2 de 8
+----------------Page (1) Break----------------
+Desenvolver modelos matemáticos que representem o desempenho de sistemas de
+conversão de energia constituídos por diversos componentes
+Atitudes:
+Desenvolver o conceito de conversão de energia e de eficiência energética de
+sistemas de conversão de energia
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+As aulas de teoria serão apresentadas utilizando recursos de exposições orais
+com apoio de slides (Powerpoint, proposição de textos e vídeos para consulta
+prévia à aula, na qual serão discutidos em aula. A assimilação de conteúdo
+poderá algumas vezes ser avaliada por meio de questionários a serem respondidos
+em tempo real com o auxílio de ferramentas didáticas (Kahoot ou Socrative).
+Nas aulas, alunos deverão resolver, e em algumas aulas entregar para avaliação,
+exercícios propostos. Para a resolução de exercícios os alunos deverão utilizar
+o aplicativo EES. Exercícios serão também resolvidos nas aulas de teoria.
+Será realizada a visita a uma instalação de ar condicionado central ("água
+gelada")e poderão ser programadas visitas adicionais  para exemplificação de
+sistemas de conversão de energia.
+Durante o curso será desenvolvido pelos alunos o projeto transdisciplinar da
+área de Energia e Fluidos, envolvendo as disciplinas de Termodinâmica,
+Transferência de Calor, Mecânica dos Fluidos e Máquinas de Fluxo.
+Durante o curso poderão ser realizados experimentos no laboratório de
+Termodinâmica.
+Vídeos e textos para complementação do conhecimento serão disponibilizados
+sempre que possível no ambiente MoodleRooms.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+2021-EMC618página 3 de 8
+----------------Page (2) Break----------------
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina faz parte da formação básica do engenheiro mecânico e busca
+apresentar os conceitos básicos e as informações necessárias para a análise de
+sistemas de conversão de energia térmica, assim como o estudo das
+características de alguns componentes básicos destes sistemas. O entendimento e
+a utilização adequada dos sistemas de conversão de energia, visando a
+eliminação ou minimização dos seus impactos ambientais, é uma necessidade cada
+vez mais presente no mundo atual e particularmente da engenharia mecânica.
+BIBLIOGRAFIA
+Bibliografia Básica:
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Engineering Equation Solver - EES
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Obs: a prova P2, face aos procedimentos de aulas atualmente adotados, terá sua
+nota composta por atividades(questões teóricas e cálculos numéricos), mediadas
+por tecnologia.
+2021-EMC618página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC618página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Roberto de Aguiar Peixoto
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC618página 6 de 8
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TPrograma de Recepção e Integração dos Calouros (PRINT)   0
+  2 TFeriado   41% a 60%
+  3 TApresentação da disciplinaEnergia e Meio Ambiente   0
+  4 TFontes de energia renováveis e não renováveis. Impactos
+ambientais da produção e uso de energia
+   11% a 40%
+  5 TCiclos termodinâmicos: ciclos motores (Brayton, Otto, Diesel,
+Stirling)
+   11% a 40%
+  6 TCiclos termodinâmicos: ciclos motores (Brayton, Otto, Diesel,
+Stirling)Ciclos combinados para geração de potência
+   61% a 90%
+  7 TCiclos termodinâmicos: ciclos de refrigeração (compressão de
+vapor, absorção)
+   11% a 40%
+  8 TCiclos termodinâmicos: ciclos de refrigeração (compressão de
+vapor, absorção)
+   61% a 90%
+  9 TCombustíveis e combustãoBio-energia e bio-eletricidade.   0
+ 10 TSemana de provas P1   11% a 40%
+ 11 TCombustíveis e combustão. Geradores de vapor   0
+ 12 TCombustíveis e combustão - Exercícios   11% a 40%
+ 13 TPsicrometria   11% a 40%
+ 14 TPsicrometria   61% a 90%
+ 15 TSemana de Inovação Mauá - SMILE   0
+ 16 TRefrigeração, ar condicionado. Impacto ambiental de sistemas de
+refrigeração e ar condicionado (camada de ozônio, mudanças
+climáticas). Cogeração de energia com chillers a absorção
+   11% a 40%
+ 17 TRefrigeração, ar condicionado. Impacto ambiental de sistemas de
+refrigeração e ar condicionado (camada de ozônio, mudanças
+climáticas). Cogeração de energia com chillers a absorção
+   61% a 90%
+ 18 TT1   0
+ 19 TSemana de provas P2   0
+ 20 TSemana de provas P2   0
+ 21 TPlanejamento e capacitação de docentesSem atividades para
+discentes
+   0
+ 22 TSemana de provas PS1   0
+ 23 TIntrodução ao projeto multidisciplinar: Salas Limpas   0
+ 24 TProjeto multidisciplinar: Salas Limpas   61% a 90%
+ 25 TProjeto multidisciplinar: Salas Limpas   61% a 90%
+ 26 TProjeto multidisciplinar: Salas Limpas   61% a 90%
+ 27 TFeriado   61% a 90%
+ 28 TProjeto multidisciplinar: Salas Limpas   0
+ 29 TSemana de provas P3   61% a 90%
+ 30 TProjeto multidisciplinar: Salas Limpas   0
+ 31 TProjeto multidisciplinar: Salas Limpas   61% a 90%
+ 32 TProjeto multidisciplinar: Salas Limpas   61% a 90%
+ 33 TProjeto multidisciplinar: Salas Limpas   0
+ 34 TProjeto multidisciplinar: Salas Limpas   61% a 90%
+2021-EMC618página 7 de 8
+----------------Page (6) Break----------------
+ 35 TFeriado   61% a 90%
+ 36 TProjeto multidisciplinar: Salas Limpas   0
+ 37 TFeriado   0
+ 38 TSemana de provas P4   0
+ 39 TSemana de provas P4   0
+ 40 TRevisão da prova   0
+ 41 TSemana de provas PS2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC618página 8 de 8
+----------------Page (7) Break----------------

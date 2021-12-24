@@ -1,0 +1,285 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Elétrica e AutomaçãoEMC405
+Course:
+Electricity and Automation
+Materia:
+Electricidad y automatización
+Periodicidade: SemestralCarga horária total: 80Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica4Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Valdir Melero JuniorEngenheiro EletricistaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Valdir Melero JuniorEngenheiro EletricistaMestre
+MODALIDADE DE ENSINO
+Presencial: 30%
+Mediada por tecnologia: 70%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Circuitos elétricos em corrente alternada. Potência elétrica em corrente
+alternada e fator de potência. Circuitos trifásicos e correção do FP trifásico.
+Diagrama unifilar. Transistor operando como chave. Tiristores. Amplificador
+operacional. Motores: tipos, curvas características, critérios de seleção,
+controle de velocidade.
+SYLLABUS
+Electrical circuits in alternating current. AC electrical power and power
+factor. Three-phase circuits and FP correction three-phase. Single-line
+diagram. Transistor operating as a switch. Thyristors. Operational amplifier.
+Motors: types, characteristic curves, selection criteria, speed control.
+2021-EMC405página 1 de 9
+----------------Page (0) Break----------------
+TEMARIO
+Circuitos eléctricos en corriente alterna. Potencia eléctrica en corriente
+alterna y factor de potencia. Circuitos trifásicos y corrección del FP
+trifásico. Diagrama unifilar. Transistores operando como llave. Tiristores.
+Amplificador operacional. Motores: tipos, curvas características, criterios de
+selección, control de velocidad.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+É desejavel:
+- Cálculo;
+- Eletricidade básica;
+- Circuitos em corrente contínua;
+- Sensores comumente empregados na automação;
+- Instrumentos de laboratório de eletrônica;
+- Circuitos retificadores;
+- Eletromagnetismo básico.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Analisar e compreender os fenômenos físicos por meio de modelos matemáticos,
+computacionais ou físicos, validados por experimentação. Trabalhar e liderar
+equipes multidisciplinares
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS:
+C1 - Conceitos de tensão elétrica e corrente elétrica (CA) e potência elétrica
+(CA);
+C2 - Conceitos de indutor, capacitor e impedâncias CA;
+C3 - Representação fasorial;
+C4 - Circuitos trifásicos e potência trifásica;
+C5 - Metodologias de análise;
+C6 - Instalações elétricas industriais;
+C7 - Resolução de problemas de mecânica utilizando recursos eletrônicos;
+C8 - Acionamento de cargas;
+C9 - Conceitos de circuitos da automação.
+HABILIDADES:
+H1 - Distinguir as grandezas elétricas, para a interpretação de problemas
+elétricos;
+H2 - Analisar circuitos elétricos;
+H3 - Desenvolver raciocínio lógico para compreender e atuar em projetos
+elétricos;
+H4 - Interpretar problemas envolvendo instalações elétricas monofásicas e
+trifásicas;
+H5 - Participar de projetos de controles eletrônicos simplificados.
+H6 - Expressar de forma adequada a comunicação oral e escrita;
+H7 - Trabalhar em equipe.
+ATITUDES:
+2021-EMC405página 2 de 9
+----------------Page (1) Break----------------
+A1 - Desenvolver atividades acadêmicas vislumbrando aplicações profissionais
+com iniciativa e autonomia;
+A2 - Valorizar as discussões de problemas de eletricidade que envolvam
+circuitos em corrente contínua e em corrente alternada;
+A3 - Apresentar soluções criativas de problemas elétricos, comparando as
+diferentes soluções para um problema;
+A4 - Valorizar discussões de problemas de eletricidade juntamente aos
+profissionais das áreas de elétrica e eletrônica;;
+A5 - Participação ativa nas aulas.
+A6 - Desenvolver alto espírito crítico na análise de soluções propostas.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+METODOLOGIA DIDÁTICA
+Aulas voltadas para o trabalho participativo do aluno em sala de aula ou em
+mediação por tecnologia, utilizando recursos computacionais e projeção com
+data-show para aulas presenciais.
+Visita técnica a instalações de média e baixa tensão.
+Aulas em laboratórios da Eng. Eletrônica, com elaboração de projetos, onde os
+alunos devem estudar previamente o que será realizado de modo a relacionar com
+a teoria.
+Em ambos os casos, de aulas teóricas e práticas, vislumbra-se a discussão dos
+conceitos de modo que se provoque aos alunos a busca por soluções aos problemas
+abordados e se valorize a consulta aos recursos disponibilizados na disciplina,
+ao acervo na biblioteca da escola e participação ativa no estudo em um sistema
+de eletrônica e eletromecânica embarcada, como por exemplo, o robô ROVER.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos e provas (uma e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+2021-EMC405página 3 de 9
+----------------Page (2) Break----------------
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Desenvolver junto ao aluno conteúdo para obter conhecimentos das áreas das
+Engenharias Eletrônica e Elétrica, visando auxiliá-lo na resolução de problemas
+da Engenharia Mecânica.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BOYLESTAD, Robert L. Introdução à análise de circuitos. [Introductory circuit
+analysis]. Trad. José Lucimar do Nascimento, rev. téc. de Antonio Pertence Jr.
+10. ed.  São Paulo, SP: Pearson Prentice Hall, 2004. 828 p.  ISBN
+9788587918185.
+GUSSOW, Milton. Eletricidade básica. [COSTA, Aracy Mendes daLASCHUK, Anatólio].
+2. ed.  São Paulo, SP: Pearson Makron Books, 2008. 639 p.  ISBN 9788534606127.
+NILSSON, James W; RIEDEL, Susan A. Circuitos elétricos. Trad. de Arlete Simille
+Marques e rev. téc de Antônio Emílio Angueth de Araújo. 8. ed.  São Paulo, SP:
+Pearson Prentice Hall, 2009. 574 p.  ISBN 9788576051596.
+PAGLIARICCI, Mário. Eletrotécnica geral.  São Paulo, SP: Nacional, 1977. 236 p.
+Bibliografia Complementar:
+BOYLESTAD, Robert; NASHELSKY, Louis. Dispositivos eletrônicos e teoria de
+circuitos. 3. ed.  Rio de Janeiro, RJ: Prentice-Hall do Brasil, 1982. 700 p.
+HELFRICK, Albert D; COOPER, William D. Instrumentação eletrônica moderna e
+técnicas de medição.  Rio de Janeiro, RJ: Prentice Hall, 1994. 324 p.  ISBN
+85-7054-050-7.
+MALVINO, Albert Paul. Eletrônica. 4. ed.  São Paulo, SP: Makron Books, 1997. v.
+1. 747 p.  ISBN 85-346-0378-2.
+MALVINO, Albert Paul. Eletrônica. 4. ed.  São Paulo, SP: Makron Books, 1997. v.
+2.  ISBN 85-346-0455-X.
+NERY, Norberto. Instalações elétricas. 2. ed.  São Paulo, SP: Eltec, 2003. 396
+p.
+NISKIER, Julio; MACINTYRE, Archibald Joseph. Instalações elétricas. 3. ed.  Rio
+de Janeiro, RJ: LTC, 1996. 532 p.  ISBN 85-216-1088-2.
+2021-EMC405página 4 de 9
+----------------Page (3) Break----------------
+REGAZZI, Rógério Dias; PEREIRA, Paulo Sérgio. Soluções práticas de
+instrumentação e automação: utilizando a programação gráfica LabVIEW.  Rio de
+Janeiro: [s.n.], 2005. 456 p.  ISBN 8590546414.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Pacote da Microsoft Office: word, excel e power point.
+Pacote NI com Multisim e Ultiboard.
+Navegador Google Chrome.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Critérios de avaliação dos trabalhos: T1 (ou k1) corresponde à média entre as
+notas dos trabalhos obtidas no semestre letivo. Será constituída pelas notas
+dos experimentos realizados, exercícios e projetos propostos nas aulas de
+laboratório e, eventualmente, nas aulas de teoria.
+As notas obtidas em cada experimento prático serão atribuídas pela avaliação do
+relatório desenvolvido pelas equipes em cada aula de laboratório e pelos
+trabalhos práticos das mesmas. Embora a nota seja definida por equipe, é
+imprescindível a participação de todos os alunos no experimento e na produção
+do relatório, ficando a critério do professor a imposição de notas diferentes,
+caso a participação efetiva de todos os integrantes não seja satisfatória.
+Para exercícios e projetos, a quantidade de alunos por equipe será definida
+pelo professor na oportunidade.
+A ausência do aluno em experimento, aulas de exercícios/projetos ou prova
+prática, implicará como nota zero na respectiva atividade.
+Não está previsto o aproveitamento de notas de trabalhos de anos anteriores.
+2021-EMC405página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+As aulas de teoria e laboratório serão ministradas pelo Prof. Valdir Melero
+Junior.
+Para as aulas de teoria será utilizada sala de aula com data-show ou estratégia
+de ensino e aprendizagem mediados por tecnologia. Para as aulas de laboratório
+utilizarão recursos existentes no departamento de Eng. Eletrônica, tais como
+fontes de tensão contínua, osciloscópios, geradores de funções, multímetros,
+placas de montagens, protoboards, componentes eletrônicos, cabos, dentre
+outros. Poderá ser utilizado o laboratório de motores da Eng. Elétrica para
+demonstrações e ensaios.
+O material de apoio para a disciplina será disponibilizado no Open LMS, tais
+como notas de aula, listas de exercícios, roteiros para experimentos, dentre
+outros;
+No início de cada experiência o professor fornecerá um roteiro a cada equipe
+(também disponibilizado no Open LMS), cujo conteúdo deverá ser desenvolvido ao
+longo da aula e entregue ao final, para ser contabilizado como relatório. Este
+relatório é elaborado pela equipe e, na eventualidade de ausência de algum
+membro, a respectiva nota individual será lançada como ZERO. É importante que
+cada componente da equipe venha munido de um formulário para anotações
+pessoais.
+Não serão aceitos TRABALHOS entregues fora das datas estipuladas. Não serão
+permitidas permutas entre turmas, salvo por intermédio da secretaria da escola,
+sob meios legais do regimento interno. Não será permitida entrada no
+laboratório com atraso.
+2021-EMC405página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Valdir Melero Junior
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC405página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+ 22 TProvas PS1 das disciplinas AN e S1.   0
+ 22 LProvas PS1 das disciplinas AN e S1.   0
+ 23 TCircuitos em Corrente Alternada (CA).   0
+ 23 LSimulação de circuitos eletrônicos.   41% a 60%
+ 24 TLei de Ohm em CA.   0
+ 24 LCircuitos CA - Análise Fasorial.   61% a 90%
+ 25 TPotência em CA.   0
+ 25 LExercícios práticos.   61% a 90%
+ 26 TCorreção do Fator de Potência.   1% a 10%
+ 26 LCorreção do FP monofásico.   61% a 90%
+ 27 TExercícios.   11% a 40%
+ 27 LExercícios práticos.   61% a 90%
+ 28 TCircuitos trifásicos.   1% a 10%
+ 28 LVisita à instalação elétrica: BT, MT, sala de máquinas de ar
+condicionado central, outros.
+   91% a
+100%
+ 29 TProvas P3 das disciplinas AN e P1 das disciplinas do S2.   0
+ 29 LProvas P3 das disciplinas AN e P1 das disciplinas do S2.   0
+ 30 TCorreção do fator de potência para circuitos trifásicos.   1% a 10%
+ 30 LCircuitos trifásicos: medidas e análises.   61% a 90%
+ 31 TDiagrama unifilar.   1% a 10%
+ 31 LProjeto.   61% a 90%
+ 32 TTransistores. Aplicações do TBJ como chave. Acionamento de
+cargas.
+   0
+ 32 LSimulação de circuitos trifásicos.   61% a 90%
+ 33 TTiristores e aplicações.   0
+ 33 LLevantamento do diagrama unifilar de um ambiente físico (sala de
+aula).
+   61% a 90%
+ 34 TComparador analógico de tensão.   0
+ 34 LExperimento acionamento de cargas.   61% a 90%
+ 35 TAmplificadores Operacionais. Aplicações.   0
+ 35 LAplicação com comparador de tensão analógico.   61% a 90%
+ 36 TMotores.   0
+ 36 LDemonstração no laboratório de motores.   61% a 90%
+ 37 TFeriado - Dia da consciência negra.   0
+ 37 LProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 38 LProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 38 TProvas P4 disciplinas AN e P2 das disciplinas S2; Provas das
+disciplinas com 1 avaliação no 2 sem.
+   0
+ 39 LAtendimento aos alunos.   0
+ 39 TAtendimento aos alunos.   0
+ 40 TAtendimento aos alunos.   0
+ 40 LAtendimento aos alunos.   0
+2021-EMC405página 8 de 9
+----------------Page (7) Break----------------
+ 41 TProvas PS das disciplinas (AN) e semestrais do S2.   0
+ 41 LProvas PS das disciplinas (AN) e semestrais do S2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC405página 9 de 9
+----------------Page (8) Break----------------

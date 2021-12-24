@@ -1,0 +1,344 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Sistemas de Controle IECA414
+Course:
+Control Systems I
+Materia:
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação5Noturno
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Engenharia Eletrônica5Noturno
+Engenharia Eletrônica4Diurno
+Engenharia Elétrica4Diurno
+Engenharia Elétrica5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Anderson Harayashiki MoreiraEngenheiro em Controle e AutomaçãoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Anderson Harayashiki MoreiraEngenheiro em Controle e AutomaçãoDoutor
+Hugo da Silva Bernardes GonçalvesEngenheiro da ComputaçãoMestre
+Rodrigo Alvite RomanoEngenheiro EletricistaDoutor
+Vanderlei Cunha ParroEngenheiro EletricistaDoutor
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Análise do erro estacionário em regime permanente. Projeto de controladores
+tipo PID, avanço-atraso. Método do lugar das raízes. Diagrama de Bode e
+Nyquist. Teorema da amostragem. Transformada z. Sistemas em tempo discreto.
+Análise de estabilidade e da resposta temporal de sistemas discretos.
+Transformação de filtros analógicos em digitais. Projeto de controladores no
+domínio de tempo discreto. Laboratório: utilização do Matlab e Simulink,
+simulação e controle de sistemas lineares e não-lineares, aquisição de dados,
+identificação de parâmetros de sistemas, implementação prática de sistemas de
+controle.
+2021-ECA414página 1 de 10
+----------------Page (0) Break----------------
+SYLLABUS
+Analysis of the stationary error in permanent regime.   Project of PID and
+similar controllers using root locus.  Project using Nyquist and Bode method. 
+Z-Transform and sampling theorem.   Analysis of stability of discrete time
+systems.  Project of controllers in discrete time domain.  Laboratory:
+utilization of the Matlab and Simulink, simulation and control of nonlinear and
+linear systems, systems parameters estimation, practical implementation of 
+control systems.
+TEMARIO
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Noções de programação;
+- Princípios básicos de eletrônica analógica e digital;
+- Modelagem e análise de sistemas dinâmicos;
+- Modelagem de sistemas físicos dinâmicos, conceitos básicos de controle, tais
+como representação por funções de transferência e espaço de estados, análise
+de resposta e análise de estabilidade de sistemas dinâmicos.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+I. Formular e conceber soluções desejáveis de Engenharia, analisando e
+compreendendo a necessidade dos usuários e seu contexto;VIII. Aprender de forma
+autônoma e lidar com situações e contextos complexos, atualizando-se em relação
+aos avanços da ciência, da tecnologia, bem como em relação aos desafios da
+inovação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+1 - Análise do erro estacionário em regime permanente para sistemas lineares
+estáveis;
+2 - Análise e projeto de controladores PID e de avanço/atraso;
+3 - Análise e projeto de controladores pelo método do lugar das raízes, e de
+compensadores através da resposta na frequência de sistemas lineares;
+4 - Programação e solução de problemas de controle utilizando o programa
+Matlab;
+5 - Utilização do Simulink como ferramenta de simulação e controle;
+6 - Amostragem, transformada Z, e representação de sistemas discretos;
+7 - Projeto de controladores e filtros digitais;
+8 - Implementação de sistemas de controle digitais utilizando aquisição de
+dados;
+9 - Análise experimental de plantas de controle de processos;
+Habilidades:
+1 - Analisar o comportamento transitório e de regime permanente de sistemas
+dinâmicos.
+2 - Projetar controladores analógicos e digitais para o controle de sistemas
+industriais.
+2021-ECA414página 2 de 10
+----------------Page (1) Break----------------
+3 - Utilizar o programa Matlab para resolver e simular problemas de controle
+de sistemas industriais.
+Atitudes:
+1- Desenvolver uma visão mais generalizada para o tratamento de problemas de
+controle.
+2 - Adquirir conhecimentos visando a implementação prática de sistemas de
+controle.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas com referência aos materiais de apoio e aulas práticas (em
+laboratórios) utilizando programas como o Matlab, LabVIEW e bancadas
+experimentais com sistemas de controle de processos a serem controlados;
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  k4: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina de Sistemas de Controle apresenta um estudo detalhado de
+ferramentas de análise e técnicas de projeto e síntese de sistemas de controle
+analógicos e digitais. As informações capacitam o aluno a aplicar a melhor
+estratégia de controle e obter o desempenho conforme especificado.
+As experiências de laboratório permitem obter noções práticas para agir de
+forma eficiente na solução de problemas de controle em engenharia. Além disso,
+a disciplina tem como objetivo fornecer uma visão sistêmica das atuais
+tecnologias utilizadas na automação e controle de processos apresentando
+plantas de controle de processos e equipamentos de controle os quais o aluno
+certamente encontrará similares na indústria.
+2021-ECA414página 3 de 10
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+CASTRUCCI, Plínio de Lauro; BITTAR, Anselmo; SALES, Roberto Moura. Controle
+automático.  Rio de Janeiro, RJ: LTC, 2011. 476 p.  ISBN 9788521617860.
+DORF, Richard C; BISHOP, Robert H. Sistemas de controle modernos. Trad. de
+Bernardo Severo da Silva Filho. 8. ed.  Rio de Janeiro, RJ: LTC, 2001. 659 p.
+NISE, Norman. Engenharia de sistemas de controle. [SILVA FILHO, Bernardo Severo
+da Silva]. 3 ed.  São Paulo: LTC, 2002. 695 p.  ISBN 85352216855.
+OGATA, Katsuhiko. Discrete-time control systems. 2. ed.  New Jersey: Prentice
+Hall, 1995. 745 p.  ISBN 0-13-034281-5.
+Bibliografia Complementar:
+BOLTON, W. Engenharia de controle.  São Paulo, SP: Makron Books, 1995. 497 p. 
+ISBN 85-346-0343-X.
+D'AZZO, John J; HOUPIS, Constantine H. Análise e projeto de sistemas de
+controle lineares. Trad. por Bernardo Severo da Silva Filho.  Rio de Janeiro,
+RJ: Guanabara Dois, 1978. 610 p.
+D'AZZO, John J; HOUPIS, Constantine H; SHELDON, Stuart N. Linear control system
+analysis and design with MATLAB. 5. ed.  Boca Raton: Taylor & Francis, c2003.
+839 p. (Control Engineering Series).  ISBN 0824740386.
+GOLTEN, Jack; VERWER, Andy. Control system design and simulation.  London:
+McGraw-Hill, 1992. 388 p.
+HANSELMAN, Duane; LITTLEFIELD, Bruce. MATLAB 5: versão do estudante, guia do
+usuário.  São Paulo, SP: Makron Books, 1999. 413 p.  ISBN 85-346-1058-4.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+MATLAB
+Labview
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Informações sobre as provas:
+A disciplina ECA414 - Sistemas de Controle I possui duas provas + uma prova
+substitutiva: P1, P2 e PS1.
+Obs.: Excepcionalmente, devido a COVID-19, as provas P1 e P2 da disciplina
+poderão ser realizadas por meio de avaliações assíncronas no A.V.A. (Ambiente
+2021-ECA414página 4 de 10
+----------------Page (3) Break----------------
+Virtual de Aprendizagem) da disciplina.
+Informações sobre os trabalhos:
+T1: Nota de trabalho da parte de teoria referente a resolução de listas de
+exercícios e/ou atividades avaliativas no A.V.A. realizadas no primeiro
+bimestre
+T2: Nota de trabalho referente às atividades de laboratório no primeiro
+semestre. Esta média considera a participação, implementação e documentação das
+atividades feitas no laboratório
+T3: Nota de trabalho da parte de teoria referente a resolução de listas de
+exercícios e/ou atividades avaliativas no A.V.A. realizadas no terceiro
+bimestre
+T4: Nota de trabalho referente ao projeto prático da disciplina realizado
+durante o quarto bimestre
+2. Serão necessários os seguintes materiais e equipamentos para o
+desenvolvimento da disciplina: 6 computadores em bom estado de funcionamento
+contendo: MATLAB & Simulink; LabVIEW; Kit didático de um servomecanismo.
+3. As experiências desenvolvidas ao longo do ano estão listadas no programa da
+disciplina.
+4. É permitido o reaproveitamento de nota de laboratório pelos alunos que
+realizam dependência.
+5. As atividades de laboratório poderão ser feitas por trabalhos práticos com
+entrega programada em comum acordo com os alunos ou com provas. A opção será
+feita pelos alunos no primeiro bimestre. Isto inclui a substituição de
+experiências que demonstrem afinidade com o trabalho escolhido.
+2021-ECA414página 5 de 10
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+2021-ECA414página 6 de 10
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Anderson Harayashiki Moreira
+ Responsável pela Disciplina
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ECA414página 7 de 10
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  1 TPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  2 LApresentação dos procedimentos de segurança do laboratório.   0
+  2 TApresentação da disciplina. Introdução a sistemas de controle.   0
+  3 TAnálise de Sistemas Dinâmicos de Primeira Ordem.   1% a 10%
+  3 LIntrodução ao SW Matlab I.   91% a
+100%
+  4 TAnálise de Sistemas Dinâmicos de Segunda Ordem.   1% a 10%
+  4 LIntrodução ao SW Matlab II.   91% a
+100%
+  5 TDiagrama de Blocos.   1% a 10%
+  5 LIntrodução ao SW Matlab III.   91% a
+100%
+  6 TCritério de Estabilidade de Routh-Hurwitz.   1% a 10%
+  6 LIntrodução ao SW Matlab - SIMULINK.   91% a
+100%
+  7 LIntrodução ao SW LabVIEW.   91% a
+100%
+  7 TExercícios de Análise de Sistemas Dinâmicos.   91% a
+100%
+  8 TDia não letivo   0
+  8 LDia não letivo   0
+  9 TDiagrama do Lugar Geométrico das Raízes I.   1% a 10%
+  9 LKit Qube-Servo 2: Caracterização Motor.   91% a
+100%
+ 10 TPeríodo de Provas P1   0
+ 10 LPeríodo de Provas P1   0
+ 11 TDiagrama do Lugar Geométrico das Raízes II.   11% a 40%
+ 11 LKit Qube-Servo 2: Princípios de Modelagem (motor DC).   91% a
+100%
+ 12 TExercícios de Diagrama do Lugar Geométrico das Raízes.   91% a
+100%
+ 12 LKit Qube-Servo 2: Sistema de Segunda Ordem.   91% a
+100%
+ 13 TCompensação por meio do lugar das raízes - Avanço de Fase.   1% a 10%
+ 13 LKit Qube-Servo 2: Controle Proporcional Derivativo (Velocidade).   91% a
+100%
+ 14 TCompensação por meio do lugar das raízes - Atraso de Fase.   1% a 10%
+ 14 LKit Qube-Servo 2: Controle de Posição   91% a
+100%
+ 15 TSemana Mauá de Inovação, Liderança e Empreendedorismo - SMILE
+2021
+   0
+ 15 LSemana Mauá de Inovação, Liderança e Empreendedorismo - SMILE
+2021
+   0
+2021-ECA414página 8 de 10
+----------------Page (7) Break----------------
+ 16 TCompensação por meio do lugar das raízes - Avanço-Atraso de Fase.   1% a 10%
+ 16 LKit Qube-Servo 2: Pêndulo Invertido I.   91% a
+100%
+ 17 TCompensação por realimentação auxiliar.   1% a 10%
+ 17 LKit Qube-Servo 2: Pêndulo Invertido II.   91% a
+100%
+ 18 TExercícios de projeto de controladores.   91% a
+100%
+ 18 LKit Qube-Servo 2: Pêndulo Invertido III.   91% a
+100%
+ 19 TPeríodo de provas P2.   0
+ 19 LPeríodo de provas P2.   0
+ 20 TPeríodo de provas P2.   0
+ 20 LPeríodo de provas P2.   0
+ 21 TAtendimento e Revisão de Provas.   0
+ 21 LAtendimento e Revisão de Atividades.   0
+ 22 LPeríodo de provas PS1.   0
+ 22 TPeríodo de provas PS1.   0
+ 23 LApresentação do projeto semestral prático da disciplina.   0
+ 23 TDiagrama de Bode.   1% a 10%
+ 24 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 24 TExercícios de Diagrama de Bode.   91% a
+100%
+ 25 TMargens de Estabilidade Diagrama de Bode.   1% a 10%
+ 25 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 26 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 26 TExercícios de Margens de Estabilidade Diagrama de Bode.   91% a
+100%
+ 27 TDiagrama de Nyquist.   1% a 10%
+ 27 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 28 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 28 TExercícios de Diagrama de Nyquist.   91% a
+100%
+ 29 TPeríodo de provas P3.   0
+ 29 LPeríodo de provas P3.   0
+ 30 TRegras de Ziegler-Nichols para Sintonia de Controladores PID.   1% a 10%
+ 30 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 31 TAnálise de Controladores PID por Meio do Lugar Geométrico das
+Raízes.
+   11% a 40%
+ 31 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+2021-ECA414página 9 de 10
+----------------Page (8) Break----------------
+ 32 TTransformada Z.   11% a 40%
+ 32 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 33 TSistemas de Tempo Discreto.   1% a 10%
+ 33 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 34 TSistemas de Controle Digital.   1% a 10%
+ 34 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 35 TSistemas de Controle Digital II.   1% a 10%
+ 35 LAcompanhamento do projeto semestral da disciplina.   91% a
+100%
+ 36 TExercícios de projeto de controladores digitais.   91% a
+100%
+ 36 LApresentação do desenvolvimento dos projetos semestrais da
+disciplina.
+   91% a
+100%
+ 37 TPeríodo de provas P4.   0
+ 37 LPeríodo de provas P4.   0
+ 38 TPeríodo de provas P4.   0
+ 38 LPeríodo de provas P4.   0
+ 39 LAtendimento e Revisão de Trabalhos.   0
+ 39 TAtendimento e Revisão de Provas.   0
+ 40 LAtendimento e Revisão de Trabalhos.   0
+ 40 TAtendimento e Revisão de Provas.   0
+ 41 TPeríodo de provas PS2.   0
+ 41 LPeríodo de provas PS2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ECA414página 10 de 10
+----------------Page (9) Break----------------

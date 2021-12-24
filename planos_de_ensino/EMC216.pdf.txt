@@ -1,0 +1,321 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Método dos Elementos FinitosEMC216
+Course:
+Método dos Elementos Finitos
+Materia:
+Método de elementos finitos
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 04
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marcelo Otavio dos SantosEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Fernando MalvezziEngenheiro MecânicoDoutor
+Gelson Freitas MioriEngenheiro MecânicoDoutor
+Konstantinos Dimitriou StavropoulosEngenheiro MecânicoDoutor
+Marcelo Otavio dos SantosEngenheiro MecânicoDoutor
+Renato Maia Matarazzo OrsinoEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Fundamentos do Método dos Elementos Finitos para estruturas. Método Direto para
+sistemas discretos e Métodos Variacional e dos Resíduos Ponderados para
+sistemas contínuos. Princípio dos Trabalhos Virtuais e Princípio da Energia
+Potencial Total Mínima. Equações da Teoria da Elasticidade no Plano. Relações
+Constitutivas para Material Elástico Isotrópico. Desenvolvimento da matriz de
+rigidez e do vetor força para diversos elementos uni, bi e tri-dimensionais.
+Funções de forma e formulação isoparamétrica. Integração numérica pela
+quadratura de Gauss. Métodos h e p para obtenção de resultados mais precisos.
+Elaboração de programas simples utilizando uma linguagem de programação. Uso de
+software comercial para solução de estudos de caso. Aplicação de condições de
+contorno e solução de sistemas. Técnicas numéricas de solução para problemas de
+estática, dinâmica, térmico e de autovalor. Critérios de convergência.
+Validação experimental através de extensometria elétrica. Projeto
+Transdisciplinar: modelagem numérica através de software comercial.
+2021-EMC216página 1 de 9
+----------------Page (0) Break----------------
+SYLLABUS
+Fundamentals of the Finite Element Method for Structures. Direct Method for
+discrete systems and Variable Methods and Weighted Residues for continuous
+systems. Principle of Virtual Work and Principle of Minimum Total Potential
+Energy. Equations of Elasticity Theory in the Plane. Constitutive Relationships
+for Isotropic Elastic Material. Development of the stiffness matrix and the
+force vector for uni, bi and tri-dimensional elements. Functions of form and
+isoparametric formulation. Numerical integration by the Gaussian quadrature. H
+and p methods for obtaining more precise results. Development of simple
+programs using a programming language. Use of commercial software for case
+study solution. Application of boundary conditions and systems solution.
+Numerical solution techniques for static, dynamic, termal and eigenvalue
+problems. Convergence criteria. Experimental validation through strain gages.
+Transdisciplinary project: numerical modeling through commercial software.
+TEMARIO
+Fundamentos del Método de los Elementos Finitos para estructuras. Método
+Directo para sistemas discretos y Métodos Variacional y de los Residuos
+Ponderados para sistemas continuos. Principio de los Trabajos Virtuales y
+Principio de la Energía Potencial Total Mínima. Ecuaciones de la Teoría de la
+Elasticidad en el Plan. Relaciones Constitutivas para Material Elástico
+Isotrópico. Desarrollo de la matriz de rigidez y del vector fuerza para
+diversos elementos uni, bi y tri dimensionales. Funciones de forma y
+formulación isoparamétrica. Integración numérica por la cuadratura de Gauss.
+Métodos h y p para obtener resultados más precisos. Elaboración de programas
+simples utilizando un lenguaje de programación. Uso de software comercial para
+solución de estudios de caso. Aplicación de condiciones de contorno y solución
+de sistemas. Técnicas numéricas de solución para problemas de estática,
+dinámica, térmica y de autovalor. Criterios de convergencia. Validación
+experimental a través de extensometría eléctrica. Proyecto Transdisciplinar:
+modelado numérico a través de software comercial.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Desenho Técnico Mecânico
+- Resistência dos Materiais
+- Teoria das Estruturas
+- Construção de Máquinas
+- Termodinâmica
+- Materiais de Construção Mecânica
+2021-EMC216página 2 de 9
+----------------Page (1) Break----------------
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Dominar o ciclo completo de investigação dos aspectos analítico, numérico e
+experimental de um mesmo fenômeno, aprendendo a conciliar as diferenças
+encontradas no conhecimento interdisciplinar coordenado entre as disciplinas da
+área de mecânica dos sólidos.2. Conceber modelos numéricos e simulações para
+predizer resultados de projetos inovadores e acelerar o ciclo de
+desenvolvimento de produtos no ambiente da indústria.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1 - Fundamentos do Método dos Elementos Finitos para o dimensionamento de
+estruturas e componentes.
+C2 - Relações Constitutivas para Material Elástico Isotrópico.
+C3 - Matriz de Rigidez e Vetor Força para diversos elementos uni, bi e
+tri-dimensionais.
+C4 - Operação de software comercial de CAE (Engenharia assistida por
+computador)
+Habilidades:
+H1 - Integração dos diversos modelos matemáticos da Mecânica dos Sólidos.
+H2 - Desenvolver a sensibilidade e o espírito crítico ao analisar o
+comportamento de uma estrutura.
+H3 - Associar os modelos estruturais às estruturas reais na Engenharia.
+H4 - Compreender o método de cálculo estrutural utilizado computacionalmente.
+H5 - Trabalhar em equipe.
+H6 - Análises estruturais: lineares e não lineares, térmicas, estáticas e
+dinâmicas, regime estacionário e transiente.
+Atitudes:
+A1 - Ter visão sistêmica e interdisciplinar na solução de problemas de
+engenharia.
+A2 - Análise crítica se os objetivos da modelagem foram atingidos.
+A3 - Responsabilidade pela segurança de estruturas e componentes projetados.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Design Thinking
+- Project Based Learning
+- Problem Based Learning
+2021-EMC216página 3 de 9
+----------------Page (2) Break----------------
+METODOLOGIA DIDÁTICA
+- Uso de técnicas de aprendizagem ativa em sala de aula.
+- Aula expositiva com apoio de recurso áudio-visual.
+- Elaboração de programas simples para realização de cálculos estruturais.
+- Uso de software comercial de simulação CAE em laboratório de informática.
+- Uso do Laboratório de Mecânica dos Sólidos para realização de experimentos
+práticos.
+- Projeto Transdisciplinar.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  k4: 1,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Após a realização da disciplina, o aluno deverá ter adquirido a capacidade de:
+- Utilizar uma ferramenta moderna de projeto assistido por computador CAE.
+- Aplicar a técnica do Método dos Elementos Finitos para solução de problemas
+de Engenharia, com segurança e responsabilidade.
+- Modelagem de problemas multifísicos.
+- Integração das diversas áreas da Engenharia visando o dimensionamento
+correto de componentes e estruturas.
+- Estudo de caso utilizando simulação numérica para análise termoestrutural de
+um vaso de pressão segundo a norma ASME.
+- Instrumentação de componentes e estruturas através de strain gages, visando a
+validação dos resultados obtidos numericamente.
+BIBLIOGRAFIA
+Bibliografia Básica:
+ALVES FILHO, Avelino. Elementos finitos: a base da tecnologia CAE. 5. ed. São
+Paulo, SP: Érica, 2007. 292 p.
+FISH, Jacob; BELYTSCHKO, Ted. Um primeiro curso em elementos finitos.
+KOURY,Ricardo Nicolau Nassar (Trad.), MACHADO, Luiz (Trad.). Rio de Janeiro,
+RJ: LTC, 2009. 241 p.
+KIM, Nam-Ho; SANKAR, Bhavani V. Introdução à análise e ao projeto em elementos
+finitos. KURBAN, Amir Elias Abdalla (Trad.). Rio de Janeiro, RJ: LTC, 2011. 353
+p.
+2021-EMC216página 4 de 9
+----------------Page (3) Break----------------
+LOGAN, Daryl L. A first course in the finite element method. Boston: PWS, 1992.
+662 p.
+Bibliografia Complementar:
+BATHE, Klaus-Jürgen. Finite element procedures. Upper Saddle River, NJ:
+Prentice Hall, 1996. 1037 p.
+BUCHANAN, George R. Schaum's outline of theory and problems of finite element
+analysis. New York: McGraw-Hill, 1995. 264 p.
+KWON, Young W; BANG, Hyochoong. The finite element method using MATLAB. 2. ed.
+Boca Raton: CRC, 2000. 607 p. (CRC Mechanical Engineering Series).
+MOAVENI, Saeed. Finite element analysis: theory and application with ANSYS. New
+Jersey: Prentice Hall, 1999. 527 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+- Matlab/Octave
+- ANSYS Workbench
+- SpaceClaim
+- MSC Adams
+- Pacote Office
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A disciplina é dividida em duas frentes: Teoria e Laboratório.
+- k1 corresponde a média de notas dos trabalhos da Teoria no 1o Bimestre.
+- k2 corresponde a média de notas dos trabalhos da Teoria no 2o Bimestre.
+- k3 corresponde a média de notas dos trabalhos do Laboratório no 3o Bimestre.
+- k4 corresponde a média de notas dos trabalhos do Laboratório no 4o Bimestre.
+2021-EMC216página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Os trabalhos poderão ser realizados individualmente ou em grupo, conforme
+será definido pelo professor para cada caso.
+A sua configuração poderá variar, conforme orientação do professor, obedecendo
+aos seguintes formatos:
+- Solução de um problema de engenharia usando o software de CAE.
+- Desenvolvimento e implementação de programas de simulação para elementos 1D,
+2D e 3D.
+- Relatórios de simulação MEF.
+- Aplicação da simulação em estudo de caso de engenharia - projeto.
+- Relatórios de experimentos realizados no Laboratório de Mecânica dos
+Sólidos.
+2021-EMC216página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marcelo Otavio dos Santos
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC216página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LSemana dos calouros   0
+  2 LApresentação. Sistemas Discretos e Contínuos. Equação da Teoria
+da Elasticidade no Plano. Relações Constitutivas para Material
+Elástico Isotrópico.
+   1% a 10%
+  3 LMétodos Variacional e dos Resíduos Ponderados. Princípio da
+Energia Potencial Total Mínima. Matriz de Rigidez.
+   1% a 10%
+  4 LElemento Triangular com 3 Nós. Teoria e Implementação no
+MatLab/Octave.
+   61% a 90%
+  5 LElemento Triangular com 3 Nós. MatLab/Octave. Exemplos.   61% a 90%
+  6 LElemento Triangular com 3 Nós. MatLab/Octave. Exemplos.   61% a 90%
+  7 LElemento Quadriláteo 4 Nós. Funções de Forma e Formulação
+Isoparamétrica.
+   11% a 40%
+  8 LIntegração Numérica pela Quadratura de Gauss. Implementação no 
+MatLab/Octave.  Problemas na malha. Métodos h e p para obtenção
+de resultados mais precisos.
+   11% a 40%
+  9 LAtividade K1 - Teoria   91% a
+100%
+ 10 LSemana de Provas P1   0
+ 11 LElemento Quadrilátero 8 Nós. Teoria. Implementação no
+MatLab/Octave.
+   41% a 60%
+ 12 LElemento Quadrilátero 8 Nós. Exercícios.   41% a 60%
+ 13 LElemento Tetraédrico 4 Nós. Teoria.   11% a 40%
+ 14 LElemento Tetraédrico 4 Nós. Teoria. Exercícios com MatLab/Octave.   61% a 90%
+ 15 LAtividade K2 - Teoria   91% a
+100%
+ 16 LSemana de Provas P2   0
+ 17 LSemana de Provas P2   0
+ 18 LAtendimento   0
+ 19 LAtendimento   0
+ 20 LSemana de provas PS1   0
+ 21 LEngenharia Assistida por Computador (CAE). Conceitos e
+Definições. Solução de problema exemplo no software comercial
+ANSYS MECHANICAL.
+   11% a 40%
+ 22 LApresentação do software ANSYS MECHANICAL. Funcionalidades e
+recursos do software. Problema 1: Treliça 3D (Elemento 1D -
+barra).
+   61% a 90%
+ 23 LProblema 2: Viga engastada (Elemento 1D - viga). Comparação
+dosmétodos de solução: analítico x numérico.
+   61% a 90%
+ 24 LProblema 3: Pórtico 3D(Elemento 1D - viga). Diagramas de esforços
+internos solicitantes (DEIS). Verificação à Flambagem.
+   61% a 90%
+ 25 LProblema 4: Estrutura 1D. Montagem do relatório de simulação MEF.   61% a 90%
+ 26 LAtividade K3 - Software   91% a
+100%
+2021-EMC216página 8 de 9
+----------------Page (7) Break----------------
+ 27 LProblema 5: Chapa com concentrador de tensões (Elemento 2D).
+Elemento triangular e quadrilátero. Refino de malha. Convergência
+de resultados. Estrutura simétrica.
+   61% a 90%
+ 28 LProblema 6a: Pinhão-cremalheira (elemento 2D). Problema 6b:
+Latasob pressão (elemento de casca). Qualidade da malha.
+Critérios deconvergência. Simetria.
+   61% a 90%
+ 29 LProblema 7: Ponta de eixo (elemento 3D). Qualidade da
+malha.Critérios de convergência. Tipos de contato. Não
+linearidade.
+   61% a 90%
+ 30 LProblema 8: Carcaça de bomba (elemento 3D). Análise
+termoestrutural em regime estacionário. Estudo de caso: vaso de
+pressão.
+   61% a 90%
+ 31 LProblema 9: Dispositivo de máquina-ferramenta. Análise
+termo-estrutural transiente.
+   61% a 90%
+ 32 LProblema 10: Mecanismo biela-manivela - dinâmica de corpo rígido.
+Análise estrutural dos componentes.
+   61% a 90%
+ 33 LExtensometria elétrica. Conceitos e definições. Experimento 1
+(parte 1): seleção do strain gage (SG)/ preparação da
+superfície/colagem do SG/soldagem dos fios.
+   91% a
+100%
+ 34 LExtensometria elétrica. Experimento 1(parte 2): carregamento da
+estrutura / cálculos comparativos / simulação no ANSYS /
+finalização do relatório.
+   91% a
+100%
+ 35 LAtividade K4 - Software   91% a
+100%
+ 36 LSemana de Provas P4   0
+ 37 LSemana de Provas P4   0
+ 38 LAtendimento   0
+ 39 LAtendimento   0
+ 40 LSemana de Provas PS2   0
+ 41 LAtendimento   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC216página 9 de 9
+----------------Page (8) Break----------------

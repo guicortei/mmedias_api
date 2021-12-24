@@ -1,0 +1,318 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Ciências Térmicas IEPM706
+Course:
+Introduction to Thermal Systems
+Materia:
+Ciencias Térmicas
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Produção2Diurno
+Engenharia de Produção2Noturno
+Engenharia de Produção2Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Roberto de Aguiar PeixotoEngenheiro NavalDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Carlos Vinicius Xavier BessaEngenheiro MecânicoDoutor
+João de Sa Brasil LimaEngenheiro MecânicoDoutor
+Roberto de Aguiar PeixotoEngenheiro NavalDoutor
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Introdução às Ciências Térmicas. Definições e Conceitos da Termodinâmicos.
+Propriedades das Substâncias Puras. 1a.e 2a. Leis da Termodinâmica para
+Sistemas e Volumes de Controle.
+SYLLABUS
+Introduction to Thermal Systems. Thermodynamics: concepts and definitions.
+Properties of Pure Substances. The First and Second Laws of Thermodynamics for
+Systems and Control Volumes.
+2021-EPM706página 1 de 10
+----------------Page (0) Break----------------
+TEMARIO
+Introducción a las Ciencias Térmicas. Conceptos y definiciones termodinámicas.
+Propiedades de sustancias puras. Primera y segunda leyes de la termodinámica
+para sistemas y volumenes de control.¿
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Física, com ênfase nos assuntos de dinâmica e energia em sistemas mecânicos;
+Mecânica Geral; Cálculo Diferencial e Integral.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+- Ser capaz de modelar os fenômenos, os sistemas físicos e químicos, utilizando
+as ferramentas matemáticas, estatísticas, computacionais e de simulação, entre
+outras.- Comunicar-se eficazmente nas formas escrita, oral e gráfica.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS
+Relativos à Engenharia de Produção Mecânica:
+C1: Domínio dos diversos aspectos da sua habilitação profissional de modo a
+atuar nas áreas da Engenharia de Produção;
+C2: Sólida formação generalista nas principais áreas da Engenharia de Produção;
+C7: Sólida formação nas ciências básicas para facilitar a compreensão dos
+avanços tecnológicos, como: computação, desenho técnico, eletricidade, física,
+matemática, química, resistência dos materiais e ciências térmicas;
+C8: Sólida formação multidisciplinar de modo a poder permear entre as diversas
+áreas da Engenharia e de modo a dispor de uma visão sistêmica na solução de
+problemas técnicos;
+C9: Conhecimento para:
+1) avaliar e desenvolver soluções de problemas de sua habilitação específica e
+multidisciplinares;
+2) avaliar os impactos sociais e ambientais do seu trabalho;
+5) atuar em equipes multidisciplinares envolvendo especialistas de várias
+áreas;
+6) projetar, executar e analisar resultados de experimentos.
+C10: Conhecimentos práticos de modo a contribuir na interpretação de problemas
+de Engenharia.
+Específicos da Disciplina:
+C1-Compreender os princípios e equações básicas de termodinâmica;
+C2-Compreender as transformações de energia;
+C3-Compreender os fenômenos de transporte de energia;
+C4-Compreender os fenômenos de transferência de energia devido a uma diferença
+de temperaturas.
+HABILIDADES
+Relativas à Engeharia de Produção Mecânica:
+H2: Aplicar conhecimentos matemáticos, estatísticos, científicos, tecnológicos
+e instrumentais à engenharia na sua área de atuação;
+H4: Atuar em equipes multidisciplinares;
+H6: Avaliar criticamente a operação e manutenção de sistemas e processos na sua
+área de atuação;
+2021-EPM706página 2 de 10
+----------------Page (1) Break----------------
+H11: Demonstrar noção de ordem de grandeza na estimativa de dados e na
+avaliação de resultados.
+H12: Desenvolver raciocínio espacial, lógico e matemático;
+H14: Esboçar, ler e interpretar desenhos, gráficos e imagens;
+H20: Avaliar o impacto das atividades de engenharia no contexto social e
+ambiental;
+H21: Compreender a interdependência dos sistemas de produção com o meio
+ambiente, tanto no que se refere a utilização de recursos escassos quanto à
+disposição final de resíduos e rejeitos, atentando para a exigência de
+sustentabilidade e qualidade de vida.
+Específicas da Disciplina:
+H1-Utilizar os princípios básicos associados com o estudo da energia: seu uso,
+sua transferência e sua conversão de uma forma em outra;
+H2-Aplicar os conceitos de sistemas e volumes de controle no projeto e análise
+de sistemas térmicos;
+H3-Desenvolver cálculos a partir das equações gerais de conservação da massa e
+da energia.
+ATITUDES
+Relativas à Engeharia de Produção Mecânica:
+A4: Ter visão sistêmica e interdisciplinar na solução de problemas técnicos;
+A5: Ter percepção do conjunto e capacidade de síntese;
+A8: Ter posição crítica com relação a conceitos de ordem de grandeza;
+A14: Ter autocrítica para reconhecer os seus próprios limites e os de suas
+decisões;
+A15: Ter consciência da necessidade de atualizar-se permanentemente.
+Específicas da Disciplina:
+A1-Incorporar a importância do conceito físico de transferência e conversão de
+energia e de otimização energética de sistemas térmicos;
+A2-Incorporar o conceito de simulação numérica de sistemas térmicos.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Sala de aula invertida
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+A disciplina conta com 2 horas semanais onde é apresentada e desenvolvida a
+teoria básica relativa à disciplina de Termodinâmica. Nestas aulas também são
+apresentados exercícios resolvidos e propostos outros para os alunos fixarem o
+conteúdo aprendido.
+As aulas são ministradas mediante o uso de projetor digital e
+lousa. Durantes as aulas os alunos utilizarão sooftware EES para cálculos de
+propriedades termodinâmicas bem como auxiliar à solução de equações .
+Os conceitos serão apresentados procurando relacioná-los com situações do
+cotidiano de modo a facilitar o aprendizado.
+2021-EPM706página 3 de 10
+----------------Page (2) Break----------------
+O ambiente Moodle será utilizado para: disponibilizar materiais extras aos
+alunos; fazer avaliações que comporão notas de trabalhos; comunicar os alunos
+sobre avisos importantes da disciplina.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,4          Peso de MT(kT): 0,6
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina Ciências Térmicas I apresenta os princípios básicos de
+Termodinâmica. 
+É fundamental ao futuro engenheiro de produção conhecer o conceito de energia,
+suas várias formas, e os mecanismos e eficiências dos vários sistemas de
+conversão e transporte. Isto é desenvolvido na disciplina por meio do
+conhecimento das propriedades da matéria, dos fenômenos físicos e do
+comportamento dos sistemas térmicos.
+No âmbito estritamente industrial, a competitividade no setor de manufatura é
+altamente dependente da utilização eficiente da energia, que por sua vez é
+ditada por diversos fatores relativos aos aspectos térmicos.
+Como benefícios adicionais obtidos no estudo da termodinâmica pode-se
+citar: o treinamento do estudante para representar processos e equipamentos
+por modelos simplificados; o treinamento do estudante na solução de problemas
+complexos; o desenvolvimento da capacidade do estudante de analisar problemas
+e desenvolver procedimentos organizados para a sua solução.
+Finalmente, o conhecimento e domínio dos conceitos básicos da Termodinâmica é
+fundamental para o entendimentos de novas áreas do conhecimento tais como
+Biotecnologia, Ciências Espaciais, Fusão Nuclear, geração e busca de novas
+alternativas energéticas.
+Por outro lado, no âmbito estritamente industrial, a competitividade no setor
+de manufatura é altamente dependente da utilização eficiente da energia, que
+por sua vez é ditada por diversos fatores relativos aos aspectos térmicos.
+Fica claro, portanto, seja no setor de P&D&I como no da Manufatura, que os
+2021-EPM706página 4 de 10
+----------------Page (3) Break----------------
+graus de inovação serão tanto melhores quanto melhor for o domínio que se tiver
+sobre os assuntos tratados por esta disciplina.
+BIBLIOGRAFIA
+Bibliografia Básica:
+COELHO, João Carlos Martins. Energia e Fluidos: Termodinâmica.  São Paulo  SP:
+Blucher, 2016. v. 1. 330 p.  ISBN 9788521209454.
+Bibliografia Complementar:
+BORGNAKKE, Claus; SONNTAG, Richard E. Fundamentos da termodinâmica. 7. ed.  São
+Paulo, SP: Blucher, 2010. 461 p.  ISBN 9788521204909.
+BORGNAKKE, Claus; SONNTAG, Richard E. Fundamentos da termodinâmica. PEIXOTO,
+Roberto de Aguiar (Coord. e Revisor). 8. ed.  São Paulo: Blucher, 2013. 728 p.
+(Van Wylen).  ISBN 9788521207924.
+MORAN, Michael J et al. Introdução à engenharia de sistemas térmicos:
+termodinâmica, mecânica dos fluidos e transferência de calor. Tradução de
+Carlos Alberto Biolchini da Silva.  Rio de Janeiro, RJ: LTC, 2005. 604 p.  ISBN
+8521614462.
+MORAN, Michael J; SHAPIRO, Howard N. Princípios de termodinâmica para
+engenharia. 4. ed.  Rio de Janeiro, RJ: LTC, 2002. 681 p.  ISBN 8521613407.
+SCHMIDT, Frank W; HENDERSON, Robert E; WOLGEMUTH, Carl H. Introdução às
+ciências térmicas: termodinânica, mecânica dos fluidos e transferência de
+calor. Trad. da 2ª ed. americana coord. por José Roberto Simões Moreira.  São
+Paulo, SP: Edgard Blücher, 1996. 466 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Engineering Equation Solver - EES
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+As provas serão compostas de questões envolvendo cálculos numéricos que poderão
+ser feitos utilizando o software EES, e poderão envolver ainda alguma questão
+teórica.
+Os trabalhos serão compostos de exercícios. Serão dois trabalhos, um por
+semestre. O do primeiro semestre será individual e será realizado em sala de
+aula. O segundo será um trabalho para ser feito em grupo e fora da aula. Os
+trabalhos ocorrerão em datas que serão comunicadas com antecedência tanto em
+sala de aula como através de mensagem via "forum" de mensagens do ambiente
+Moodle da Disciplina.
+Não há aproveitamento de trabalhos de oferecimentos anteriores desta
+2021-EPM706página 5 de 10
+----------------Page (4) Break----------------
+disciplina.
+Obs:Em função da pandemia ocorrida as aulas e os processos de avaliação estão
+ocorrendo de forma remota e, portanto, as avaliações P1, P2, P3 e P4 quando
+cabível, serão conduzidas com a realização de atividades a serem determinadas
+pelos professores, podendo ser síncronas ou assíncronas. Deve-se seguir
+orientações de prazos previstos no calendário escolar.
+2021-EPM706página 6 de 10
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+Esta disciplina fará uso intensivo do ambiente Moodle. Assim, é fundamental que
+todos os alunos matriculados nela também se inscrevam neste ambiente. As
+informações para inscrição serão passadas aos alunos em sala de aula logo no
+início do curso.
+2021-EPM706página 7 de 10
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Roberto de Aguiar Peixoto
+ Responsável pela Disciplina
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EPM706página 8 de 10
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 ESEMANA DE RECEPÇÃO AOS CALOUROS   0
+  2 EFeriado   11% a 40%
+  3 EIntrodução ao curso; Definições e conceitos fundamentais
+(Capítulo 1 dolivro texto).
+   0
+  4 EPropriedades das substâncias puras e gases ideais (Capítulo 2 do
+livrotexto).
+   11% a 40%
+  5 EPropriedades das substâncias puras e gases ideais (Capítulo 2 do
+livrotexto).Introdução ao software EES.
+   11% a 40%
+  6 EIntrodução ao software EES.   0
+  7 ETrabalho e Calor (Capítulo 3 do livro texto)   41% a 60%
+  8 ETrabalho e Calor (Capítulo 3 do livro texto)   41% a 60%
+  9 EPrimeira Lei da Termodinâmica para Sistemas (Capítulo 4 do livro
+texto).
+   0
+ 10 EPeríodo de provas P1   1% a 10%
+ 11 EPrimeira Lei da Termodinâmica para Sistemas (Capítulo 4 do livro
+texto).Exercícios
+   61% a 90%
+ 12 ETrabalho T1 em classe   91% a
+100%
+ 13 EEquação da continuidade (cons. da massa)(Capítulo 7 do livro
+texto).
+   1% a 10%
+ 14 EEquação da continuidade (cons. da massa)- Exercícios   0
+ 15 ESemana da Inovação - SMILE   41% a 60%
+ 16 EPrimeira Lei da Termodinâmica para Volumes de Controle (Capítulo
+8 dolivro texto).
+   1% a 10%
+ 17 EPrimeira Lei da Termodinâmica para Volumes de Controle -
+Exercícios
+   0
+ 18 EPrimeira Lei da Termodinâmica para Volumes de Controle -
+Exercícios Revisão para a P2
+   0
+ 19 EPeríodo de provas P2   0
+ 20 EPeríodo de provas P2   0
+ 21 EPlanejamento e capacitação de docentesSem atividades para alunos   41% a 60%
+ 22 EPeríodo de Provas PS1   61% a 90%
+ 23 ESegunda Lei da Termodinâmica (Capítulo 5 do livro texto)   1% a 10%
+ 24 ESegunda Lei da Termodinâmica - Exercícios   41% a 60%
+ 25 EEntropia (Capítulo 6 do livro texto)   1% a 10%
+ 26 EEntropia - ExercíciosGrupos e Temas para para o Trabalho T2
+(Seminários)
+   0
+ 27 EFeriado   0
+ 28 ESegunda Lei da Termodinâmica para Volumes de Controle (Capítulo 9
+dolivro texto).
+   11% a 40%
+ 29 EPeríodo de Provas P3   11% a 40%
+ 30 ESegunda Lei da Termodinâmica para Volumes de Controle -
+Exercícios
+   41% a 60%
+2021-EPM706página 9 de 10
+----------------Page (8) Break----------------
+ 31 ESegunda Lei da Termodinâmica para Volumes de Controle -
+Exercícios
+   91% a
+100%
+ 32 ECiclos de Potência - Ciclo Rankine   91% a
+100%
+ 33 ET2 - Apresentação de Seminários   91% a
+100%
+ 34 ET2 - Apresentação de Seminários   91% a
+100%
+ 35 EFeriado   0
+ 36 ERevisão para prova P4   0
+ 37 EFeriado   91% a
+100%
+ 38 EPeríodo de Provas P4   0
+ 39 EPeríodo de Provas P4   0
+ 40 EDiscussão da Prova P4   0
+ 41 EPeríodo de provas PS2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EPM706página 10 de 10
+----------------Page (9) Break----------------

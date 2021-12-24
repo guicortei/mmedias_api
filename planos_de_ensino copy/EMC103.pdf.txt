@@ -1,0 +1,372 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Mecânica das EstruturasEMC103
+Course:
+Structural Mechanics
+Materia:
+Mecánica estructural
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica3Diurno
+Engenharia Mecânica3Noturno
+Engenharia Mecânica3Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Marcelo Otavio dos SantosEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Konstantinos Dimitriou StavropoulosEngenheiro MecânicoDoutor
+Marcelo Otavio dos SantosEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 80%
+Mediada por tecnologia: 20%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Análise de estruturas isostáticas e hiperestáticas planas e espaciais
+utilizando o método das forças e o método dos deslocamentos. Deflexões em
+estruturas utilizando métodos de energia. Estado triplo de tensões. Critérios
+de resistência. Estado duplo de deformações. Extensometria elétrica. Análise
+experimental de estruturas. Esforço cortante corrente em perfis de parede fina.
+Deformações térmicas em vigas com gradiente de temperatura. Tensões em
+tubulações. Dimensionamento de vasos de pressão de acordo com a norma
+ASME-Seção VIII - Divisão I. Método dos deslocamentos ¿ análise matricial de
+estruturas. Introdução ao Método dos Elementos Finitos. Implementação de
+cálculos estruturais através do método dos deslocamentos utilizando programas
+gerais como Matlab e Octave. Introdução ao uso de software profissional de
+elementos finitos.
+2021-EMC103página 1 de 11
+----------------Page (0) Break----------------
+SYLLABUS
+Analysis of plane and spatial isostatic and statically indeterminate structures
+using the force method and the displacement method.  Deflections in structures
+using energy methods. 3D stress state. Generalized Hooke¿s Law. Strength
+criteria. Plane strain analysis. Extensometry techniques. Experimental analysis
+of structures.  Shear flow in thin-walled profiles. Thermal deformations in
+beams due to temperature gradient.  Tensions in pipes. Pressure vessels stress
+analysis according to ASME-Section VIII - Division I. Displacement method -
+matrix analysis of structures. Introduction to the Finite Element Method.
+Implementation of structural calculations using the displacement method using
+general programs such as Matlab and Octave. Introduction to the use of
+professional finite element software.
+TEMARIO
+Análisis de estructuras planas y espaciales isostáticas e estáticamente
+indeterminadas mediante el método de fuerza y ¿¿el método de desplazamiento.
+Deflexiones en estructuras mediante métodos energéticos. Estado triple de
+tensiones. Criterios de resistencia. Estado plano de deformaciones.
+Extensometría eléctrica. Análisis experimental de estructuras. Flujo cortante
+en perfiles de paredes delgadas. Deformaciones térmicas en vigas con gradiente
+de temperatura. Análisis de las tensiones en las tuberías. Análisis de las
+tensiones en vasos de presión de acuerdo con la norma ASME Sección VIII -
+División I. Método de desplazamiento - Análisis matricial de estructuras.
+Introducción al método de los elementos finitos. Implementación de cálculos
+estructurales mediante el método de desplazamiento utilizando programas
+generales como Matlab y Octave. Introducción al uso de software profesional de
+elementos finitos.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Resistência dos Materiais:
+- todos os conhecimentos da disciplina ETM101, com especial ênfase ao traçado
+de diagrama de esforços internos solicitantes, cálculo das tensões para os
+esforços típicos e estudo do estado duplo de tensões.
+Algebra Linear:
+- operações com matrizes, solução de sistemas de equações, conceito de
+autovalores e autovetores.
+Mecânica Geral:
+- Estática (sistema de esforços equivalentes, polígonos de forças, equações
+de equilíbrio no plano e no espaço, cálculo de reações de apoio, equilíbrio em
+corpos formados por vários componentes, cálculo de momentos de inércia).
+Cálculo:
+- Gráficos de funções.
+Desenho:
+- Desenho esquemático de componentes. Perspectivas elementares.
+2021-EMC103página 2 de 11
+----------------Page (1) Break----------------
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Analisar e compreender os fenômenos estruturais por meio de modelos
+matemáticos, computacionais ou físicos, validados por experimentação.2. Dominar
+o ciclo completo de investigação dos aspectos analítico, numérico e
+experimental de um mesmo comportamento estrutural, aprendendo a conciliar as
+diferenças encontradas no conhecimento interdisciplinar coordenado entre as
+disciplinas da área de mecânica dos sólidos.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1 - Aplicação de Métodos de Energia para o cálculo de estruturas.
+C2 - Métodos para o cálculo de estruturas hiperestáticas.
+C3 - Estado plano de deformações.
+C4 - Estado triplo de tensões e critérios de resistência.
+C5 - Método dos elementos finitos.
+C5 - Distribuição de esforço cortante corrente em perfis de parede fina.
+C6 - Tubulações.
+C7 - Dimensionamento de vasos de pressão.
+Habilidades:
+H1 - Calcular deslocamentos lineares e angulares em estruturas isostáticas e
+hiperestáticas.
+H2 - Resolver estruturas hiperestáticas planas e no espaço.
+H3 - Compreender o método de cálculo de estruturas utilizados em programas de
+computador.
+H4 - Compreender comportamento de perfis de chapa fina sujeitos a força
+cortante.
+H5 - Calcular tensões térmicas em tubulações.
+H6 - Dimensionar Vasos de Pressão de acordo com a norma ASME-Seção VIII -
+Divisão I.
+Atitudes:
+A1 - Incorporar o conceito de que as estruturas estão sujeitas a tensões e se
+deformam sob a ação de cargas, podendo sofrer colapso.
+A2 - Ter consciência de que há incertezas quanto ao carregamento e à
+resistência do material e de que os modelos adotados são aproximações da
+realidade.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+2021-EMC103página 3 de 11
+----------------Page (2) Break----------------
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Ensino Híbrido
+- Sala de aula invertida
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Aulas expositivas.
+Aulas de exercícios.
+Apresentação de projetos e seminários.
+Demonstrações com modelos didáticos.
+Demonstrações sobre o Método dos Elementos Finitos utilizando programação em
+Matlab/Octave e software profissional LISA.
+Realização de experimentos no Laboratório de Mecânica dos Sólidos.
+Uso de metodologias ativas de aprendizagem.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A Mecânica das Estruturas é uma continuação da Resistência dos Materiais. O
+programa de Resistência dos Materiais é bastante padronizado nas Escolas de
+Engenharia, cabendo à Mecânica das Estruturas complementar o conhecimento
+dentro
+da extensa área de Análise Estrutural, selecionando tópicos que serão de
+interesse para a formação do engenheiro mecânico.
+São apresentados conceitos que serão utilizados nas disciplinas que fazem
+dimensionamento de máquinas e componentes, caldeiras e vasos de pressão,
+permitindo o cálculo de deslocamentos, traçado de diagrama de esforços
+internos solicitantes em estruturas isostáticas e hiperestáticas, bem como o
+dimensionamento de seções com esforços combinados. Também são apresentados
+conceitos que podem ser utilizados nas disciplinas que estudam a conformação
+dos metais.
+2021-EMC103página 4 de 11
+----------------Page (3) Break----------------
+São apresentados fundamentos que posteriormente permitirão a utilização de
+programas de cálculo por meio de Elementos Finitos e a análise de resultados
+obtidos por meio de Análise Experimental de Tensões.
+BIBLIOGRAFIA
+Bibliografia Básica:
+BEER, Ferdinand P. et al. Mecânica dos materiais. RUBERT, José Benaque (Trad.).
+7. ed.  Porto Alegre: AMGH, 2015. 858 p.  ISBN 9788580554981.
+DALLY, James W; RILEY, William F. Experimental stress analysis. 3. ed.  New
+York: McGraw-Hill, 1991. 639 p.  ISBN 0-07-015218-7.
+HIBBELER, Russell Charles. Structural analysis. 4. ed.  New Jersey: Prentice
+Hall, 1999. 600 p.  ISBN 0-13-081309-5.
+KIM, Nam-Ho; SANKAR, Bhavani V. Introdução à análise e ao projeto em elementos
+finitos. KURBAN, Amir Elias Abdalla (Trad.).  Rio de Janeiro,  RJ: LTC, 2011.
+353 p.  ISBN 9788521617884.
+Bibliografia Complementar:
+ALVES FILHO, Avelino. Elementos finitos: a base da tecnologia CAE. 5. ed.  São
+Paulo, SP: Érica, 2007. 292 p.  ISBN 9788571947412.
+CAMPANARI, Flávio Antonio. Teoria das estruturas.  Rio de Janeiro, RJ:
+Guanabara Dois, 1985. v. 1.
+PEREIRA, Celso Pinto Morais. Mecânica dos materiais avançada.  Rio de Janeiro:
+Interciência, c2013. 418 p.  ISBN 9788571933347.
+PHILPOT, Timothy A. Mecânica dos materiais: um sistema integrado de ensino.
+[Mechanics of materiails : an integrated learning, 2nd. ed.]. 2. ed. Rio de
+Janeiro: LTC, c2013. 709 p. ISBN 97885216638
+POPOV, Egor P. Introdução à mecânica dos sólidos. Trad. de Mauro Ormeu Cardoso
+Amorelli; rev. téc. de Arno Blass.  São Paulo, SP: Edgard Blücher, 1978. 534 p.
+RICARDO, Octávio Gaspar de Souza. Teoria das estruturas.  São Caetano do Sul,
+SP: CEUN-EEM, 1976. v. 5.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+- Pacote Office
+- Ftool
+- MDSolids
+- Matlab/Octave
+2021-EMC103página 5 de 11
+----------------Page (4) Break----------------
+- LISA FEA
+- ANSYS Mechanical
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+As notas de Trabalho poderão ser compostas pelas seguintes atividades:
+- Exercícios no Open LMS
+- Atividades Virtuais e/ou Presenciais
+- Realização de Experimentos (no Laboratório de Mecânica dos Sólidos ou
+virtuais)
+- Desenvolvimento de Programas Computacionais
+- Projetos
+2021-EMC103página 6 de 11
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+Como a disciplina é ministrada em vários dias da semana e o calendário
+escolar apresenta alguns dias não letivos em função de feriados, o cronograma
+a seguir se refere a um dia de semana típico com um feriado durante o ano.
+2021-EMC103página 7 de 11
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Marcelo Otavio dos Santos
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC103página 8 de 11
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LEstado Triplo de Tensões. Teoria.   1% a 10%
+  1 TApresentação da disciplina. Métodos de Energia. Teorema
+deCastigliano. Deslocamentos em Estruturas Isostáticas.
+   1% a 10%
+  2 LEstado Triplo de Tensões. Exercícios.   11% a 40%
+  2 TDeslocamentos em Estruturas Isostáticas. Método das
+Forças.Exercícios.
+   11% a 40%
+  3 TDeslocamentos em Estruturas Isostáticas. Tabelas de
+Kurt-Beyer.Exercícios.
+   11% a 40%
+  3 LEstado Triplo de Tensões. Exercícios.   41% a 60%
+  4 TDeslocamentos em Estruturas Isostáticas. Tabelas de
+Kurt-Beyer.Exercícios.
+   11% a 40%
+  4 LLei de Hoooke Generalizada. Teoria.   11% a 40%
+  5 LLei de Hooke Generalizada. Exercícios.   11% a 40%
+  5 TDeslocamentos em Estruturas Isostáticas. Tabelas de
+Kurt-Beyer.Exercícios.
+   11% a 40%
+  6 LCritérios de Resistência. Teoria.   1% a 10%
+  6 TDeslocamentos em Estruturas Isostáticas. Tabelas de
+Kurt-Beyer.Exercícios.
+   11% a 40%
+  7 LCritérios de Resistência. Exercícios.   11% a 40%
+  7 TDeslocamentos em Estruturas Isostáticas. Tabelas de
+Kurt-Beyer.Exercícios.
+   11% a 40%
+  8 TProva P1   0
+  8 LProva P1   0
+  9 LIntrodução. Estado Plano de Deformações (EPD).   1% a 10%
+  9 TEstruturas Hiperestáticas. Teoria. Exercícios.   1% a 10%
+ 10 TEstruturas Hiperestáticas. Exercícios.   11% a 40%
+ 10 LEstado plano de Deformações. Rotação de Eixos. Exercícios.   11% a 40%
+ 11 TEstruturas Hiperestáticas. Exercícios.   11% a 40%
+ 11 LEstado plano de deformações. Círculo de Mohr. Exercícios.   11% a 40%
+ 12 TEstruturas Hiperestáticas. Exercícios.   11% a 40%
+ 12 LEstado Plano de Deformações. Extensômetros e Rosetas. Exercícios.   11% a 40%
+ 13 TEstruturas Hiperestáticas. Exercícios.   11% a 40%
+ 13 LEstado Plano de Deformações. Extensômetros e Rosetas. Exercícios.   11% a 40%
+ 14 LEstado Plano de Deformações. Extensômetros e Rosetas. Exercícios.   11% a 40%
+ 14 TEstruturas Hiperestáticas. Exercícios.   11% a 40%
+ 15 TEfeito da Temperatura nas estruturas Hiperestáticas. Teoria.
+Exercício.
+   11% a 40%
+ 15 LExperimento 1   61% a 90%
+ 16 TApresentação dos fundamentos estruturais utilizados pelo Código
+ASME , Seção VIII , Divisão I para o dimensionamento de vasos de
+pressão.
+   11% a 40%
+ 16 LExperimento 2   61% a 90%
+ 17 LProva P2   0
+ 17 TProva P2   0
+2021-EMC103página 9 de 11
+----------------Page (8) Break----------------
+ 18 LProva P2   0
+ 18 TProva P2   0
+ 19 TAtendimento   0
+ 19 LAtendimento   0
+ 20 LProva PS1   0
+ 20 TProva PS1   0
+ 21 TCisalhamento em perfis de parede fina. Teoria.   1% a 10%
+ 21 LMétodo dos Deslocamentos - Elemento de Mola. Exercícios.   1% a 10%
+ 22 TCisalhamento em perfis de parede fina. Exercícios.   11% a 40%
+ 22 LMétodo dos Deslocamentos - Elementos de Treliças.   11% a 40%
+ 23 TCisalhamento em perfis de parede fina com rebites. Exercícios.   11% a 40%
+ 23 LMétodo dos Deslocamentos - Exercícios com Estruturas Formadas
+porTreliças.
+   11% a 40%
+ 24 TCisalhamento em perfis de parede fina com soldas. Exercícios.   11% a 40%
+ 24 LMétodo dos deslocamentos. Estruturas de Molas e
+Treliças.Programação no Octave/Matlab
+   61% a 90%
+ 25 TCisalhamento em perfis de parede fina. Exercícios.   11% a 40%
+ 25 LMétodo dos deslocamentos. Estruturas de Molas e
+Treliças.Programação no Octave/Matlab
+   61% a 90%
+ 26 TCisalhamento em perfis de parede fina. Flexão oblíqua. Exercício.   11% a 40%
+ 26 LMétodo dos deslocamentos. Elementos de vigas.   11% a 40%
+ 27 TCisalhamento em perfis de parede fina. Flexão oblíqua. Exercício.   11% a 40%
+ 27 LMétodo dos deslocamentos. Elementos de vigas. Programação no
+Octave/Matlab
+   61% a 90%
+ 28 TProva P3   0
+ 28 LProva P3   0
+ 29 TMétodo dos Deslocamentos - Exercícios com estruturas formadas
+estruturas 3D.
+   11% a 40%
+ 29 LMétodo dos Deslocamentos - Exercícios com estruturas formadas por
+pórticos.
+   11% a 40%
+ 30 TMétodo dos Deslocamentos - Exercícios com estruturas formadas por
+treliça 3D.
+   41% a 60%
+ 30 LMétodo dos Deslocamentos - Exercícios com estruturas formadas por
+pórticos. Programação no Octave/Matlab
+   61% a 90%
+ 31 TMétodo dos Deslocamentos - Exercícios com estruturas formadas por
+treliça 3D. Programação no Octave/Matlab
+   61% a 90%
+ 31 LMétodo dos Deslocamentos - Exercícios com estruturas formadas por
+pórticos. Programação no Octave/Matlab
+   61% a 90%
+ 32 TMétodo dos Deslocamentos - Exercícios com estruturas formadas por
+pórtico 3D. Programação no Octave/Matlab
+   61% a 90%
+ 32 LSimulação usando o software LISA FEA   61% a 90%
+ 33 TMétodo dos Deslocamentos - Exercícios com estruturas formadas por
+pórtico 3D. Programação no Octave/Matlab
+   61% a 90%
+ 33 LSimulação usando o software LISA FEA   61% a 90%
+ 34 TMétodo dos Deslocamentos - Exercícios com estruturas formadas por
+pórtico 3D. Programação no Octave/Matlab
+   61% a 90%
+ 34 LApresentação do Trabalho   91% a
+100%
+2021-EMC103página 10 de 11
+----------------Page (9) Break----------------
+ 35 TProva P4   0
+ 35 LProva P4   0
+ 36 TProva P4   0
+ 36 LProva P4   0
+ 37 TAtendimento   0
+ 37 LAtendimento   0
+ 38 TAtendimento   0
+ 38 LAtendimento   0
+ 39 TAtendimento   0
+ 39 LAtendimento   0
+ 40 TProva PS2   0
+ 40 LProva PS2   0
+ 41 TAtendimento   0
+ 41 LAtendimento   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC103página 11 de 11
+----------------Page (10) Break----------------

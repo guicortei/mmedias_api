@@ -1,0 +1,270 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Projetos e Atividades Especiais IVPAE4CA
+Course:
+Projects and Special Activities IV
+Materia:
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 00 - 00 - 04
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Anderson Harayashiki MoreiraEngenheiro em Controle e AutomaçãoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Alexandre Harayashiki MoreiraEngenheiro em Controle e AutomaçãoMestre
+Alexsander Tressino de CarvalhoEngenheiro em ElétricaDoutor
+Anderson Harayashiki MoreiraEngenheiro em Controle e AutomaçãoDoutor
+Andressa Corrente MartinsEngenheiro AeronáuticaMestre
+Fernando Silveira MadaniEngenheiro em Controle e AutomaçãoDoutor
+Murilo Zanini de CarvalhoTecnologia em EletrônicaMestre
+Valdir Melero JuniorEngenheiro EletricistaMestre
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Desenvolvimento de competências, habilidades e atitudes com pertinência à
+formação do futuro Engenheiro, por meio de atividades práticas eletivas e
+centradas no aluno. Treino das habilidades de interpretação e análise.
+Metodologias de resolução de problemas. Desenvolvimento de projetos de
+Engenharia. Visitas técnicas, palestras, oficinas, seminários e competições
+tecnológicas. Participações em programas de monitoria, projetos de iniciação
+científica e de pesquisa tecnológica, além da participação em projetos de
+responsabilidade social.
+2021-PAE4CApágina 1 de 9
+----------------Page (0) Break----------------
+SYLLABUS
+Development of competencies, skills and attitudes relevant to the formation of
+future Engineer, through electives and student-centered practical activities.
+Training of interpretation and analysis skills. Problem solving methodologies.
+Development of engineering projects. Technical visits, lectures, workshops,
+seminars and technological competitions. Participation In undergraduate
+monitoring programs, scientific projects and technological research, as well as
+participation in social responsibility projects.
+TEMARIO
+Desarrollo de competencias, habilidades y actitudes relacionadas con la
+formación de futuro ingeniero, a través de actividades prácticas optativas
+centradas en el estudiante. Entrenamiento de habilidades de interpretación y
+análisis. Metodologías para la resolución de problemas. Desarrollo de proyectos
+de ingeniería. Visitas técnicas, conferencias, talleres, seminarios y concursos
+tecnológicos. Participacíon en los programas de supervisión, proyectos de
+investigación científica y tecnológica, así como la participación en proyectos
+de responsabilidad social.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+1. Conhecimentos nas disciplinas dos cursos do ensino médio e fundamental, tais
+como matemática e física;
+2. Conhecimentos adquiridos nas disciplinas do Ciclo Básico;
+3. Noções de operação e uso de editores de texto e planilhas eletrônicas;
+4. Conhecimento de uma linguagem de programação.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+I. Formular e conceber soluções desejáveis de Engenharia, analisando e
+compreendendo a necessidade dos usuários e seu contexto;VIII. Aprender de forma
+autônoma e lidar com situações e contextos complexos, atualizando-se em relação
+aos avanços da ciência, da tecnologia, bem como em relação aos desafios da
+inovação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1: Apresentar problemas e projetos de Engenharia;
+C2: Complementar a formação profissional, cultural e de responsabilidade
+social do aluno;
+C3: Servir de elemento motivador e transformador da forma de pensar e agir por
+meio da prática vivencial, mostrando aplicações práticas e multidisciplinares.
+Habilidades:
+H1: Desenvolver a capacidade analítica do aluno na argumentação e na busca de
+soluções de questões e problemas;
+H2: Desenvolver técnicas de identificação, formulação e resolução de
+problemas;
+H3: Desenvolver a habilidade de trabalhar em equipe;
+H4: Organizar e realizar uma apresentação em público;
+2021-PAE4CApágina 2 de 9
+----------------Page (1) Break----------------
+Atitudes:
+A1: Despertar o interesse por assuntos da engenharia;
+A2: Valorizar as discussões de problemas da engenharia, empreendendo na busca
+de soluções, com iniciativa e autonomia;
+A3: Divulgar a engenharia como profissão que promove mudanças no mundo.
+A4: Incentivar o modo de pensar analítico e reflexivo do Engenheiro.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+1. Atividades em laboratório;
+2. Elaboração de projetos;
+3. Participação em oficinas, competições e palestras;
+4. Elaboração de relatório das atividades desenvolvidas;
+5. Apresentação de seminários;
+6. Eventual participação em visitas.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina somente com indicação de Suficiente ou Insuficiente.
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina tem por objetivo proporcionar ao aluno o desenvolvimento de
+habilidades e atitudes mais próximas da vida real de um Engenheiro por meio da
+realização de práticas vivenciais onde o aluno é posto em contato com situações
+reais e deve buscar informações e desenvolver soluções para problemas e
+projetos de Engenharia. 
+A disciplina também contribui para que o aluno sinta-se mais próximo do
+dia-a-dia da atuação profissional de Engenheiros.
+2021-PAE4CApágina 3 de 9
+----------------Page (2) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+BACKES, André. Linguagem C: completa e descomplicada.  Rio de Janeiro:
+Elsevier, c2013. 371 p.  ISBN 9788535268553.
+BOYLESTAD, Robert; NASHELSKY, Louis. Dispositivos eletrônicos e teoria de
+circuitos. 8. ed.  Rio de Janeiro, RJ: Pearson Prentice Hall, 2004. 672 p. 
+ISBN 9788587918222.
+CAPUANO, Francisco Gabriel; MARINO, Maria Aparecida M. Laboratório de
+eletricidade e eletrônica. 11. ed.  São Paulo, SP: Érica, 1995. 302 p.
+MALVINO, Albert Paul. Eletrônica. 4. ed.  São Paulo, SP: Makron Books, 1997. v.
+2.  ISBN 85-346-0455-X.
+MENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e
+lógica de programação para iniciantes. 2. ed.  São Paulo: Novatec, 2014. 328 p.
+ ISBN 97885752224083.
+SUMMERFIELD, Mark. Programação em Python 3: uma introdução completa à linguagem
+Phython.  Rio de Janeiro: Alta Books, 2012. 506 p. (Biblioteca do programador).
+ ISBN 9788576083849.
+Bibliografia Complementar:
+ARKIN, Ronald  C. Behavior-based robotics.  Cambridge, Massachusetts: Mit
+Press, 1998. 491 p. (Intelligent Robots and Autonomous Agents).  ISBN
+0262011654.
+MONK, Simon. Programando com o Raspberry Pi: primeiros passos com Python.  São
+Paulo: Novatec, 2013. 190 p.  ISBN 9788575223574.
+MURPHY, Robin R. Introduction to AI robotics.  Cambridge, Massachusetts: Mit
+Press, 2000. 466 p. (Intelligent Robots and Autonomous Agents).  ISBN
+0262133830.
+McGUGAN, Will. Beginning game development with Python and Pygame: from novice
+to professional.  Berkeley: Apress, 2007. 316 p.  ISBN 139781590598726.
+RICHARDSON, Matt; WALLACE, Shawn. Primeiros passos com Raspberry Pi.  São
+Paulo: Novatec, 2013. 192 p.  ISBN 9788575223451.
+SIEGWART, Roland; NOURBAKHSH, Illah R. Introduction to autonomous mobile
+robots.  Cambrige, Mass: Mit Press, 2004. 321 p. (Intelligent Robotics and
+Autonomous Agents).  ISBN 026219502X.
+2021-PAE4CApágina 4 de 9
+----------------Page (3) Break----------------
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Os softwares necessários para a disciplina serão definidos de acordo com a
+necessidade de cada atividade proposta.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A disciplina Projetos e Atividades Especiais é formada por um conjunto de
+atividades específicas de livre escolha, oferecidas aos alunos dos cursos de
+Engenharia conforme calendário próprio.
+Para ser aprovado, o aluno deverá cumprir a carga horária estabelecida de
+acordo com cada atividade específica desenvolvida na disciplina e somar o total
+da carga horária estabelecida para a disciplina Projetos e Atividades
+Especiais. 
+Todas as atividades relacionadas deverão estar suportadas por documentação
+comprobatória a ser entregue a cada professor da atividade específica da
+disciplina.
+As atividades serão validadas pelo professor da atividade específica recebendo
+a qualificação "cumprido" (C) ou "não cumprido" (NC).
+2021-PAE4CApágina 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Sobre diversidade:
+O desenvolvimento das atividades desta disciplina compõe um processo de
+aprendizagem onde você será tratado com respeito. São bem-vindos indivíduos de
+todas as idades, origens, crenças, etnias, gêneros, identidades de gênero,
+expressões de gênero, origens nacionais, afiliações religiosas, orientações
+sexuais e outras diferenças visíveis e não visíveis. Espera-se que todos os
+matriculados nesta disciplina contribuam para um ambiente respeitoso, acolhedor
+e inclusivo para todos.
+2021-PAE4CApágina 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Anderson Harayashiki Moreira
+ Responsável pela Disciplina
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-PAE4CApágina 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LPrograma de Recepção e Integração dos Calouros (PRINT).   0
+  2 LDivulgação das atividades oferecidas no primeiro semestre.   0
+  3 LDivulgação das atividades oferecidas no primeiro semestre.   0
+  4 LPeríodo de inscrição nas atividades do primeiro semestre.   0
+  5 LAcerto de inscrições nas atividades do primeiro semestre.   0
+  6 LAcompanhamento das atividades e projetos.   91% a
+100%
+  7 LAcompanhamento das atividades e projetos.   91% a
+100%
+  8 LAcompanhamento das atividades e projetos.   91% a
+100%
+  9 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 10 LPeríodo de provas P1.   0
+ 11 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 12 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 13 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 14 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 15 LSemana de Inovação Mauá - SMILE 2020.   0
+ 16 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 17 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 18 LFechamento das atividades do primeiro semestre.   0
+ 19 LPeríodo de provas P2.   0
+ 20 LPeríodo de provas P2.   0
+ 21 LFechamento das atividades do primeiro semestre.   0
+ 22 LPeríodo de provas PS1.   0
+ 23 LApresentação das atividades e projetos do segundo semestre.   0
+ 24 LPeríodo de inscrição nas atividades do segundo semestre.   0
+ 25 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 26 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 27 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 28 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 29 LPeríodo de provas P3.   0
+2021-PAE4CApágina 8 de 9
+----------------Page (7) Break----------------
+ 30 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 31 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 32 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 33 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 34 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 35 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 36 LAcompanhamento das atividades e projetos.   91% a
+100%
+ 37 LPeríodo de provas P4.   0
+ 38 LPeríodo de provas P4.   0
+ 39 LFechamento das atividades do segundo semestre.   0
+ 40 LFechamento das atividades do segundo semestre.   0
+ 41 LPeríodo de provas PS2.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-PAE4CApágina 9 de 9
+----------------Page (8) Break----------------

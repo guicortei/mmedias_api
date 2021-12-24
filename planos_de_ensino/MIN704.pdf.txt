@@ -1,0 +1,213 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Negócios e DecisõesMIN704
+Course:
+Business and Decisions
+Materia:
+Periodicidade: SemestralCarga horária total: 40Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Administração4Matutino
+Administração4Noturno
+Engenharia de Alimentos5Diurno
+Engenharia de Controle e Automação5Diurno
+Engenharia de Controle e Automação6Noturno
+Engenharia de Controle e Automação5Noturno
+Engenharia de Computação5Diurno
+Engenharia Civil5Diurno
+Engenharia Civil6Noturno
+Engenharia Civil5Noturno
+Design4Matutino
+Design4Noturno
+Engenharia Eletrônica5Diurno
+Engenharia Eletrônica6Noturno
+Engenharia Elétrica6Noturno
+Engenharia Elétrica5Diurno
+Engenharia Mecânica5Diurno
+Engenharia Mecânica6Noturno
+Engenharia Mecânica5Noturno
+Engenharia de Produção6Noturno
+Engenharia de Produção5Diurno
+Engenharia de Produção5Noturno
+Engenharia Química6Noturno
+Engenharia Química5Diurno
+Engenharia Química5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Alcides Carlos de AraújoBacharel em AdministraçãoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Alcides Carlos de AraújoBacharel em AdministraçãoDoutor
+Tiago Sanches da SilvaEngenheiro em Elétrica e EletrônicaMestre
+2021-MIN704página 1 de 8
+----------------Page (0) Break----------------
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+O futuro da Inteligência Artificial no mundo dos negócios.
+Políticas para o uso responsável de dados e Inteligência Artificial nas
+empresas.
+Dados e Ciência de dados como um ativo estratégico.
+Cultura orientada a dados.
+Exemplos de casos de negócios baseados em dados.
+Palestras de convidados (profissionais de mercados envolvidos com empresas
+orientadas a dados).
+Projeto de desenvolvimento de produto com dados.
+SYLLABUS
+The future of the Artificial Intelligence in Business;
+Policies for responsible use of data and Artificial Intelligence in Business;
+Data and Data Science as a strategic asset;
+Data driven culture;
+Examples about business cases based in data analysis;
+Lectures (market professionals involved in data driven business);
+Project development of a data product;
+TEMARIO
+El futuro de la Inteligencia Artificial en los negocios;
+Políticas para el uso responsable de los datos y la Inteligencia Artificial en
+los negocios;
+Datos y ciencia de datos como un activo estratégico;
+Cultura basada en datos;
+Ejemplos sobre casos de negocio basados en análisis de datos;
+Conferencias (profesionales del mercado involucrados en negocios basados en
+datos);
+Desarrollo de proyectos de un producto de datos;
+2021-MIN704página 2 de 8
+----------------Page (1) Break----------------
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+NA
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Análise de DadosAnálise de Negócios
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Esta disciplina consiste em conectar dados e decisões de negócios. O principal
+objetivo é elucidar aos alunos por que certas decisões precisam ser baseadas em
+dados. Nesta disciplina o aluno será desafiado a observar a relação dos dados
+em outras dimensões da sociedade, sendo abordados conceitos como
+responsabilidade do uso de Inteligência Artificial, Privacidade de dados,
+impacto nas decisões e empregabilidade nas empresas e cultura digital. O aluno
+será capaz de alinhar os conceitos técnicos aprendidos com os objetivos de
+criação de valor por meio de dados, além de desenvolver habilidades para
+comunicação de resultados analíticos.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+A disciplina envolve aulas teóricas expositivas com utilização de equipamento
+multimídia e aulas práticas com resolução de cases de áreas de negócios
+envolvidas com dados
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  
+2021-MIN704página 3 de 8
+----------------Page (2) Break----------------
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+Responsabilidade do uso de Inteligência Artificial
+Privacidade de dados
+Cultura digital
+Comunicação de resultados analíticos
+BIBLIOGRAFIA
+Bibliografia Básica:
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Microsoft Office
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Trab. 1: Resolução de case
+Trab. 2: Resolução de case
+Trab. 3: Projeto final: criação de uma área de dados numa empresa.
+2021-MIN704página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-MIN704página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Alcides Carlos de Araújo
+ Responsável pela Disciplina
+  
+ Prof.(a) Angelo Sebastiao Zanini
+ Coordenador do Curso de Engenharia de Computação
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+ Prof.(a) Claudia Alquezar Facca
+ Coordenador(a) do Curso de Design
+  
+ Prof.(a) David Garcia Penof
+ Coordenador do Curso de Engenharia de Produção
+  
+ Prof.(a) Edval Delbone
+ Coordenador(a) do Curso de Engenharia Elétrica
+  
+ Prof.(a) Eliana Paula Ribeiro
+ Coordenador(a) do Curso de Engenharia de Alimentos
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+ Prof.(a) Luciano Gonçalves Ribeiro
+ Coordenador(a) do Curso de Engenharia Química
+  
+ Prof.(a) Ricardo Balistiero
+ Coordenador(a) do Curso de Administração
+  
+ Prof.(a) Sergio Ribeiro Augusto
+ Coordenador do Curso de Engenharia Eletrônica
+2021-MIN704página 6 de 8
+----------------Page (5) Break----------------
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-MIN704página 7 de 8
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+ 22 L- PSub 1   0
+ 23 L- PSub 1   0
+ 24 LVisão geral do conteúdo da disciplina   0
+ 25 LInteligência artificial nos negócios   1% a 10%
+ 26 LDados como um ativo estratégico (valor da informação)   11% a 40%
+ 27 LTrab. 1: Resolução de case de negocio   91% a
+100%
+ 28 LÉtica nos dados   1% a 10%
+ 29 LPolíticas e Leis voltadas a Inteligência Artificial   1% a 10%
+ 30 L- P3   0
+ 31 LApresentação de convidados   0
+ 32 LApresentação de convidados   0
+ 33 LTrab. 2: Resolução de case de negocio   91% a
+100%
+ 34 LPrincípios de uma negócio baseado em dados   1% a 10%
+ 35 LPontos de avaliação de um projeto de Data Science   11% a 40%
+ 36 L- Eureka   0
+ 37 LCriação de uma equipe de dadosInício da preparação do projeto
+final
+   91% a
+100%
+ 38 L- P4   0
+ 39 L- P4   0
+ 40 LTrab. 3: Apresentação final dos projetos   91% a
+100%
+ 41 L- PSub 2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-MIN704página 8 de 8
+----------------Page (7) Break----------------

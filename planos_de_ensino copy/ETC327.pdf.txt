@@ -1,0 +1,250 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+PontesETC327
+Course:
+BRIDGES
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 02 - 00
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Civil6Noturno
+Engenharia Civil5Diurno
+Engenharia Civil5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Sander David Cardoso JúniorEngenheiro CivilMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Sander David Cardoso JúniorEngenheiro CivilMestre
+MODALIDADE DE ENSINO
+Presencial: 0%
+Mediada por tecnologia: 100%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+- Projeto: 10%
+EMENTA
+Introdução: evolução histórica das pontes. Sistemas estruturais e Métodos
+construtivos em pontes, superestrutura, mesoestrutura e infraestrutura. Tipos
+estruturais. Noções de concepção. Materiais de construção. Comportamento
+estrutural e teorias de cálculo. Pontes em viga simples e múltiplas. Estruturas
+de concreto protendido. Representação da protensão no projeto. Projeto de uma
+superestrutura em grelha com vigas protendidas. Mesoestrutura e infraestruturas
+de pontes. Dimensionamento de aparelhos de apoio.
+SYLLABUS
+Introduction: historical evolution of bridges. Structural systems and
+Constructive methods in bridges, superstructure, mesostructure and
+infrastructure. Structural types. Design notions. Construction Materials.
+Structural behavior and calculation theories. Single and multiple beam bridges.
+Precast concrete structures. Representation of the prestressing in the project.
+Design of a grid superstructure with prestressed beams. Mesostructure and
+infrastructures of bridges. Dimensioning of support devices.
+2021-ETC327página 1 de 8
+----------------Page (0) Break----------------
+TEMARIO
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Matemática: Conceitos de Derivada e Integral;
+Física: Conceitos de estática, composição e projeção de forças;
+Materiais de Construção: Características fisícas dos materiais de construção;
+Resistência dos Materiais: Conceito de características geométricas de seções
+transversais, ações externas, diagramas de esforços solicitantes e tensões;
+Teoria das Estruturas: Conhecimento sobre comportamento de estruturas sob ação
+de cargas móveis, linhas de influência, determinação de esforços solicitantes;
+Mecânica dos solos, Fundações e Obras de Terra: Conceitos sobre capacidade de
+resistência do solo, empuxos de terra, recalques de fundação;
+Concreto Armado e Concreto Protendido: Conhecimento sobre deformabilidade das
+estruturas de concreto, dimensionamento de seções das peças e detalhes
+construtivos;
+Estradas: Definição de larguras, superelevações, cargas móveis, gabaritos
+urbanos e de estradas e elementos de segurança;
+Portos, Rios e Canais: Conhecimento sobre o efeito da correnteza sobre
+fundações dentro da água, proteção nas margens contra o efeito das ondas.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+- Conhecer o comportamento de estruturas sob ação de grandes solicitações;-
+Compreender e aplicar as normas e critérios de cálculos para obras de arte
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+C1 - Evolução histórica;
+C2 - Implantação de obras de arte;
+C3 - Classificação de sistemas estruturais;
+C4 - Definição de partes componentes;
+C5 - Características geométricas;
+C6 - Tipos de superestrutura;
+C7 - Tipos de meso e infraestrutura;
+C8 - Normas e critérios de cálculo;
+C9 - Métodos Construtivos de pontes
+Habilidades:
+H1 - Implantar obras de arte nas vias de comunicação para transpor os mais
+variados tipos de obstáculos;
+H2 - Conhecer o comportamento de estruturas sob ação de grandes solicitações;
+H3 - Projetar obras de arte de acordo com finalidade especifica;
+H4 - Avaliar a viabilidade econômica e técnica na implantação de obras de arte.
+Atitudes:
+A1- Responsabilizar-se pela segurança de obras, tanto no projeto como na
+execução;
+A2 - Buscar aperfeiçoamento tecnológico, tanto em projeto como em construção;
+A3 - Preocupar-se com os impactos ambientais produzidos pela implantação de
+obras de arte.
+2021-ETC327página 2 de 8
+----------------Page (1) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Exercício - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Project Based Learning
+- Peer Instruction (Ensino por pares)
+METODOLOGIA DIDÁTICA
+As aulas teóricas são expositivas com utilização dos recursos de multimídia e
+discussão de alternativas de solução para casos concretos de projeto;
+As aulas práticas são complementadas com execução de exercícios e projetos que
+são desenvolvidos com acompanhamento direto do professor. Visitas técnicas a
+obras
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  
+ Peso de MP(kP): 0,7          Peso de MT(kT): 0,3
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+O projeto de pontes permite ao aluno aplicar na prática os conhecimentos
+adquiridos nas disciplinas de Topografia, Materiais de Construção, Resistência
+dos Materiais, Teoria das Estruturas, Mecânica dos Solos, Fundações, Concreto
+Armado e Protendido, Estruturas de Madeira, Estruturas Metálicas, Rodovias,
+Portos, Rios e Canais.
+Contribui para o desenvolvimento da sensibilidade para o comportamento de
+estruturas sob ações variáveis, envolvendo esforços solicitantes e deformações
+de intensidades maiores que os encontrados usualmente em edificações.
+BIBLIOGRAFIA
+Bibliografia Básica:
+FREITAS, Moacyr de. Infra-estrutura de pontes de vigas: distribuição de ações
+horizontais, método geral de cálculo.  São Paulo, SP: IMT/Edgard Blücher, 2001.
+93 p.  ISBN 85-212-0290-3.
+MASON, Jayme. Pontes em concreto armado e protendido: princípios do projeto e
+cálculo.  Rio de Janeiro, RJ: LTC, 1977. 305 p.
+2021-ETC327página 3 de 8
+----------------Page (2) Break----------------
+PFEIL, Walter. Pontes em concreto armado: elementos de projeto, solicitações,
+dimensionamento.  Rio de Janeiro, RJ: LTC, 1979. 433 p.
+Bibliografia Complementar:
+LEONHARDT, Fritz; MONNIG, E. Construções de concreto. Tradução de David
+Fridman.  Rio de Janeiro, RJ: Interciência, 1977. v. 6.
+VASCONCELOS, Augusto Carlos de. Pontes brasileiras: viadutos e passarelas
+notáveis.  São Paulo, SP: Pini, 1993. 614 p.  ISBN 85-7266-021-6.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Ftool (https://www.ftool.com.br/Ftool/)
+SECC (https://www.tqs.com.br/apps/secc/lzk6uydlyx)
+PCALC (https://www.tqs.com.br/apps/p-calc/ejm1se496l)
+TRUSCH(https://www.tqs.com.br/apps/t-rusch/a6q52fh86z)
+SCAPE (https://www.tqs.com.br/apps/scape/6ho2q2ejzy)
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+As provas serão realizadas de forma online através Open LMS
+2021-ETC327página 4 de 8
+----------------Page (3) Break----------------
+OUTRAS INFORMAÇÕES
+2021-ETC327página 5 de 8
+----------------Page (4) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Sander David Cardoso Júnior
+ Responsável pela Disciplina
+  
+ Prof.(a) Cassia Silveira de Assis
+ Coordenador(a) do Curso de Engenharia Civil
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ETC327página 6 de 8
+----------------Page (5) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 EPrograma de Recepção e Integração dos Calouros (PRINT)   
+  2 EDia não letivo - CARNAVAL   
+  3 EIntrodução: Evolução histórica das pontes, Sistemas Estruturais
+empregados em pontes e definição das partes componentes
+   
+  4 EAções em pontes e viadutos (Superestrutura)   
+  5 ELinhas de Influência para obtenção de esforços máximos e mínimos   
+  6 ECálculo de esforços solicitantes devidos a cargas móveis   
+  7 EEsforços solicitantes nas vigas principais devidos às cargas
+permanentes
+   
+  8 EDimensionamento à flexão simples em vigas de concreto armado com
+verificação de fadiga
+   
+  9 EDimensionamento cisalhamento em vigas de concreto armado com
+verificação de fadiga
+   
+ 10 EAvaliação Escolar da P1   
+ 11 EDistribuição de cargas em ponte com múltiplas longarinas e
+transversinas intermediárias
+   
+ 12 EDistribuição de cargas em ponte com múltiplas longarinas e
+transversinas intermediárias (Exercício carga móvel)
+   
+ 13 EDistribuição de cargas em ponte com múltiplas longarinas e
+transversinas intermediárias (Exercício carga permanente)
+   
+ 14 EPré-dimensionamento e traçado dos cabos para longarinas
+protendidas
+   
+ 15 ESMILE   
+ 16 ECálculo das perdas de protensão (Perdas imediatas)   
+ 17 ECálculo das perdas de protensão (Perdas progressivas)   
+ 18 EEstado limite último para seções em concreto protendido
+(ELU-Flexão e ELU-Cisalhamento)
+   
+ 19 EAvaliação Escolar da P2 - ENG   
+ 20 EAvaliação Escolar da P2 - ENG   
+ 21 EAtendimento aos alunos   
+ 22 EAvaliação Escolar da PS1   
+ 23 EDistribuição de cargas em ponte sem múltiplas longarinas e
+transversinas intermediárias
+   
+ 24 EDistribuição de cargas em ponte sem múltiplas longarinas e
+transversinas intermediárias (Exercício carga móvel)
+   
+ 25 EDistribuição de cargas em ponte sem múltiplas longarinas e
+transversinas intermediárias (Exercício carga permanente)
+   
+ 26 EMétodos simplificados para esforços em lajes devido a cargas
+móveis (Ábacos de Homberg)
+   
+ 27 EDia não Letivo   
+ 28 EMétodos simplificados para esforços em lajes devido a cargas
+móveis (Tabelas de Rüsch)
+   
+ 29 EAvaliação Escolar da P3   
+ 30 EDistribuição de esforços meso e infraestrutura (Teoria)   
+2021-ETC327página 7 de 8
+----------------Page (6) Break----------------
+ 31 EDistribuição de esforços meso e infraestrutura (Exercício - Parte
+1)
+   
+ 32 EDistribuição de esforços meso e infraestrutura (Exercício - Parte
+2)
+   
+ 33 EDistribuição de esforços meso e infraestrutura (Exercício - Parte
+3)
+   
+ 34 EDimensionamento de aparelhos de apoio de elastômero fretado
+(Teoria)
+   
+ 35 EDia não Letivo   
+ 36 EDimensionamento de aparelhos de apoio de elastômero fretado
+(Exercício)
+   
+ 37 EAvaliação Escolar da P4   
+ 38 EAvaliação Escolar da P4   
+ 39 EAtendimento aos alunos   
+ 40 EAtendimento aos alunos   
+ 41 EAvaliação Escolar da PS2   
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ETC327página 8 de 8
+----------------Page (7) Break----------------

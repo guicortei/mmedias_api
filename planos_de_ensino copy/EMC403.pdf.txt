@@ -1,0 +1,420 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Controle de ProcessosEMC403
+Course:
+Processes Control
+Materia:
+Control de Procesos
+Periodicidade: AnualCarga horária total: 160Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica5Noturno
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Alessandra Dutra CoelhoEngenheiro EletricistaDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Alessandra Dutra CoelhoEngenheiro EletricistaDoutor
+Paulo Alexandre MartinEngenheiro EletricistaDoutor
+Wânderson de Oliveira AssisEngenheiro Eletricista IndustrialDoutor
+MODALIDADE DE ENSINO
+Presencial: 50%
+Mediada por tecnologia: 50%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Processos Contínuos: Introdução aos Sistemas de Controle de Processos 
+Contínuos. Transformada de Laplace. Soluções de Equações Diferenciais 
+aplicando Transformadas de Laplace. Sistemas de 1ª e 2ª ordem – Caracterização 
+dos Parâmetros (freqüência natural, amortecimento, etc.) Caracterização de 
+Respostas Transitórias. Estabilidade. Sistemas em Malha Fechada (Conceituação, 
+Determinação da Função de Transferência). Análise do Lugar das Raízes. 
+Especificação do Sistema de Controle. Controladores PID. Descrição, Projeto, 
+Sintonia. Processos a Eventos Discretos: Introdução ao Controle de Processos a 
+Eventos Discretos. Modelagem e Simulação de Controle de Sistemas a Eventos 
+Discretos. Aplicação em Circuitos Pneumáticos ( Sensores, Atuadores e Válvulas 
+de Controle Pneumático). Aplicação em Circuitos Hidráulicos ( Sensores, 
+Atuadores e Válvulas de Controle Pneumático). Aplicação de CLP para Automação 
+Eletro-pneumática e Eletro-hidráulica.
+2021-EMC403página 1 de 11
+----------------Page (0) Break----------------
+SYLLABUS
+Continuous Processes: Introduction to control systems of continuous processes.
+Laplace transform. Solutions of differential equations by applying Laplace
+transform. Systems of first and second order. Characterization of parameters
+(natural frequency,
+damping, etc.). Characterization of transient responses. Stability. Closed Loop
+systems (conceptualization, determination of the transfer function). Root Locus
+analysis. Specification of the control system. PID controllers: description,
+design and
+tuning. Discrete Event Processes: Introduction to control of discrete event
+processes. Modeling and simulation of the control of discrete event systems.
+Application in
+pneumatic circuits (sensors, actuators and pneumatic control valves).
+Application for hydraulic circuits (sensors, actuators and hydraulic control
+valves). Application of PLC in Automation Systems. Electro-pneumatic and
+electro-hydraulic.
+TEMARIO
+Procesos continuos: Introducción al Sistema de Control de Procesos Continuos.
+Transformada de Laplace. Soluciones de ecuaciones diferenciales mediante la
+aplicación de transformadas de Laplace. Sistemas de primeira y segunda orden.
+Caracterización de los parámetros (frecuencia natural, amortiguación, etc.)
+Caracterización de la respuesta de transitorios. Estabilidad. Sistemas de
+realimentación (conceptualización, determinación de la función de
+transferencia).
+Análisis del lugar de las raíces. Especificación del sistema de control.
+Controladores PID. Descripción, diseño, sintonización. Procesos de eventos
+discretos: Introducción al Proceso de control de eventos discretos. Modelado y
+simulación de Control de Sistemas de Eventos Discretos. Aplicación en circuitos
+neumáticos (sensores, actuadores y válvulas neumáticas de control). Aplicación
+para circuitos hidráulicos sensores, actuadores y válvulas hidráulicas de
+control). Aplicación de PLC en sistemas de automatización. Electro-neumática y
+electro-hidráulica.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Conteúdos e habilidades necessárias para o bom acompanhamento da disciplina:
+- Leitura e interpretação de Desenho Técnico; 
+- Conceitos básicos de Cálculo Diferencial e Integral;
+- Conceitos básicos de Elementos de Construção de Máquinas;
+- Conceitos de Mecânica dos Fluídos : pressão, vazão, perda de carga e  
+viscosidade;
+- Conceitos básicos de modelagem de sistemas mecânicos;
+- Conceitos básicos de Eletricidade;
+- Leitura e interpretação de texto.
+2021-EMC403página 2 de 11
+----------------Page (1) Break----------------
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1 - Capacidade de entender, interpretar, projetar e analisar sistemas de
+controle de processos industriais utilizando controladores clássicos.2 -
+Capacidade de entender, interpretar, projetar e analisar sistemas de automação
+utilizando controladores lógicos programáveis.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos:
+1- Métodos de modelagem de sistemas físicos dinâmicos;
+2- Métodos de representação matemática de sistemas físicos através de equações 
+diferenciais;
+3- Soluções de equações diferenciais através da aplicação de Transformada de 
+Laplace;
+4- Métodos de análise temporal de sistemas dinâmicos;
+5- Métodos de análise de estabilidade de sistemas dinâmicos;
+6- Método de identificação de sistemas dinâmicos através de sua resposta 
+temporal;
+7- Conceituação teórica de sistemas de controle de processos contínuos;
+8- Conceituação teórica de sistemas de controle de processos a eventos 
+discretos;
+9- Projeto de controladores analógicos (em tempo contínuo) e digitais (em 
+tempo discreto).
+Habilidades:
+1- Desenvolver e aplicar modelos matemáticos e físicos a partir de informações 
+sistematizadas;
+2- Formular e avaliar problemas de engenharia de controle e suas concepções de 
+soluções;
+3- Avaliar criticamente os modelos estabelecidos;
+4- Interpretar resultados de modelos propostos;
+5- Desenvolver raciocínio lógico e matemático;
+6- Desenvolver e/ou utilizar novas ferramentas e técnicas da área de sistemas 
+de controle.
+Atitudes:
+1- Ter auto-crítica para reconhecer os limites dos modelos estabelecidos;
+2- Ter visão sistêmica e interdisciplinar na solução de problemas de controle;
+3- Ter percepção do conjunto e capacidade de síntese;
+4- Ter rigor matemático.
+2021-EMC403página 3 de 11
+----------------Page (2) Break----------------
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Project Based Learning
+METODOLOGIA DIDÁTICA
+Aulas teóricas com exercícios e/ou projetos multidisciplinares. Aulas práticas
+no laboratório utilizando programas da área de controle ("Matlab", "Lab View" e
+"FluidSim"), bancadas didáticas da Festo com CLP e sistemas pneumáticos e
+motores de corrente contínua.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 2,0  k2: 2,5  k3: 3,0  k4: 2,5  
+ Peso de MP(kP): 0,4          Peso de MT(kT): 0,6
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina fornece as ferramentas para modelar e descrever matematicamente 
+os sistemas de controle a variáveis em tempo contínuo e em tempo discreto,  
+bem como analisar o comportamento dinâmico de tais sistemas com o objetivo de 
+projetar controladores. Nesta etapa, o aluno estará capacitado para analisar, 
+aplicar técnicas de projeto e síntese de sistemas de controle realimentados.
+Além destes sistemas, a disciplina apresenta os sistemas a eventos discretos e 
+o seu controle através de controladores programáveis. O aluno aprenderá as 
+linguagens de programação destes controladores aplicados a sistemas 
+pneumáticos e sistemas hidráulicos.
+2021-EMC403página 4 de 11
+----------------Page (3) Break----------------
+BIBLIOGRAFIA
+Bibliografia Básica:
+BONACORSO, Nelso Guaze; NOLL, Valdir. Automação Eletropneumática.6 Ed. São
+Paulo, SP: Érica, 2002. 137p
+DORF, Richard C; BISHOP, Robert H. Sistemas de controle modernos. Trad. de
+Bernardo Severo da Silva Filho. 8. ed. Rio de Janeiro, RJ: LTC, 2001. 659 p.
+NISE, Norman. Engenharia de sistemas de controle. [SILVA FILHO, Bernardo Severo
+da Silva]. 3 ed. São Paulo: LTC, 2002. 695 p.
+OGATA, Katsuhiko. Engenharia de controle moderno. [Título original: Modern
+control engineering]. Trad. Heloísa Coimbra de Souza, rev. téc. Eduardo Aoun
+Tannuri. 5. ed. São Paulo, SP: Pearson, 2010. 809 p.
+Bibliografia Complementar:
+CASTRUCCI, Plínio de Lauro; BITTAR, Anselmo; SALES, Roberto Moura. Controle
+automático. Rio de Janeiro, RJ: LTC, 2011.
+FESTO Didactic. ANÁLISE E MONTAGEM DE SISTEMAS PNEUMÁTICOS (P121). São Paulo, 
+SP : Festo, 1995. 142p.
+FESTO Didactic. INTRODUÇÃO À PNEUMÁTICA; P111. São Paulo, SP : Festo, 1994 93p.
+FIALHO, Arivelto Bustamante. Automação hidráulica: projetos, dimensionamento e
+análise de circuitos. São Paulo, SP: Érica, 2002. 260 p.
+FIALHO, Arivelto Bustamante. Automação pneumática: projetos, dimensionamento e
+análise de circuitos. 7. ed.  São Paulo, SP: Érica, 2011. 324 p.  ISBN
+9788571949614.
+GARCIA, Claudio. Modelagem e simulação de processos industriais e de sistemas
+eletromecânicos. São Paulo, SP: EDUSP, 1997. 458 p. (Acadêmica).
+OGATA, Katsuhiko. Discrete-time control systems. 2. ed. New Jersey: Prentice
+Hall, 1995. 745 p.
+REGAZZI, Rógério Dias; PEREIRA, Paulo Sérgio. Soluções práticas de
+instrumentação e automação: utilizando a programação gráfica LabVIEW. Rio de
+Janeiro: [s.n.], 2005. 456 p.
+2021-EMC403página 5 de 11
+----------------Page (4) Break----------------
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+- Matlab;
+- LabView;
+- Fluidsim;
+- Codesys.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A disciplina está dividida em duas partes:
+- Desenvolvimento de sistemas de controle a variáveis em tempo contínuo e em 
+tempo discreto;
+- Desenvolvimento de sistemas a eventos discretos com ênfase em circuitos 
+pneumáticos e hidráulicos e com controle através de controladores programáveis.
+Serão realizadas atividades experimentais no primeiro semestre sobre sistemas
+de controle a variáveis em tempo contínuo e em tempo discreto e, no segundo
+semestre serão desenvolvidas atividades sobre circuitos pneumáticos,
+hidráulicos e sistemas a eventos discretos. 
+Com relação ao critério de avaliação:
+ T1 - Trabalho / exercícios do 1. bimestre (substitui P1) 
+ T2 - Média dos experimentos do primeiro semestre
+ T3 - Trabalho / exercícios do 3. bimestre (substitui P3)
+ T4 - Média dos experimentos do segundo semestre
+Os pesos relativos destes trabalhos são definidos respectivamente por K1, K2,
+K3 e K4.
+ Os alunos que cursaram a disciplina EMC403 - Controle de Processos e não
+obtiveram aprovação poderão, OPCIONALMENTE, considerar as notas de trabalhos
+obtidas nessas disciplinas em substituição a T2 e T4. Esta opção deverá ser
+informada ao professor responsável pela disciplina na primeira semana de aula,
+por escrito e assinado, utilizando o modelo disponível na página da disciplina.
+O aluno que optar por usar as notas do ano anterior, terá todas as notas de
+laboratório substituídas integralmente, não podendo fazer qualquer tipo de
+substituição parcial ou por bimestre.
+2021-EMC403página 6 de 11
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC403página 7 de 11
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Alessandra Dutra Coelho
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC403página 8 de 11
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LAtividade para a primeira série.   0
+  1 TAtividade para a primeira série.   0
+  2 LApresentação de um sistema de controle
+multidisciplinar.Exercícios sobre controle de processos
+industriais.
+   0
+  2 TApresentação da disciplina: conteúdo da disciplina, critérios de
+avaliação e bibliografia.Introdução ao controle de processos
+industriais.Introdução à modelagem de sistemas. Modelos
+matemáticos de processos físicos.
+   0
+  3 LExercícios sobre sistemas mecânicos, elétricos e eletromecânicos.   0
+  3 TFeriado.   0
+  4 LExercícios sobre transformada de Laplace.   0
+  4 TTransformada de Laplace: definições, propriedades e aplicações. 
+Teorema do valor final.
+   0
+  5 TRepresentação de sistemas: funções de  transferência e diagramas
+de blocos. Definição de pólos e zeros de sistemas. Influência dos
+zeros e conceito do pólo dominante. Estabilidade.
+   0
+  5 LExperiência 1: um curso introdutório sobre o programa Matlab.   11% a 40%
+  6 LExercícios sobre resposta temporal.   0
+  6 TResposta temporal de sistemas: sistemas de primeira, segunda e de
+ordem superior. Comportamento dinâmico de sistemas lineares.
+   0
+  7 TEstabilidade: critério de estabilidade de Routh.   0
+  7 LExperiência 2: Análise de desempenho de sistemas lineares
+utilizando o Matlab.
+   11% a 40%
+  8 TLugar das raízes.   0
+  8 LExperiência 3: Conhecendo e trabalhando com o Simulink.   11% a 40%
+  9 LSemana de Prova.   0
+  9 TSemana de Prova.   0
+ 10 LAtendimento e esclarecimento de dúvida.   0
+ 10 TApresentação e discussão da avaliação P1.Exercícios.   0
+ 11 TFeriado.   0
+ 11 LExperiência 4: Lugar das raízes no Matlab.   11% a 40%
+ 12 TProjeto de compensadores em cascata. Controle On-Off.
+Controladores proporcioal. Controladores PID.
+   0
+ 12 LExperiência 5: Introdução ao LabView.   11% a 40%
+ 13 TProjeto de controladores PID: procedimentos de projeto. Método da
+tentativa e erro. Projeto baseado no lugar das raízes.
+   0
+ 13 LExperiência 6: Modelagem de motor CC - uma aplicação
+multidisciplinar.
+   11% a 40%
+ 14 TSintonia de PID pelo método de cancelamento de polos.
+Procedimento de projeto de PID com Matlab.
+   0
+ 14 LExperiência 7: Discretização de Sistemas.   11% a 40%
+ 15 TSemana de Inovação - SMILE.   0
+ 15 LSemana de Inovação - SMILE.   0
+2021-EMC403página 9 de 11
+----------------Page (8) Break----------------
+ 16 TControle digital e transformada Z. Retentor de ordem zero e
+conversor A/D.
+   0
+ 16 LExperiência 8: Controle de Velocidade de motor CC - uma aplicação
+multidisciplinar. Parte 1
+   11% a 40%
+ 17 TAnálise de Sistemas em malha fechada em tempo discreto.   0
+ 17 LExperiência 8: Controle de Velocidade de motor CC - uma aplicação
+multidisciplinar. Parte 2
+   11% a 40%
+ 18 LFinalização dos trabalhos.   0
+ 18 TLista de exercícios.   0
+ 19 LSemana de prova.   0
+ 19 TSemana de prova.   0
+ 20 LSemana de prova.   0
+ 20 TSemana de prova.   0
+ 21 TResolução e vista de prova.   0
+ 21 LVista das notas de trabalhos e atendimento aos alunos.   0
+ 22 LSem atividades. Semana com aula apenas no sábado.   0
+ 22 TSem atividades. Semana com aula apenas no sábado.   0
+ 23 TSemana de provas substitutivas.   0
+ 23 LSemana de provas substitutivas.   0
+ 24 LApresentação do laboratório de pneumática e dos principais
+elementos da pneumática.Vídeo: Introdução à Pneumática.
+Demonstrar componentes pneumáticos nas bancadas. Montagens
+simples.
+   0
+ 24 TIntrodução aos sistemas pneumáticos: componentes e funcionamento.
+Especificação e dimensionamento. Compressores. Produção e
+distribuição de ar comprimido. Unidade de conservação. Cilindros
+atuadores. Válvulas direcionais.
+   1% a 10%
+ 25 TExemplos de circuitos pneumáticos.Circuitos pneumáticos. Diversos
+tipos de válvulas especiais. Exemplos de aplicações.
+   0
+ 25 LIntrodução ao FluidSim.Exp. 1 - Exercícios sobre circuitos
+pneumáticos com o FluidSim.
+   41% a 60%
+ 26 TAutomação pneumática e eletropneumática.Circuitos pneumáticos e
+eletropneumáticos. Notação. Representação com diagramas
+trajeto-passo, trajeto-tempo e métodos de montagem.Montagem de
+aplicações pelo método intuitivo. Exemplos.
+   0
+ 26 LExp. 2 - Exercícios sobre circuitos pneumáticos com o FluidSim.   41% a 60%
+ 27 TCircuitos pneumáticos: método intuitivo. Exemplos e exercícios.   0
+ 27 LExp. 3 - Montagem de circuitos pneumáticos pelo método intuitivo.
+Aplicação do método intuitivo.
+   41% a 60%
+ 28 TSemana com feriado - Independência do Brasil.   0
+ 28 LExp. 4 - Projeto de circuitos pneumáticos pelo método intuitivo.
+Aplicação do método intuitivo. Montagem prática.
+   41% a 60%
+ 29 TCircuitos pneumáticos: método cascata. Exemplos e exercícios.   0
+ 29 LExp. 5 - Projeto de circuitos pneumáticos pelo método cascata.
+Montagem prática. Aplicação do método cascata. Simulação no
+FluidSim.
+   41% a 60%
+2021-EMC403página 10 de 11
+----------------Page (9) Break----------------
+ 30 LSemana de provas (P3).   0
+ 30 TSemana de provas (P3).   0
+ 31 TApresentação e discussão da avaliação P3.Circuitos pneumáticos:
+método cascata x passo a passo. Outros exemplos e exercícios.
+   0
+ 31 LExp. 6 - Projeto de circuitos pneumáticos pelo método cascata.
+Montagem prática. Aplicação do método cascata.
+   41% a 60%
+ 32 LExp. 7 - Projeto de circuitos pneumáticos pelo método passo a
+passo. Aplicação do método passo a passo.
+   0
+ 32 TCircuitos pneumáticos: método passo a passo. Exercícios e
+aplicações.
+   0
+ 33 TSemana com feriado - Nossa Senhora Aparecida.   0
+ 33 LVídeo: Introdução à Hidráulica.Demonstração de circuitos
+hidráulicos básicos no FluidSim.Montagem de circuitos hidráulicos
+na bancada de hidráulica.
+   11% a 40%
+ 34 LIntrodução à programação em Ladder no CLP Festo. Software
+CodeSys.Demonstrar a utilização e aplicação.
+   0
+ 34 TSistemas hidráulicos: concepção, equipamentos e
+características.Dimensionamento de sistemas hidráulicos. Sala de
+aula invertida: Circuitos hidráulicos: série e paralelo.
+Circuitos sequenciais e regenerativos.
+   41% a 60%
+ 35 TControladores lógicos programáveis: características, arquitetura,
+programação e linguagens.Projeto: Sistema de Controle de Nível.
+   0
+ 35 LExperiência 8 - Sistema Automático de Furação de Peças.   91% a
+100%
+ 36 TSemana com feriado. Finados.   0
+ 36 LSemana sem atividades. Na segunda-feira feriado de finados. Na
+sexta-feira: Eureka.
+   0
+ 37 TLinguagem de programação de CLP: revisão de lógica e diagrama
+Ladder.Exemplos de aplicação: Reversão do Sentido de Circulação
+de Veículo Acionado por Motor de Indução.
+   0
+ 37 LExperiência 9 - Aplicação: Semáforo.   91% a
+100%
+ 38 LSemana de provas (P4).Na turma de segunda-feira: Experiência 8 -
+Sistema Automático de Furação de Peças.
+   0
+ 38 TExemplo de aplicação: Sistema de Identificação e Contagem de
+Peças.Exercícios e revisão de conceitos.
+   0
+ 39 TSemana de provas (P4).   0
+ 39 LSemana de Provas (P4).   0
+ 40 TApresentação e discussão da prova P4.Atendimento e esclarecimento
+de dúvidas.
+   0
+ 40 LAtendimento e esclarecimento de dúvidas.Na turma de
+segunda-feira: Experiência 9 - Aplicação: Semáforo.
+   0
+ 41 TSemana de provas substitutivas.   0
+ 41 LSemana de provas substitutivas.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC403página 11 de 11
+----------------Page (10) Break----------------

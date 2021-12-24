@@ -1,0 +1,329 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Máquinas de FluxoEMC613
+Course:
+Flow Machines
+Materia:
+Máquinas de Flujo
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 01 - 00 - 01
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica5Noturno
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+João de Sa Brasil LimaEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+João de Sa Brasil LimaEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 70%
+Mediada por tecnologia: 30%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+- Evento: 10%
+EMENTA
+Máquinas de transformação de energia: máquinas de fluxo, volumétrica e
+especiais; grandezas associadas, modelo para máquinas de fluxo; parâmetros de
+seleção de máquinas de fluxo; associação de rotores; equação fundamental das
+máquinas de fluxo; triângulo de velocidades; curvas características e teoria de
+semelhança. Cavitação: definição, identificação, análise das instalações,
+cálculo de NPSH. Aproveitamentos hidrelétricos: potência instalada, elementos;
+instalações reversíveis; tipos de turbinas; transformação de energia; triângulo
+de velocidades; impactos ambientais. Sistemas de recalque: instalações, perda
+de carga; curva do sistema; curvas características; ponto e controle de
+operação; aspectos construtivos; válvulas; dimensionamento de instalações.
+Ventiladores: tipos; curvas características. Energia eólica: potencial
+energético do vento; tipos de turbinas; vantagens e desvantagens; coeficiente
+de potência; projeto de turbinas eólicas de eixo horizontal. Dinâmica de
+Fluidos Computacional: conceitos, etapas; simulação de máquinas de fluxo.
+2021-EMC613página 1 de 10
+----------------Page (0) Break----------------
+SYLLABUS
+Energy transformation machinery: flow, volumetric and special machinery;
+associated quantities model for flow machines; flow machine selection
+parameters; association of rotors; fundamental equation of flow machines;
+triangle of speeds; characteristic curves and similarity theory. Cavitation:
+definition, identification, analysis of facilities, calculation of NPSH.
+Hydroelectric plants: installed power, elements; reversible installations;
+types of turbines; energy transformation; triangle of speeds; environmental
+impacts. Pumping plants: installations, loss of load; system curve;
+characteristic curves; point and operation control; constructive aspects;
+valves; sizing of facilities. Fans: types; characteristic curves. Wind energy:
+wind energy potential; types of turbines; advantages and disadvantages; power
+coefficient; design of horizontal axis wind turbines. Computational Fluid
+Dynamics: concepts, steps; simulation of flow machines.
+TEMARIO
+Energy transformation machinery: flow, volumetric and special machinery;
+associated quantities model for flow machines; flow machine selection
+parameters; association of rotors; fundamental equation of flow machines;
+triangle of speeds; characteristic curves and similarity theory. Cavitation:
+definition, identification, analysis of facilities, calculation of NPSH.
+Hydroelectric plants: installed power, elements; reversible installations;
+types of turbines; energy transformation; triangle of speeds; environmental
+impacts. Pumping plants: installations, loss of load; system curve;
+characteristic curves; point and operation control; constructive aspects;
+valves; sizing of facilities. Fans: types; characteristic curves. Wind energy:
+wind energy potential; types of turbines; advantages and disadvantages; power
+coefficient; design of horizontal axis wind turbines. Computational Fluid
+Dynamics: concepts, steps; simulation of flow machines.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Máquinas de Fluxo se trata de uma disciplina de aplicação. Em virtude disso,
+são necessários conhecimentos adquiridos em séries anteriores tais como:
+Cálculo Diferencial e Integral, Mecânica dos Fluidos e Termodinâmica. Embora os
+cálculos requeridos na disciplina seja, na sua maioria simples, os
+conhecimentos de cálculo são utilizados principalmente no desenvolvimento do
+equacionamento fundamental de máquinas de fluxo. Ademais, serão importantes nos
+tópicos de energia eólica e dinâmica dos fluidos computacional para que os
+alunos compreendam a ideia central dos métodos utilizados em CFD. Já os
+conhecimentos de Mecânica dos Fluidos serão os mais requeridos ao longo da
+disciplina. Dentre eles, destacam-se: propriedades de fluidos, vazões
+volumétrica e mássica, teorema de transporte de Reynolds e equação de energia.
+2021-EMC613página 2 de 10
+----------------Page (1) Break----------------
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1. Analisar e compreender os usuários das soluções de engenharia e seu
+contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadas em projetos da área de energia e fluidos2. Analisar e compreender
+os fenômenos físicos e químicos por meio de modelos matemáticos, computacionais
+ou físicos, validados por experimentação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS
+C1 - Resgatar conceitos de mecânica de fluidos que serão importantes no estudo
+de máquinas de fluxo
+C2 - Compreender a definição de máquinas de fluxo, suas aplicações e
+classificação
+C3 - Selecionar máquinas de fluxo dadas condições de operação e do sistema
+C4 - Analisar instalações que contenham máquinas hidráulicas
+HABILIDADES
+H1 - Análise de sistemas fluido mecânicos
+H2 - Tratamento de dados
+H3 - Interpretação de gráficos e diagramas
+H4 - Coleta de dados e informações
+H5 - Trabalho em equipe
+H6 - Propor soluções
+ATITUDES
+A1 - Ter postura ativa no aprendizado
+A2 - Respeito com os colegas e professores
+A3 - Ser protagonista da sua formação
+A4 - Questionar quando tiver dúvidas
+A5 - Trabalhar em equipe
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Ensino Híbrido
+- Sala de aula invertida
+- Project Based Learning
+- Problem Based Learning
+- Aprendizagem Mediada por Tecnologia
+2021-EMC613página 3 de 10
+----------------Page (2) Break----------------
+METODOLOGIA DIDÁTICA
+A disciplina será ministrada em aulas que envolverão teoria e exercícios. Antes
+de cada aula, os alunos deverão estudar um material prévio selecionado pelo
+professor e responder curtas questões (uma ou duas) via Moodle sobre o
+material, prática conhecida como sala de aula invertida. Essas questões
+comporão a média de trabalhos da disciplina. Nas aulas, a teoria será
+transmitida utilizando explicações em lousa aliada a recursos audiovisuais tais
+como apresentações em Power Point, vídeos e imagens. Nas aulas em que houver
+resolução de exercícios por parte dos alunos, os mesmos trabalharão em grupos e
+desenvolverão exercícios/problemas sobre o conteúdo visto nas aulas de teoria.
+As notas dos exercícios também comporão a média de trabalhos. Nas aulas sobre
+energia eólica e dinâmica de fluidos computacional (CFD) os alunos utilizarão
+computadores para a solução de exercícios e estudo de casos práticos. No caso
+de CFD, serão utilizados softwares comerciais do pacote ANSYS nos quais o aluno
+será instruído como operar o software e realizar uma simulação de uma máquina
+de fluxo (bomba, compressor ou turbina). Os alunos realizam, condicionado à
+disponibilidade de agenda, visita técnica à Usina Hidrelétrica de Henry Borden,
+localizada em Cubatão, acompanhados do professor da disciplina. Os alunos
+visitam as duas usinas da planta (externa e subterrânea) que operam com
+turbinas Pelton, visualizando in loco o processo de transformação de energia
+hidráulica em elétrica.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 3,0  k4: 2,0  k5: 2,0  k6: 2,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina irá abordar todos os tipos de máquinas de fluxo e visa
+caracterizá-las de modo que o aluno possa identificar todos os tipos dessa
+classe de máquinas. Dentre todas as máquinas de fluxo o enfoque maior será em
+máquinas hidráulicas e eólicas, ao passo que para máquinas térmicas o enfoque
+será apenas no equipamento e seu princípio de funcionamento pois os demais
+aspectos são estudados em outra(s) disciplina(s). Isto posto, com esta
+disciplina o aluno será capaz de avaliar instalações que contenham máquinas de
+fluxo, avaliar o desempenho das mesmas, realizar a seleção e dimensionamento de
+máquinas de fluxo e instalações correlatas. Além disso, a disciplina irá
+apresentar ao aluno abordagens modernas de estudo de escoamento através de
+2021-EMC613página 4 de 10
+----------------Page (3) Break----------------
+máquinas de fluxo como simulações computacionais (CFD). Embora o aluno não se
+torne um especialista em CFD, irá compreender o fluxo de uma simulação
+aprendendo todas as etapas que a compõem. Irá, também, realizar simulações
+máquinas de fluxo, obter e visualizar seus resultados e chegar a conclusões a
+partir dos mesmos. Além disso, o estudante terá um olhar crítico sobre todas as
+formas de energia, suas vantagens e desvantagens nos âmbitos de produção
+energética e ambiental.
+BIBLIOGRAFIA
+Bibliografia Básica:
+LAURIA, Douglas, MÁQUINAS DE FLUXO São Caetano do Sul, 10. ed. [S.I:s.n.],
+2016. 530 p. Apostila
+SOUZA, Z. Projeto de Máquinas de Fluxo - Tomo I - Base Teórica e Experimental,
+Interciência, Rio de Janeiro, 2011
+SOUZA, Z. Projeto de Máquinas de Fluxo - Tomo II - Bombas Hidráulicas com
+Rotores Radiais e Axiais, Interciência, Rio de Janeiro, 2011
+Bibliografia Complementar:
+DIXON, Sydney Lawrence. Fluid mechanics, thermodynamics of turbomachinery. 2.
+ed.  Oxford: Pergamon, 1975. 258 p.
+PFLEIDERER, Carl; PETERMANN, Hartwig. Máquinas de fluxo. Trad. de Ana Lucia
+Serio de Almeida, José Abel Royo dos Santos, Zulcy de Souza.  Rio de Janeiro,
+RJ: LTC, 1979. 454 p.  ISBN 85-216-0028-3.
+SCHREIBER, Gerhard Paul. Usinas hidrelétricas.  São Paulo, SP/Rio de Janeiro,
+RJ: Edgard Blücher, Engevix, 1977. 235 p.
+STEPANOFF, A. J. Centrifugal and axial flow pumps: theory, design, and
+application. 2. ed.  New York: John Wiley, 1966. 462 p.
+TURTON, R. K. Principles of turbomachinery.  London: E & F N, 1984. 199 p.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+ANSYS CFD, Microsoft Excel, XFoil, QBlade
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+A disciplina contará com os seguintes instrumentos de avaliação
+Duas provas (MP) e trabalhos (MT) Dentro do grupo trabalhos, os alunos
+desenvolverão:
+Exercícios em sala de aula - Mex - Peso 1 (k1)
+Quizzes via Moodle antes de cada aula - Mquiz ¿ Peso 1 (k2)
+Debate - Mdeb - Peso 3 (k3)
+2021-EMC613página 5 de 10
+----------------Page (4) Break----------------
+Relatórios de laboratório - Mlab - Peso 2 (k4)
+Projeto integrador - Mint - Peso 2 (k5)
+Exercício de simulação CFD - Mcfd - Peso 2 (k6)
+Peso de MP (kp) = 0,6
+Peso de MT (kt) = 0,4
+A nota MT será multiplicada por um coeficiente x, relativo à presença para as
+atividades via Moodle. Presença na atividade significa resolver as atividades
+Frequencia maior que 80%, X=1
+Frequencia entre 50 e 80%, X=0,3
+Frequencia inferior a 50%,  X=0
+A primeira prova da disciplina será mediada por tecnologia e consistirá na
+resolução de exercícios em duplas, durante tempo determinado, que será
+submetida via Moodlerooms para avaliação do professor. A atividade será
+realizada com o auxílio do Collaborate para que o professor acompanhe os alunos
+e esclareça eventuais dúvidas.
+2021-EMC613página 6 de 10
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC613página 7 de 10
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) João de Sa Brasil Lima
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC613página 8 de 10
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TSemana de Recepção aos Calouros   0
+  2 LApresentação do Curso. Atividade sobre Problemática Energética   41% a 60%
+  3 TMáquinas de Transformação de Energia: Definições, conceitos,
+grandezas emodelo. Características e parâmetros de seleção:
+rotação específica
+   11% a 40%
+  4 LMáquinas de Transformação de Energia: associação de rotores,
+equação da energia, equação fundamental, triângulo de
+velocidades, curvas características (catálogos de fabricantes),
+teoria de semelhança
+   11% a 40%
+  5 TCavitação. Exercícios - Máquinas de Transformação de Energia e
+Cavitação
+   11% a 40%
+  6 LAproveitamentos Hidrelétricos: potência instalada, elementos de
+uma usina, instalações reversíveis, turbinas hidráulicas,
+elementos de turbinas, mancais, análise de formar construtivas
+   11% a 40%
+  7 TAproveitamentos Hidrelétricos: transformação de energia em
+turbinas, triângulo de velocidades em turbinas, máquinas de ação
+e máquinas de reação
+   11% a 40%
+  8 LFERIADO   0
+  9 TExercícios em Grupo - Atividade Peer Learning   91% a
+100%
+ 10 LSEMANA DE PROVAS P1 (Esta disciplina não tem prova aqui)   0
+ 11 TSistemas de recalque: morfologia das instalações, perda de carga
+em condutos, levantamento da curva do sistema. Exemplos
+   1% a 10%
+ 12 LLaboratório - Turbina Pelton   91% a
+100%
+ 13 TLaboratório - Turbina Pelton   91% a
+100%
+ 14 LExercícios sobre sistemas de recalque e dimensionamento de uma
+instalação de bombeamento
+   91% a
+100%
+ 15 TSMILE   0
+ 16 LDEBATE   91% a
+100%
+ 17 TFERIADO   0
+ 18 LRevisão - P1   11% a 40%
+ 19 TSEMANA DE PROVAS P2 - Primeira Prova da Disciplina   91% a
+100%
+ 20 LSEMANA DE PROVAS P2 - Primeira Prova da Disciplina   91% a
+100%
+ 21 LPROVAS SUBSTITUTIVAS (Esta disciplina não tem prova aqui)   0
+ 22 TExercícios sobre sistemas de recalque e dimensionamento de uma
+instalação de bombeamento
+   91% a
+100%
+2021-EMC613página 9 de 10
+----------------Page (8) Break----------------
+ 23 LSistemas de recalque: curvas características de bombas
+hidráulicas de fluxo, curvas para cada tipo de rotor, influências
+externas sobre as curvas, ponto de operação e controle de
+operação,  aspectos construtivos
+   11% a 40%
+ 24 TEnergia eólica: definições, conceitos, cenário brasileiro e
+mundial, tipos de turbinas e escoamento ao redor das pás
+   11% a 40%
+ 25 LConversão de energia em turbinas eólicas e o processo de siting   11% a 40%
+ 26 TExercício: Conversão em turbina eólica, siting   91% a
+100%
+ 27 LVentiladores   11% a 40%
+ 28 TSEMANA DE PROVAS P3 (Esta disciplina não tem prova aqui)   0
+ 29 LLaboratório: Ensaio de Bomba Hidráulica de Fluxo   91% a
+100%
+ 30 TLaboratório: Ensaio de Bomba Hidráulica de Fluxo   91% a
+100%
+ 31 LSimulação de uma bomba hidráulica de fluxo no ANSYS-CFX   61% a 90%
+ 32 TSimulação de um Ventilador no ANSYS-CFX   61% a 90%
+ 33 LSimulação de um Compressor no ANSYS-CFX   61% a 90%
+ 34 TExercício: Simulação de uma bomba hidráulica de fluxo em Ansys   61% a 90%
+ 35 LRevisão - P2   11% a 40%
+ 36 TSEMANA DE PROVAS P4 - Segunda Prova da Disciplina   91% a
+100%
+ 37 LSEMANA DE PROVAS P4 - Segunda Prova da Disciplina   91% a
+100%
+ 38 TDiscussão da P2   0
+ 39 LRevisão - PSUB   11% a 40%
+ 40 TPROVAS SUBSTITUTIVAS - Prova substitutiva da disciplina   91% a
+100%
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC613página 10 de 10
+----------------Page (9) Break----------------

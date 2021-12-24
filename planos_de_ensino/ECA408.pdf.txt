@@ -1,0 +1,300 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Automação e Sistemas IndustriaisECA408
+Course:
+Automation & Industrial Systems
+Materia:
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 00 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia de Controle e Automação4Diurno
+Engenharia de Controle e Automação4Noturno
+Engenharia de Controle e Automação4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Andressa Corrente MartinsEngenheiro AeronáuticaMestre
+Professores:Titulação - GraduaçãoPós-Graduação
+Andressa Corrente MartinsEngenheiro AeronáuticaMestre
+MODALIDADE DE ENSINO
+Presencial: 100%
+Mediada por tecnologia: 0%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Sistemas de controle sequencial lógico: terminologia, definições e histórico.
+Desenvolvimento de  modelos matemáticos e simulação de sistemas de controle
+sequencial lógico. Controladores para sistemas sequenciais lógicos.
+Controladores Lógicos Programáveis (CLP). Programação de CLPs e linguagens de
+sistemas sequenciais. Linguagem Ladder. Linguagem Statement List. Linguagem
+Grafcet e o SFC (Schematic Flow Chart). Sistemas de Supervisão, Controle e
+Aquisição de Dados (SCADA).
+Desenvolvimento prático de projetos de sistemas sequenciais lógicos.
+SYLLABUS
+Sequential systems: terminology, definitions and history. Development of
+mathematical models and simulation of sequential systems. Petri Nets.
+Controllers for sequential systems. Programmable Logic Controllers (PLC). PLC
+programming and languages of sequential systems. Ladder language.
+Statement List Language. Grafcet language and SFC (Schematic Flow Chart).
+Supervisory control and data acquisition (SCADA). Development of practical
+projects of sequential systems. Communication networks used in industrial
+automation: types of networks (Fieldbus, Profibus, Ethernet etc), topology and
+2021-ECA408página 1 de 9
+----------------Page (0) Break----------------
+protocols.
+TEMARIO
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Eletrônica Analógica e Digital Básica: temporização de sinais, contadores,
+lógica combinacional, portas lógicas, conceitos de tensão, corrente e sinais
+digitais (TTL);
+- Computação para Automação e Computação Básica: conhecimento de linguagens de
+programação básica, utilização de computador, sistema operacional e
+interfaceamento com processos.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Formular e conceber soluções desejáveis de engenharia, analisando e
+compreendendo os usuários dessas soluções e seu contexto.Conceber, projetar e
+analisar sistemas, produtos (bens e serviços), componentes ou processo.Integrar
+conhecimentos para desenvolvimento de novas aplicações envolvendo Mecânica,
+Eletrônica e Computação.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+CONHECIMENTOS:
+c0) Sólida formação em manufatura integrada por computador e automação
+industrial, em especial, para obter os seguintes conhecimentos:
+- Fornecer conhecimentos teóricos e práticos de sistemas de controle avançado
+aplicados a processos físicos (mecânicos, elétricos, químicos).
+- Fornecer subsídios da tecnologia de controle de processos utilizada no meio
+industrial. Controladores Programáveis e Sistemas Supervisórios de Controle de
+Processos.
+- Aplicar os conceitos básicos da teoria de variáveis de estado na modelagem e
+controle de processos.
+- Aplicações práticas de teorias de controle avançado.
+- Aplicação de Controladores Programáveis no controle de processos: Controle de
+variáveis digitais e Controle de variáveis analógicas.
+- Configuração de Sistemas Supervisórios de Controle de Processos: Sistemas
+SCADA e Sistemas SDCD.
+c1) Conhecimento para projetar, executar e analisar resultados de
+experimentos;
+c2) Conhecimentos práticos para manusear equipamentos mecânicos, eletrônicos,
+de informática e de controle e automação;
+HABILIDADES:
+h0) Aplicar conhecimentos matemáticos, científicos, tecnológicos e
+instrumentais à engenharia na sua área de atuação;
+h1) Desenvolver raciocínio espacial, lógico e matemático;
+h2) Atuar em equipes multidisciplinares;
+h3) Comunicar eficientemente nas formas oral e escrita, no padrão formal da
+língua portuguesa;
+h4) Projetar e conduzir experimentos;
+2021-ECA408página 2 de 9
+----------------Page (1) Break----------------
+h5) Sintetizar informações e desenvolver modelos para a solução de problemas
+nas áreas da Engenharia de Controle e Automação;
+h6) Supervisionar a operação e a manutenção de sistemas e processos na sua
+área de atuação;
+h7) Utilizar os recursos de informática necessários para o exercício da sua
+profissão;
+h8) Interpretar resultados de experimentos e de simulações de modelos
+matemáticos;
+ATITUDES:
+a0) Ter espírito de liderança e capacidade para inserir-se no trabalho em
+equipe;
+a1) Ter visão sistêmica e interdisciplinar na solução de problemas técnicos;
+a2) Ter percepção do conjunto e capacidade de síntese;
+a3) Ter compromisso com a segurança no trabalho e com a segurança do publico
+em geral;
+a4) Ter dinamismo para saber acompanhar as mudanças tecnológicas em constante
+transformação.
+a5) Saber tomar decisões e implementá-las;
+a6) Ter auto-crítica para reconhecer os limites dos modelos e dos experimentos
+estabelecidos;
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Sala de aula invertida
+- Project Based Learning
+- Problem Based Learning
+- Gamificação
+METODOLOGIA DIDÁTICA
+- Aulas teóricas expositivas com utilização de equipamento multimídia;
+- Aulas com simulações computacionais e aplicações práticas;
+- Solução de exercícios em sala;
+- Realização de atividades práticas;
+- Desenvolvimento de trabalhos individuais e em equipes.
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+2021-ECA408página 3 de 9
+----------------Page (2) Break----------------
+Disciplina anual, com trabalhos.
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  k4: 1,0  
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina de Automação e Sistemas Industriais apresentará às técnicas de
+desenvolvimento de programas computacionais aplicados nesta área, como por
+exemplo a linguagem Ladder e FSC. Os alunos receberão também toda a informação
+a respeito dos controladores aplicados em sistemas industriais e as atuais
+linguagens de programação destes controladores. Por fim, sistemas elétricos,
+pneumáticos e eletro-pneumáticos básicos serão utilizados como processo a serem
+controlados.
+Agregando-se todos os elementos citados, os alunos aprenderão uma técnica de
+desenvolvimento de projetos que pode ser aplicado na área de automação
+industrial e que poderão extrapolá-la em projetos industriais.
+BIBLIOGRAFIA
+Bibliografia Básica:
+ALVES, José Luiz Loureiro. Instrumentação, controle e automação de processos.
+2. ed.  Rio de Janeiro, RJ: LTC, 2012. 201 p.  ISBN 9788521617624.
+MORAES, Cícero Couto de; CASTRUCCI, Plínio de Lauro. Engenharia de automação
+industrial. 2. ed.  Rio de Janeiro,  RJ: LCT, c2007. 347 p.  ISBN
+9788521615329.
+SMITH, Carlos A; CORRIPIO, Armando B. Princípios e prática do controle
+automático de processo. [Título original: Principles and practice of automatic
+process control]. Trad. Maria Lúcia Godinho de Oliveira, rev. téc. Robson
+Mendes Matos. 3. ed.  Rio de Janeiro, RJ: LTC, 2008. 505 p.  ISBN
+9788521615859.
+Bibliografia Complementar:
+CAPELLI, Alexandre. Automação industrial: controle do movimento e processos
+contínuos. 3. ed.  São Paulo: Érica, 2014. 236 p.  ISBN 139788536501178.
+FIGINI, Gianfranco. Eletrônica industrial: servomecanismos teoria da regulagem
+automática. Trad. de Carlos Antonio Lauand.  São Paulo, SP: Hemus, [s.d.]. 202
+p.
+2021-ECA408página 4 de 9
+----------------Page (3) Break----------------
+GROOVER, Mikell P. Automation, production systems, and computer-integrated
+manufacturing. 3. ed.  New Jersey: Prentice Hall, c2008. 815 p.  ISBN
+0132393212.
+NISE, Norman. Engenharia de sistemas de controle. [SILVA FILHO, Bernardo Severo
+da Silva]. 3 ed.  São Paulo: LTC, 2002. 695 p.  ISBN 85352216855.
+PAZOS, Fernando. Automação de sistemas & robótica.  Rio de Janeiro, RJ: Axcel
+Books, 2002. 384 p.  ISBN 85-7323-171-8.
+RICH, Elaine. Inteligência artificial. [Artificial intelligence].  São Paulo:
+McGraw-Hill, 1988. 503 p.  ISBN 0074503642.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Codesys
+GT Works 3
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+As notas dos trabalhos consistem da média bimestral de trabalhos práticos
+realizados durante as aulas.
+2021-ECA408página 5 de 9
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+Serão realizados ao longo do ano experiências envolvendo CLP Festo e sistemas
+eletro-pneumático e sistema Mitsubishi de CLP e IHM.
+2021-ECA408página 6 de 9
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Andressa Corrente Martins
+ Responsável pela Disciplina
+  
+ Prof.(a) Fernando Silveira Madani
+ Coordenador(a) do Curso de Eng. de Controle e Automação
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-ECA408página 7 de 9
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 LDia não letivo.   0
+  2 LApresentação da disciplina: conteúdo, bibliografia, sistema
+deavaliação, histórico, terminologia, definições e exemplos
+automáticos.
+   0
+  3 LProgramação de controladores lógicos: revisão de lógica,de
+sistemas digitais e programação com blocos lógicos.
+   0
+  4 LControladores para sistemas lógicos: tipos de implementação
+(relés,circuitos digitais, microcontroladores).
+   0
+  5 LControladores lógicos programáveis: arquitetura, funcionamento,
+evolução e tendências.
+   0
+  6 LProgramação de CLPs: tipos linguagens de programação e
+característicasprincipais. Controle com o uso de relés e com uso
+de CLP (linguagemLadder).
+   11% a 40%
+  7 LEstudo do controle de um sistema lógico com solução através dos
+sensores, dispositivos de comando e relés.
+   0
+  8 LLinguagem Ladder: lógica, temporização, contagem. Exemplos
+básicos deprogramação.
+   41% a 60%
+  9 LSemana de Provas.   0
+ 10 LProgramação do controle de um sistema sequencial 1.   41% a 60%
+ 11 LExemplos de programação de semáforos.Operação multi-bit e blocos
+de comparação. Exercícios de aplicação com semáforos.
+   61% a 90%
+ 12 LProgramação em Statement List para exemplos básicos.   11% a 40%
+ 13 LExemplos de programação em Statement List com contadores,
+temporizadorese comandos especiais.
+   61% a 90%
+ 14 LProgramação em Statement List de um exemplo de controle de um
+sistema com temporização e contagem.
+   61% a 90%
+ 15 LLinguagem Grafcet: estrutura, funcionamento e ações básicas.   0
+ 16 LProgramação do CLP da Mitsubishi utilizando Grafcet. Programação
+de partida e inversão de velocidade de motores de indução
+trifásicos.
+   41% a 60%
+ 17 LSemana de Provas.   0
+ 18 LSemana de Provas.   0
+ 19 LSemana de Provas.   0
+ 20 LAtendimento aos alunos.   0
+ 21 LSemana de Provas.   0
+ 22 LSolução de exercícios de avaliação.   0
+ 23 LSemana de provas.   0
+ 24 LLinguagem Grafcet: convergência e divergência simultânea,
+mutuamenteexclusiva e outras estruturas do Grafcet. Exemplos de
+aplicação.
+   91% a
+100%
+ 25 LLinguagem Grafcet: exemplos de programação e conversão
+Grafcet-Ladder. Introdução à programação: linguagens, comandos e
+exemplos de programas.
+   91% a
+100%
+2021-ECA408página 8 de 9
+----------------Page (7) Break----------------
+ 26 LOutras funcionalidades para redes de comunicação e
+interfaceamento.
+   91% a
+100%
+ 27 LExercício de programação.   91% a
+100%
+ 28 LProgramação do CLP da Omron utilizando Grafcet. Programação de
+partida e inversão de velocidade de motores de indução
+trifásicos.
+   91% a
+100%
+ 29 LSemana de Provas.   0
+ 30 LSistema de Supervisão: introdução, arquitetura. Exemplos de
+sistemas supervisórios.
+   0
+ 31 LExemplo de aplicação de programação de supervisório.   0
+ 32 LProgramação e montagem de telas.   0
+ 33 LConfiguração do driver de comunicação e programação do
+supervisório para configuração.
+   61% a 90%
+ 34 LEspecificação e elaboração de projetos de supervisórios.   41% a 60%
+ 35 LAplicação de projetos em supervisórios integrados com CLP.
+Apresentação de projetos.
+   61% a 90%
+ 36 LAplicação de projetos em supervisórios integrados com CLP.
+Apresentação de projetos.
+   61% a 90%
+ 37 LSemana de Provas.   0
+ 38 LSemana de Provas.   0
+ 39 LSolução de exercícios de avaliação.   0
+ 40 LSemana de Provas.   0
+ 41 LRevisão de provas.   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-ECA408página 9 de 9
+----------------Page (8) Break----------------
