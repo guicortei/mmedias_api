@@ -315,6 +315,8 @@ export const getPlanoEnsino = async (
       console.log('## ESTÁ VELHO, vou baixar...');
       need_new_file = true;
     }
+
+    let pdfURL = '';
     if (need_new_file) {
       const searchRedirectPath = await getSearchRedirectURL(codigo, cookie);
       console.log('searchRedirectPath:', searchRedirectPath);
@@ -329,7 +331,7 @@ export const getPlanoEnsino = async (
           '"',
         );
 
-        const pdfURL = `https://www2.maua.br/arquivos/plano-ensino/id/${plano_ensino_ID}`;
+        pdfURL = `https://www2.maua.br/arquivos/plano-ensino/id/${plano_ensino_ID}`;
         console.log('pdfURL:', pdfURL);
 
         const fileDownloaded = await getPdfFile(pdfURL, filePath);
@@ -402,7 +404,7 @@ export const getPlanoEnsino = async (
       peso_de_MP,
       peso_de_MT,
       fileSecsOld,
-      // pdfURL,
+      pdfURL,
     };
 
     return info;
