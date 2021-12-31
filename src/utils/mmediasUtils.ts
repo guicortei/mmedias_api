@@ -300,7 +300,7 @@ export const getPlanoEnsino = async (
   skip_if_error = false,
 ): Promise<object> => {
   try {
-    console.log(`getPlanoEnsino: ${codigo}`);
+    console.log(`*/*/*/*/*/* getPlanoEnsino: ${codigo} [INICIO]`);
 
     // cria pasta "planos_de_ensino" se não existir
     const dir = path.resolve('planos_de_ensino');
@@ -417,8 +417,10 @@ export const getPlanoEnsino = async (
       pdfURL,
     };
 
+    console.log(`*/*/*/*/*/* getPlanoEnsino: ${codigo} [FIM]`);
     return info;
   } catch (e) {
+    console.log(`*/*/*/*/*/* getPlanoEnsino: ${codigo} [FIM - com erro]`);
     return { codigo, error: 'error' };
   }
 };

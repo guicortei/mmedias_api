@@ -1,0 +1,256 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Processos de Fabricação IIEMC212
+Course:
+Manufacturing Processes II
+Materia:
+Procesos de fabricación II
+Periodicidade: SemestralCarga horária total: 80Carga horária semanal: 02 - 00 - 02
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica5Diurno
+Engenharia Mecânica5Noturno
+Engenharia Mecânica5Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Adalto de FariasEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Adalto de FariasEngenheiro MecânicoDoutor
+Gelson Freitas MioriEngenheiro MecânicoDoutor
+Marco Antonio StipkovicEngenheiro MecânicoMestre
+MODALIDADE DE ENSINO
+Presencial: 70%
+Mediada por tecnologia: 30%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Teoria: Apresentar ao aluno os conceitos de processos de fabricação mecânicos
+capacitando-o a identificar e diferenciar as características e potencialidades
+de cada processo. Capacitar o futuro engenheiro disponibilizando as técnicas
+para dimensionamento das operações de fabricação. Trabalhar junto ao aluno os
+conceitos e tópicos referentes aos processos de fabricação mecânicos de
+fabricação por Fundição em areia, shell-moulding, cera perdida e sob-pressão;
+Processos de conformação plástica, Laminação, Forjamento em matriz aberta e
+fechada, Estampagem, Trefilação e Extrusão. As atividades de laboratório
+abordam os conceitos da não linearidade dos processos de conformação plástica.
+Os alunos trabalharão com software de elementos e volume finitos na simulação
+não linear dos processos de conformação a volume constante.
+2021-EMC212página 1 de 8
+----------------Page (0) Break----------------
+SYLLABUS
+Theory: Introduce the student to the concepts of mechanical manufacturing
+processes enabling him to identify and differentiate the characteristics of
+each process. Train the future engineer providing the techniques for
+dimensioning manufacturing operations. Provide the student concepts and topics
+related to process by Sand casting, shell-molding, lost wax and pressure
+casting; Plastic forming processes, Lamination, Open and closed die forging,
+Stamping, Drawing and Extrusion.
+The laboratory activities deal with the concepts of non-linearity of the metal
+plastic forming processes. Students will work with finite element and finite
+volume software with nonlinear simulation of constant volume forming processes.
+TEMARIO
+Teoría: Introducir al alumno en los conceptos de los procesos mecánicos de
+fabricación que le permitan identificar y diferenciar las características y
+potencialidades de cada proceso. Formar al futuro ingeniero proporcionando las
+técnicas para dimensionar las operaciones de fabricación. Trabajar con el
+alumno los conceptos y temas relacionados con los procesos de fabricación
+mecánica de fabricación por fundición en arena, moldeo por concha, cera perdida
+y bajo presión; Procesos de conformado de plásticos, Laminación, Forjado en
+matriz abierta y cerrada, Estampado, Estirado y Extrusión. Las actividades de
+laboratorio abordan los conceptos de no linealidad en los procesos de
+conformado de plásticos. Los estudiantes trabajarán con software de volumen y
+elementos finitos en la simulación no lineal de procesos de conformado a
+volumen constante.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+- Processos de manufatura de peças mecânicas.
+- Desenho técnico mecânico.
+- Elementos de Máquinas.
+- Processos de fabricação: usinagem.
+- Elementos de máquinas: aplicação e representação.
+- Materiais de construção mecânica.
+- Noções de metrologia.
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+Competência 1:Analisar e compreender os usuários das soluções de engenharia e
+seu contexto, para formular os requerimentos de engenharia e conceber soluções
+apropriadasCompetência 2:Dominar o ciclo completo de investigação dos aspectos
+analítico, numérico e experimental de um mesmo fenômeno, aprendendo a conciliar
+as diferenças encontradas no conhecimento interdisciplinar coordenado entre as
+disciplinas do Curso de Engenharia Mecânica.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos
+C1)Conhecer os principais processos de fabricação mecânica.
+C2)Conhecer as características e potencialidades de cada processo.
+C3)Conhecer as técnicas para dimensionamento das operações de fabricação,
+2021-EMC212página 2 de 8
+----------------Page (1) Break----------------
+analiticamente e numericamente.
+C4)Formação nas áreas da Engenharia Mecânica pertinentes ao desenho, mecânico,
+projeto de máquinas e processos de fabricação.
+Habilidades
+H1)Habilidade para avaliar e desenvolver soluções de problemas de relacionados
+aos processos de fabricação.
+H2)Atuar em equipe.
+H3)Avaliar criticamente a operação e manutenção de sistemas e
+processos de fabricação mecânicos.
+H4)Conceber, projetar e analisar processos mecânicos de fabricação e seu
+ferramental pertinente.
+H5)Demonstrar noção de ordem de grandeza na estimativa de dados e na avaliação
+de resultados relacionados aos processos de produção.
+H6)Conduzir experimentos e interpretar resultados.
+H7)Habilidade para utilizar os recursos de informática necessários para a
+solução dos problemas relacionados aos processos de fabricação.
+Atitudes
+A1)Ter espírito de liderança e capacidade para inserir-se no trabalho em
+equipe.
+A2)Ter visão sistêmica e interdisciplinar na solução de problemas técnicos.
+A3)Ter percepção do conjunto e capacidade de síntese.
+A4)Ter posição crítica com relação a conceitos de ordem de grandeza.
+A5)Ter compromisso com a qualidade do trabalho.
+A6)Ter compromisso com a segurança no trabalho e do público em geral.
+A7)Ter dinamismo para saber acompanhar as mudanças tecnológicas em
+constante transformação.
+A8)Organizar o seu trabalho.
+A9)Tomar decisões e implementá-las
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Project Based Learning
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Introdução aos conceitos e tópicos através de metodologia de solução de
+problemas. Aplicação de metodologias ativas para resolução de um projeto
+apresentado na Mecânica.
+Uso de aulas expositivas, metodologias hibridas com auxílio de mídias e
+resolução de exercícios. Treinamento de habilidades em uso de softwares de
+simulação de processos de fabricação mecânica.
+2021-EMC212página 3 de 8
+----------------Page (2) Break----------------
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina semestral, com trabalhos e provas (uma e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 1,0  k3: 1,0  
+ Peso de MP(kP): 0,6          Peso de MT(kT): 0,4
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+A disciplina oferecerá base informativa e de conhecimento sobre as diferentes
+possíveis alternativas de manufatura de um determinado componente mecânico.
+Permitirá a redução substancial de não conformidades, muito comumente
+causadas no desenvolvimento de projetos mecânicos, quando o engenheiro
+adquirir um conhecimento mais amplo das alternativas de fabricação
+existentes. Garantirá uma maior familiriarização com as diferentes áreas de
+produção mecânica.
+Preparar o futuro engenheiro para atuar nos seguintes campos de atuação
+segundo a resolução CREA: 1.3.4.01.01; 1.3.4.01.02; 1.3.4.08.00; 1.3.4.9.01 e
+1.3.4.9.02
+BIBLIOGRAFIA
+Bibliografia Básica:
+ALTAN, Taylan; OH, Soo-Ik; GEGEL, Harold L. Conformação de metais. Trad. de
+Reginaldo Teixeira Coelho; rev. téc. de Luís Antônio Adami; supervisão de
+Rosalvo Tiago Ruffino.  São Carlos, SP: EESC-USP, 1999. 350 p.  ISBN
+8585205253.
+ALVES FILHO, Avelino. Elementos finitos: a base da tecnologia CAE/Análise não
+Linear.  São Paulo,  SP: Érica, 2012. 320 p.  ISBN 9788536503950.
+DIETER, George E. Metalurgia mecânica. Trad. de Antonio Sérgio de Souza e Silva
+e outros. 2. ed.  Rio de Janeiro, RJ: Guanabara Dois, 1981. 653 p.
+GROOVER, Mickell P. Introdução aos processos de fabricação.  Rio de Janeiro:
+LTC, c2012. 737 p.  ISBN 9788521625193.
+Bibliografia Complementar:
+2021-EMC212página 4 de 8
+----------------Page (3) Break----------------
+GROOVER, Mikell P. Fundamentos da moderna manufatura: Versão SI. 5. ed.  Rio de
+Janeiro: GEN/LTC, c2017. v. 1. 421 p.  ISBN 9788521633884.
+GROOVER, Mikell P. Fundamentos da moderna manufatura: Versão SI. 5. ed.  Rio de
+Janeiro: GEN/LTC, c2017. v. 2. 547 p.  ISBN 97885216338891.
+KALPAKJIAN, Serope. Manufacturing engineering and technology. 4. ed.  New
+Jersey: Prentice Hall, 2000. 1148 p.  ISBN 0-201-36131-0.
+LESKO, Jim. Design industrial: Materiais e processos de fabricação. [Industria
+design: materials and manufacturing]. Trad. Wilson Kindlein Júnior e Clovis
+Belbute Peres.  São Paulo, SP: Edgard Blücher, 2008. 272 p.  ISBN
+9788521203377.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Simufact Forming
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Prova
+P1: Toda matéria abordada nas aulas de teoria.
+Psub: Toda a matéria
+Trabalhos
+T1: Média das atividades (até 3) de aprendizagem ativas a serem realizadas nas
+aulas;
+T2 Atividade de Simulação com Software, Individual, no Laboratório de Simulação
+de Processos;
+T3 Projeto de uma ferramenta de conformação.
+2021-EMC212página 5 de 8
+----------------Page (4) Break----------------
+OUTRAS INFORMAÇÕES
+2021-EMC212página 6 de 8
+----------------Page (5) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Adalto de Farias
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC212página 7 de 8
+----------------Page (6) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TIntrodução da Disciplina -Fundamentos da Conformação dos Metais   0
+  1 LFUNDAMENTOS DA SIMULAÇÃO DE PROCESSOS NÃO LINEARES   0
+  2 TProcessos de Conformação a Volume Constante - Introd. Forjamento
+com Matriz Aberta
+   41% a 60%
+  2 LSimulação de Forjamento com Matriz ABERTA   91% a
+100%
+  3 TProcesso de Laminação   41% a 60%
+  3 LSimulação do Processo de Laminação   91% a
+100%
+  4 TProcesso de Trefilação   41% a 60%
+  4 LSimulação do Processo de Trefilação   91% a
+100%
+  5 TProcesso de Extrusão   41% a 60%
+  5 LSimulação do Processo de Extrusão   91% a
+100%
+  6 TProcesso de Forjamento com Matriz Fechada   41% a 60%
+  6 LSimulação de Forjamento com Matriz FECHADA   91% a
+100%
+  7 TProcesso de Forjamento com Matriz Fechada-Projeto de Matriz   1% a 10%
+  7 LAtividade Individual em sala   91% a
+100%
+  8 TProcessos de Conformação de Chapas   41% a 60%
+  8 LSimulação de Conformação de Chapas: DOBRA   91% a
+100%
+  9 TProcessos de Conformação de Chapas   41% a 60%
+  9 LSimulação de Conformação de Chapas: CORTE   91% a
+100%
+ 10 TProcessos de Conformação de Chapas   41% a 60%
+ 10 LProjeto ferramenta de conformação   91% a
+100%
+ 11 TProcessos de Conformação de Plásticos   11% a 40%
+ 11 LProjeto ferramenta de conformação   91% a
+100%
+ 12 TProcessos especiais de conformação   0
+ 12 LProjeto ferramenta de conformação   91% a
+100%
+ 13 TMetalurgia do Pó - Cerâmicos e Cermetos   0
+ 13 LProjeto ferramenta de conformação   91% a
+100%
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC212página 8 de 8
+----------------Page (7) Break----------------

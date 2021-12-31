@@ -1,0 +1,344 @@
+Plano de Ensino para o Ano Letivo de 2021
+IDENTIFICAÇÃO
+Disciplina:Código da Disciplina:
+Mecânica dos Fluidos IIEMC612
+Course:
+Fluid Mechanics II
+Materia:
+Mecánica de los Fluidos II
+Periodicidade: AnualCarga horária total: 80Carga horária semanal: 01 - 00 - 01
+Curso/Habilitação/Ênfase:Série:Período:
+Engenharia Mecânica4Diurno
+Engenharia Mecânica4Noturno
+Engenharia Mecânica4Noturno
+Professor Responsável:Titulação - GraduaçãoPós-Graduação
+Joseph Youssif Saab JuniorEngenheiro MecânicoDoutor
+Professores:Titulação - GraduaçãoPós-Graduação
+Joseph Youssif Saab JuniorEngenheiro MecânicoDoutor
+João de Sa Brasil LimaEngenheiro MecânicoDoutor
+MODALIDADE DE ENSINO
+Presencial: 30%
+Mediada por tecnologia: 70%
+* Em qualquer modalidade a entrega de atividades e trabalhos deve ser realizada
+segundo orientações do professor da disciplina.
+ATIVIDADES DE EXTENSÃO
+             A DISCIPLINA NÃO CONTEMPLA ATIVIDADES DE EXTENSÃO.
+EMENTA
+Descrição Euleriana e Lagrangiana do movimento fluido. Linhas de Corrente,
+Emissão e Trajetórias. Visualização de escoamento. Cinemática do escoamento.
+Aceleração da partícula de fluido. Equação da Conservação da Massa diferencial
+(Eq. Continuidade). Equação Diferencial da Quantidade de Movimento
+(Navier-Stokes). Breve descrição da turbulência e problema de fechamento
+matemático para solução numérica. Equação Diferencial da Energia. Camada Limite
+Laminar e Turbulenta. Integral de Von Kármán. Arrasto sobre placa plana em
+escoamento laminar e turbulento. Escoamento sobre corpos rombudos. A crise do
+arrasto nos cilindros e esferas. O número de Strouhal. Escoamento ao redor de
+aerofólios. Escoamento compressível. Choque. Bloqueio. Linhas de Fanno e
+Rayleigh.
+Simulações em CFD (ANSYS CFD)de escoamento em junções (conservação da massa),
+ao redor de cilindro (Interação fluido-estrutura), propulsão à jato
+(conservação da quantidade de movimento) e onda de choque escoamento
+compressível). Simulações 2D de aerofólios (XFLR5). 
+Experimentos: escoamento ao redor de cilindros e aerofólios (Túnel de Vento ou
+soprador Leybold); escoamento compressível (F810, Lab. de Termo).
+2021-EMC612página 1 de 10
+----------------Page (0) Break----------------
+SYLLABUS
+Eulerian and Lagrangian description of fluid movement. Streamlines, Emissions
+and Trajectories. Flow visualization. Flow kinematics. Acceleration of a fluid
+particle. Equation of Conservation of Mass in differential form (Eq.
+Continuity). Navier-Stokes Differential Equation of Motion. Brief description
+of turbulence and mathematical closure problem for numerical solution (CFD).
+Equation of Energy in differential form. Laminar and Turbulent Boundary Layer.
+Von Kármán integral equation for the boundary layer. Drag on a flat plate in
+laminar and turbulent flows. Flow over blunt bodies. The drag crisis on
+cylinders and spheres. Strouhal's number. Flow around airfoils. Compressible
+flow. Shock. Choking and Blockage. Fanno and Rayleigh Lines.
+CFD (ANSYS codes) simulations of a mixture box or "T" joint (mass
+conservation); flow around a cylinder (Fluid-Structure Interaction or FSI), jet
+propulsion (conservation of momentum) and compressible flow with shock wave).
+2D Airfoil Simulations with XFLR5.
+Experiments: flow around cylinders and airfoils (Wind Tunnel or Leybold
+blower); compressible flow (F810, Termodynamics Lab).
+TEMARIO
+Descripción euleriana y lagrangiana del movimiento fluido. Líneas de corriente,
+emisiones y trayectorias. Visualización de flujo. Cinemática de flujo.
+Aceleración de una partícula fluida. Ecuación de Conservación de Masa en forma
+diferencial (Ec. Continuidad). Ecuación diferencial de movimiento de
+Navier-Stokes. Breve descripción del problema de turbulencia y cierre
+matemático para la solución numérica (CFD). Ecuación de energía en forma
+diferencial. Capa límite laminar y turbulenta. Ecuación integral de Von Kármán
+para la capa límite. Arrastre sobre una placa plana en flujos laminares y
+turbulentos. Fluye sobre cuerpos romos. La crisis de arrastre en cilindros y
+esferas. El número de Strouhal. Fluye alrededor de las superficies de
+sustentación. Flujo compresible. Conmoción. Asfixia y bloqueo. Líneas de Fanno
+y Rayleigh.
+CFD (códigos ANSYS) simulaciones de una caja de mezcla o junta "T"
+(conservación de masa); alrededor de un cilindro (interacción fluido-estructura
+o FSI), propulsión a chorro (conservación del momento) y flujo compresible con
+onda de choque). Simulaciones 2D de perfil aerodinámico con XFLR5.
+Exp: flujo alrededor de cilindros y perfiles; esc. compres.
+CONHECIMENTOS PRÉVIOS NECESSÁRIOS PARA O ACOMPANHAMENTO DA DISCIPLINA
+Em se tratando de uma disciplina de Ciência de Engenharia, os conhecimentos
+prévios necessários para o acompanhamento devem estar contemplados nas
+disciplinas do ciclo básico que contemplam, particularmente, os
+seguintes tópicos:
+- Geometria e Visão Espacial;
+- Física;
+- Mecânica Geral;
+- Cálculo Diferencial e Integral.
+Além disto, são necessários os conhecimentos ministrados na disciplina EMC611 -
+Mecânica dos Fluidos I.
+2021-EMC612página 2 de 10
+----------------Page (1) Break----------------
+COMPETÊNCIAS DESENVOLVIDAS NA DISCIPLINA
+COMPETÊNCIA 1:
+1)Comunicar-se eficientemente nas formas escrita, oral e gráfica.2) Dominar o
+ciclo completo de investigação dos aspectos analítico, numérico e experimental
+de um mesmo fenômeno, aprendendo a conciliar as diferenças encontradas no
+conhecimento interdisciplinar coordenado entre as disciplinas da área de
+energia e fluidos e demais disciplinas do curso de Engenharia Mecânica.3)
+Conceber modelos numéricos e simulações para predizer resultados de projetos
+inovadores e acelerar o ciclo de desenvolvimento de produtos no ambiente da
+indústria.
+OBJETIVOS - Conhecimentos, Habilidades, e Atitudes
+Conhecimentos: Ampliar a base de conhecimentos e ferramentas adquiridas pelos
+alunos na disciplina EMC611 - Mecânica dos Fluidos I, preparando-os para
+resolver problemas importantes na indústria e na pesquisa, especialmente
+aqueles relacionados às área de atuação dos engenheiros Mecânicos e Químicos. 
+Habilidades: abordagem de engenharia para a solução de problemas complexos
+(característica muito procurada pela indústria). Soluções analíticas, numéricas
+e experimentais. Modelagem de fenômenos (muito importante para quem vai fazer
+pesquisa ou trabalhar na área). 
+Atitudes: despertar a curiosidade do aluno na observação de fenômenos físicos
+não intuitivos. Despertar sua capacidade de aplicar e compartilhar o
+aprendizado. Estudo contínuo durante o curso e não apenas em véspera de provas.
+Atitude de respeito para com os colegas e professor. Atuação ética e honesta.
+ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM - EAA
+Aulas de Teoria - Sim
+Aulas de Laboratório - Sim
+LISTA DE ESTRATÉGIAS ATIVAS PARA APRENDIZAGEM
+- Peer Instruction (Ensino por pares)
+- Sala de aula invertida
+- Problem Based Learning
+METODOLOGIA DIDÁTICA
+Disponibilização do material para estudo antes de cada aula. Discussão da 
+importância de cada conceito introduzido, com exemplos atuais e importantes de
+aplicação. Explicações teóricas acompanhadas de aplicações na mesma aula
+(exercícios, experimentos, simulações numéricas). Amplas oportunidades de
+fixação dos tópicos via exercícios, pesquisas e atividades. Aplicação de
+atividades ativas de aprendizagem (em especial PBL e Peer Learning e alguns
+casos de sala de aula invertida). Amplo uso de softwares de simulação e
+equipamentos de laboratório. Desafios extras opcionais para desenvolver a
+competência em problemas complexos e multidisciplinares, nas listas de
+exercícios.
+2021-EMC612página 3 de 10
+----------------Page (2) Break----------------
+INSTRUMENTOS DE AVALIAÇÃO
+                      NENHUM INSTRUMENTO DE AVALIACAO FOI ADICIONADA.
+AVALIAÇÃO (conforme Resolução RN CEPE 16/2014) e CRITÉRIOS DE APROVAÇÃO 
+Disciplina anual, com trabalhos e provas (duas e uma substitutiva).
+Pesos dos trabalhos:
+ k1: 1,0  k2: 2,0  k3: 3,0  k4: 2,0  k5: 2,0  k6: 4,0  k7: 3,0  
+ Peso de MP(kP): 1,0          Peso de MT(kT): 1,0
+INFORMAÇÕES SOBRE INSTRUMENTOS DE AVALIAÇÃO
+CONTRIBUIÇÃO DA DISCIPLINA
+O conjunto constituído pelas disciplinas EMC611 - Mecânica dos Fluidos I e
+EMC612 - Mecânica dos Fluidos II são disciplinas de Ciência de Engenharia, que
+têm a função primordial de estabelecer uma ponte entre as disciplinas do ciclo
+básico e as disciplinas aplicadas da Engenharia, em particular da Engenharia
+Mecânica, Química e Civil, que utilizam os conceitos de Mecânica dos Fluidos. A
+Disciplina EMC612 prepara o aluno para atuar com desenvoltura na Industria e em
+ pesquisa e desenvolvimento (simulação, consultoria, transformação, química,
+petroquímica, aviação - tanto fabricantes quanto transporte aéreo - energias
+convencionais e renováveis - equipamentos hidráulicos e pneumáticos, naval,
+aeroespacial, tratamento de água, usinas hidrelétricas, eólicas, nucleares,
+etc.). A disciplina também fornece elementos importantes para todos os projetos
+integradores (projeto e construção de sistemas integrados e multidisciplinares,
+como são todos os equipamentos reais) que o aluno irá realizar na graduação e
+pós graduação, além da sua vida profissional.
+BIBLIOGRAFIA
+Bibliografia Básica:
+FOX, Robert W; McDONALD, Alan T. Introduction to fluid mechanics: SI version.
+4. ed.  New York: John Wiley, 1994. 781 p.  ISBN 0-471-59274-9.
+FOX, Robert W; McDONALD, Alan T. Introdução à mecânica dos fluidos. Tradução de
+Alexandre Matos de Souza Melo. 4. ed.  Rio de Janeiro, RJ: Guanabara Dois,
+1995. 662 p.  ISBN 85-216-1078-5.
+FOX, Robert W; McDONALD, Alan T; PRITCHARD, Philip J. Introdução à mecânica dos
+fluidos. Trad. de Ricardo Nicolau Nassar Koury e Geraldo Campolinha França. 6.
+ed.  Rio de Janeiro: LTC, 2006. 798 p.  ISBN 8521614683.
+WHITE, Frank M. Mecânica dos fluidos. 8. ed.  São Paulo: AMGH, 2018. 848 p. 
+ISBN 9788580556063.
+2021-EMC612página 4 de 10
+----------------Page (3) Break----------------
+Bibliografia Complementar:
+CEBECI, Tuncer. Turbulence models and their application: efficient numerical
+methods with computer programs.  Long Beach, CA: Horizons Pub, 2004. 118 p. 
+ISBN 0966846168.
+COELHO, João Carlos Martins. Energia e Fluidos: Mecânica dos Fluidos. :
+Blucher, 2016. v. 2. 394 p.  ISBN 9788521209478.
+CURRIE, I. G. Fundamental mechanics of fluids. 2. ed.  New York: McGraw-Hill,
+1993. 454 p.
+DAVIDSON, Peter Alan. Turbulence: an introduction for scientists and engineers.
+ Oxford: Oxford University, 2004.  ISBN 019852949X.
+FAY, James A. Introduction to fluid mechanics.  Cambridge: MIT, 1998. 605 p. 
+ISBN 0-262-06165-1.
+HOERNER, Sighard F. Fluid-dynamic drag: practical information on aerodynamic
+drag and hydrodynamic resistance.  Bakersfield: Hoerner Fluid Dynamics, 1965.
+MUNSON, Bruce R; YOUNG, Donald F; OKIISHI, Theodore H. Fundamentos da mecânica
+dos fluidos. trad. da 4. ed. americana por Euryale de Jesus Zerbini.  São
+Paulo, SP: Edgard Blücher, 2008. 571 p.  ISBN 8521203438.
+PANTON, Ronald L. Incompressible flow.  New York: John Wiley, 1984. 780 p.
+SCHLICHTING, Hermann. Boundary-layer theory. 6. ed.  New York: McGraw-Hill,
+1968. 747 p.
+SHAMES, Irving Herman. Mechanics of fluids. 3. ed.  New York: McGraw-Hill,
+1992. 858 p. (McGraw-Hill Series in Mechanical).
+TENNEKES, H; LUMLEY, J. L. A first course in turbulence.  Cambridge: MIT, 1972.
+300 p.  ISBN 0262200198.
+SOFTWARES NECESSÁRIOS PARA A DISCIPLINA
+Ansys Campus Solution, CFD (CFX e Fluent) e Flownex.
+XFLR5.
+Matlab ou Wolfram Mathematica.
+INFORMAÇÕES SOBRE PROVAS E TRABALHOS
+Os coeficientes para as notas de trabalhos estão especificados a seguir:
+a) Primeiro Semestre:
+2021-EMC612página 5 de 10
+----------------Page (4) Break----------------
+k1, k3, k4 e k5: correspondem a atividades feitas em sala,em duplas.
+k2: corresponde a trabalho principal de pesquisa realizado pelos alunos, em
+duplas, fora de sala.
+b) Segundo Semestre:
+k6: corresponde ao trabalho principal que terá as seguintes partes: (i)
+teórica, (ii) simulação numérica e (iii) experimento prático. Os alunos deverão
+entregar relatório completo com as 3 partes ao final do mesmo.
+k7 e k8: correspondem a atividades feitas em sala,em duplas.
+Em função do DECRETO Nº 64.881, DE 22 DE MARÇO DE 2020 e suas sucessivas
+prorrogações determinando Quarentena obrigatória no Estado de São Paulo, todas
+as avaliações realizadas a partir daquela data e até que haja encerramento da 
+Quarentena e autorização Estadual para retomada específica das aulas
+presenciais, serão realizadas via Plataforma de Ensino Mediado por Tecnologia,
+incluindo mas não se limitando aos trabalhos (T1 a T5) e Provas (P1) do
+primeiro semestre de 2020. Todos os alunos possuem acesso à Plataforma,
+fornecido pelo IMT. A realização das atividades (trabalhos e provas) ocorre em
+forma síncrona, em dias e horários de aula ou conforme o calendário
+pré-estabelecido de provas da Instituição.
+2021-EMC612página 6 de 10
+----------------Page (5) Break----------------
+OUTRAS INFORMAÇÕES
+Veja o planejamento detalhado de aulas no MoodleRooms para mais informações.
+2021-EMC612página 7 de 10
+----------------Page (6) Break----------------
+APROVAÇÕES
+  
+  
+  
+ Prof.(a) Joseph Youssif Saab Junior
+ Responsável pela Disciplina
+  
+ Prof.(a) Susana Marraccini Giampietri Lebrao
+ Coordenadora do Curso de Engenharia Mecânica
+  
+  
+ Núcleo Docente Estruturante (NDE)
+  
+  
+ Data de Aprovação: 
+2021-EMC612página 8 de 10
+----------------Page (7) Break----------------
+PROGRAMA DA DISCIPLINA
+Nº da
+semana
+    Conteúdo  EAA
+  1 TSemana PRINT (programa de acolhimento dos calouros, somente).   0
+  2 LApresentação da Disciplina. Ementa. Avaliação. Competências.
+Metodologia de Ensino. Referências Bibliográficas. Regras de
+Convivência. Termo de Compromisso. Atividades Ativas (i)e (ii)
+   11% a 40%
+  3 TRevisão de conceitos importantes: classificação de escoamento,
+campo de velocidades, aceleração, derivadas, série de Taylor,
+etc. Exercícios de recordação, em sala.
+   11% a 40%
+  4 LCinemática dos Escoamentos. Linhas de Corrente, Trajetórias,
+Linhas de Emissão. Atividade: baixar aplicativo e discutir
+escoamentos com o professor. Filme sobre visualização + quiz
+   11% a 40%
+  5 TA Equação Diferencial da Conservação da Massa. Casos especiais.
+Exercícios em sala.
+   41% a 60%
+  6 TResolução de exercícios.   61% a 90%
+  7 LLaboratório CFD: Equação de Conservação da Massa.   91% a
+100%
+  8 TDia não letivo.   0
+  9 LEntrega do T2 com apresentação das equipes sorteadas   41% a 60%
+ 10 TSemana de Provas P1   0
+ 11 LTeoria e Exercícios: A Equação Diferencial da Conservação da
+Quantidade de Movimento (Navier-Stokes). Casos Particulares.
+Exercícios.  Recomendação de Atividade (Lista 03).
+   11% a 40%
+ 12 TExercícios (ECQM).   41% a 60%
+ 13 LFundamentos do método de CFD. Exercícios. Lista 4   11% a 40%
+ 14 TConceitos de turbulência. O problema de fechamento das EQ NS no
+escoamento Turbulento.
+   0
+ 15 LSemana SMILE   0
+ 16 TExercícios e realização atividade avaliativa T4.   91% a
+100%
+ 17 LDia não letivo.   0
+ 18 TSolução numérica de problema envolvendo Eq Diferencial da
+Quantidade de Movimento (NS).
+   41% a 60%
+ 19 LProva P2   0
+ 20 TProva P2   0
+ 23 TTeoria e Exercícios: Camada limite: solução integral.   11% a 40%
+ 24 LTeoria e Exercícios: Arrasto sobre Placa Plana, camada limite
+laminar e turbulenta.
+   41% a 60%
+ 25 TEscoamento ao redor de corpos rombudos. Vibração Induzida por
+vórtices. Escoamento ao redor de Cilindros. Filmes recomendados e
+aplicativos de visualização. Descrição dos fenômenos envolvidos.
+A crise do arrasto.
+   11% a 40%
+ 26 LLaboratório: escoamento ao redor de cilindro.   91% a
+100%
+ 27 TLaboratório CFD, escoamento ao redor de cilindro.   91% a
+100%
+2021-EMC612página 9 de 10
+----------------Page (8) Break----------------
+ 28 LTeoria de escoamento sobre corpos aerodinâmicos. Visualização de
+arrasto e sustentação no App Wind Tunnel Pro ou Wind Tunnel
+Light.
+   11% a 40%
+ 29 TSemana P3   0
+ 30 LEntrega do T6 com apresentação das equipes sorteadas.   91% a
+100%
+ 31 TUsando o XFRL5 para simular o escoamento em torno de aerofólios.
+Exercícios sobre escoamento em torno de corpos aerodinâmicos.
+   61% a 90%
+ 32 LLaboratório: Escoamento compressível: a distribuição de pressão e
+o fenômeno do afogamento (choking) em Bocal Convergente (C) e
+Convergente-Divergente (A). Equipamento F810, sala F9 (Nozzle
+Pressure Distribution Unit).
+   91% a
+100%
+ 33 TTeoria: Revisão de Termodinâmica para Escoamento Compressível,
+velocidade do som, escoamento permanente, adiabático e
+isentrópico.
+   0
+ 34 LPropriedades locais de estagnação. Propriedades Críticas.
+Equações 1D para Escoamento Compressível. Exercícios.
+   11% a 40%
+ 35 TEscoamento isentrópico em bocais convergentes. Escoamento
+isentrópico em bocais convergentes-divergentes. Exercícios.
+   11% a 40%
+ 36 LEstudo para a P4.   91% a
+100%
+ 37 TSemana P4   0
+ 38 TSemana P4   0
+ 39 LEscoamento compressivel em canais, com choque. Escoamento com
+atrito. Escoamento com troca de calor.
+   0
+ 40 TPlantão de Dúvidas   0
+ 41 LPS2   0
+ Legenda:  T = Teoria, E = Exercício, L = Laboratório
+2021-EMC612página 10 de 10
+----------------Page (9) Break----------------
