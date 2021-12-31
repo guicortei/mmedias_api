@@ -300,6 +300,14 @@ export const getPlanoEnsino = async (
   skip_if_error = false,
 ): Promise<object> => {
   try {
+    // cria pasta "planos_de_ensino" se não existir
+    const dir = path.resolve('planos_de_ensino');
+
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir);
+    }
+    //----------------------------------------------
+
     const filePath = path.resolve('planos_de_ensino', `${codigo}.pdf`);
 
     let fileSecsOld = await howOld(filePath);
