@@ -300,6 +300,8 @@ export const getPlanoEnsino = async (
   skip_if_error = false,
 ): Promise<object> => {
   try {
+    console.log(`getPlanoEnsino: ${codigo}`);
+
     // cria pasta "planos_de_ensino" se não existir
     const dir = path.resolve('planos_de_ensino');
 
