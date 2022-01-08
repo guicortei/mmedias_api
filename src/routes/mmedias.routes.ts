@@ -13,9 +13,14 @@ const mmediasRoutes = Router();
 
 mmediasRoutes.get('/lo', async (request, response) => {
   console.log('GET: login');
-  const { RA, password } = requestLoader(request);
+  const { RA, password, old_cookie } = requestLoader(request);
 
-  const cookie = await logInAndObtainCookie(RA, password);
+  let cookie = null;
+  if (!old_cookie) {
+    cookie = await logInAndObtainCookie(RA, password);
+  } else if (old_cookie.length > 0) {
+    cookie = old_cookie;
+  }
 
   if (!cookie) {
     throw new AppError('Não foi possível realizar login');
