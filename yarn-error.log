@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/local/Cellar/node/17.0.1/bin/node /usr/local/Cellar/yarn/1.22.17/libexec/bin/yarn.js add @body-parser
+  /usr/local/Cellar/node/17.0.1/bin/node /usr/local/Cellar/yarn/1.22.17/libexec/bin/yarn.js add @types/crypto
 
 PATH: 
-  /Users/guilherme/.zinit/polaris/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:~/Android/Sdk/platform-tools:/Library/Apple/usr/bin:/Users/guilherme/bin:/usr/local/opt/node@16/bin:/Users/guilherme/Android/Sdk/emulator:/Users/guilherme/Android/Sdk/tools:/Users/guilherme/Android/Sdk/cmdline-tools/latest/bin:/Users/guilherme/Android/Sdk/platform-tools
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:~/Android/Sdk/platform-tools:/Library/Apple/usr/bin:/Users/guilherme/.zinit/polaris/bin:/Users/guilherme/bin:/usr/local/opt/node@16/bin:/Users/guilherme/Android/Sdk/emulator:/Users/guilherme/Android/Sdk/tools:/Users/guilherme/Android/Sdk/cmdline-tools/latest/bin:/Users/guilherme/Android/Sdk/platform-tools:/Users/guilherme/bin:/usr/local/opt/node@16/bin:/Users/guilherme/Android/Sdk/emulator:/Users/guilherme/Android/Sdk/tools:/Users/guilherme/Android/Sdk/cmdline-tools/latest/bin:/Users/guilherme/Android/Sdk/platform-tools
 
 Yarn version: 
   1.22.17
@@ -14,8 +14,8 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@body-parser: Request "https://registry.yarnpkg.com/@body-parser" returned a 405
-      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.22.17/libexec/lib/cli.js:67038:18)
+  Error: https://registry.yarnpkg.com/@types%2fcrypto: Not found
+      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.22.17/libexec/lib/cli.js:67029:18)
       at Request.self.callback (/usr/local/Cellar/yarn/1.22.17/libexec/lib/cli.js:140883:22)
       at Request.emit (node:events:390:28)
       at Request.<anonymous> (/usr/local/Cellar/yarn/1.22.17/libexec/lib/cli.js:141855:10)
@@ -69,6 +69,7 @@ npm manifest:
           "typescript": "^4.4.4"
       },
       "dependencies": {
+          "@types/body-parser": "^1.19.2",
           "axios": "^0.24.0",
           "bcryptjs": "^2.4.3",
           "body-parser": "^1.19.1",
@@ -178,6 +179,14 @@ Lockfile:
     version "1.19.1"
     resolved "https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.19.1.tgz#0c0174c42a7d017b818303d4b5d969cb0b75929c"
     integrity sha512-a6bTJ21vFOGIkwM0kzh9Yr89ziVxq4vYH2fQ6N8AeipEzai/cFK6aGMArIkUeIdRIgpwQa+2bXiLuUJCpSf2Cg==
+    dependencies:
+      "@types/connect" "*"
+      "@types/node" "*"
+  
+  "@types/body-parser@^1.19.2":
+    version "1.19.2"
+    resolved "https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.19.2.tgz#aea2059e28b7658639081347ac4fab3de166e6f0"
+    integrity sha512-ALYone6pm6QmwZoAgeyNksccT9Q4AWZQ6PvfwR37GT6r6FWUPguq6sUmNGSMV2Wr761oQoBxwGGa6DR5o1DC9g==
     dependencies:
       "@types/connect" "*"
       "@types/node" "*"

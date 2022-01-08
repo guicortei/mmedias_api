@@ -1,5 +1,6 @@
 import { Router } from 'express';
 import AppError from '../errors/AppError';
+import { encrypt_string, decrypt_string } from '../utils/cryptoUtils';
 
 import {
   boletim2JSON,
@@ -19,7 +20,7 @@ mmediasRoutes.get('/lo', async (request, response) => {
   if (!old_cookie) {
     cookie = await logInAndObtainCookie(RA, password);
   } else if (old_cookie.length > 0) {
-    cookie = old_cookie;
+    cookie = decrypt_string(old_cookie);
   }
 
   if (!cookie) {
@@ -41,7 +42,12 @@ mmediasRoutes.get('/lo', async (request, response) => {
   const disciplinasObject = JSON.parse(dados_usuario.disciplinas);
   delete dados_usuario.disciplinas;
   dados_usuario.disciplinas = disciplinasObject;
-  const dados_usuario_com_cookie = { cookie, ...dados_usuario };
+
+  const cookie_encrypted = encrypt_string(cookie);
+  const dados_usuario_com_cookie = {
+    cookie: cookie_encrypted,
+    ...dados_usuario,
+  };
 
   return response.json(dados_usuario_com_cookie);
 });
@@ -49,8 +55,13 @@ mmediasRoutes.get('/lo', async (request, response) => {
 mmediasRoutes.get('/pe', async (request, response) => {
   console.log('******* GET: plano de ensino');
   const { codigo, cookie, time_tolerance } = requestLoader(request);
+  const cookie_decrypted = decrypt_string(cookie);
 
-  const plano_ensino = await getPlanoEnsino(codigo, cookie, time_tolerance);
+  const plano_ensino = await getPlanoEnsino(
+    codigo,
+    cookie_decrypted,
+    time_tolerance,
+  );
 
   if (!plano_ensino) {
     throw new AppError('Não foi obter o plano de ensino');
@@ -62,6 +73,7 @@ mmediasRoutes.get('/pe', async (request, response) => {
 mmediasRoutes.get('/pes', async (request, response) => {
   console.log('******* GET: plano de ensino');
   const { codigos, cookie, time_tolerance } = requestLoader(request);
+  const cookie_decrypted = decrypt_string(cookie);
 
   const planos_ensino = [];
   const n = codigos.length;
@@ -69,7 +81,7 @@ mmediasRoutes.get('/pes', async (request, response) => {
     // eslint-disable-next-line no-await-in-loop
     const plano_ensino = await getPlanoEnsino(
       codigos[i],
-      cookie,
+      cookie_decrypted,
       time_tolerance,
     );
     planos_ensino.push(plano_ensino);
