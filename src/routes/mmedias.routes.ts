@@ -14,13 +14,14 @@ const mmediasRoutes = Router();
 
 mmediasRoutes.get('/lo', async (request, response) => {
   console.log('GET: login');
-  const { RA, password, old_cookie } = requestLoader(request);
+  const { RA, password, mmedias_cookie } = requestLoader(request);
 
   let cookie = null;
-  if (!old_cookie) {
+  if (!!mmedias_cookie && mmedias_cookie.length > 0) {
+    const cookie_pass = decrypt_string(mmedias_cookie);
+    cookie = await logInAndObtainCookie(RA, cookie_pass);
+  } else {
     cookie = await logInAndObtainCookie(RA, password);
-  } else if (old_cookie.length > 0) {
-    cookie = decrypt_string(old_cookie);
   }
 
   if (!cookie) {
@@ -44,8 +45,17 @@ mmediasRoutes.get('/lo', async (request, response) => {
   dados_usuario.disciplinas = disciplinasObject;
 
   const cookie_encrypted = encrypt_string(cookie);
+
+  let mmedias_cookie_encrypted;
+  if (!!password && password.length > 0) {
+    mmedias_cookie_encrypted = encrypt_string(password);
+  } else {
+    mmedias_cookie_encrypted = encrypt_string(decrypt_string(mmedias_cookie));
+  }
+
   const dados_usuario_com_cookie = {
     cookie: cookie_encrypted,
+    mmedias_cookie: mmedias_cookie_encrypted,
     ...dados_usuario,
   };
 
